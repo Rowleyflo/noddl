@@ -1,7 +1,7 @@
 // Service worker : garde une copie de l'application pour qu'elle marche sans réseau.
 // Stratégie « réseau d'abord » : quand le serveur répond, on rafraîchit la copie ;
 // sinon on sert la copie en cache.
-const CACHE = "kit-survie-v2";
+const CACHE = "kit-survie-v3";
 const FICHIERS = [
   "./",
   "index.html",

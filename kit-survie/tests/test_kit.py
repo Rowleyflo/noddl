@@ -31,13 +31,13 @@ class TestContenu(unittest.TestCase):
 
     def test_urgences_presentes(self):
         urgences = {f["id"] for f in self.donnees["fiches"] if f["urgence"]}
-        for attendu in ("secours-hemorragie", "secours-arret-cardiaque", "eau-purifier", "abri-nucleaire"):
+        for attendu in ("secours-hemorragie", "secours-arret-cardiaque", "eau-purifier", "abri-nucleaire", "securite-conflit"):
             self.assertIn(attendu, urgences)
 
     def test_liens_internes(self):
         """Tous les liens #/checklist/ et #/outil/ pointent vers quelque chose d'existant."""
         checklists = {c["id"] for c in self.donnees["checklists"]}
-        outils = {"javel", "autonomie", "morse", "soleil"}
+        outils = {"javel", "stocks", "autonomie", "solaire", "morse", "soleil"}
         for f in self.donnees["fiches"]:
             for cible in serveur.re.findall(r"\]\(#/checklist/([a-z0-9-]+)\)", f["contenu"]):
                 self.assertIn(cible, checklists, f["id"])
@@ -83,6 +83,11 @@ class TestRecherche(unittest.TestCase):
             "est-ce que je peux manger les châtaignes": "plantes-comestibles",
             "mon enfant s'étouffe": "secours-etouffement",
             "quand planter les pommes de terre": "potager-survie",
+            "j'ai trouvé un obus non explosé": "securite-conflit",
+            "quelle dose de paracétamol pour un enfant de 12 kg": "secours-enfant-malade",
+            "comment faire une attelle pour une jambe cassée": "secours-fractures",
+            "quelle batterie pour un panneau solaire": "energie-solaire",
+            "comment faire du pain sans four": "cuisiner-reserves",
         }
         for question, attendu in cas.items():
             self.assertEqual(self.premiere_fiche(question), attendu, question)

@@ -275,6 +275,44 @@ pre code { background: none; padding: 0; }
 .flash { position: fixed; inset: 0; z-index: 100; background: #000; }
 .flash.allume { background: #fff; }
 
+/* --- Stocks --- */
+
+.stocks { list-style: none; padding: 0; margin: 1rem 0; display: grid; gap: 8px; }
+.stock {
+  display: grid; grid-template-columns: 1fr auto auto; grid-template-areas: "info qte suppr" "etat etat etat";
+  gap: 6px 10px; align-items: center; padding: 10px 12px;
+  background: var(--surface); border: 1px solid var(--bordure); border-radius: var(--rayon);
+}
+.stock-info { grid-area: info; display: flex; flex-direction: column; min-width: 0; }
+.stock-info strong { overflow-wrap: anywhere; }
+.stock-info small { color: var(--texte-doux); }
+.stock-qte { grid-area: qte; display: flex; align-items: center; gap: 6px; color: var(--texte-doux); font-size: 0.9rem; }
+.stock-qte input {
+  width: 4.5em; padding: 6px 8px; font: inherit; text-align: right; font-variant-numeric: tabular-nums;
+  border: 1px solid var(--bordure); border-radius: 8px; background: var(--fond); color: var(--texte);
+}
+.etat { grid-area: etat; justify-self: start; font-size: 0.82rem; font-weight: 650; padding: 2px 10px; border-radius: 999px; }
+.etat-perime { background: var(--danger-fond); color: var(--danger-bord); }
+.etat-bientot { background: var(--attention-fond); color: var(--attention-bord); }
+.etat-surveiller { background: var(--info-fond); color: var(--info-bord); }
+.etat-ok, .etat-sans { background: var(--surface-2); color: var(--texte-doux); }
+.bouton-suppr {
+  grid-area: suppr; min-width: 40px; min-height: 40px; border: 1px solid var(--bordure); border-radius: 8px;
+  background: transparent; color: var(--texte-doux); font: inherit; cursor: pointer;
+}
+.bouton-suppr.confirmer { background: var(--urgence); color: var(--urgence-texte); border-color: var(--urgence); padding: 0 10px; }
+.stock-vide { color: var(--texte-doux); padding: 12px; border: 1px dashed var(--bordure); border-radius: var(--rayon); }
+label.bouton { display: inline-flex; align-items: center; }
+
+.table-appareils input {
+  width: 100%; min-width: 3.2em; padding: 6px 8px; font: inherit; font-variant-numeric: tabular-nums;
+  border: 1px solid var(--bordure); border-radius: 8px; background: var(--fond); color: var(--texte);
+}
+.table-appareils th, .table-appareils td { padding: 8px 6px; }
+.table-appareils td:first-child { min-width: 7em; }
+
+.fiche-imprimable { margin-top: 2.5rem; padding-top: 1rem; border-top: 3px solid var(--urgence); }
+
 /* --- Assistant --- */
 
 .discussion { display: flex; flex-direction: column; gap: 10px; margin: 1rem 0; }
@@ -290,4 +328,6 @@ pre code { background: none; padding: 0; }
 @media print {
   .entete, .navigation, .sommaire, .boutons { display: none; }
   body { padding: 0; background: #fff; color: #000; }
+  .fiche-imprimable { break-before: page; border-top: 0; margin-top: 0; }
+  .encadre, .tableau, table { break-inside: avoid; }
 }

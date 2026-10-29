@@ -7,7 +7,9 @@ alerte nucléaire, radio, hygiène, orientation. Sur **PC** et **téléphone**.
 - **Fiches pratiques** vérifiées, avec boutons d'urgence en page d'accueil
 - **Recherche** instantanée, insensible aux accents
 - **Checklists** cochables (sac d'évacuation, autonomie 72 h, alerte nucléaire…)
-- **Outils** : dose de Javel, autonomie eau/nourriture, Morse (son et lumière), soleil et lune
+- **Stocks** : inventaire des réserves, dates de péremption, jours d'autonomie, sauvegarde à partager
+- **Outils** : dose de Javel, autonomie eau/nourriture, dimensionnement solaire, Morse (son et lumière), soleil et lune
+- **Fiches d'urgence à imprimer**, une par page
 - **Assistant IA local** (optionnel) qui répond **uniquement à partir des fiches** et cite ses sources
 
 Spécification et feuille de route : [docs/SPEC.md](docs/SPEC.md).

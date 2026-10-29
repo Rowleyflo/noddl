@@ -4,7 +4,7 @@ categorie: abri
 resume: Coupure de chauffage en hiver : une pièce à vivre, isoler, s'habiller, dormir au chaud, sans risque d'intoxication.
 mots_cles: [froid, hiver, chauffage, coupure, isolation, couverture, sac de couchage, bouillotte, abri]
 risque: moyen
-ordre: 3
+ordre: 5
 ---
 
 ## Concentrer la chaleur dans une seule pièce

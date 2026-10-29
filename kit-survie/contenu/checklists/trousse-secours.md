@@ -1,7 +1,7 @@
 ---
 titre: Trousse de secours de la maison
 resume: Le matériel pour soigner sans pharmacie ni médecin pendant plusieurs semaines. Demandez conseil à votre médecin et votre pharmacien.
-ordre: 5
+ordre: 6
 ---
 
 ## Hémorragies et plaies

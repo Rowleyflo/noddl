@@ -1,7 +1,7 @@
 ---
 titre: Coupure longue (électricité, eau, réseaux)
 resume: Les premières heures d'une panne générale, puis l'organisation des jours suivants.
-ordre: 4
+ordre: 5
 ---
 
 ## Dans la première heure

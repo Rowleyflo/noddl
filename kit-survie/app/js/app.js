@@ -61,10 +61,14 @@
 
   // --- Vues ----------------------------------------------------------------
 
-  function vueAccueil() {
+  function fichesUrgence() {
     // FICHES est déjà triée par catégorie puis ordre ; on remet les catégories dans l'ordre d'affichage.
     const rang = Object.fromEntries(DONNEES.categories.map((c, i) => [c.id, i]));
-    const urgences = FICHES.filter((f) => f.urgence).sort((a, b) => rang[a.categorie] - rang[b.categorie] || a.ordre - b.ordre);
+    return FICHES.filter((f) => f.urgence).sort((a, b) => rang[a.categorie] - rang[b.categorie] || a.ordre - b.ordre);
+  }
+
+  function vueAccueil() {
+    const urgences = fichesUrgence();
     const comptes = {};
     FICHES.forEach((f) => (comptes[f.categorie] = (comptes[f.categorie] || 0) + 1));
     page(`
@@ -88,8 +92,10 @@
       <h2 class="titre-section">Accès rapide</h2>
       <div class="liste-cartes">
         <a class="carte" href="#/checklists"><span class="carte-titre">☑ Checklists</span><span class="carte-texte">Sac d'évacuation, kit 72 h, alerte nucléaire, coupure longue…</span></a>
-        <a class="carte" href="#/outils"><span class="carte-titre">⚙ Outils</span><span class="carte-texte">Dose de Javel, autonomie des stocks, Morse, soleil et lune.</span></a>
+        <a class="carte" href="#/outil/stocks"><span class="carte-titre">🗃 Mes stocks</span><span class="carte-texte">Inventaire des réserves, dates de péremption, jours d'autonomie.</span></a>
+        <a class="carte" href="#/outils"><span class="carte-titre">⚙ Outils</span><span class="carte-texte">Dose de Javel, autonomie, solaire, Morse, soleil et lune.</span></a>
         <a class="carte" href="#/assistant"><span class="carte-titre">✦ Assistant</span><span class="carte-texte">Poser une question : l'IA locale répond à partir des fiches.</span></a>
+        <a class="carte" href="#/imprimer"><span class="carte-titre">🖨 Fiches d'urgence sur papier</span><span class="carte-texte">Toutes les fiches d'urgence sur une page, à imprimer et ranger avec la trousse.</span></a>
         <a class="carte" href="#/a-propos"><span class="carte-titre">ⓘ Installer & partager</span><span class="carte-texte">Mettre le kit sur un téléphone, une clé USB, le PC d'un proche.</span></a>
       </div>
       <p class="avertissement">Ce kit ne remplace pas une formation aux premiers secours ni les consignes des autorités.
@@ -419,6 +425,23 @@
       (PSC1 en France) et l'avis d'un professionnel quand il est joignable. Les auteurs ne peuvent être tenus responsables de l'usage du contenu.</p>`);
   }
 
+  function vueImprimer() {
+    const urgences = fichesUrgence();
+    page(`
+      <h1>Fiches d'urgence sur papier</h1>
+      <p class="chapeau">${urgences.length} fiches, une par page à l'impression. Une copie papier ne tombe jamais en panne de batterie :
+      rangez-la avec la trousse de secours et dans chaque sac d'évacuation.</p>
+      ${window.KIT_INTEGRE ? "" : `<div class="boutons"><button type="button" class="bouton" id="imprimer">Imprimer</button></div>`}
+      ${urgences.map((f) => `
+        <article class="contenu fiche-imprimable">
+          <h1>${echapper(f.titre)}</h1>
+          <p class="chapeau">${echapper(f.resume)}</p>
+          ${rendre(f.contenu)}
+        </article>`).join("")}`);
+    const bouton = vue.querySelector("#imprimer");
+    if (bouton) bouton.addEventListener("click", () => window.print());
+  }
+
   function vueIntrouvable() {
     page(`<h1>Page introuvable</h1><p><a href="#/">Retour à l'accueil</a></p>`);
   }
@@ -443,6 +466,7 @@
       outil: () => vueOutil(param),
       assistant: vueAssistant,
       "a-propos": vueAPropos,
+      imprimer: vueImprimer,
       recherche: () => vueRecherche(chemin.slice("recherche/".length)),
     };
     (routes[section] || vueIntrouvable)();

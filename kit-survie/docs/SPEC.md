@@ -85,9 +85,10 @@ Contenu Markdown. Encadrés : `> [!DANGER]`, `> [!ATTENTION]`, `> [!ASTUCE]`, `>
 |---|---|
 | **V0** (cette version) | Bibliothèque de fiches, recherche, boutons d'urgence, checklists cochables, outils (javel, autonomie eau/nourriture, Morse, soleil), assistant IA avec citations, fichier unique pour téléphone |
 | **V0.2** | Android : installation Termux en une commande, application installable (PWA hors ligne), IA sur téléphone |
+| **V0.3** | 37 fiches (fractures, enfant malade, médicaments, gibier, cuisine des réserves, élevage, solaire, abri extérieur, zone de conflit), module Stocks, outil Solaire, fiches d'urgence imprimables, checklist abri |
 | **V1** | Carte hors ligne Europe (MapLibre + PMTiles, un seul fichier), points utiles (eau potable, sources, pharmacies, hôpitaux, abris), position GPS |
 | **V2** | Intégration des fichiers ZIM Kiwix dans la recherche et l'assistant, recherche sémantique (embeddings) |
-| **V3** | Stocks (inventaire, péremptions, jours d'autonomie), calendrier potager par zone climatique, scripts d'installation (clé USB, PC) |
+| **V3** | Calendrier potager par zone climatique, scripts d'installation (clé USB, PC) |
 | **V4** | Itinéraires hors ligne, synchronisation entre appareils du groupe (Wi-Fi local), journal de bord |
 
 ## 5. Contenu
