@@ -1,0 +1,4 @@
+# Généré par construire.py
+app/data/
+dist/
+__pycache__/

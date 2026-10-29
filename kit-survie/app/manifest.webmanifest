@@ -1,0 +1,13 @@
+{
+  "name": "Kit de survie",
+  "short_name": "Survie",
+  "description": "Kit de survie hors ligne : premiers secours, eau, nourriture, outils.",
+  "lang": "fr",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1b1f1a",
+  "theme_color": "#1b1f1a",
+  "icons": [
+    { "src": "icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
