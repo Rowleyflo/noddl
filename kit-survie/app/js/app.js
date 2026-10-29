@@ -33,6 +33,20 @@
 
   let nettoyage = null; // fonction appelée en quittant une vue (ex. arrêter le Morse)
 
+  // Mode intégré (aperçu dans une page hôte qui n'accepte pas les ancres « #/… ») :
+  // la navigation reste interne, sans toucher à l'adresse.
+  const PAR_ANCRE = !window.KIT_INTEGRE;
+  let cheminInterne = "";
+  const cheminActuel = () => decodeURIComponent(PAR_ANCRE ? location.hash.replace(/^#\/?/, "") : cheminInterne);
+  function naviguer(chemin) {
+    if (PAR_ANCRE) {
+      location.hash = "#/" + chemin;
+    } else {
+      cheminInterne = chemin;
+      router();
+    }
+  }
+
   // --- Utilitaires ---------------------------------------------------------
 
   const carteFiche = (f) => `
@@ -203,8 +217,21 @@
       memoire.ecrire(cle, etat);
       maj();
     }));
-    vue.querySelector("#reinit").addEventListener("click", () => {
-      if (!confirm("Décocher tous les éléments de cette liste ?")) return;
+    // Confirmation par un second clic (les boîtes confirm() sont bloquées dans certains navigateurs intégrés).
+    const reinit = vue.querySelector("#reinit");
+    let minuteurReinit = null;
+    reinit.addEventListener("click", () => {
+      if (!minuteurReinit) {
+        reinit.textContent = "Confirmer : tout décocher";
+        minuteurReinit = setTimeout(() => {
+          reinit.textContent = "Tout décocher";
+          minuteurReinit = null;
+        }, 4000);
+        return;
+      }
+      clearTimeout(minuteurReinit);
+      minuteurReinit = null;
+      reinit.textContent = "Tout décocher";
       cases.forEach((x) => (x.checked = false));
       memoire.ecrire(cle, {});
       maj();
@@ -262,6 +289,23 @@
     const fil = vue.querySelector("#fil-discussion");
 
     if (!AVEC_SERVEUR) {
+      if (window.KIT_INTEGRE && !conversation.length) {
+        fil.innerHTML = `<p class="note">Exemple de conversation, pour l'aperçu :</p>` + [
+          { role: "user", content: "Comment purifier l'eau d'un ruisseau ?" },
+          {
+            role: "assistant",
+            content: "1. **Clarifiez** l'eau : laissez reposer, puis filtrez à travers un tissu propre plié [1].\n" +
+              "2. **Faites bouillir 1 minute** à gros bouillons : c'est la méthode la plus sûre [2].\n" +
+              "3. Sans combustible : **4 gouttes de Javel à 2,6 %** par litre, attendez 30 minutes. " +
+              "L'eau doit garder une légère odeur de chlore [3].",
+            sources: [
+              { fiche: "eau-purifier", titre: "Purifier l'eau", section: "Étape 1 : clarifier" },
+              { fiche: "eau-purifier", titre: "Purifier l'eau", section: "Étape 2 : désinfecter › Ébullition" },
+              { fiche: "eau-purifier", titre: "Purifier l'eau", section: "Étape 2 : désinfecter › Eau de Javel" },
+            ],
+          },
+        ].map(bulle).join("");
+      }
       etatLlm.innerHTML = `L'assistant a besoin du serveur du kit sur un PC (<code>python3 serveur.py</code>) et d'un modèle d'IA local.
         Ici, utilisez la <a href="#/">bibliothèque</a> et la recherche, qui marchent sans serveur.`;
       formulaire.hidden = true;
@@ -380,7 +424,7 @@
       nettoyage();
       nettoyage = null;
     }
-    const chemin = decodeURIComponent(location.hash.replace(/^#\/?/, ""));
+    const chemin = cheminActuel();
     const [section, param, ancre] = chemin.split("/");
     const routes = {
       "": vueAccueil,
@@ -409,20 +453,31 @@
   document.getElementById("form-recherche").addEventListener("submit", (e) => {
     e.preventDefault();
     const q = document.getElementById("champ-recherche").value.trim();
-    if (q) location.hash = "#/recherche/" + encodeURIComponent(q);
+    if (q) naviguer("recherche/" + encodeURIComponent(q));
   });
 
-  // Thème : automatique (système) → sombre → clair
+  if (!PAR_ANCRE) {
+    document.addEventListener("click", (e) => {
+      const lien = e.target.closest('a[href^="#/"]');
+      if (!lien) return;
+      e.preventDefault();
+      naviguer(lien.getAttribute("href").slice(2));
+    });
+  }
+
+  // Thème : automatique (système) → sombre → clair. Sans choix mémorisé, on ne touche pas
+  // à l'attribut : une page hôte peut l'avoir posé.
   const racine = document.documentElement;
   const appliquerTheme = (t) => (t ? racine.setAttribute("data-theme", t) : racine.removeAttribute("data-theme"));
-  appliquerTheme(memoire.lire("theme", null));
+  const themeMemorise = memoire.lire("theme", null);
+  if (themeMemorise) appliquerTheme(themeMemorise);
   document.getElementById("bouton-theme").addEventListener("click", () => {
     const suivant = { null: "dark", dark: "light", light: null }[String(memoire.lire("theme", null))];
     memoire.ecrire("theme", suivant);
     appliquerTheme(suivant);
   });
 
-  window.addEventListener("hashchange", router);
+  if (PAR_ANCRE) window.addEventListener("hashchange", router);
   router();
 
   if (AVEC_SERVEUR && "serviceWorker" in navigator && window.isSecureContext) {
