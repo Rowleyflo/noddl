@@ -26,7 +26,7 @@
 | **A. Serveur PC** | PC avec Python 3 (+ Ollama pour l'IA) | Tout : fiches, checklists, outils, assistant IA, (V1) carte |
 | **A'. Téléphone via le PC** | Téléphone sur le même Wi-Fi que le PC (ou le partage de connexion du téléphone) | Tout, tant que le PC est allumé |
 | **B. Fichier unique** | N'importe quel appareil avec un navigateur | Fiches, checklists, outils — **sans PC, sans installation** (`dist/kit-survie.html`) |
-| **C. Téléphone autonome complet** (V3) | Android + Termux | Tout, y compris l'IA (petit modèle) |
+| **C. Téléphone autonome complet** | Android + Termux ([guide](ANDROID.md)) | Tout, y compris l'IA (petit modèle) ; installable comme application, qui s'ouvre ensuite hors ligne ; sert aussi le kit aux autres téléphones via le partage de connexion |
 
 Compléments recommandés sur téléphone, en attendant les modules équivalents :
 
@@ -84,9 +84,10 @@ Contenu Markdown. Encadrés : `> [!DANGER]`, `> [!ATTENTION]`, `> [!ASTUCE]`, `>
 | Version | Contenu |
 |---|---|
 | **V0** (cette version) | Bibliothèque de fiches, recherche, boutons d'urgence, checklists cochables, outils (javel, autonomie eau/nourriture, Morse, soleil), assistant IA avec citations, fichier unique pour téléphone |
+| **V0.2** | Android : installation Termux en une commande, application installable (PWA hors ligne), IA sur téléphone |
 | **V1** | Carte hors ligne Europe (MapLibre + PMTiles, un seul fichier), points utiles (eau potable, sources, pharmacies, hôpitaux, abris), position GPS |
 | **V2** | Intégration des fichiers ZIM Kiwix dans la recherche et l'assistant, recherche sémantique (embeddings) |
-| **V3** | Stocks (inventaire, péremptions, jours d'autonomie), calendrier potager par zone climatique, mode Android/Termux, scripts d'installation (clé USB, PC) |
+| **V3** | Stocks (inventaire, péremptions, jours d'autonomie), calendrier potager par zone climatique, scripts d'installation (clé USB, PC) |
 | **V4** | Itinéraires hors ligne, synchronisation entre appareils du groupe (Wi-Fi local), journal de bord |
 
 ## 5. Contenu

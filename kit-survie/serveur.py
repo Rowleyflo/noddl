@@ -224,6 +224,14 @@ def construire_messages(question, historique, extraits):
     return messages
 
 
+def adapter_au_modele(messages, modele):
+    """Qwen3 « réfléchit » longuement avant de répondre : interminable sur un téléphone.
+    Le mot-clé /no_think de Qwen3 désactive cette phase."""
+    if modele.lower().startswith("qwen3"):
+        messages[-1] = {**messages[-1], "content": messages[-1]["content"] + " /no_think"}
+    return messages
+
+
 # --- HTTP -------------------------------------------------------------------
 
 
@@ -302,7 +310,8 @@ class Gestionnaire(SimpleHTTPRequestHandler):
                     "modele": modele,
                 }
             )
-            for texte in self.llm.discuter(construire_messages(question, historique, extraits), modele):
+            messages = adapter_au_modele(construire_messages(question, historique, extraits), modele)
+            for texte in self.llm.discuter(messages, modele):
                 evenement({"type": "texte", "texte": texte})
             evenement({"type": "fin"})
         except (urllib.error.URLError, OSError, ValueError) as erreur:
@@ -323,6 +332,21 @@ def adresses_locales():
     try:
         adresses.update(socket.gethostbyname_ex(socket.gethostname())[2])
     except OSError:
+        pass
+    # Interfaces réseau une à une (Linux, Android) : trouve l'adresse du partage de connexion
+    # même sans accès à Internet, quand la méthode ci-dessus n'a pas de route.
+    try:
+        import fcntl
+        import struct
+
+        with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
+            for _, nom in socket.if_nameindex():
+                try:
+                    brut = fcntl.ioctl(s.fileno(), 0x8915, struct.pack("256s", nom[:15].encode()))  # SIOCGIFADDR
+                    adresses.add(socket.inet_ntoa(brut[20:24]))
+                except OSError:
+                    pass
+    except (ImportError, OSError, AttributeError):
         pass
     return sorted(a for a in adresses if not a.startswith("127."))
 

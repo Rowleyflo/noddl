@@ -179,6 +179,8 @@ main:focus { outline: none; }
   color: var(--texte); text-decoration: none;
 }
 .carte-titre { font-weight: 650; }
+.carte-installer { display: none; width: 100%; margin-top: 12px; font: inherit; text-align: left; cursor: pointer; border-color: var(--accent); }
+body.installable .carte-installer { display: flex; }
 .carte-titre small { color: var(--texte-doux); font-weight: 400; margin-left: 4px; }
 .carte-texte { color: var(--texte-doux); font-size: 0.93rem; }
 .pastille {

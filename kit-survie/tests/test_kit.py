@@ -110,6 +110,14 @@ class TestFiltrePensee(unittest.TestCase):
         self.assertEqual(self.filtrer(["a <", "t"]), "a <t")
 
 
+class TestAdaptation(unittest.TestCase):
+    def test_qwen3_sans_reflexion(self):
+        messages = [{"role": "system", "content": "s"}, {"role": "user", "content": "q"}]
+        self.assertTrue(serveur.adapter_au_modele(list(messages), "qwen3:4b")[-1]["content"].endswith("/no_think"))
+        self.assertEqual(serveur.adapter_au_modele(list(messages), "gemma3:4b")[-1]["content"], "q")
+        self.assertEqual(messages[-1]["content"], "q")  # l'original n'est pas modifié
+
+
 class FauxLLM(BaseHTTPRequestHandler):
     """Imite l'API compatible OpenAI d'Ollama, et garde la dernière requête reçue."""
 

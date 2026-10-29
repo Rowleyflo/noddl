@@ -69,6 +69,10 @@
     FICHES.forEach((f) => (comptes[f.categorie] = (comptes[f.categorie] || 0) + 1));
     page(`
       <h1 class="visuellement-cache">Accueil</h1>
+      <button type="button" class="carte carte-installer" id="installer">
+        <span class="carte-titre">📲 Installer l'application</span>
+        <span class="carte-texte">Ajoute le kit à l'écran d'accueil : il s'ouvrira ensuite même sans réseau ni Termux.</span>
+      </button>
       <h2 class="titre-section">Urgence</h2>
       <div class="grille-urgence">
         ${urgences.map((f) => `<a class="bouton-urgence" href="#/fiche/${f.id}">${echapper(f.titre)}</a>`).join("")}
@@ -391,6 +395,8 @@
       <h1>Installer & partager</h1>
       <h2>Sur un téléphone</h2>
       <ol>
+        <li><strong>Android, kit complet</strong> : avec l'application Termux, tout tourne dans le téléphone, assistant compris
+          (guide <code>docs/ANDROID.md</code>). Ensuite, depuis l'accueil, « Installer l'application » : elle s'ouvre même sans réseau.</li>
         <li><strong>Fichier unique (le plus simple, marche partout)</strong> : enregistrez
           ${AVEC_SERVEUR ? `<a href="telecharger" download>kit-survie.html</a>` : "<code>dist/kit-survie.html</code>"}
           sur le téléphone et ouvrez-le avec le navigateur. Fiches, checklists et outils fonctionnent sans réseau ni PC.</li>
@@ -475,6 +481,22 @@
     const suivant = { null: "dark", dark: "light", light: null }[String(memoire.lire("theme", null))];
     memoire.ecrire("theme", suivant);
     appliquerTheme(suivant);
+  });
+
+  // Installation comme application (Chrome Android) : Chrome signale quand c'est possible.
+  let invitationInstallation = null;
+  window.addEventListener("beforeinstallprompt", (e) => {
+    e.preventDefault();
+    invitationInstallation = e;
+    document.body.classList.add("installable");
+  });
+  window.addEventListener("appinstalled", () => document.body.classList.remove("installable"));
+  document.addEventListener("click", async (e) => {
+    if (!e.target.closest("#installer") || !invitationInstallation) return;
+    invitationInstallation.prompt();
+    await invitationInstallation.userChoice;
+    invitationInstallation = null;
+    document.body.classList.remove("installable");
   });
 
   if (PAR_ANCRE) window.addEventListener("hashchange", router);

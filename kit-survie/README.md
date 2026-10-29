@@ -41,7 +41,18 @@ connexion du téléphone et connectez-y le PC, cela crée un réseau local même
 
 Autres moteurs compatibles OpenAI (llama.cpp, LM Studio) : `--llm http://localhost:8080/v1`.
 
-## Sur un téléphone, sans PC
+## Sur Android : le kit complet dans le téléphone
+
+Avec Termux, tout tourne sur le téléphone, assistant IA compris, et le kit s'installe comme
+une application qui s'ouvre ensuite même hors ligne. Dans Termux :
+
+```bash
+pkg install -y curl && curl -fsSL https://raw.githubusercontent.com/Rowleyflo/noddl/claude/epic-pasteur-ccvrus/kit-survie/android/installer.sh | bash
+```
+
+Guide pas à pas (installation, partage avec la famille, Organic Maps) : [docs/ANDROID.md](docs/ANDROID.md).
+
+## Sur n'importe quel téléphone, sans PC
 
 ```bash
 python3 construire.py
