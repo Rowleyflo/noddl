@@ -46,7 +46,7 @@ Préparé le 30/10/2026. C'est la **première étape** de la refonte SEO. Le coc
 
 ## 2. Positionnement sémantique proposé
 
-> **Elios Evasion, agence de séminaires et de team building insolites en pleine nature dans le Sud de la France : Montpellier et la vallée de l'Hérault, Avignon et la Provence, la montagne catalane (Font-Romeu, Pyrénées-Orientales).**
+> **Elios Evasion, agence de séminaires et de team building insolites en pleine nature dans le Sud de la France : Montpellier et la vallée de l'Hérault, Avignon et la Provence, les Pyrénées, au départ de sa base de Font-Romeu.**
 
 - **Entité de marque** : « Elios Evasion », agence réceptive basée à Font-Romeu.
 - **Thèmes-piliers** : *team building*, *séminaire d'entreprise*, *nature / au vert / insolite*, *clé en main / sur-mesure*.
@@ -94,13 +94,31 @@ Légende : **P1** = priorité haute (piliers), **P2** = pages offres, **P3** = b
 
 > **Pourquoi renommer** `/seminaire-a-la-journee/` : l'URL ne dit ni « Avignon » ni « team building », et « séminaire à la journée » correspond aussi à l'offre de Montpellier. Le renommage implique 5 redirections 301 (le pilier et ses 4 fiches). Le risque est faible si le trafic actuel est modeste. **À confirmer** avec la Search Console si elle existe.
 
-### 3.3 Silo Montagne / Pyrénées catalanes (le cœur historique, et le moins concurrencé)
+### 3.3 Silo Pyrénées (le cœur historique, et le moins concurrencé), élargi à tout le massif le 30/10/2026
 
 | Page | Statut | Requête principale | Requêtes secondaires | Signal | Prio |
 |---|---|---|---|---|---|
-| **Pilier** `/sejours/sejour-team-building-pyrenees/` | ✏️ | **séminaire montagne** | séminaire entreprise montagne, séminaire à la montagne, team building Pyrénées-Orientales, séminaire Pyrénées-Orientales, séminaire Font-Romeu, séminaire Pyrénées, team building montagne, séminaire résidentiel, séminaire 2 jours, séminaire au vert | ●●● | **P1** |
+| **Pilier** `/sejours/sejour-team-building-pyrenees/` | ✏️ | **séminaire Pyrénées** + **séminaire montagne** | team building Pyrénées, séminaire entreprise montagne, séminaire à la montagne, team building Pyrénées-Orientales, séminaire Pyrénées-Orientales, séminaire Font-Romeu, séminaire Pyrénées, team building montagne, séminaire résidentiel, séminaire 2 jours, séminaire au vert | ●●● | **P1** |
 | 🆕 `/sejours/seminaire-ski-hiver/` | 🆕 | **séminaire ski entreprise** | séminaire ski, team building neige, team building hiver, chiens de traîneau entreprise, raquettes, biathlon, séminaire station de ski Pyrénées | ●● | P2 |
 | 🆕 `/sejours/seminaire-montagne-ete/` | 🆕 | **team building montagne été** | team building randonnée, team building VTT, team building canyoning, team building escalade, séminaire nature | ● | P2 |
+
+
+**Ouverture à toutes les Pyrénées (décision du 30/10/2026).** Elios intervient sur l'ensemble du massif, pas seulement dans les Pyrénées-Orientales. Les suggestions Google confirment l'intérêt :
+- **requêtes génériques** : « séminaire Pyrénées », « team building Pyrénées » ;
+- **requêtes par zone** : « séminaire Hautes-Pyrénées », « séminaire Saint-Lary », « séminaire pic du Midi », « séminaire Pays basque », « team building Pays basque », « team building Ariège ».
+
+Le pilier vise donc **« séminaire Pyrénées »** (son URL contient déjà « pyrenees »), avec Font-Romeu comme base et exemple. Les pages hiver et été couvrent tout le massif.
+
+**Pages par massif (🆕, à créer seulement là où Elios a de vrais partenaires et de vraies photos)** :
+
+| Page possible | Requête principale | Signal |
+|---|---|---|
+| `/sejours/seminaire-pyrenees-catalanes/` (Font-Romeu, Les Angles, Cerdagne, Capcir) | séminaire Pyrénées-Orientales / Font-Romeu | ●● |
+| `/sejours/seminaire-hautes-pyrenees/` (Saint-Lary, pic du Midi, Cauterets…) | séminaire Hautes-Pyrénées | ●● |
+| `/sejours/seminaire-ariege/` (Ax-les-Thermes…) | team building Ariège | ● |
+| `/sejours/seminaire-pays-basque-bearn/` | séminaire Pays basque / team building Pays basque | ●● |
+
+**Marché émetteur à viser dans les textes : Toulouse.** « Team building Toulouse » est très demandé (activité, idée, insolite, agence…), et les Pyrénées sont le « séminaire au vert » naturel des entreprises toulousaines. On ne crée pas de page Toulouse, puisqu'Elios n'y a pas d'activité, mais les pages Pyrénées mentionnent les temps de trajet : Font-Romeu est à environ 2 h 45 de Toulouse et 1 h 30 de Perpignan. Un article de blog « Séminaire au vert près de Toulouse : 5 destinations dans les Pyrénées » est ajouté au plan.
 
 Contenu « destination » de ce silo, pour le blog et le GEO : Font-Romeu, Cerdagne, Capcir, lac des Bouillouses, pic Carlit, citadelle de Mont-Louis (Vauban, UNESCO), vallée d'Eyne, Train jaune. Ces requêtes touristiques (« Font-Romeu activités été/hiver », « activités Cerdagne Capcir ») amènent surtout du grand public. Elles ne sont utiles que pour **asseoir l'expertise locale**, pas comme pages commerciales.
 

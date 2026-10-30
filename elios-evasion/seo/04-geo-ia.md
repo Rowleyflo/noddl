@@ -27,7 +27,7 @@ Le SEO classique (fichiers 01 à 03) en est donc la base. Ce fichier ajoute ce q
 Les IA reprennent des **phrases autonomes, factuelles et chiffrées**. Sur chaque page commerciale :
 
 1. **Un paragraphe-réponse en tête** (40 à 60 mots) qui dit qui, quoi, où, pour qui et combien. Exemple pour la grotte :
-   > « Elios Evasion organise des journées de team building dans la grotte de Clamouse, dans la vallée de l'Hérault, à 45 minutes de Montpellier [À CONFIRMER]. Au programme : matinée de travail en salle équipée, déjeuner, puis escape game et parcours aventure sous terre. Accessible à tous, toute l'année, à partir de 100 € HT par personne. »
+   > « Elios Evasion organise des journées de team building dans la grotte de Clamouse, dans la vallée de l'Hérault, à environ 40 minutes de Montpellier. Au programme : matinée de travail en salle équipée, déjeuner, puis escape game et parcours aventure sous terre. Accessible à tous, toute l'année, à partir de 100 € HT par personne. »
 2. **Un encadré « L'essentiel »** en liste : lieu, durée, saison, effectif min/max, prix dès, inclus / non inclus, accessibilité. La page actuelle a cette structure, mais avec des champs vides (« Lieu de rdv », « Durée ») : **ils seront tous remplis**.
 3. **Le programme horaire** (déjà présent), conservé en liste HTML.
 4. **Une FAQ de 4 à 6 questions** en fin de page. Les questions reprennent la façon dont les gens interrogent les IA : « Combien de personnes minimum ? », « Que se passe-t-il s'il pleut ? », « Faut-il savoir nager ? », « Peut-on venir en train depuis Paris ? », « Le transport est-il organisé ? ».
@@ -48,7 +48,7 @@ Un moteur IA recommande plus volontiers une entreprise que **plusieurs sources i
 
 - **Nom, adresse, téléphone et description identiques partout** : Google Business Profile, Tourisme Pyrénées-Orientales, Aleou, Funbooker, Naboo, PagesJaunes, LinkedIn.
 - **Description type à réutiliser telle quelle** (environ 300 caractères) :
-  > « Elios Evasion est une agence basée à Font-Romeu qui organise des séminaires d'entreprise et des team buildings clés en main en pleine nature : journées près de Montpellier et d'Avignon, séjours à la montagne dans les Pyrénées catalanes. »
+  > « Elios Evasion est une agence basée à Font-Romeu qui organise des séminaires d'entreprise et des team buildings clés en main en pleine nature : journées près de Montpellier et d'Avignon, séjours à la montagne dans les Pyrénées. »
 - **Avis Google** : viser 20 avis en 6 mois. Envoyer le lien de la fiche à chaque client après l'événement, et répondre à tous les avis. Les IA citent souvent les notes et les extraits d'avis.
 - **Réseaux sociaux** : remplacer les liens génériques du footer par les vraies pages **[URL À FOURNIR]**. Elles iront dans le `sameAs` du balisage.
 - **Contenus tiers** : un article invité ou une interview dans la presse locale ou sur un média RH. Ce sont des sources que les IA citent.
@@ -81,9 +81,10 @@ Un moteur IA recommande plus volontiers une entreprise que **plusieurs sources i
   "areaServed": [
     {"@type": "AdministrativeArea", "name": "Hérault"},
     {"@type": "AdministrativeArea", "name": "Vaucluse"},
-    {"@type": "AdministrativeArea", "name": "Pyrénées-Orientales"}
+    {"@type": "AdministrativeArea", "name": "Pyrénées-Orientales"},
+    {"@type": "Place", "name": "Pyrénées"}
   ],
-  "knowsAbout": ["team building", "séminaire d'entreprise", "incentive", "séminaire à la montagne"],
+  "knowsAbout": ["team building", "séminaire d'entreprise", "incentive", "séminaire à la montagne", "séminaire Pyrénées"],
   "sameAs": [
     "https://www.tourisme-pyreneesorientales.com/sorganiser/elios-evasion-font-romeu-odeillo-via-fr-5744365/",
     "[Google Business Profile]",
@@ -143,6 +144,6 @@ Le texte des questions et réponses doit être **identique au texte visible** su
 ## 5. Mesurer
 
 Il n'y a pas d'outil officiel pour suivre les citations par les IA. Le protocole simple est le suivant :
-- **Panel de 15 questions** : une fois par mois, poser les mêmes 15 questions à ChatGPT (avec recherche), Perplexity et Gemini. Exemples : « idée team building insolite Montpellier », « séminaire montagne Pyrénées », « team building œnologie Avignon », « agence séminaire Font-Romeu ». Noter si Elios est cité, et avec quelle source.
+- **Panel de 15 questions** : une fois par mois, poser les mêmes 15 questions à ChatGPT (avec recherche), Perplexity et Gemini. Exemples : « idée team building insolite Montpellier », « séminaire Pyrénées », « team building œnologie Avignon », « agence séminaire Font-Romeu ». Noter si Elios est cité, et avec quelle source.
 - **Analytics** : suivre le trafic référent venant de `chatgpt.com`, `perplexity.ai`, `gemini.google.com` et `copilot.microsoft.com` (rapport « Acquisition » de GA4 ou de Matomo).
 - **Search Console et Bing Webmaster Tools** : suivre les impressions sur les requêtes du fichier 01. Bing affiche aussi les données de Copilot.

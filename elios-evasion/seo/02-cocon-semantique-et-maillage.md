@@ -30,9 +30,10 @@ Accueil  /                                         ← « agence team building �
 │   │   ├── murder party    …/journee-murder-party/
 │   │   └── quiz            …/journee-quizz-room-avignon/
 │   │
-│   ├── PILIER Montagne  /sejours/sejour-team-building-pyrenees/   ← « séminaire montagne »
+│   ├── PILIER Pyrénées  /sejours/sejour-team-building-pyrenees/   ← « séminaire Pyrénées » + « séminaire montagne »
 │   │   ├── 🆕 hiver        /sejours/seminaire-ski-hiver/
-│   │   └── 🆕 été          /sejours/seminaire-montagne-ete/
+│   │   ├── 🆕 été          /sejours/seminaire-montagne-ete/
+│   │   └── (option) pages massifs : Pyrénées catalanes, Hautes-Pyrénées, Ariège, Pays basque/Béarn — voir 01 § 3.3
 │   │
 │   └── Sur-mesure  /journee-sur-mesure/           ← « team building sur mesure »
 │
@@ -51,7 +52,7 @@ Accueil  /                                         ← « agence team building �
 Nos séminaires ▾                 À propos   Blog   Contact   [Bouton : Demander un devis]
   ├ Team building Montpellier
   ├ Team building Avignon
-  ├ Séminaire à la montagne
+  ├ Séminaire dans les Pyrénées
   │   ├ Hiver : ski et neige
   │   └ Été : rando, VTT, canyoning
   └ Journée sur mesure

@@ -15,7 +15,7 @@ Préparé le 30/10/2026. Les sources de données sont :
 - **Robots** :
   - `index, follow` sur toutes les pages listées ci-dessous ;
   - `noindex, follow` sur les mentions légales, la politique de confidentialité, les CGV, la page de remerciement des formulaires, les résultats de recherche interne, les archives de date et de tag, et les pages de pièces jointes (option Yoast « rediriger les URL des médias »).
-- **Prix** : on affiche le prix « dès » le plus bas de chaque fiche. L'escape game de Montpellier affiche aujourd'hui 130 € et 140 € sur la même page : j'ai retenu **130 €**. **[À CONFIRMER]**
+- **Prix** : on affiche le prix « dès » de chaque fiche. L'escape game de Montpellier, qui affichait 130 € et 140 €, est fixé à **140 €** (validé le 30/10/2026).
 
 ## 2. Métadonnées page par page
 
@@ -24,7 +24,7 @@ Préparé le 30/10/2026. Les sources de données sont :
 #### `/` ✏️
 - **Mot-clé principal** : agence team building
 - **Title** (57 car.) : Agence team building et séminaires nature | Elios Evasion
-- **Meta description** (140 car.) : Séminaires et team building insolites en pleine nature : Montpellier, Avignon et montagne catalane. Journées clés en main dès 100 € HT/pers.
+- **Meta description** (153 car.) : Séminaires et team building insolites en pleine nature : Montpellier, Avignon et Pyrénées. Journées clés en main dès 100 € HT par personne, devis rapide.
 - **H1** : Agence de team building et de séminaires en pleine nature dans le Sud
 
 #### `/sejours/` ✏️
@@ -51,7 +51,7 @@ Préparé le 30/10/2026. Les sources de données sont :
 #### `/seminaire-montpellier/journee-escape-game-nature-montpellier/` ✏️
 - **Mot-clé principal** : escape game team building Montpellier
 - **Title** (53 car.) : Escape game team building près de Montpellier | Elios
-- **Meta description** (153 car.) : Escape game en plein air au Domaine de Capion, dans la vallée de l'Hérault : énigmes en équipe, matinée de travail et déjeuner inclus. Dès 130 € HT/pers.
+- **Meta description** (153 car.) : Escape game en plein air au Domaine de Capion, dans la vallée de l'Hérault : énigmes en équipe, matinée de travail et déjeuner inclus. Dès 140 € HT/pers.
 - **H1** : Escape game team building en pleine nature près de Montpellier
 
 #### `/seminaire-montpellier/journee-murder-party-montpellier/` ✏️
@@ -127,22 +127,22 @@ Préparé le 30/10/2026. Les sources de données sont :
 ### Montagne
 
 #### `/sejours/sejour-team-building-pyrenees/` ✏️
-- **Mot-clé principal** : séminaire montagne
-- **Title** (57 car.) : Séminaire à la montagne dans les Pyrénées | Elios Evasion
-- **Meta description** (149 car.) : Séminaire de 2 jours ou plus à Font-Romeu : hébergement, repas, salle et activités été comme hiver dans les Pyrénées catalanes, organisés sur mesure.
-- **H1** : Séminaire d'entreprise à la montagne dans les Pyrénées catalanes
+- **Mot-clé principal** : séminaire Pyrénées (+ séminaire montagne)
+- **Title** (57 car.) : Séminaire dans les Pyrénées : team building à la montagne
+- **Meta description** (152 car.) : Séminaire de 2 jours ou plus dans les Pyrénées : hébergement, salle, repas et activités été comme hiver, organisés sur mesure par une agence pyrénéenne.
+- **H1** : Séminaire d'entreprise et team building dans les Pyrénées
 
 #### `/sejours/seminaire-ski-hiver/` 🆕
 - **Mot-clé principal** : séminaire ski entreprise
-- **Title** (57 car.) : Séminaire ski et team building neige à Font-Romeu | Elios
-- **Meta description** (154 car.) : Ski, raquettes, chiens de traîneau, biathlon, dîner d'altitude : un séminaire d'hiver clé en main à Font-Romeu, dans les Pyrénées-Orientales ensoleillées.
-- **H1** : Séminaire ski et team building neige à Font-Romeu
+- **Title** (54 car.) : Séminaire ski et team building neige dans les Pyrénées
+- **Meta description** (142 car.) : Ski, raquettes, chiens de traîneau, biathlon, dîner d'altitude : un séminaire d'hiver clé en main dans les stations ensoleillées des Pyrénées.
+- **H1** : Séminaire ski et team building neige dans les Pyrénées
 
 #### `/sejours/seminaire-montagne-ete/` 🆕
 - **Mot-clé principal** : team building montagne été
-- **Title** (53 car.) : Team building montagne en été : rando, VTT, canyoning
-- **Meta description** (146 car.) : Randonnée au Carlit, VTT, canyoning, escalade : un séminaire d'été en pleine nature dans les Pyrénées catalanes, hébergement et activités compris.
-- **H1** : Team building à la montagne en été dans les Pyrénées catalanes
+- **Title** (55 car.) : Team building montagne en été dans les Pyrénées | Elios
+- **Meta description** (151 car.) : Randonnée, VTT, canyoning, escalade, spéléologie : un séminaire d'été en pleine nature dans les Pyrénées, hébergement et activités organisés pour vous.
+- **H1** : Team building à la montagne en été dans les Pyrénées
 
 
 ### Transverse
@@ -194,6 +194,7 @@ Préparé le 30/10/2026. Les sources de données sont :
 | `/blog/murder-party-entreprise/` | Murder party en entreprise : comment ça marche ? | murder party entreprise |
 | `/blog/escape-game-team-building/` | Escape game en team building : pourquoi ça fonctionne | escape game team building |
 | `/blog/idees-sortie-cse/` | Sortie CSE : idées et règles à connaître | idée sortie CSE |
+| `/blog/seminaire-au-vert-toulouse-pyrenees/` | Séminaire au vert près de Toulouse : 5 destinations dans les Pyrénées | séminaire au vert Toulouse / séminaire Pyrénées |
 
 ## 3. Images : noms de fichiers et attributs alt
 
@@ -209,7 +210,7 @@ Le détail est dans `donnees/images-alt.csv`. Pour chacune des 97 photos, on y t
 7. **Légende et crédit** pour les photos issues de Wikimedia Commons (citadelle de Mont-Louis, vue du Carlit), comme l'exige leur licence.
 
 ### Problèmes relevés sur les photos actuelles
-- ⚠️ **L'image du slider d'accueil n'est pas dans les Pyrénées catalanes.** Elle montre le lac de Gaube et le pic du Midi d'Ossau, dans les Pyrénées-Atlantiques. À remplacer en priorité : c'est la première image vue par les visiteurs, et une erreur visible pour qui connaît la région.
+- ⚠️ **L'image du slider d'accueil montre le pic du Midi d'Ossau (Pyrénées-Atlantiques)**, alors que le site parlait uniquement des Pyrénées catalanes. Avec l'ouverture à toutes les Pyrénées, elle peut servir sur le pilier Pyrénées avec un alt exact, mais pas pour illustrer Font-Romeu.
 - **Page À propos, section « À découvrir »** : les photos ne correspondent pas aux lieux annoncés.
   - « Vallée d'Eyne » est illustrée par une église d'Andorre ;
   - « Lac des Bouillouses », par une bogue de châtaigne ;

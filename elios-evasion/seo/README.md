@@ -11,7 +11,9 @@
 | `donnees/images-alt.csv` | 97 photos : nouveau nom, alt, pages, remarques | |
 | `donnees/redirections.csv` | 19 redirections 301 | |
 | `donnees/suggestions-google.csv` | 515 suggestions Google filtrées | |
+| `donnees/infos-pratiques.md` | Lieux, communes, temps de trajet, capacités | trajets calculés ; capacités en partie provisoires |
+| `donnees/elements-provisoires.md` | Chiffres clés et témoignages **fictifs** en attendant les vrais | ⚠️ à remplacer avant mise en ligne |
 
-**Convention :** `[À CONFIRMER]` / `[À FOURNIR]` = information qu'Elios doit donner avant publication.
+**Convention :** `[À CONFIRMER]` / `[À FOURNIR]` = information qu'Elios doit donner avant publication. `[PROVISOIRE]` = contenu imaginé, interdit en ligne tel quel.
 
 **Étape suivante :** rédaction des contenus, page par page, en commençant par les 3 piliers et l'accueil.
