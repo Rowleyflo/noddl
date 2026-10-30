@@ -21,7 +21,7 @@
 
 [gap height="16px"]
 
-[button text="Demander un devis" color="white" size="small" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+[button padding="10px 28px" text="Demander un devis" color="white" size="small" icon="icon-angle-right" icon_pos="right" link="/contact/"]
 
 [button text="Appeler le 06 79 02 93 32" color="white" size="small" style="underline" link="tel:+33679029332"]
 

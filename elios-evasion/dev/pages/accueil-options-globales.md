@@ -92,3 +92,15 @@ Fichier : `../imports/flatsome-import-3-css-perso.txt`.
 | `nav_spacing` | `xlarge` (choix vérifiés : `xsmall`, `small`, `''`, `medium`, `large`, `xlarge`) |
 
 ⚠️ L'import **remplace** tout le champ *Custom CSS* : pour modifier ce CSS plus tard, on édite les fichiers de `../css/` et on régénère l'import. On n'écrit pas directement dans l'admin.
+
+## Import n° 4 : ajustements du 30/10 (retours du client)
+
+Fichier : `../imports/flatsome-import-4-ajustements.txt`. Il **remplace** le n° 3 : il reprend ses clés et en ajoute une.
+
+| Clé | Valeur | Retour du client |
+|---|---|---|
+| `html_custom_css` | `../css/flatsome-custom-css.css` : liens plus espacés dans la pilule (18 px), bouton décollé du bord droit (marge de 14 px, fond de pilule de 10 px à droite), bouton du header plus haut (`padding: 4px 24px`), **plus d'ombre sur le header collé** (`.header-wrapper.stuck{box-shadow:none}`), encarts à 16 px inchangés | « Plus d'espace entre les liens », « bouton trop collé à droite », « bandeau blanc au scroll » |
+| `header_bg` | `rgba(255,255,255,0)` | Le fond du header collé vient de cette option (`.header-bg-color`) : transparent, il n'y a plus de bandeau. La pilule garde son propre fond |
+| `header_button_1_size`, `nav_spacing` | `small`, `xlarge` | inchangés |
+
+Note : avec un header transparent, sur les autres pages (header non transparent), le logo couleur et la pilule flottent au-dessus du contenu. C'est le comportement voulu par la maquette.

@@ -7,7 +7,7 @@
 1. **Pas de CSS personnalisé.**
    - Rien dans « CSS personnalisé » (Flatsome > Avancé ou Customizer > CSS additionnel), rien dans un `style.css` de thème enfant, aucun attribut `style=""` écrit à la main dans les contenus, aucune classe inventée.
    - Seuls sont permis les **options Flatsome** (Customizer / theme mods) et les **attributs natifs des éléments UX Builder** (shortcodes).
-   - **Exceptions autorisées par le client le 30/10/2026**, et elles seules : le **menu pilule** du header (`css/menu-pilule.css`) et les **encarts arrondis à 16 px**, c'est-à-dire toute image ou tout banner placé dans une colonne (`css/encarts-arrondis.css`, sans classe). Les deux sont posés ensemble dans *Flatsome > Avancé > Custom CSS* par l'import n° 3 (`css/flatsome-custom-css.css`).
+   - **Exceptions autorisées par le client le 30/10/2026**, et elles seules : le **menu pilule** du header, y compris la suppression de l'ombre du header collé (`css/menu-pilule.css`) et les **encarts arrondis à 16 px**, c'est-à-dire toute image ou tout banner placé dans une colonne (`css/encarts-arrondis.css`, sans classe). Les deux sont posés ensemble dans *Flatsome > Avancé > Custom CSS* par l'import n° 3 (`css/flatsome-custom-css.css`).
    - Les classes utilitaires **fournies par Flatsome** (ex. `form-flat`, `flex-row`, `button primary` dans les modèles Contact Form 7 du thème) sont permises, car elles font partie du thème.
 2. **Zéro hallucination.**
    - On n'utilise que ce qui est **vérifié dans le code source de Flatsome 3.20.12** (voir `reference-flatsome/`) ou dans la documentation officielle.
@@ -78,7 +78,7 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 - **Couleurs** : seulement `primary`, `secondary`, `success`, `alert`, ainsi que le blanc et le noir. Dans les attributs (`color`, `bg_color`…), on utilise les **mots-clés de couleur Flatsome** (`primary`, `secondary`, `white`…) quand l'attribut les accepte, sinon le code hexadécimal **exact** de la palette.
 - **Espacements de section** : une seule échelle (ex. `padding="60px"` pour une section standard, `padding="30px"` pour une section serrée), notée ici une fois choisie.
 - **Titres de section** : toujours le même élément `[title]`, avec le même `style`.
-- **Boutons** (3 variantes, imposées par la maquette) : plein `color="primary"` ; blanc sur photo `color="white"` ; lien souligné `style="underline"`. Les deux derniers ont une flèche (`icon="icon-angle-right" icon_pos="right"`). Aucune autre variante.
+- **Boutons** (3 variantes, imposées par la maquette ; boutons pleins avec `padding="10px 28px"`, retour du client) : plein `color="primary"` ; blanc sur photo `color="white"` ; lien souligné `style="underline"`. Les deux derniers ont une flèche (`icon="icon-angle-right" icon_pos="right"`). Aucune autre variante.
 - **Bandeau de haut de page** : le même `[ux_banner]` (hauteur, superposition, alignement) sur toutes les pages d'un même type.
 
 ## 5. Gabarits de page (correspondance avec les commentaires `<!-- [BLOC] -->` de la rédaction)
@@ -184,3 +184,4 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | 30/10/2026 | Hero refait selon la hiérarchie de la maquette (H1, sous-titre, un seul bouton, bloc calé à gauche et en bas), avec la photo fournie par le client (média 47, pic du Midi d'Ossau). |
 | 30/10/2026 | Client : images uniquement en `[ux_image]` (ou `[ux_banner]` avec texte), encarts arrondis à 16 px ; CSS perso autorisé pour le **menu pilule uniquement** (import n° 3). Point bloquant : `[ux_image]` n'a pas d'attribut d'arrondi, et `bg_radius` de colonne ne découpe pas son contenu (pas d'`overflow:hidden` dans le thème). Question posée au client. |
 | 30/10/2026 | Client : CSS global sans classe pour arrondir à 16 px les images et banners placés dans une colonne (`.col-inner .img-inner, .col-inner .banner`). Photos reconstruites en `[ux_image]` et `[ux_banner]` (CTA compris). Import n° 3 = menu pilule + encarts + bouton du header `small` + `nav_spacing` `xlarge`. |
+| 30/10/2026 | Retours du client : boutons pleins plus hauts (`padding="10px 28px"`), pilule plus aérée, témoignages entièrement centrés (`pos="center"`) avec flèches à l'extérieur (`nav_pos="outside"`), header collé sans bandeau (`header_bg` transparent et ombre supprimée). Import n° 4. |

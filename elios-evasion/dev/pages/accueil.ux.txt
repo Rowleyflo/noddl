@@ -11,7 +11,7 @@
 
 [gap height="16px"]
 
-[button text="Demander un devis" color="white" size="small" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+[button padding="10px 28px" text="Demander un devis" color="white" size="small" icon="icon-angle-right" icon_pos="right" link="/contact/"]
 
 [/text_box]
 

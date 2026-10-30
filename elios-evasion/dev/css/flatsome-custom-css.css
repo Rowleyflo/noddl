@@ -1,4 +1,8 @@
-/* Menu pilule (header, ordinateur uniquement). Autorisé par le client le 30/10/2026. */
+/* Menu pilule et header collant sans bandeau. Autorisé par le client le 30/10/2026. */
+/* Header collé : pas d'ombre (le fond est rendu transparent par l'option header_bg). */
+.header-wrapper.stuck {
+  box-shadow: none;
+}
 @media (min-width: 850px) {
   .header-main .flex-right .header-nav-main {
     background-color: rgba(255, 255, 255, 0.85);
@@ -6,7 +10,13 @@
     backdrop-filter: blur(12px);
     border-radius: 99px;
     box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
-    padding: 8px 8px 8px 24px;
+    padding: 8px 10px 8px 28px;
+  }
+  .header-main .flex-right .header-nav-main > li {
+    margin: 0 18px 0 0;
+  }
+  .header-main .flex-right .header-nav-main > li.header-button-1 {
+    margin: 0 0 0 14px;
   }
   .header-main .flex-right .header-nav-main > li > a,
   .header-main .flex-right .header-nav-main > li > a:hover {
@@ -14,6 +24,9 @@
   }
   .header-main .flex-right .header-nav-main > li > a:before {
     background-color: #000000;
+  }
+  .header-main .flex-right .header-nav-main .header-button .button {
+    padding: 4px 24px;
   }
 }
 /* Encarts arrondis à 16 px : toute image ou tout banner placé dans une colonne. Autorisé par le client le 30/10/2026. */
