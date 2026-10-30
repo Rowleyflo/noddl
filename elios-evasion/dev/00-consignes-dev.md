@@ -41,6 +41,7 @@
 | Sections réutilisables (CTA, réassurance, témoignages…) | Type de contenu **`blocks`** (`show_in_rest => true`), shortcode **`[block id=""]`** | `inc/post-types/post-type-ux-blocks.php` |
 | Footer | Option **`footer_block`** : choisit un Bloc UX comme footer | `inc/admin/options/footer/options-footer.php` |
 | Pleine largeur sans titre automatique | Modèle de page **`page-blank.php`** (« Page - Full Width ») ; pour un header transparent à texte clair : **`page-transparent-header-light.php`** | en-tête du fichier |
+| Photos à coins arrondis, avec dégradé | `[ux_image_box image_radius="2"]` (en **%** ; `.box-image` découpe la photo) ; `style="shade"` = dégradé sombre en bas ; `style="overlay"` + `image_overlay` = voile uni et texte centré (`text_pos="middle"`). **Ne pas** utiliser `[ux_banner]` pour une photo arrondie : son `border_radius` n'arrondit que la bordure décorative | `inc/shortcodes/ux_image_box.php`, `commons/border.php` |
 | Séparateurs de section (vagues, courbes) | Attributs de `[section]` : `divider_top`, `divider_top_height`, `divider_top_fill`, `divider_top_flip`, `divider`, `divider_height`, `divider_fill`, `divider_flip`, `divider_to_front`. Les formes disponibles sont dans `inc/builder/shortcodes/values/dividers.php` | `inc/shortcodes/sections.php` |
 | Fil d'Ariane | Option **`wpseo_breadcrumb`** : remplace le fil d'Ariane Flatsome par celui de Yoast | `inc/integrations/wp-seo/class-wp-seo.php` |
 | Formulaires | Contact Form 7, avec les **préréglages Flatsome** (onglet « Presets » dans l'éditeur de CF7 : classes `form-flat`, `flex-row`, `button primary`) | `inc/integrations/contact-form-7/contact-form-7.php` |
@@ -68,7 +69,7 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | Taille de base | `type_size` | 100 (16 px) ; échelle : 5 / 3 / 2 / 0,75 rem (`[ux_text font_size]`), voir `pages/accueil-design-releve.md` § 2.2 |
 | Largeur du contenu | `site_width` | 1152 |
 | Arrondi des boutons | `button_radius` | `99px` (pilule) |
-| Espacement des sections | attribut `padding` de `[section]` | 128px (64px sur mobile) |
+| Espacement des sections | attribut `padding` de `[section]` | **160px** (80px sur mobile) ; 48px entre titre et contenu, 96px entre les rangées d'offres, 48px entre photo et texte (retour du client : « plus aéré ») |
 | Logo | `site_logo` | logo actuel `LOGO_Elios-Evasion_wht.png` ; version foncée à fournir |
 
 **Règles d'usage dans les pages** (conséquences de la directive 3) :
@@ -177,3 +178,4 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | 30/10/2026 | Réponses du client sur le relevé : monochrome conservé pour l'instant (charte plus tard), police **Geist**, sections hors maquette ajoutées dans son style, sur-titres rédigés (ajoutés dans `accueil.md`), footer mixte. Points 🔶 vérifiés dans le zip Flatsome. Accueil sur le modèle `page-transparent-header-light.php`. Relevé v2 en attente de validation. |
 | 30/10/2026 | Export Flatsome du client sauvegardé (`sauvegardes/`). Import n° 1 (design global, 33 clés vérifiées) généré dans `imports/`, procédure dans `pages/accueil-options-globales.md`. Modern Image Formats : **AVIF**, à contrôler sur le 1ᵉʳ envoi. Logo **blanc uniquement** : header collant désactivé, nom en texte dans le footer, en attendant une version foncée. |
 | 30/10/2026 | Accueil construit en brouillon sur la préprod : page 8, blocs 21-23, menu 3, médias 12-20, logos 38-39. Envoi des JPEG d'origine à cause de l'AVIF. Logo couleur à texte foncé trouvé sur l'ancien site, d'où le header collant réactivé (import n° 2, à coller par le client). Écarts et captures dans `pages/accueil-ecarts.md`. |
+| 30/10/2026 | Retour du client sur le brouillon : plus d'air et photos à coins arrondis. Toutes les photos passent en `[ux_image_box]` arrondis (dégradé `shade` sur les cartes), et l'espacement passe à 160 px. Import n° 2 appliqué par le client. |

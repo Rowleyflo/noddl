@@ -1,4 +1,4 @@
-[section padding="128px" padding__sm="64px"]
+[section padding="160px" padding__sm="80px"]
 
 [row h_align="center"]
 

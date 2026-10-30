@@ -11,7 +11,7 @@
 | Menu « Menu principal », emplacements `primary` et `primary_mobile` | 3 | `../../redaction/transverse/footer-et-menu.md` § 1 |
 | Médias | 12-20, 38, 39 | `accueil-medias.md` |
 | Options globales : import n° 1 (appliqué par le client) | — | `../imports/flatsome-import-1-design-global.txt` |
-| Options globales : import n° 2 (**à coller par le client**) | — | `../imports/flatsome-import-2-logo-header-footer.txt` |
+| Options globales : import n° 2 (appliqué par le client) | — | `../imports/flatsome-import-2-logo-header-footer.txt` |
 
 **Contrôle automatique** : `python3 ../outils/verifier-shortcodes.py accueil.ux.txt blocs/*.ux.txt` → OK. Tous les shortcodes et attributs sont dans la référence. Aucun `class` ni `style`, aucun repère `[À CONFIRMER]`, `[PROVISOIRE]` ou `[À FOURNIR]`.
 
@@ -25,7 +25,7 @@
 - classes du modèle transparent ajoutées comme le fait le thème (`structure-pages.php` l. 66-67 et `structure-header.php` l. 1130-1137) ;
 - footer remplacé par le bloc 23.
 
-Le logo et la barre du bas des captures sont **ceux d'avant l'import n° 2** : logo Flatsome par défaut, « Copyright Flatsome Theme ».
+Captures du 30/10 (2ᵉ version) : faites **après** l'import n° 2 (logo blanc dans le header, footer en bloc, barre du bas Elios).
 
 ## Écarts restants avec la maquette, et leur cause
 
@@ -34,8 +34,9 @@ Le logo et la barre du bas des captures sont **ceux d'avant l'import n° 2** : l
 | **Photos un peu floues** (hero, CTA, cartes) | Originaux de 600 × 600 px seulement | Originaux HD à fournir par le client |
 | **H1 du hero à environ 64 px** au lieu de 80 px, sur 3 lignes | Notre H1 SEO fait 70 caractères, contre 35 dans la maquette : à 80 px, il passait sur 5 lignes et sortait du bandeau | Garder 64 px, ou raccourcir le H1 (décision SEO) |
 | **H1 en graisse normale**, pas fine (light) | La graisse fine passe par la classe `alt-font` ; on ne met pas de classe à la main | Accepter, ou autoriser explicitement la classe `alt-font` fournie par Flatsome |
-| **Coins droits** sur les photos (maquette : environ 16 px) | `bg_radius` de la colonne arrondit le fond, pas la photo ; `border_radius` du bandeau n'arrondit que la bordure décorative | Essayer `[ux_image_box image_radius]` (en %, donc légèrement elliptique) ; sinon, accepter |
-| **Pas de dégradé** en bas des cartes | `bg_overlay` n'accepte qu'une couleur unie | Voile uni à 30 % (en place) |
+| ~~Coins droits~~ **Corrigé le 30/10** : toutes les photos (cartes, offres, « Pourquoi », CTA) sont des `[ux_image_box image_radius]` arrondis | `.box-image` a `overflow:hidden`, donc la photo est découpée. `image_radius` est **en %** (unité forcée dans `ux_image_box.php` l. 80) : 2 à 3 % selon le format, soit environ 17 px en largeur. Sur les formats très allongés, les coins sont à peine elliptiques | — |
+| ~~Pas de dégradé~~ **Corrigé** : cartes destinations en `style="shade"` | Le style `shade` de `[ux_image_box]` ajoute un dégradé sombre natif en bas de la photo | — |
+| **Espacements** (retour du client : « plus aéré ») **corrigés** | Sections à 160 px (80 px sur mobile), 48 px entre le titre d'une section et son contenu, 96 px entre les offres, marge de 48 px entre photo et texte (`padding` de colonne), `[gap]` entre les éléments | — |
 | **Pas d'espacement des lettres** sur les capitales | Pas d'option `letter-spacing` | Accepter |
 | **Menu sans pilule blanche translucide** | Pas d'option native | Menu en texte blanc sur la photo (en place) |
 | **Intro « L'agence » à 32 px** au lieu de 48 px | 60 mots, contre 45 dans la maquette : à 48 px, le bloc devenait très long | Garder, ou monter à 40 px |
