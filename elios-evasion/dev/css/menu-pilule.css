@@ -1,4 +1,4 @@
-/* Menu pilule (header, ordinateur uniquement). Seul CSS perso autorisé par le client le 30/10/2026. */
+/* Menu pilule (header, ordinateur uniquement). Autorisé par le client le 30/10/2026. */
 @media (min-width: 850px) {
   .header-main .flex-right .header-nav-main {
     background-color: rgba(255, 255, 255, 0.85);
