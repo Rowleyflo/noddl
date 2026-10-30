@@ -1,0 +1,32 @@
+[section padding="128px" padding__sm="64px"]
+
+[row h_align="center"]
+
+[col span="8" span__sm="12" align="center"]
+
+[ux_text font_size="0.75" text_align="center"]
+<p>[AVIS CLIENTS]</p>
+[/ux_text]
+[ux_text font_size="1.25" text_align="center"]
+<h2>Ce qu'en disent nos clients</h2>
+[/ux_text]
+
+[ux_slider nav_style="circle" nav_color="dark" bullets="false" auto_slide="false"]
+
+[testimonial name="Céline A." company="SÉJOUR DANS LES PYRÉNÉES" stars="0" font_size="xlarge" text_align="center"]
+<p>« Un séjour merveilleux dans un espace de liberté. Réactif, à l'écoute et avec de belles surprises, Elios Evasion nous a permis de vivre une expérience unique ! À refaire vite ! »</p>
+[/testimonial]
+[testimonial name="Samantha C." company="SÉJOUR DANS LES PYRÉNÉES" stars="0" font_size="xlarge" text_align="center"]
+<p>« Des paysages splendides dans une nature sauvage, l'hébergement était parfait, super convivial, on a tous adoré ! Un grand merci pour le rhum 😉 »</p>
+[/testimonial]
+[testimonial name="Mathieu M." company="SÉJOUR DANS LES PYRÉNÉES" stars="0" font_size="xlarge" text_align="center"]
+<p>« Un séjour hors du temps et de l'agitation, un bain de nature ! Eliott, notre guide, était génial : il nous a fait découvrir ses montagnes avec une passion communicative. À refaire ! »</p>
+[/testimonial]
+
+[/ux_slider]
+
+[/col]
+
+[/row]
+
+[/section]

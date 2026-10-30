@@ -1,0 +1,44 @@
+[section bg_color="#F9F9F9" padding="120px" padding__sm="64px"]
+
+[row]
+
+[col span="5" span__sm="12"]
+
+[logo img="38" height="90" padding="0px" link="/" title="Elios Evasion"]
+<p>Agence réceptive basée à Font-Romeu, Elios Evasion organise des séminaires d'entreprise et des team buildings clés en main en pleine nature : près de Montpellier, près d'Avignon et dans les Pyrénées.</p>
+
+[/col]
+[col span="3" span__sm="12"]
+
+[ux_text font_size="0.75"]
+<p><strong>CONTACT</strong></p>
+[/ux_text]
+<p>66120 Font-Romeu-Odeillo-Via<br />
+<a href="tel:+33679029332">06 79 02 93 32</a></p>
+
+[/col]
+[col span="2" span__sm="6"]
+
+[ux_text font_size="0.75"]
+<p><strong>DESTINATIONS</strong></p>
+[/ux_text]
+<p><a href="/seminaire-montpellier/">Team building Montpellier</a><br />
+<a href="/seminaire-avignon/">Team building Avignon</a><br />
+<a href="/sejours/seminaire-ski-hiver/">Séminaire montagne en hiver</a><br />
+<a href="/sejours/seminaire-montagne-ete/">Séminaire montagne en été</a><br />
+<a href="/journee-sur-mesure/">Journée sur mesure</a></p>
+
+[/col]
+[col span="2" span__sm="6"]
+
+[ux_text font_size="0.75"]
+<p><strong>RESSOURCES</strong></p>
+[/ux_text]
+<p><a href="/faq/">Questions fréquentes et prix</a><br />
+<a href="/blog/">Le blog</a></p>
+
+[/col]
+
+[/row]
+
+[/section]

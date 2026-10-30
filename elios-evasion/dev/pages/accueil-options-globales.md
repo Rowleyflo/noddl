@@ -42,16 +42,35 @@ Fichier : `../imports/flatsome-import-1-design-global.txt`.
 - `site_logo` : sera réglé une fois le logo envoyé dans la médiathèque ;
 - `footer_block`, `footer_1` et `footer_2` : import n° 2, après la création du Bloc UX « Footer ».
 
-### Choix imposés par le logo (blanc uniquement pour l'instant)
+### Choix imposés par le logo (blanc uniquement) : remplacés par l'import n° 2
+
+Le site actuel a une version couleur du logo, avec le texte foncé (`LOGO_Elios-Evasion.png`). L'import n° 2 réactive donc le header collant et règle les deux logos. La note ci-dessous ne vaut que pour l'import n° 1.
 
 - **Header collant désactivé** (`header_sticky` 0). Une fois collant, le header aurait un fond blanc et le logo blanc y deviendrait invisible. On le réactivera dès qu'une version foncée du logo sera fournie (`header_sticky` 1, `header_height_sticky` 70, `site_logo` foncé et `site_logo_dark` blanc).
 - **Footer** : le fond est clair (`#F9F9F9`), donc le logo est remplacé par le nom « ELIOS EVASION » en texte Geist light, comme le logo texte de la maquette.
 - ⚠️ **Hors périmètre, à noter** : les autres pages, qui n'ont pas de header transparent, auront un header blanc avec un logo blanc invisible tant qu'il n'y a pas de logo foncé.
 
+## Import n° 2 : logos, header collant, footer
+
+Fichier : `../imports/flatsome-import-2-logo-header-footer.txt`, 9 clés vérifiées dans la référence. Les formats sont vérifiés dans le code :
+- `site_logo` et `site_logo_dark` sont enregistrés en **ID** (`'save_as' => 'id'`, `options-header-logo.php`) ;
+- `footer_block` attend le **slug** du bloc (`flatsome_customizer_blocks()`, `options-helpers.php` l. 14-25) ;
+- quand un footer en bloc est actif, la barre du bas (`footer-absolute.php`) reste affichée (`structure-footer.php` l. 51-70).
+
+| Clé | Valeur | Pourquoi |
+|---|---|---|
+| `site_logo` | 38 (logo couleur, texte foncé) | Header collant à fond blanc |
+| `site_logo_dark` | 39 (logo blanc) | Header transparent de l'accueil |
+| `header_sticky` / `header_height_sticky` | 1 / 70 | Header collant (possible grâce au logo couleur trouvé sur l'ancien site) |
+| `bottombar_sticky` | 0 | Par défaut à 1, il gardait le header collant même avec `header_sticky` à 0 (`structure-header.php` l. 1006-1009) |
+| `footer_block` | `footer` | Bloc UX 23 |
+| `footer_bottom_color` / `footer_bottom_text` | `#F9F9F9` / `light` (`light` = texte foncé) | Barre du bas dans le prolongement du footer |
+| `footer_left_text` | © année automatique, ELIOS EVASION, liens légaux | Remplace « Copyright © Flatsome Theme » |
+
 ## Médias : Modern Image Formats réglé sur AVIF
 
-- Le client indique que la sortie est **AVIF**. On garde notre procédure : conversion locale en WebP avec les noms de `images-alt.csv`, puis envoi.
-- On ne sait pas encore ce que l'extension fait d'un fichier **WebP** envoyé avec ce réglage (elle peut ajouter des versions AVIF). On le vérifie sur **la première photo envoyée**, en lisant `media_details` dans la réponse de l'API, avant d'envoyer les 8 autres. S'il y a une double conversion, on le signale.
+- Le client indique que la sortie est **AVIF**.
+- Test fait le 30/10/2026 : un WebP envoyé est reconverti en AVIF (double compression, fichier plus lourd). On envoie donc les JPEG d'origine renommés. Détails dans `accueil-medias.md`.
 
 ## Procédure pour le client
 

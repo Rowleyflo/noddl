@@ -1,0 +1,31 @@
+[section padding="64px" padding__sm="32px"]
+
+[row]
+
+[col span="12" bg_radius="16"]
+
+[ux_banner height="500px" height__sm="560px" bg="20" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%"]
+
+[text_box width="70" width__sm="90" position_x="50" position_y="50" text_align="center" text_color="light"]
+
+[ux_text font_size="0.75"]
+<p>[VOTRE PROJET]</p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2"]
+<h2>Parlons de votre prochain séminaire</h2>
+[/ux_text]
+<p>Donnez-nous vos dates, votre effectif et la destination qui vous tente : nous revenons vers vous avec une proposition et un devis.</p>
+
+[button text="Demander un devis" color="white" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="white" style="underline" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]
