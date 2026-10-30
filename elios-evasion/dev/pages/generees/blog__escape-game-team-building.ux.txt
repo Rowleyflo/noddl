@@ -190,27 +190,27 @@
 
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:escape-game-carnet-indices-equipe.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="186" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:escape-game-coffres-sablier.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="187" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:escape-game-tablette-enigme.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="190" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:escape-game-grotte-lumiere-uv.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="189" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:escape-game-grotte-cadenas-indices.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="188" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 

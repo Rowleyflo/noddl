@@ -157,7 +157,7 @@
 [/col]
 [col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
-[ux_image id="MEDIA:escape-game-carnet-indices-equipe.webp" image_size="original" height="66%" image_hover="zoom-long"]
+[ux_image id="186" image_size="original" height="66%" image_hover="zoom-long"]
 
 [gap height="16px"]
 

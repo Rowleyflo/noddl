@@ -1,4 +1,4 @@
-[ux_banner height="680px" height__sm="560px" bg="MEDIA:escape-game-coffres-sablier.webp" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+[ux_banner height="680px" height__sm="560px" bg="187" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
 
 [text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
 
@@ -10,7 +10,7 @@
 [/ux_text]
 [gap height="16px"]
 
-[button text="Pré-réserver cette journée" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+[button text="Pré-réserver cette journée" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="#devis"]
 
 [/text_box]
 
@@ -136,7 +136,7 @@
 
 [col span="6" span__sm="12" animate="fadeInUp"]
 
-[ux_image id="MEDIA:escape-game-carnet-indices-equipe.webp" image_size="original" height="75%"]
+[ux_image id="186" image_size="original" height="75%"]
 
 [/col]
 [col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
@@ -182,7 +182,7 @@
 [/col]
 [col span="6" span__sm="12" animate="fadeInUp" force_first="small"]
 
-[ux_image id="MEDIA:domaine-capion-terrasse-chateau.webp" image_size="original" height="75%"]
+[ux_image id="184" image_size="original" height="75%"]
 
 [/col]
 
@@ -267,32 +267,32 @@
 
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:escape-game-coffres-sablier.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="187" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:escape-game-carnet-indices-equipe.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="186" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:escape-game-tablette-enigme.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="190" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:domaine-capion-terrasse-chateau.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="184" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:chateau-parc-jardin-buis.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="183" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:salon-chateau-parquet-point-de-hongrie.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="198" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 
@@ -397,7 +397,7 @@
 [/col]
 [col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
-[ux_image id="MEDIA:murder-party-cartes-indices.webp" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-murder-party-montpellier/"]
+[ux_image id="195" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-murder-party-montpellier/"]
 
 [gap height="16px"]
 
@@ -411,7 +411,7 @@
 [/col]
 [col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
-[ux_image id="MEDIA:trottinette-electrique-lac-salagou.webp" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-trotinette-tout-terrain-electrique-montpellier/"]
+[ux_image id="199" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-trotinette-tout-terrain-electrique-montpellier/"]
 
 [gap height="16px"]
 
@@ -474,34 +474,26 @@
 
 
 [/section]
-[section bg="95" bg_size="original" padding="87px"]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
 
-[row]
+[scroll_to title="Devis" link="devis" bullet="false"]
 
-[col animate="fadeInUp"]
+[row v_align="middle"]
 
-[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+[col span="5" span__sm="12" padding="0px 48px 0px 0px" padding__sm="0px" animate="fadeInUp"]
 
-[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
-
-[ux_text font_size="0.75" text_color="#3d4955"]
+[ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>&#91;VOTRE PROJET&#93;</strong></p>
 [/ux_text]
-[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 <h2>Pré-réservez votre escape game au Domaine de Capion</h2>
 [/ux_text]
-[gap height="8px"]
-
 <p>Donnez-nous vos dates, votre effectif et vos envies : nous préparons votre programme et vous adressons un devis.</p>
-[gap height="16px"]
 
-[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+[/col]
+[col span="7" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
-[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
-
-[/text_box]
-
-[/ux_banner]
+[contact-form-7 id="5"]
 
 [/col]
 

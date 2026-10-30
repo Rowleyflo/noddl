@@ -10,7 +10,7 @@
 [/ux_text]
 [gap height="16px"]
 
-[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="#devis"]
 
 [/text_box]
 
@@ -151,7 +151,7 @@
 [/col]
 [col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
-[ux_image id="MEDIA:escape-game-tablette-enigme.webp" image_size="original" height="66%" image_hover="zoom-long"]
+[ux_image id="190" image_size="original" height="66%" image_hover="zoom-long"]
 
 [gap height="16px"]
 
@@ -164,7 +164,7 @@
 [/col]
 [col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
-[ux_image id="MEDIA:murder-party-scene-de-crime.webp" image_size="original" height="66%" image_hover="zoom-long"]
+[ux_image id="196" image_size="original" height="66%" image_hover="zoom-long"]
 
 [gap height="16px"]
 
@@ -235,7 +235,7 @@
 
 [col span="6" span__sm="12" animate="fadeInUp"]
 
-[ux_image id="MEDIA:murder-party-cartes-indices.webp" image_size="original" height="75%"]
+[ux_image id="195" image_size="original" height="75%"]
 
 [/col]
 [col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]

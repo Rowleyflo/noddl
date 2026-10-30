@@ -1,4 +1,4 @@
-[ux_banner height="680px" height__sm="560px" bg="MEDIA:domaine-capion-terrasse-chateau.webp" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+[ux_banner height="680px" height__sm="560px" bg="184" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
 
 [text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
 
@@ -78,151 +78,26 @@
 [/row]
 
 [/section]
-[section bg="95" bg_size="original" padding="87px"]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
 
-[row]
+[scroll_to title="Devis" link="devis" bullet="false"]
 
-[col animate="fadeInUp"]
+[row v_align="middle"]
 
-[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+[col span="5" span__sm="12" padding="0px 48px 0px 0px" padding__sm="0px" animate="fadeInUp"]
 
-[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
-
-[ux_text font_size="0.75" text_color="#3d4955"]
+[ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>&#91;VOTRE PROJET&#93;</strong></p>
 [/ux_text]
-[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 <h2>Votre projet</h2>
 [/ux_text]
-[gap height="8px"]
-
-<table>
-<thead>
-<tr>
-<th>#</th>
-<th>Libellé affiché</th>
-<th>Nom du champ CF7</th>
-<th>Type</th>
-<th>Obligatoire</th>
-<th>Options / aide à la saisie</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Entreprise ou organisme</td>
-<td><code>entreprise</code></td>
-<td><code>text</code></td>
-<td>oui</td>
-<td>Placeholder : « Nom de votre entreprise ou de votre CSE »</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Nom et prénom</td>
-<td><code>nom</code></td>
-<td><code>text</code></td>
-<td>oui</td>
-<td>—</td>
-</tr>
-<tr>
-<td>3</td>
-<td>E-mail professionnel</td>
-<td><code>email</code></td>
-<td><code>email</code></td>
-<td>oui</td>
-<td>Validation du format par CF7</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Téléphone</td>
-<td><code>telephone</code></td>
-<td><code>tel</code></td>
-<td>oui</td>
-<td>Placeholder : « 06 12 34 56 78 »</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Nombre de participants</td>
-<td><code>effectif</code></td>
-<td><code>number</code></td>
-<td>oui</td>
-<td>min 1 ; aide : « Une estimation suffit »</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Dates souhaitées</td>
-<td><code>dates</code></td>
-<td><code>text</code></td>
-<td>non</td>
-<td>Placeholder : « ex. : mi-juin 2027, ou 12 et 13 mars » (texte libre plutôt qu'un sélecteur de date, car beaucoup de demandes sont encore flexibles)</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Destination souhaitée</td>
-<td><code>destination</code></td>
-<td><code>select</code></td>
-<td>oui</td>
-<td>Montpellier et vallée de l'Hérault · Avignon et Vaucluse · Pyrénées (séminaire de plusieurs jours) · Je ne sais pas encore</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Type de format</td>
-<td><code>format</code></td>
-<td><code>select</code></td>
-<td>oui</td>
-<td>Journée clé en main · Demi-journée · Journée sur mesure · Séminaire de plusieurs jours · Sortie CSE · Autre</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Budget indicatif par personne (HT)</td>
-<td><code>budget</code></td>
-<td><code>select</code></td>
-<td>non</td>
-<td>Moins de 120 € · De 120 à 150 € · De 150 à 200 € · Plus de 200 € · Je ne sais pas encore</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Votre message</td>
-<td><code>message</code></td>
-<td><code>textarea</code></td>
-<td>non</td>
-<td>Placeholder : « Objectif de la journée, activité qui vous tente, contraintes, besoins particuliers (accessibilité, régimes alimentaires…) »</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Consentement</td>
-<td><code>rgpd</code></td>
-<td><code>acceptance</code></td>
-<td>oui</td>
-<td>Texte ci-dessous</td>
-</tr>
-<tr>
-<td>—</td>
-<td>Page d'origine</td>
-<td><code>page_origine</code></td>
-<td><code>hidden</code></td>
-<td>—</td>
-<td>Rempli automatiquement (URL de la page précédente) pour savoir quelle offre a déclenché la demande</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Texte de la case RGPD</strong> :</p>
-<blockquote>
-<p>J'accepte qu'Elios Evasion utilise les informations saisies pour répondre à ma demande de devis. Ces données ne sont ni vendues ni cédées. En savoir plus dans notre <a href="/politique-de-confidentialite/">politique de confidentialité</a>.</p>
-</blockquote>
-<p><strong>Mention sous le bouton</strong> (petit texte) :</p>
-<p><strong>Bouton</strong> : « Envoyer ma demande de devis »</p>
-<p><strong>Message de confirmation</strong> :</p>
-<p><strong>Message d'erreur</strong> :</p>
-<blockquote>
-<p>Un ou plusieurs champs contiennent une erreur. Vérifiez-les et réessayez. Si le problème persiste, appelez-nous au 06 79 02 93 32.</p>
-</blockquote>
-[gap height="16px"]
 
 
-[/text_box]
+[/col]
+[col span="7" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
-[/ux_banner]
+[contact-form-7 id="5"]
 
 [/col]
 

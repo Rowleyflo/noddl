@@ -36,7 +36,7 @@
 [/ux_text]
 [gap height="8px"]
 
-[ux_image id="MEDIA:murder-party-cartes-indices.webp" image_size="original" height="56%"]
+[ux_image id="195" image_size="original" height="56%"]
 
 <p>La murder party emprunte au roman policier à énigme. Un scénario pose le décor : un dîner dans un manoir, une réception dans les années 1930, un héritage disputé. Puis survient le drame. La victime est découverte, et chacun a une bonne raison d'être soupçonné.</p>
 <p>Le jeu repose sur trois ingrédients :
@@ -185,17 +185,17 @@
 
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:murder-party-scene-de-crime.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="196" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:murder-party-cartes-indices.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="195" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 [col span="4" span__sm="6" animate="fadeInUp"]
 
-[ux_image id="MEDIA:murder-party-bureau-enqueteur.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+[ux_image id="194" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
 
 [/col]
 

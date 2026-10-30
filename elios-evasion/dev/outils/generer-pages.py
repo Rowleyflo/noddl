@@ -664,22 +664,9 @@ FORMULAIRE_DEVIS = """<label>Entreprise ou organisme *
 
 
 def formulaire_devis(api):
-    existants = api.req('/contact-form-7/v1/contact-forms')
-    for f in existants:
-        if f.get('title') == 'Demande de devis':
-            return f['id']
-    corps = {
-        'title': 'Demande de devis', 'locale': 'fr_FR', 'form': FORMULAIRE_DEVIS,
-        'mail': {'active': True, 'subject': 'Demande de devis : [entreprise] ([effectif] participants)',
-                 'sender': 'Elios Evasion <wordpress@' + os.environ['WP_URL'].replace('https://', '').strip('/') + '>',
-                 'recipient': '[_site_admin_email]',
-                 'body': 'Entreprise : [entreprise]\nNom : [nom]\nE-mail : [email]\nTéléphone : [telephone]\nParticipants : [effectif]\nDates : [dates]\nDestination : [destination]\nFormat : [format]\nBudget : [budget]\n\nMessage :\n[message]\n\n--\nEnvoyé depuis la page : [_post_title] ([_url])',
-                 'additional_headers': 'Reply-To: [email]', 'attachments': '', 'use_html': False, 'exclude_blank': False},
-        'messages': {'mail_sent_ok': 'Merci, votre demande est bien partie ! En attendant, vous pouvez consulter nos questions fréquentes.',
-                     'validation_error': 'Un ou plusieurs champs contiennent une erreur. Vérifiez-les et réessayez. Si le problème persiste, appelez-nous au 06 79 02 93 32.'},
-    }
-    f = api.req('/contact-form-7/v1/contact-forms', corps)
-    return f['id']
+    """L'API de Contact Form 7 de la préprod répond mais n'enregistre rien (création et mise à jour testées le 30/10).
+    On utilise donc le formulaire existant (id 5) ; son contenu « devis » est à coller dans l'admin (dev/pages/formulaire-devis-cf7.md)."""
+    return 5
 
 
 def titre_page(fm, h1):
