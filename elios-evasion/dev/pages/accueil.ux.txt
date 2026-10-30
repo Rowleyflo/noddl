@@ -15,8 +15,16 @@
 
 [/text_box]
 
+[text_box width="20" width__sm="45" position_x="100" position_y="95" text_align="right" text_color="light" animate="fadeInUp"]
+
+[button text="Voir plus" style="link" color="white" size="small" icon="icon-angle-down" icon_pos="right" link="#agence"]
+
+[/text_box]
+
 [/ux_banner]
 [section padding="160px" padding__sm="80px"]
+
+[scroll_to title="L'agence" link="agence" bullet="false"]
 
 [row]
 
