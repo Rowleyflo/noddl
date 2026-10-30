@@ -126,7 +126,7 @@
 
 
 
-[blog_posts posts="12" image_height="66%" image_radius="5" show_date="text" excerpt_length="20"]
+[blog_posts posts="12" image_height="66%" show_date="text" excerpt_length="20"]
 
 
 [/col]

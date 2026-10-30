@@ -59,9 +59,12 @@
     to { left: -5px; }
   }
 }
-/* Encarts arrondis à 16 px : toute image ou tout banner placé dans une colonne. Autorisé par le client le 30/10/2026. */
+/* Encarts arrondis à 16 px : toute image ou tout banner placé dans une colonne, et les images du blog
+   (vignettes de la liste d'articles, image en tête d'article). Autorisé par le client le 30/10/2026. */
 .col-inner .img-inner,
-.col-inner .banner {
+.col-inner .banner,
+.box-blog-post .box-image,
+.entry-header .entry-image img {
   border-radius: 16px;
   overflow: hidden;
 }

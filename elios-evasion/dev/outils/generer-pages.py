@@ -299,7 +299,7 @@ class Rendu:
             return self.section(carte.replace('padding="20px 20px 10px 20px"', 'padding="40px 40px 30px 40px" padding__sm="24px"'))
         corps = vers_html(reste)
         if 'grille de tous les articles' in com:      # index du blog : la grille d'articles native de Flatsome
-            corps += '\n\n[blog_posts posts=\"12\" image_height=\"66%\" image_radius=\"5\" show_date=\"text\" excerpt_length=\"20\"]\n'
+            corps += '\n\n[blog_posts posts=\"12\" image_height=\"66%\" show_date=\"text\" excerpt_length=\"20\"]\n'
         if imgs and not self.article:
             self.cote_image ^= 1
             img = f'[col span="6" span__sm="12" animate="fadeInUp"{" force_first=\"small\"" if self.cote_image == 0 else ""}]\n\n[ux_image id="{self.m.id(imgs[0])}" image_size="original" height="75%"]\n\n[/col]\n'
