@@ -26,7 +26,10 @@
 ## Étapes
 
 1. **Lire** `00-consignes-dev.md`, puis ce brief, puis la maquette PDF page par page.
-2. **Inventaire de la préprod, en lecture seule** : thème actif, extensions actives (`/wp/v2/plugins`), réglages (`/wp/v2/settings`), médias, pages, blocs UX existants. Vérifier en particulier le réglage du module **webp-uploads** de Performance Lab (format de sortie, conservation de l'original). Mettre à jour § 6 bis des consignes.
+2. **Préprod** : l'inventaire authentifié est **déjà fait** (§ 6 ter des consignes). À faire seulement :
+   - **relire les réglages** de Modern Image Formats (webp-uploads) dans l'admin, en demandant au client ;
+   - **réutiliser la page brouillon « accueil » (id 8)** au lieu d'en créer une nouvelle ;
+   - garder en tête que **Classic Editor est actif** : le contenu de la page s'écrit par l'API REST (champ `content`, shortcodes bruts). Si le client colle du code à la main, il doit utiliser l'onglet **Texte** de l'éditeur classique, jamais l'onglet Visuel, qui transforme les balises en texte affiché.
 3. **Relevé du design de la maquette** : produire `pages/accueil-design-releve.md` avec :
    - la palette (codes hexadécimaux), les polices et graisses, les tailles des titres H1/H2/H3 et du texte, la largeur du contenu, les espacements de section, les arrondis, les styles de boutons, le header (transparent ou non, collant ou non, hauteur), le footer, et les animations indiquées ;
    - la liste des sections, dans l'ordre, avec pour chacune son rendu dans la maquette et le texte de `accueil.md` qui va dedans.
