@@ -33,6 +33,7 @@ Accueil  /                                         ← « agence team building �
 │   ├── PILIER Pyrénées  /sejours/sejour-team-building-pyrenees/   ← « séminaire Pyrénées » + « séminaire montagne »
 │   │   ├── 🆕 hiver        /sejours/seminaire-ski-hiver/
 │   │   ├── 🆕 été          /sejours/seminaire-montagne-ete/
+│   │   ├── 🆕 Pyrénées catalanes /sejours/seminaire-pyrenees-catalanes/  ← « séminaire Font-Romeu »
 │   │   └── (option) pages massifs : Pyrénées catalanes, Hautes-Pyrénées, Ariège, Pays basque/Béarn — voir 01 § 3.3
 │   │
 │   └── Sur-mesure  /journee-sur-mesure/           ← « team building sur mesure »
@@ -54,7 +55,8 @@ Nos séminaires ▾                 À propos   Blog   Contact   [Bouton : Deman
   ├ Team building Avignon
   ├ Séminaire dans les Pyrénées
   │   ├ Hiver : ski et neige
-  │   └ Été : rando, VTT, canyoning
+  │   ├ Été : rando, VTT, canyoning
+  │   └ Font-Romeu et Pyrénées catalanes
   └ Journée sur mesure
 ```
 

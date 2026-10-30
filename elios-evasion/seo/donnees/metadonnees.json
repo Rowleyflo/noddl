@@ -171,6 +171,15 @@
   "h1": "Team building à la montagne en été dans les Pyrénées"
  },
  {
+  "silo": "Montagne",
+  "url": "/sejours/seminaire-pyrenees-catalanes/",
+  "statut": "🆕",
+  "kw": "séminaire Font-Romeu (+ séminaire Pyrénées-Orientales)",
+  "title": "Séminaire à Font-Romeu et en Pyrénées catalanes | Elios",
+  "meta": "Séminaire à Font-Romeu, aux Angles, en Cerdagne ou dans le Capcir : une agence installée sur place organise hébergement, salle et activités. Sur devis.",
+  "h1": "Séminaire à Font-Romeu, en Cerdagne et dans le Capcir"
+ },
+ {
   "silo": "Transverse",
   "url": "/faq/",
   "statut": "🆕",
@@ -214,5 +223,14 @@
   "title": "Cerdagne et Capcir : 6 lieux à découvrir en séminaire",
   "meta": "Lac des Bouillouses, pic Carlit, citadelle de Mont-Louis, Train jaune… les incontournables de Cerdagne et du Capcir à glisser dans votre séminaire.",
   "h1": "Lieux à découvrir en Cerdagne et dans le Capcir"
+ },
+ {
+  "silo": "Blog",
+  "url": "/blog/seminaire-au-vert-toulouse-pyrenees/",
+  "statut": "🆕",
+  "kw": "séminaire au vert Toulouse (+ séminaire Pyrénées)",
+  "title": "Séminaire au vert près de Toulouse : 5 destinations",
+  "meta": "Ariège, Luchon, Saint-Lary, Font-Romeu, vallée d'Ossau : 5 destinations pyrénéennes pour un séminaire au vert entre 1 h 45 et 3 h de Toulouse.",
+  "h1": "Séminaire au vert près de Toulouse : 5 destinations dans les Pyrénées"
  }
 ]

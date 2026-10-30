@@ -37,7 +37,7 @@ Les IA reprennent des **phrases autonomes, factuelles et chiffrées**. Sur chaqu
 ### Page À propos = la fiche d'identité de l'entité
 Les IA s'en servent pour décrire l'entreprise. Elle doit contenir, en texte :
 - le nom exact, **Elios Evasion**, toujours écrit de la même façon (pas « ELIOS ÉVASION » ici et « Elios-Evasion » ailleurs) ;
-- le statut d'agence réceptive, l'adresse à Font-Romeu-Odeillo-Via (66120) **[adresse exacte À CONFIRMER]**, l'année de création **[À CONFIRMER]**, le fondateur **[À CONFIRMER]** et le SIRET (dans les mentions légales) ;
+- le statut d'agence réceptive, l'adresse : 5 rue du Soleil, 66120 Font-Romeu-Odeillo-Via (source : politique de confidentialité de 2021, **à vérifier sur Kbis**), l'année de création **[À CONFIRMER]**, le fondateur **[À CONFIRMER]** et le SIRET (dans les mentions légales) ;
 - les zones d'intervention, les types de clients et de partenaires ;
 - des **chiffres clés** : nombre de séminaires organisés, de participants accueillis, d'entreprises clientes **[À FOURNIR]** ;
 - des logos et témoignages de clients **[À FOURNIR, avec leur accord]**.
@@ -72,7 +72,7 @@ Un moteur IA recommande plus volontiers une entreprise que **plusieurs sources i
   "email": "[À CONFIRMER]",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "[À CONFIRMER]",
+    "streetAddress": "5 rue du Soleil, Résidence Les Temples du Soleil, bât. E [À VÉRIFIER sur Kbis]",
     "postalCode": "66120",
     "addressLocality": "Font-Romeu-Odeillo-Via",
     "addressRegion": "Occitanie",
