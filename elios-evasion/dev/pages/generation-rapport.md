@@ -30,13 +30,13 @@
 | `/sejours/seminaire-montagne-ete/` | 6 |
 | `/sejours/seminaire-pyrenees-catalanes/` | 6 |
 | `/sejours/seminaire-ski-hiver/` | 8 |
-| `/a-propos/` | 14 |
-| `/blog/` | 0 |
-| `/conditions-generales-de-vente/` | 29 |
+| `/a-propos/` | 15 |
+| `/blog/` | 1 |
+| `/conditions-generales-de-vente/` | 30 |
 | `/contact/` | 7 |
 | `/faq/` | 20 |
 | `/journee-sur-mesure/` | 5 |
-| `/mentions-legales/` | 20 |
+| `/mentions-legales/` | 22 |
 | `/sejours/` | 3 |
 
 ## Détail des retraits
@@ -270,6 +270,7 @@
 - - **Fondateur** : [À FOURNIR : prénom, nom et parcours du fondateur ; le site actuel cite « Eliott » comme guide et auteur du blog : à confirmer]
 - - **E-mail** : [À FOURNIR : adresse e-mail de contact]
 - L'agence a ensuite ouvert des journées de team building autour de Montpellier et d'Avignon [À CONFIRMER : année d'ouverture des journées Montpellier et Avignon], pour les entreprises qui veulent sortir de leurs murs le t
+- [À FOURNIR : 2 ou 3 phrases du fondateur sur son parcours et sur ce qui l'a amené à créer l'agence : guide, sportif, professionnel du tourisme… À rédiger avec lui.]
 - - **Autour de Montpellier** : la grotte de Clamouse (Saint-Jean-de-Fos), le Domaine de Capion et le Domaine de la Grande Sieste (Aniane), ainsi que des prestataires d'activités nautiques et de plein air au lac du Salagou
 - - **Autour d'Avignon** : le château des Fines Roches (Châteauneuf-du-Pape), le château de Beauregard [À CONFIRMER : commune], le Moulin des Gaffins (Althen-des-Paluds) et la Quiz Room d'Avignon (Vedène).
 - - **Dans les Pyrénées** : hébergeurs, restaurants d'altitude, guides et moniteurs de Font-Romeu et des stations voisines [À FOURNIR : noms des partenaires montagne].
@@ -277,6 +278,9 @@
 - - **[PROVISOIRE] 4 000+** participants accueillis
 - - **[PROVISOIRE] 80+** entreprises clientes
 - section masquée : bandeau chiffres clés, 4 compteurs. Chiffres [PROVISOIRE] masqués tant qu'Elios
+
+### `/blog/`
+- [À CONFIRMER : liste des catégories avec Elios. Les archives de catégorie restent indexables tant qu'elles contiennent au moins 2 articles ; sinon, `noindex, follow`.]
 
 ### `/conditions-generales-de-vente/`
 - *En vigueur au [À FOURNIR : date]*
@@ -307,6 +311,7 @@
 - Elios Evasion s'engage à y répondre dans un délai de [À FOURNIR].
 - Elle ne les utilise pour sa communication qu'avec l'accord écrit du Client et des personnes reconnaissables [À CONFIRMER : modalités du recueil de l'accord].
 - À défaut, compétence est attribuée au [À FOURNIR : tribunal compétent, par exemple le tribunal de commerce du siège d'Elios Evasion], y compris en cas de pluralité de défendeurs.
+- [À CONFIRMER par le juriste : clauses spécifiques si Elios vend aussi à des particuliers (absence de droit de rétractation pour les prestations de loisirs à date déterminée, art. L221-28 du Code de la consommation ; médi
 - pas de hero : modèle de page sans header transparent
 
 ### `/contact/`
@@ -357,6 +362,7 @@
 - - **N° de TVA intracommunautaire** : [À FOURNIR : numéro ; le site actuel indique FR16880718259]
 - - **E-mail** : [À FOURNIR : adresse e-mail de contact]
 - - **Directeur de la publication** : [À FOURNIR : prénom, nom et qualité du représentant légal]
+- [À CONFIRMER : statut d'opérateur de voyages et de séjours. Si Elios Evasion vend des prestations combinant hébergement, transport ou activités, l'immatriculation au registre Atout France, la garantie financière et l'ass
 - - **Immatriculation au registre des opérateurs de voyages et de séjours (Atout France)** : [À FOURNIR : numéro ; le site actuel indique IM 066210001]
 - - **Garantie financière** : [À FOURNIR : nom et adresse du garant ; le site actuel indique « APST, 15 avenue Carnot, 75017 Paris »]
 - - **Assurance responsabilité civile professionnelle** : [À FOURNIR : assureur, numéro de contrat et adresse ; le site actuel indique « Hiscox, contrat 0251612, 12 quai des Queyries, CS 41177, 33072 Bordeaux »]
@@ -367,6 +373,7 @@
 - [À FOURNIR : nom de l'agence ou du prestataire qui réalise le nouveau site, et lien éventuel.]
 - - Photographies : Elios Evasion et ses partenaires [À FOURNIR : liste des photographes ou des partenaires ayant fourni les photos, et banques d'images utilisées].
 - - Citadelle de Mont-Louis et vue sur le massif du Carlit : Wikimedia Commons, [À FOURNIR : nom des auteurs et licence exacte de chaque photo, à reprendre aussi en légende].
+- [À CONFIRMER par le juriste : si Elios Evasion vend aussi à des particuliers, indiquer le médiateur de la consommation (par exemple Médiation Tourisme et Voyage) et ses coordonnées. Le lien « Plateforme RLL » du footer a
 - pas de hero : modèle de page sans header transparent
 
 ### `/sejours/`

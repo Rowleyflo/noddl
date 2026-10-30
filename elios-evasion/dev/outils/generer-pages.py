@@ -148,7 +148,15 @@ def nettoyer(md, journal):
         if brut.startswith('|') or re.match(r'^([-*]|\d+\.)\s', brut) or brut.startswith('#') or brut.startswith('>'):
             journal.note(brut)
             continue
-        phrases = PHRASE.split(ligne)
+        if REPERE.fullmatch(brut):          # ligne entièrement composée d'un repère
+            journal.note(brut)
+            continue
+        jetons = {}
+        def proteger(m):
+            jetons[f'§§{len(jetons)}§§'] = m.group(0)
+            return f'§§{len(jetons) - 1}§§'
+        ligne_p = REPERE.sub(proteger, ligne)
+        phrases = [re.sub(r'§§\d+§§', lambda m: jetons[m.group(0)], x) for x in PHRASE.split(ligne_p)]
         gardees = [p for p in phrases if not REPERE.search(p)]
         for p in phrases:
             if REPERE.search(p):
@@ -280,6 +288,12 @@ class Rendu:
             return self.points_forts(h2, t, etiq, reste, puces)
         if ('étape' in com or 'frise' in com) and len(etapes) >= 3:
             return self.etapes(h2, t, etiq, reste, etapes)
+        if 'filtres par catégorie' in com:
+            noms = re.findall(r'^### (.+)$', b['md'], re.M)
+            slugs = re.findall(r'Slug : `([a-z0-9-]+)`', b['md'])
+            pastilles = ''.join(f'[button text="{esc_attr(n.strip())}" style="outline" size="small" link="/category/{sl}/"]\n' for n, sl in zip(noms, slugs))
+            return self.section('[row]\n\n[col span__sm="12" animate="fadeInUp"]\n\n' + sur_titre('Catégories') + (titre_h2(h2) if h2 else '')
+                                + f'[gap height="16px"]\n\n{pastilles}\n[/col]\n\n[/row]\n')
         if 'sommaire' in com:
             carte = (f'[row]\n\n[col span="12" {CARTE_COL}]\n\n' + (titre_h2(h2) if h2 else '') + vers_html(reste) + '\n\n[/col]\n\n[/row]\n')
             return self.section(carte.replace('padding="20px 20px 10px 20px"', 'padding="40px 40px 30px 40px" padding__sm="24px"'))

@@ -15,7 +15,7 @@ REF = Path(__file__).resolve().parent.parent / 'reference-flatsome' / 'shortcode
 INTERDITS = {'class', 'style_inline', 'css'}
 # Classes utilitaires fournies par Flatsome (vérifiées dans assets/css/flatsome.css), permises par la directive 1.
 CLASSES_FLATSOME = {'thin-font', 'touch-scroll-table'}  # .thin-font{font-weight:300!important} ; .touch-scroll-table (tableau défilant ≤ 849 px)
-REPERES = re.compile(r'\[(?:PROVISOIRE|À CONFIRMER|À FOURNIR|PHOTO À FOURNIR|TEXTE À FOURNIR)[^\]]*\]')
+REPERES = re.compile(r'(?:\[|&#91;)(?:PROVISOIRE|À CONFIRMER|À FOURNIR|PHOTO À FOURNIR|TEXTE À FOURNIR)')
 
 
 def charger_reference():
