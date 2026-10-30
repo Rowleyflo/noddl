@@ -7,11 +7,11 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
-[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+[col span="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 <p><strong>Sommaire</strong>
 1. <a href="#pourquoi">Pourquoi organiser des olympiades d'entreprise ?</a>
@@ -24,7 +24,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -52,7 +52,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -98,7 +98,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -136,7 +136,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -165,7 +165,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -191,7 +191,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -217,7 +217,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 <h2 id="faq">Questions fréquentes</h2>
@@ -241,7 +241,7 @@
 [/accordion-item]
 
 [/accordion]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -255,5 +255,5 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 

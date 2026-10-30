@@ -1,8 +1,8 @@
-[section padding="160px" padding__sm="80px"]
+[section padding="160px" padding__sm="56px"]
 
 [row h_align="center"]
 
-[col span="8" span__sm="12" padding="0px 40px 0px 40px" align="center" animate="fadeInUp"]
+[col span="8" span__sm="12" padding="0px 40px 0px 40px" padding__sm="0px" align="center" animate="fadeInUp"]
 
 [ux_text font_size="0.75" text_align="center"]
 

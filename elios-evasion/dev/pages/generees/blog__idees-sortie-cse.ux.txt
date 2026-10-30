@@ -7,7 +7,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -22,11 +22,11 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
-[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+[col span="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 <p><strong>Sommaire</strong>
 1. <a href="#idees">8 idées de sortie CSE dans le Sud</a>
@@ -39,7 +39,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -48,7 +48,7 @@
 [ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 <h2 id="idees">8 idées de sortie CSE dans le Sud</h2>
 [/ux_text]
-<p>Une bonne sortie CSE réunit des salariés de tous âges et de tous services, sans prérequis physique. Voici nos idées autour de Montpellier, d'Avignon et dans les Pyrénées.</p>[gap height="32px"]
+<p>Une bonne sortie CSE réunit des salariés de tous âges et de tous services, sans prérequis physique. Voici nos idées autour de Montpellier, d'Avignon et dans les Pyrénées.</p>[gap height="32px" height__sm="16px"]
 
 [/col]
 
@@ -112,7 +112,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -136,7 +136,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -160,7 +160,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -168,7 +168,7 @@
 
 [gap height="8px"]
 
-<table>
+<div class="touch-scroll-table"><table>
 <thead>
 <tr>
 <th>Prestation du CSE</th>
@@ -198,7 +198,7 @@
 <td><a href="https://www.urssaf.fr/accueil/employeur/gerer-entreprise/comite-social-et-economique/prestations-cse-exo-conditions.html">urssaf.fr</a></td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <blockquote>
 <p><strong>À retenir</strong>
 - Une sortie CSE doit être ouverte à tous les salariés, sans critère de contrat, de catégorie ou de temps de travail.
@@ -209,7 +209,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -221,7 +221,7 @@
 [gap height="8px"]
 
 <p>Les deux se ressemblent, mais leur cadre diffère.</p>
-<table>
+<div class="touch-scroll-table"><table>
 <thead>
 <tr>
 <th></th>
@@ -256,7 +256,7 @@
 <td>Matinée de travail, puis activité</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h3>La question de l'avantage en nature</h3>
 <p>Pour l'URSSAF, un avantage en nature est un bien ou un service fourni gratuitement (ou à prix réduit) par l'employeur, qui permet au salarié de faire l'économie d'une dépense ; il est en principe soumis à cotisations (<a href="https://www.urssaf.fr/accueil/employeur/cotisations/avantages-en-nature.html">urssaf.fr, avantages en nature</a>).</p>
 <p>Un séminaire organisé par l'employeur dans un cadre professionnel (temps de travail, objectifs de l'entreprise) ne répond pas, en principe, à cette logique de dépense personnelle évitée. En revanche, une prestation de loisirs offerte par l'employeur à quelques salariés seulement, sans lien avec le travail, pourrait être analysée différemment. Dans le doute, documentez le caractère professionnel de l'événement : programme, objectifs, temps de travail.</p>
@@ -269,16 +269,16 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row h_align="center"]
 
 [col span="10" span__sm="12" animate="fadeInUp"]
 
-[ux_text font_size="1.875" line_height="1.3" text_color="#3d4955" text_align="center"]
+[ux_text font_size="1.875" font_size__sm="1.15" line_height="1.3" text_color="#3d4955" text_align="center"]
 <h2 id="organiser">Organiser votre sortie CSE en 5 étapes</h2>
 [/ux_text]
-[gap height="64px" height__sm="32px"]
+[gap height="64px" height__sm="24px"]
 
 [/col]
 
@@ -347,7 +347,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 <h2 id="faq">Questions fréquentes</h2>
@@ -366,7 +366,7 @@
 [/accordion-item]
 
 [/accordion]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -380,5 +380,5 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 

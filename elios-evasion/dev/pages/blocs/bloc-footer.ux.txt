@@ -1,6 +1,6 @@
-[section bg_color="rgb(39, 49, 58)" padding="0px" padding__sm="64px"]
+[section bg_color="rgb(39, 49, 58)" padding="0px" padding__sm="48px"]
 
-[gap height="83px"]
+[gap height="83px" height__sm="0px"]
 
 [row]
 

@@ -14,7 +14,7 @@ from pathlib import Path
 REF = Path(__file__).resolve().parent.parent / 'reference-flatsome' / 'shortcodes-attributs.md'
 INTERDITS = {'class', 'style_inline', 'css'}
 # Classes utilitaires fournies par Flatsome (vérifiées dans assets/css/flatsome.css), permises par la directive 1.
-CLASSES_FLATSOME = {'thin-font'}  # .thin-font{font-weight:300!important}
+CLASSES_FLATSOME = {'thin-font', 'touch-scroll-table'}  # .thin-font{font-weight:300!important} ; .touch-scroll-table (tableau défilant ≤ 849 px)
 REPERES = re.compile(r'\[(?:PROVISOIRE|À CONFIRMER|À FOURNIR|PHOTO À FOURNIR|TEXTE À FOURNIR)[^\]]*\]')
 
 

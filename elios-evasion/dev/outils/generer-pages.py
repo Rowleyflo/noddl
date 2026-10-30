@@ -35,10 +35,10 @@ REPERE = re.compile(r'\[(?:PROVISOIRE|À CONFIRMER|À FOURNIR|PHOTO À FOURNIR|T
 
 # ---------------------------------------------------------------- charte (relevée sur l'accueil du client)
 BLEU, ARDOISE, VERT, GRIS_FOND = '#047ea3', '#3d4955', '#aac816', '#f4f5f6'
-SECTION_BLANCHE = '[section padding="160px" padding__sm="80px"]'
-SECTION_GRISE = (f'[section bg_color="{GRIS_FOND}" padding="160px" padding__sm="80px" divider_top="curve" '
-                 'divider_top_height="120px" divider="curve" divider_height="120px"]')
-SECTION_DECOR = '[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]'
+SECTION_BLANCHE = '[section padding="160px" padding__sm="56px"]'
+SECTION_GRISE = (f'[section bg_color="{GRIS_FOND}" padding="160px" padding__sm="56px" divider_top="curve" '
+                 'divider_top_height="120px" divider_top_height__sm="40px" divider="curve" divider_height="120px" divider_height__sm="40px"]')
+SECTION_DECOR = '[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="56px"]'
 CARTE_COL = 'padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"'
 IMAGE_HERO_DEFAUT = 'lac-montagne-pic-du-midi-ossau-pyrenees.webp'
 CTA_FOND = 95
@@ -58,7 +58,8 @@ def sur_titre(texte, couleur=BLEU, centre=False):
 
 def titre_h2(html_h2, centre=False, couleur=ARDOISE, taille='1.25'):
     align = ' text_align="center"' if centre else ''
-    return f'[ux_text font_size="{taille}" line_height="1.3" text_color="{couleur}"{align}]\n{html_h2}\n[/ux_text]\n'
+    mobile = ' font_size__sm="1.15"' if float(taille) > 1.25 else ''   # titres agrandis : taille réduite sur mobile
+    return f'[ux_text font_size="{taille}"{mobile} line_height="1.3" text_color="{couleur}"{align}]\n{html_h2}\n[/ux_text]\n'
 
 
 def bouton(texte, lien, lien_simple=False):
@@ -162,6 +163,7 @@ def nettoyer(md, journal):
 def vers_html(md):
     h = markdown.markdown(md, extensions=['tables', 'attr_list', 'sane_lists'])
     h = h.replace('[', '&#91;').replace(']', '&#93;')   # aucun crochet ne doit être pris pour un shortcode
+    h = re.sub(r'(<table>.*?</table>)', r'<div class="touch-scroll-table">\1</div>', h, flags=re.S)   # classe Flatsome
     return h.strip()
 
 
@@ -200,7 +202,7 @@ class Rendu:
     # enveloppe de section (les articles n'ont pas de fonds ni de courbes : ils sont dans la colonne du blog)
     def section(self, contenu, style='blanche'):
         if self.article:
-            return contenu + '[gap height="48px"]\n\n'
+            return contenu + '[gap height="48px" height__sm="24px"]\n\n'
         ouv = {'blanche': SECTION_BLANCHE, 'grise': SECTION_GRISE, 'decor': SECTION_DECOR}[style]
         return f'{ouv}\n\n{contenu}\n[/section]\n'
 
@@ -223,8 +225,8 @@ class Rendu:
         img = imgs[0] if imgs[0] in self.m.alt or imgs[0] in self.m.ids else IMAGE_HERO_DEFAUT
         if blien and blien.startswith('#devis'):
             blien = '#devis' if self.form_id else '/contact/'
-        s = (f'[ux_banner height="680px" height__sm="560px" bg="{self.m.id(img)}" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" '
-             f'bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]\n\n'
+        s = (f'[ux_banner height="680px" height__sm="520px" bg="{self.m.id(img)}" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" '
+             f'bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px" divider_height__sm="40px"]\n\n'
              '[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]\n\n')
         if surtitre and not REPERE.search(surtitre):
             s += f'[ux_text font_size="0.75"]\n<p><strong>{html.escape(surtitre.upper(), quote=False)}</strong></p>\n[/ux_text]\n'
@@ -244,12 +246,12 @@ class Rendu:
         if 'retenir' in b['com'].lower() or not items:
             h2, t, reste = separer_titre(md)
             corps = vers_html(reste)
-            carte = (f'[row]\n\n[col span="12" {CARTE_COL} padding__sm="20px"]\n\n'
+            carte = (f'[row]\n\n[col span="12" {CARTE_COL}]\n\n'
                      + sur_titre('À retenir') + (titre_h2(h2) if h2 else '') + f'{corps}\n\n[/col]\n\n[/row]\n')
-            return self.section(carte.replace('padding="20px 20px 10px 20px"', 'padding="40px 40px 30px 40px"'))
+            return self.section(carte.replace('padding="20px 20px 10px 20px"', 'padding="40px 40px 30px 40px" padding__sm="24px"'))
         cols = ''
         for lib, val in items:
-            cols += (f'[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]\n\n'
+            cols += (f'[col span="4" span__md="6" span__sm="6" animate="fadeInUp"]\n\n'
                      f'[ux_text font_size="0.75" text_color="{BLEU}"]\n<p><strong>{html.escape(lib.upper(), quote=False)}</strong></p>\n[/ux_text]\n'
                      '[divider width="100%" height="1px" color="#E2E2E2"]\n\n'
                      f'{vers_html(val)}\n\n[/col]\n')
@@ -280,7 +282,7 @@ class Rendu:
             return self.etapes(h2, t, etiq, reste, etapes)
         if 'sommaire' in com:
             carte = (f'[row]\n\n[col span="12" {CARTE_COL}]\n\n' + (titre_h2(h2) if h2 else '') + vers_html(reste) + '\n\n[/col]\n\n[/row]\n')
-            return self.section(carte.replace('padding="20px 20px 10px 20px"', 'padding="40px 40px 30px 40px"'))
+            return self.section(carte.replace('padding="20px 20px 10px 20px"', 'padding="40px 40px 30px 40px" padding__sm="24px"'))
         corps = vers_html(reste)
         if 'grille de tous les articles' in com:      # index du blog : la grille d'articles native de Flatsome
             corps += '\n\n[blog_posts posts=\"12\" image_height=\"66%\" image_radius=\"5\" show_date=\"text\" excerpt_length=\"20\"]\n'
@@ -305,7 +307,7 @@ class Rendu:
                      f'[ux_text font_size="1.1" line_height="1.4" text_color="{VERT}"]\n<p><strong>{html.escape(lead, quote=False)}</strong></p>\n[/ux_text]\n'
                      f'[ux_text font_size="1.1" line_height="1.5"]\n{vers_html(suite) if suite else ""}\n[/ux_text]\n\n[/col]\n')
         apres = re.sub(r'^[-*] \*\*.+$', '', reste, flags=re.M).strip()
-        s = '[row]\n\n[col span__sm="12" animate="fadeInUp"]\n\n' + self.entete(h2, t, etiq) + '[gap height="32px"]\n\n[/col]\n\n[/row]\n'
+        s = '[row]\n\n[col span__sm="12" animate="fadeInUp"]\n\n' + self.entete(h2, t, etiq) + '[gap height="32px" height__sm="16px"]\n\n[/col]\n\n[/row]\n'
         s += f'[row]\n\n{cols}\n[/row]\n'
         if apres:
             s += f'[row]\n\n[col span="9" span__sm="12" animate="fadeInUp"]\n\n[gap height="24px"]\n\n{vers_html(apres)}\n\n[/col]\n\n[/row]\n'
@@ -321,7 +323,7 @@ class Rendu:
         apres = re.sub(r'^\d+\. .+$', '', reste, flags=re.M).strip()
         s = ('[row h_align="center"]\n\n[col span="10" span__sm="12" animate="fadeInUp"]\n\n'
              + (sur_titre(etiq or 'Notre méthode', couleur='rgba(61, 73, 85, 0.512)', centre=True) if h2 and not self.article else '')
-             + (titre_h2(h2, centre=True, taille='1.875') if h2 else '') + '[gap height="64px" height__sm="32px"]\n\n[/col]\n\n[/row]\n')
+             + (titre_h2(h2, centre=True, taille='1.875') if h2 else '') + '[gap height="64px" height__sm="24px"]\n\n[/col]\n\n[/row]\n')
         s += f'[row]\n\n{cols}\n[/row]\n'
         if apres:
             s += f'[row]\n\n[col span__sm="12" animate="fadeInUp"]\n\n[gap height="24px"]\n\n{vers_html(apres)}\n\n[/col]\n\n[/row]\n'
@@ -349,7 +351,7 @@ class Rendu:
             f'[ux_text font_size="0.75" text_color="{BLEU}"]\n<p><strong>{html.escape(nom.upper(), quote=False)}</strong></p>\n[/ux_text]\n'
             f'{vers_html(contenu)}\n\n[/col]\n' for nom, contenu in colonnes)
         s = ('[row]\n\n[col span__sm="12" animate="fadeInUp"]\n\n' + self.entete(h2, t, 'Programme')
-             + (vers_html(avant) if avant else '') + '[gap height="32px"]\n\n[/col]\n\n[/row]\n')
+             + (vers_html(avant) if avant else '') + '[gap height="32px" height__sm="16px"]\n\n[/col]\n\n[/row]\n')
         s += f'[row v_align="equal"]\n\n{cols}\n[/row]\n'
         if apres.strip():
             s += f'[row]\n\n[col span="9" span__sm="12" animate="fadeInUp"]\n\n[gap height="24px"]\n\n{vers_html(apres.strip())}\n\n[/col]\n\n[/row]\n'
@@ -407,7 +409,7 @@ class Rendu:
         else:
             intro = ''
         s = ('[row]\n\n[col span__sm="12" animate="fadeInUp"]\n\n' + self.entete(h2, t, etiq)
-             + (vers_html(intro) if intro else '') + '[gap height="32px"]\n\n[/col]\n\n[/row]\n')
+             + (vers_html(intro) if intro else '') + '[gap height="32px" height__sm="16px"]\n\n[/col]\n\n[/row]\n')
         s += f'[row v_align="equal"]\n\n{cols}\n[/row]\n'
         if apres:
             s += f'[row h_align="center"]\n\n[col span="9" span__sm="12" animate="fadeInUp"]\n\n[gap height="32px"]\n\n[ux_text font_size="1.25" text_align="center"]\n{vers_html(apres)}\n[/ux_text]\n\n[/col]\n\n[/row]\n'
@@ -453,7 +455,7 @@ class Rendu:
         if not temos:
             return ''
         slides = ''.join(f'[testimonial pos="center" name="{esc_attr(n.strip())}" font_size="large" stars="0"]\n\n<p>« {html.escape(q, quote=False)} »</p>\n\n[/testimonial]\n' for q, n in temos)
-        s = ('[row h_align="center"]\n\n[col span="8" span__sm="12" padding="0px 40px 0px 40px" align="center" animate="fadeInUp"]\n\n'
+        s = ('[row h_align="center"]\n\n[col span="8" span__sm="12" padding="0px 40px 0px 40px" padding__sm="0px" align="center" animate="fadeInUp"]\n\n'
              + sur_titre('Avis clients', couleur=ARDOISE, centre=True) + (titre_h2(h2, centre=True, couleur=BLEU) if h2 else '')
              + f'[ux_slider hide_nav="true" nav_pos="outside" nav_size="normal" nav_style="simple" nav_color="dark" bullets="false" auto_slide="false"]\n\n{slides}\n[/ux_slider]\n\n[/col]\n\n[/row]\n')
         return self.section(s)
@@ -735,7 +737,7 @@ if __name__ == '__main__' and '--envoyer' in sys.argv:
 if __name__ == '__main__':
     medias = Medias()
     fichiers = [Path(a) for a in sys.argv[2:]] or contenus()
-    res = generer(fichiers, medias, form_id=os.environ.get('CF7_ID'))
+    res = generer(fichiers, medias, form_id=os.environ.get('CF7_ID', '5'))
     print(f'{len(res)} contenus générés dans {SORTIE.relative_to(RACINE)}')
     manquantes = sorted(n for n in medias.demandees if n not in medias.ids)
     print(f'médias demandés : {len(medias.demandees)} ; à envoyer : {len(manquantes)}')

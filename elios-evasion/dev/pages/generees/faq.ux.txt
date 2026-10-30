@@ -1,4 +1,4 @@
-[ux_banner height="680px" height__sm="560px" bg="20" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+[ux_banner height="680px" height__sm="520px" bg="20" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px" divider_height__sm="40px"]
 
 [text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
 
@@ -12,7 +12,7 @@
 [/text_box]
 
 [/ux_banner]
-[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="56px"]
 
 [row]
 
@@ -27,11 +27,11 @@
 [/row]
 
 [/section]
-[section padding="160px" padding__sm="80px"]
+[section padding="160px" padding__sm="56px"]
 
 [row]
 
-[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+[col span="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 <p><strong>Thèmes</strong> : <a href="#prix">Prix et budget</a> · <a href="#inclus">Ce qui est inclus</a> · <a href="#meteo">Météo et saison</a> · <a href="#transport">Transport et accès</a> · <a href="#accessibilite">Accessibilité</a> · <a href="#cse">CSE</a></p>
 
@@ -40,7 +40,7 @@
 [/row]
 
 [/section]
-[section padding="160px" padding__sm="80px"]
+[section padding="160px" padding__sm="56px"]
 
 [row]
 

@@ -8,11 +8,11 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
-[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+[col span="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 [ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 <h2 id="montpellier">Idées de team building autour de Montpellier</h2>
@@ -48,11 +48,11 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
-[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+[col span="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>&#91;À RETENIR&#93;</strong></p>
@@ -83,11 +83,11 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
-[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+[col span="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>&#91;À RETENIR&#93;</strong></p>
@@ -119,11 +119,11 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
-[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+[col span="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>&#91;À RETENIR&#93;</strong></p>
@@ -141,7 +141,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -152,7 +152,7 @@
 [/ux_text]
 [gap height="8px"]
 
-<table>
+<div class="touch-scroll-table"><table>
 <thead>
 <tr>
 <th>#</th>
@@ -269,7 +269,7 @@
 <td>Sur devis</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <ul>
 <li><strong>Partez de l'objectif.</strong> Coopérer : escape game ou murder party. Créer de l'émulation : olympiades, quiz, biathlon. Remercier : œnologie, dîner d'altitude. Souffler ensemble : canoë, kayak, randonnée.</li>
 <li><strong>Pensez à toute l'équipe.</strong> Le quiz, la murder party et la dégustation ne demandent aucune condition physique. Le canoë suppose de savoir nager.</li>
@@ -281,7 +281,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 <h2 id="faq">Questions fréquentes</h2>
@@ -310,7 +310,7 @@
 [/accordion-item]
 
 [/accordion]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -324,5 +324,5 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 

@@ -87,6 +87,16 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 - **FAQ** (choix du client, 30/10) : **accordéon** `[accordion faq_schema="true"]` > `[accordion-item title="…"]` + `<p>`. La question est rendue dans un `<span>`, pas un `<h3>` : écart assumé avec la rédaction. En compensation, `faq_schema` génère le JSON-LD **FAQPage** (questions et réponses) dans le pied de page (`accordion.php`, `flatsome_print_faq_schema`). À ne pas doubler plus tard avec un autre schéma FAQ (Yoast ou autre).
 - **Avant de mettre à jour une page ou un bloc** : récupérer la version de la préprod (le client édite aussi dans UX Builder) et ne jamais écraser ses modifications.
 
+**Règles mobiles (30/10/2026, retour du client « pas responsive »)** : tout réglage d'espacement ou de taille a sa version mobile (`__sm`).
+- Sections : `padding__sm="56px"` ; courbes : `divider_top_height__sm="40px"` et `divider_height__sm="40px"` ; hero : `height__sm` (520 à 640 px) et `divider_height__sm="40px"`.
+- Colonnes avec marges latérales sur ordinateur : `padding__sm="0px"` (ou `24px` pour les cartes) ; `[gap]` de plus de 60 px : `height__sm` réduit (0 à 48 px).
+- Textes agrandis (`[ux_text font_size]` au-delà de 1,25) : `font_size__sm` vers 1,15.
+- Infos clés : 2 par ligne (`span__sm="6"`).
+- Tableaux : `<div class="touch-scroll-table">` (classe Flatsome : défilement horizontal en dessous de 850 px).
+- Éléments décoratifs du hero (icônes sociales, « voir plus ») : `visibility="hide-for-small"`.
+- Bouton du header : bouton 2 « Devis » sur mobile (import n° 6).
+- Contrôle : audit automatique en 390 px (largeur de page, colonnes trop serrées, tailles des titres).
+
 **Règles d'usage dans les pages** (conséquences de la directive 3) :
 - **Animations** : une seule, `animate="fadeInUp"`, sur les **colonnes** et sur le **texte du hero** (`[text_box]`), jamais sur la photo du hero, le header ni le footer ; zoom lent au survol (`zoom-long`) sur les photos cliquables ; parallaxe `2` sur le fond du hero uniquement.
 - **Couleurs** : seulement `primary`, `secondary`, `success`, `alert`, ainsi que le blanc et le noir. Dans les attributs (`color`, `bg_color`…), on utilise les **mots-clés de couleur Flatsome** (`primary`, `secondary`, `white`…) quand l'attribut les accepte, sinon le code hexadécimal **exact** de la palette.
@@ -212,3 +222,4 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | 30/10/2026 | FAQ de l'accueil remise en accordéon à la demande du client, avec `faq_schema="true"` : JSON-LD FAQPage vérifié en ligne (3 questions). |
 | 30/10/2026 | **Génération des pages** (feu vert du client) par `outils/generer-pages.py` à partir de la rédaction, selon la charte de l'accueil retouché par le client et les gabarits de la maquette (« Expeditions » pour les fiches, « Adventures » pour le hub et les piliers). 34 pages publiées (ids 147-171), 2 pages légales en **brouillon** (CGV 151, mentions 155 : plus de 20 données légales manquantes chacune), 11 articles (ids 172-182), 72 médias. Contrôles : attributs (référence), plan des titres comparé à la rédaction, liens internes, ancres, et vérification du rendu en ligne (35 pages : HTTP 200, 1 seul H1, 0 image cassée, 0 élément invisible, 0 shortcode brut). Détail des phrases retirées : `pages/generation-rapport.md`. |
 | 30/10/2026 | Contact Form 7 : l'API répond mais **n'enregistre rien** (création et mise à jour). Toutes les pages utilisent le formulaire id 5 ; son contenu « devis » est à coller dans l'admin (`pages/formulaire-devis-cf7.md`). Flatsome affiche l'**extrait** d'une page en tête de page : extraits des pages laissés vides. Commentaires fermés sur toutes les pages et tous les articles. |
+| 30/10/2026 | Passe mobile : règles `__sm` appliquées à l'accueil (sans toucher au rendu ordinateur), aux blocs Témoignages et Footer, et à toutes les pages générées ; tableaux défilants ; import n° 6 (bouton « Devis » sur mobile). Audit en 390 px sur les 35 pages publiques : aucun défilement horizontal, aucune colonne trop serrée, H2 de 32 px au plus. |

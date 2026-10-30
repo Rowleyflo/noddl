@@ -110,3 +110,7 @@ Note : avec un header transparent, sur les autres pages (header non transparent)
 Fichier : `../imports/flatsome-import-5-pilule-etiree.txt`. Une seule clé, `html_custom_css`, qui **remplace** tout le champ (contenu complet de `../css/flatsome-custom-css.css`).
 
 Ajout dans `menu-pilule.css` : quand le header est collé (`.header-wrapper.stuck`), un pseudo-élément `::before` de `.header-inner` dessine la pilule, de 5 px avant le logo jusqu'au bord droit du menu. Il s'étire de 50 % à toute la largeur en 0,6 s (`@keyframes elios-pilule-etiree`). La pilule propre au menu devient transparente. Ordinateur uniquement (au moins 850 px de large).
+
+## Import n° 6 : bouton du header sur mobile
+
+Fichier : `../imports/flatsome-import-6-bouton-mobile.txt`. Options natives uniquement : le 2ᵉ bouton du header (`header_button_2`, « Devis », lien `/contact/`, pilule, couleur principale, petite taille) remplace le bouton 1 dans le header **mobile** (`header_mobile_elements_right` = `button-2`). Sur ordinateur, « Demander un devis » ne change pas. Le libellé long passait sur 2 lignes en 390 px.

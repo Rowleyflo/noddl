@@ -8,11 +8,11 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
-[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+[col span="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 [ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 <h2 id="marche">Prix d'un team building : les fourchettes du marché</h2>
@@ -32,7 +32,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -40,7 +40,7 @@
 
 [gap height="8px"]
 
-<table>
+<div class="touch-scroll-table"><table>
 <thead>
 <tr>
 <th>Format</th>
@@ -69,18 +69,18 @@
 <td>250 à 600 €</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p><strong>Les dépenses déclarées par les entreprises.</strong> L'étude annuelle de Coach Omnium sur le tourisme d'affaires relève une dépense de <strong>100 à 160 € par participant pour une journée d'études</strong> (salle et repas, en général sans activité) et de <strong>240 à 300 € pour un séminaire résidentiel</strong> (<a href="https://www.tendancehotellerie.fr/articles-breves/communique-de-presse/24154-article/resultats-de-l-etude-coach-omnium-et-le-groupe-1001salles-sur-les-tendances-de-la-demande-en-tourisme-d-affaires-mice-pour-2024-2025">communiqué de l'étude MICE 2025</a>).</p>
 <p>Ces chiffres sont des repères, pas des prix garantis. Vérifiez toujours si un tarif est affiché HT ou TTC, et ce qu'il comprend.</p>
 
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
-[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+[col span="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>&#91;À RETENIR&#93;</strong></p>
@@ -114,7 +114,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -125,7 +125,7 @@
 [/ux_text]
 [gap height="8px"]
 
-<table>
+<div class="touch-scroll-table"><table>
 <thead>
 <tr>
 <th>Journée</th>
@@ -214,7 +214,7 @@
 <td>Sur devis</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p>Le détail de chaque formule et les réponses aux questions courantes sont regroupés dans nos <a href="/faq/">tarifs détaillés et questions fréquentes</a>.</p>
 <p><strong>Pour une journée complète</strong>, nos prix (100 à 180 € HT) se situent dans la moitié basse de la fourchette de marché (100 à 250 €). Ils comprennent aussi des postes que beaucoup de devis facturent à part : petit-déjeuner, salle équipée et apéritif.</p>
 <p><strong>Par rapport à une journée d'études sans activité</strong> (100 à 160 € par participant selon Coach Omnium), nos journées coûtent un peu plus pour la plupart, mais l'activité encadrée est comprise.</p>
@@ -223,11 +223,11 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
-[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+[col span="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>&#91;À RETENIR&#93;</strong></p>
@@ -247,7 +247,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -255,7 +255,7 @@
 
 [gap height="8px"]
 
-<table>
+<div class="touch-scroll-table"><table>
 <thead>
 <tr>
 <th>Formule</th>
@@ -275,14 +275,14 @@
 <td><strong>3 600 €</strong></td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p>Avec 20 personnes, toutes nos journées sont possibles, y compris le kayak au coucher du soleil (35 personnes au maximum).</p>
 <h3>Pour 50 personnes</h3>
 
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -293,7 +293,7 @@
 [/ux_text]
 [gap height="8px"]
 
-<table>
+<div class="touch-scroll-table"><table>
 <thead>
 <tr>
 <th>Formule</th>
@@ -313,7 +313,7 @@
 <td><strong>7 500 €</strong></td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <p>À 50 personnes, le kayak n'est plus possible.</p>
 <h3>À ajouter à ces montants</h3>
 <ul>
@@ -335,7 +335,7 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 <h2 id="faq">Questions fréquentes</h2>
@@ -369,7 +369,7 @@
 [/accordion-item]
 
 [/accordion]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 
 [row]
 
@@ -383,5 +383,5 @@
 [/col]
 
 [/row]
-[gap height="48px"]
+[gap height="48px" height__sm="24px"]
 

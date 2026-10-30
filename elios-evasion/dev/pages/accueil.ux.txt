@@ -1,4 +1,4 @@
-[ux_banner height="994px" bg="47" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 40%" parallax="7" divider="curve" divider_height="120px" video_mp4="https://core-flatsome.otakudesign.fr/wp-content/uploads/2026/10/elios-evasion-video-pyrenees.mp4"]
+[ux_banner height="994px" bg="47" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 40%" height__sm="640px" parallax="7" divider="curve" divider_height="120px" divider_height__sm="40px" video_mp4="https://core-flatsome.otakudesign.fr/wp-content/uploads/2026/10/elios-evasion-video-pyrenees.mp4"]
 
 [text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="85" text_align="left"]
 
@@ -16,7 +16,7 @@
 
 
 [/text_box]
-[text_box width="5" width__sm="8" animate="fadeInUp" position_x="100" position_y="90" text_align="right"]
+[text_box width="5" width__sm="8" visibility="hide-for-small" animate="fadeInUp" position_x="100" position_y="90" text_align="right"]
 
 [follow style="small" scale="139" facebook="https://www.facebook.com/p/Elios-Evasion-100070387800853/" instagram="https://www.instagram.com/eliosevasion/" linkedin="https://www.linkedin.com/in/eliottreyivan/"]
 
@@ -26,7 +26,7 @@
 [/text_box]
 
 [/ux_banner]
-[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="56px"]
 
 [scroll_to title="L'agence" link="agence" bullet="false"]
 
@@ -44,7 +44,7 @@
 [/row]
 [row]
 
-[col span="5" span__sm="12" padding="0px 64px 0px 0px" animate="fadeInUp"]
+[col span="5" span__sm="12" padding="0px 64px 0px 0px" padding__sm="0px" animate="fadeInUp"]
 
 [ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 
@@ -54,7 +54,7 @@
 [/col]
 [col span="7" span__sm="12" animate="fadeInUp"]
 
-[ux_text font_size="1.55" font_size__sm="1.375" line_height="1.7"]
+[ux_text font_size="1.55" font_size__sm="1.15" line_height="1.7"]
 
 <p>Elios Evasion est une <strong>agence de team building</strong> basée à Font-Romeu qui organise des séminaires d'entreprise clés en main en pleine nature : journées autour de Montpellier et d'Avignon, séjours de plusieurs jours à la montagne dans les Pyrénées. Matinée de travail, repas et activité de cohésion sont réunis dans une seule journée, à partir de <strong>100 € HT par personne</strong>.</p>
 [/ux_text]
@@ -66,7 +66,7 @@
 
 [row]
 
-[col span="4" span__sm="12" padding="0px 130px 0px 40px" animate="fadeInUp" border="0px 1px 0px 0px"]
+[col span="4" span__sm="12" padding="0px 130px 0px 40px" padding__sm="0px 0px 24px 0px" animate="fadeInUp" border="0px 1px 0px 0px"]
 
 [ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
 
@@ -78,7 +78,7 @@
 [/ux_text]
 
 [/col]
-[col span="4" span__sm="12" padding="0px 130px 0px 40px" animate="fadeInUp" border="0px 1px 0px 0px"]
+[col span="4" span__sm="12" padding="0px 130px 0px 40px" padding__sm="0px 0px 24px 0px" animate="fadeInUp" border="0px 1px 0px 0px"]
 
 [ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
 
@@ -90,7 +90,7 @@
 [/ux_text]
 
 [/col]
-[col span="4" span__sm="12" padding="0px 130px 0px 40px" animate="fadeInUp"]
+[col span="4" span__sm="12" padding="0px 130px 0px 40px" padding__sm="0px 0px 24px 0px" animate="fadeInUp"]
 
 [ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
 
@@ -106,11 +106,11 @@
 [/row]
 
 [/section]
-[section bg_color="rgba(61, 73, 85, 0.064)" padding="0px" padding__sm="0px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+[section bg_color="rgba(61, 73, 85, 0.064)" padding="0px" padding__sm="0px" divider_top="curve" divider_top_height="120px" divider_top_height__sm="40px" divider="curve" divider_height="120px" divider_height__sm="40px"]
 
 [gap height="96px" height__sm="48px"]
 
-[gap height="170px"]
+[gap height="170px" height__sm="0px"]
 
 [row]
 
@@ -256,11 +256,11 @@
 
 
 [/col]
-[col span="9" padding="38px 0px 122px 0px" animate="fadeInUp"]
+[col span="9" padding="38px 0px 122px 0px" padding__sm="16px 0px 24px 0px" animate="fadeInUp"]
 
 [gap height="32px" height__sm="16px"]
 
-[ux_text font_size="1.75" text_align="center"]
+[ux_text font_size="1.75" font_size__sm="1.15" text_align="center"]
 
 <p>Vous hésitez entre plusieurs formules ? Comparez <a href="/sejours/">toutes nos idées de séminaire d'entreprise</a> sur une seule page, ou imaginez une <a href="/journee-sur-mesure/">journée de cohésion sur mesure</a> à partir de 110 € HT par personne.</p>
 [/ux_text]
@@ -270,7 +270,7 @@
 [/row]
 
 [/section]
-[section bg="111" bg_size="original" parallax="4" padding="160px" padding__sm="80px"]
+[section bg="111" bg_size="original" parallax="4" padding="160px" padding__sm="56px"]
 
 [row]
 
@@ -383,7 +383,7 @@
 [/row]
 
 [/section]
-[section bg_color="#f4f5f6" padding="206px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+[section bg_color="#f4f5f6" padding="206px" padding__sm="56px" divider_top="curve" divider_top_height="120px" divider_top_height__sm="40px" divider="curve" divider_height="120px" divider_height__sm="40px"]
 
 [row h_align="center"]
 
@@ -502,7 +502,7 @@
 [/col]
 
 [/row]
-[gap height="114px"]
+[gap height="114px" height__sm="48px"]
 
 [row]
 
@@ -543,11 +543,11 @@
 [/col]
 
 [/row]
-[gap height="114px"]
+[gap height="114px" height__sm="48px"]
 
 
 [/section]
-[section bg="95" bg_size="original" padding="87px"]
+[section bg="95" bg_size="original" padding="87px" padding__sm="24px"]
 
 [block id="22"]
 

@@ -1,4 +1,4 @@
-[ux_banner height="680px" height__sm="560px" bg="139" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+[ux_banner height="680px" height__sm="520px" bg="139" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px" divider_height__sm="40px"]
 
 [text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
 
@@ -9,7 +9,7 @@
 [/text_box]
 
 [/ux_banner]
-[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="56px"]
 
 [row]
 
@@ -24,7 +24,7 @@
 [/row]
 
 [/section]
-[section padding="160px" padding__sm="80px"]
+[section padding="160px" padding__sm="56px"]
 
 [row]
 
@@ -54,7 +54,7 @@
 [/row]
 
 [/section]
-[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="56px" divider_top="curve" divider_top_height="120px" divider_top_height__sm="40px" divider="curve" divider_height="120px" divider_height__sm="40px"]
 
 [row]
 
@@ -66,7 +66,7 @@
 [ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 <h2>À lire en premier</h2>
 [/ux_text]
-[gap height="32px"]
+[gap height="32px" height__sm="16px"]
 
 [/col]
 
@@ -119,7 +119,7 @@
 [/row]
 
 [/section]
-[section padding="160px" padding__sm="80px"]
+[section padding="160px" padding__sm="56px"]
 
 [row]
 

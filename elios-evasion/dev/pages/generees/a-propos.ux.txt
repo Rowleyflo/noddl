@@ -1,4 +1,4 @@
-[ux_banner height="680px" height__sm="560px" bg="123" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+[ux_banner height="680px" height__sm="520px" bg="123" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px" divider_height__sm="40px"]
 
 [text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
 
@@ -9,7 +9,7 @@
 [/text_box]
 
 [/ux_banner]
-[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="56px"]
 
 [row]
 
@@ -24,7 +24,7 @@
 [/row]
 
 [/section]
-[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="56px" divider_top="curve" divider_top_height="120px" divider_top_height__sm="40px" divider="curve" divider_height="120px" divider_height__sm="40px"]
 
 [row]
 
@@ -43,7 +43,7 @@
 [/row]
 [row]
 
-[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+[col span="4" span__md="6" span__sm="6" animate="fadeInUp"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>NOM</strong></p>
@@ -53,7 +53,7 @@
 <p>Elios Evasion</p>
 
 [/col]
-[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+[col span="4" span__md="6" span__sm="6" animate="fadeInUp"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>ACTIVITÉ</strong></p>
@@ -63,7 +63,7 @@
 <p>agence réceptive, organisation de séminaires d'entreprise, de team buildings et de séjours incentive</p>
 
 [/col]
-[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+[col span="4" span__md="6" span__sm="6" animate="fadeInUp"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>ZONES D'INTERVENTION</strong></p>
@@ -73,7 +73,7 @@
 <p>Hérault (vallée de l'Hérault, lac du Salagou, Palavas-les-Flots), Vaucluse (Châteauneuf-du-Pape, Althen-des-Paluds, Vedène) et massif des Pyrénées</p>
 
 [/col]
-[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+[col span="4" span__md="6" span__sm="6" animate="fadeInUp"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>CLIENTS</strong></p>
@@ -83,7 +83,7 @@
 <p>entreprises, comités de direction, CSE ; groupes d'adultes</p>
 
 [/col]
-[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+[col span="4" span__md="6" span__sm="6" animate="fadeInUp"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>PRIX</strong></p>
@@ -93,7 +93,7 @@
 <p>journées de 100 à 180 € HT par personne, séjours à la montagne sur devis</p>
 
 [/col]
-[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+[col span="4" span__md="6" span__sm="6" animate="fadeInUp"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 <p><strong>TÉLÉPHONE</strong></p>
@@ -107,7 +107,7 @@
 [/row]
 
 [/section]
-[section padding="160px" padding__sm="80px"]
+[section padding="160px" padding__sm="56px"]
 
 [row v_align="middle"]
 
@@ -132,7 +132,7 @@
 [/row]
 
 [/section]
-[section padding="160px" padding__sm="80px"]
+[section padding="160px" padding__sm="56px"]
 
 [row]
 
@@ -157,7 +157,7 @@
 [/row]
 
 [/section]
-[section padding="160px" padding__sm="80px"]
+[section padding="160px" padding__sm="56px"]
 
 [row]
 
@@ -176,7 +176,7 @@
 [/row]
 
 [/section]
-[section padding="160px" padding__sm="80px"]
+[section padding="160px" padding__sm="56px"]
 
 [row v_align="middle"]
 
