@@ -7,7 +7,7 @@ meta: 12 km de descente en canoë sur l'Hérault, accessible à tous, après une
 h1: Team building canoë : descente de l'Hérault en équipe
 schema: [Service, Offer, Place, FAQPage, BreadcrumbList]
 image_principale: canoe-gorges-herault-rochers-blancs.webp
-mots: 936
+mots: 937
 ---
 
 <!-- [HERO] image : canoe-gorges-herault-rochers-blancs.webp | sur-titre : « Journée team building · Aniane, vallée de l'Hérault » | bouton : « Pré-réserver cette journée » → #devis -->
@@ -27,7 +27,7 @@ Elios Evasion organise des journées de **team building canoë dans l'Hérault**
 - **Niveau** : accessible à tous, **savoir nager obligatoire**, public adulte (18 ans et plus)
 
 <!-- [SECTION] texte + image riviere-herault-eau-claire-falaises.webp -->
-## L'activité : 12 km de descente de l'Hérault en canoë
+## Votre team building canoë : 12 km de descente de l'Hérault
 
 L'après-midi, vos équipes embarquent pour **12 kilomètres au fil de l'Hérault**. Eau claire, rochers blancs, collines boisées : la rivière traverse des paysages restés très sauvages.
 

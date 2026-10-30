@@ -27,7 +27,7 @@ Elios Evasion propose un **team building kayak près de Montpellier**, de 14 h �
 - **Niveau** : accessible à tous, public adulte (18 ans et plus)
 
 <!-- [SECTION] texte + image kayak-etang-contre-jour-filets.webp -->
-## L'activité : une balade en kayak sur les étangs de Palavas
+## L'activité : un team building kayak sur les étangs de Palavas
 
 Entre Montpellier et la mer, les **étangs de Palavas** forment un monde à part : eaux calmes, roseaux, canaux étroits, cabanes et filets de pêcheurs. C'est ce paysage que vos équipes découvrent en kayak, en fin d'après-midi.
 

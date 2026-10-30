@@ -13,7 +13,7 @@ mots: 420
 <!-- [HERO] bandeau court, image : domaine-capion-terrasse-chateau.webp | pas de bouton (le formulaire est juste en dessous) -->
 # Demandez votre devis de séminaire ou de team building
 
-Pour recevoir un **devis de séminaire** ou de team building, décrivez-nous votre projet dans le formulaire ci-dessous : dates, effectif, destination et type de journée. Nous vous recontactons sous [À CONFIRMER : délai de réponse, par exemple 48 h ouvrées] pour préciser le programme, puis nous vous envoyons une proposition chiffrée, sans engagement.
+Pour recevoir un **devis de séminaire** ou de team building, décrivez-nous votre projet dans le formulaire ci-dessous : dates, effectif, destination et type de journée. Nous vous recontactons sous [À CONFIRMER : délai de réponse, par exemple 48 h ouvrées] pour préciser le programme, puis nous vous envoyons une proposition chiffrée, gratuite et sans engagement [À CONFIRMER].
 
 <!-- [SECTION] 2 colonnes : à gauche le formulaire (2/3), à droite l'encadré coordonnées (1/3). Sur mobile, coordonnées sous le formulaire -->
 

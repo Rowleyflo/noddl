@@ -7,7 +7,7 @@ meta: 3 h de trottinette électrique tout terrain en équipe sur les sentiers du
 h1: Team building en trottinette électrique tout terrain au lac du Salagou
 schema: [Service, Offer, Place, FAQPage, BreadcrumbList]
 image_principale: trottinette-electrique-lac-salagou.webp
-mots: 928
+mots: 929
 ---
 
 <!-- [HERO] image : trottinette-electrique-lac-salagou.webp | sur-titre : « Journée team building · lac du Salagou, Hérault » | bouton : « Pré-réserver cette journée » → #devis -->
@@ -27,7 +27,7 @@ Elios Evasion propose un **team building en trottinette électrique près de Mon
 - **Niveau** : accessible à tous, public adulte (18 ans et plus)
 
 <!-- [SECTION] texte + image trottinette-electrique-tout-terrain-salagou-piste.webp -->
-## L'activité : la trottinette électrique tout terrain autour du Salagou
+## L'activité : un team building en trottinette électrique autour du Salagou
 
 Le lac du Salagou est l'un des paysages les plus singuliers de l'Hérault : une eau turquoise posée au milieu de **terres rouges**, de collines et de pistes qui serpentent entre les deux. C'est ce décor que vos équipes parcourent pendant près de **3 heures**.
 

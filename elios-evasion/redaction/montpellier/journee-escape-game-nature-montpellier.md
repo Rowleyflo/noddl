@@ -7,7 +7,7 @@ meta: Escape game en plein air au Domaine de Capion, dans la vallée de l'Hérau
 h1: Escape game team building en pleine nature près de Montpellier
 schema: [Service, Offer, Place, FAQPage, BreadcrumbList]
 image_principale: escape-game-coffres-sablier.webp
-mots: 978
+mots: 981
 ---
 
 <!-- [HERO] image : escape-game-coffres-sablier.webp | sur-titre : « Journée team building · Domaine de Capion, Aniane » | bouton : « Pré-réserver cette journée » → #devis -->
@@ -27,7 +27,7 @@ Elios Evasion organise un **escape game team building près de Montpellier**, en
 - **Niveau** : accessible à tous, public adulte (18 ans et plus)
 
 <!-- [SECTION] texte + image escape-game-carnet-indices-equipe.webp -->
-## L'activité : un escape game en extérieur dans la vallée de l'Hérault
+## L'activité : un escape game team building en plein air, dans la vallée de l'Hérault
 
 Oubliez la pièce fermée et le compte à rebours dans le noir. Ici, le terrain de jeu, c'est le **parc boisé du Domaine de Capion**, ou ses vignes si vous le préférez. Vos équipes partent avec un téléphone, suivent les indices et avancent d'énigme en énigme jusqu'au dénouement.
 

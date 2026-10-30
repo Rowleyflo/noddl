@@ -7,7 +7,7 @@ meta: Une enquête animée par un pro dans un château de la vallée de l'Hérau
 h1: Murder party d'entreprise dans un château près de Montpellier
 schema: [Service, Offer, Place, FAQPage, BreadcrumbList]
 image_principale: murder-party-cartes-indices.webp
-mots: 919
+mots: 921
 ---
 
 <!-- [HERO] image : murder-party-cartes-indices.webp | sur-titre : « Journée team building · château de Capion, vallée de l'Hérault » | bouton : « Pré-réserver cette journée » → #devis -->
@@ -27,7 +27,7 @@ Elios Evasion organise une **murder party d'entreprise près de Montpellier**, d
 - **Niveau** : accessible à tous, public adulte (18 ans et plus)
 
 <!-- [SECTION] texte + image murder-party-scene-de-crime.webp -->
-## Une enquête au château, entre collègues devenus suspects
+## Une murder party d'entreprise au château, entre collègues devenus suspects
 
 Le principe d'une murder party est simple : un crime a été commis, et le coupable se cache parmi vous. Pendant l'après-midi, vos collaborateurs forment des **équipes de détectives**. Ils interrogent, recoupent les témoignages, analysent les indices et tentent de confondre le suspect avant les autres.
 

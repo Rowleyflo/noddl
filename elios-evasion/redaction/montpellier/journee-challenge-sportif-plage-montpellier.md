@@ -7,7 +7,7 @@ meta: Pirogue tahitienne, paddle géant, épreuves sur le sable : des olympiades
 h1: Olympiades d'entreprise et challenge sportif sur la plage de Palavas
 schema: [Service, Offer, Place, FAQPage, BreadcrumbList]
 image_principale: header-challenge-sportif-pirogues.webp
-mots: 922
+mots: 925
 ---
 
 <!-- [HERO] image : header-challenge-sportif-pirogues.webp (reprendre l'image d'origine, bandeau courbe intégré) | sur-titre : « Journée team building · Palavas-les-Flots » | bouton : « Pré-réserver cette journée » → #devis -->
@@ -28,7 +28,7 @@ Elios Evasion organise des **olympiades d'entreprise près de Montpellier**, sur
 - **Niveau** : accessible à tous, public adulte (18 ans et plus)
 
 <!-- [SECTION] texte + image pirogue-tahitienne-team-building-palavas.webp -->
-## Les épreuves de vos olympiades d'entreprise
+## Les épreuves de vos olympiades d'entreprise près de Montpellier
 
 Une plage, de l'eau, des équipes et un classement : la recette des olympiades fonctionne parce qu'elle est simple. À Palavas, vos collaborateurs enchaînent des épreuves sur l'eau et sur le sable, du matin jusqu'à l'annonce des résultats.
 
