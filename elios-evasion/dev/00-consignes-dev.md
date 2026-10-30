@@ -39,7 +39,7 @@
 | Contenu des pages | **Shortcodes UX Builder** dans `post_content`, éditables ensuite dans UX Builder. Attributs et valeurs par défaut : `reference-flatsome/shortcodes-attributs.md` | `inc/shortcodes/**` |
 | Sections réutilisables (CTA, réassurance, témoignages…) | Type de contenu **`blocks`** (`show_in_rest => true`), shortcode **`[block id=""]`** | `inc/post-types/post-type-ux-blocks.php` |
 | Footer | Option **`footer_block`** : choisit un Bloc UX comme footer | `inc/admin/options/footer/options-footer.php` |
-| Pleine largeur sans titre automatique | Modèle de page **`page-blank.php`** (« Page - Full Width ») | en-tête du fichier |
+| Pleine largeur sans titre automatique | Modèle de page **`page-blank.php`** (« Page - Full Width ») ; pour un header transparent à texte clair : **`page-transparent-header-light.php`** | en-tête du fichier |
 | Séparateurs de section (vagues, courbes) | Attributs de `[section]` : `divider_top`, `divider_top_height`, `divider_top_fill`, `divider_top_flip`, `divider`, `divider_height`, `divider_fill`, `divider_flip`, `divider_to_front`. Les formes disponibles sont dans `inc/builder/shortcodes/values/dividers.php` | `inc/shortcodes/sections.php` |
 | Fil d'Ariane | Option **`wpseo_breadcrumb`** : remplace le fil d'Ariane Flatsome par celui de Yoast | `inc/integrations/wp-seo/class-wp-seo.php` |
 | Formulaires | Contact Form 7, avec les **préréglages Flatsome** (onglet « Presets » dans l'éditeur de CF7 : classes `form-flat`, `flex-row`, `button primary`) | `inc/integrations/contact-form-7/contact-form-7.php` |
@@ -57,23 +57,24 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 
 | Élément | Clé Flatsome | Valeur |
 |---|---|---|
-| Couleur principale | `color_primary` | [À DÉCIDER] (vert actuel du site : `#a9c810`) |
-| Couleur secondaire | `color_secondary` | [À DÉCIDER] (rouge actuel du site : `#e54b4b`) |
-| Succès / alerte | `color_success` / `color_alert` | [À DÉCIDER] |
-| Texte, liens | `color_texts`, `color_links` | [À DÉCIDER] |
-| Typo des titres | `type_headings` | [À DÉCIDER] (police actuelle : Montserrat) |
-| Typo du texte | `type_texts` | [À DÉCIDER] |
-| Typo de navigation, typo alternative | `type_nav`, `type_alt` | [À DÉCIDER] |
-| Taille de base | `type_size` | [À DÉCIDER] |
-| Largeur du contenu | `site_width` | [À DÉCIDER] |
-| Arrondi des boutons | `button_radius` | [À DÉCIDER] |
-| Logo | `site_logo` | logo actuel `LOGO_Elios-Evasion_wht.png`, en attendant le SVG |
+| Couleur principale | `color_primary` | `#000000` (monochrome de la maquette, **provisoire** : la charte Elios sera appliquée plus tard) |
+| Couleur secondaire | `color_secondary` | `#444748` (provisoire) |
+| Succès / alerte | `color_success` / `color_alert` | inchangés |
+| Texte, titres, liens | `color_texts`, `type_headings_color`, `color_links` / `color_links_hover` | `#444748`, `#000000`, `#000000` / `#444748` |
+| Filets | `color_divider` | `#E2E2E2` ; fonds de section : `#EEEEEE` (gris), `#F9F9F9` (footer) |
+| Typo des titres / du texte | `type_headings` / `type_texts` | **Geist** regular (vérifiée dans la liste Google Fonts de Flatsome) |
+| Typo de navigation / alternative | `type_nav` / `type_alt` | Geist 500 / Geist 300 |
+| Taille de base | `type_size` | 100 (16 px) ; échelle : 5 / 3 / 2 / 0,75 rem (`[ux_text font_size]`), voir `pages/accueil-design-releve.md` § 2.2 |
+| Largeur du contenu | `site_width` | 1152 |
+| Arrondi des boutons | `button_radius` | `99px` (pilule) |
+| Espacement des sections | attribut `padding` de `[section]` | 128px (64px sur mobile) |
+| Logo | `site_logo` | logo actuel `LOGO_Elios-Evasion_wht.png` ; version foncée à fournir |
 
 **Règles d'usage dans les pages** (conséquences de la directive 3) :
 - **Couleurs** : seulement `primary`, `secondary`, `success`, `alert`, ainsi que le blanc et le noir. Dans les attributs (`color`, `bg_color`…), on utilise les **mots-clés de couleur Flatsome** (`primary`, `secondary`, `white`…) quand l'attribut les accepte, sinon le code hexadécimal **exact** de la palette.
 - **Espacements de section** : une seule échelle (ex. `padding="60px"` pour une section standard, `padding="30px"` pour une section serrée), notée ici une fois choisie.
 - **Titres de section** : toujours le même élément `[title]`, avec le même `style`.
-- **Boutons** : principal en `color="primary"`, secondaire en `color="primary" style="outline"`. Aucune autre variante.
+- **Boutons** (3 variantes, imposées par la maquette) : plein `color="primary"` ; blanc sur photo `color="white"` ; lien souligné `style="underline"`. Les deux derniers ont une flèche (`icon="icon-angle-right" icon_pos="right"`). Aucune autre variante.
 - **Bandeau de haut de page** : le même `[ux_banner]` (hauteur, superposition, alignement) sur toutes les pages d'un même type.
 
 ## 5. Gabarits de page (correspondance avec les commentaires `<!-- [BLOC] -->` de la rédaction)
@@ -158,7 +159,7 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 
 - **Méta Yoast** : on les saisit à la main (34 pages), ou bien on ajoute temporairement un petit code PHP (pas de CSS) dans le thème enfant pour les rendre modifiables par l'API REST ? → à décider avec le client.
 - **Données structurées JSON-LD** (cf. `../seo/04-geo-ia.md`) : elles demandent du PHP dans le thème enfant ou une extension → à décider.
-- **Identité visuelle** : garder le vert `#a9c810`, le rouge `#e54b4b` et Montserrat du site actuel, ou les faire évoluer ?
+- **Identité visuelle** : monochrome et Geist pour l'instant (maquette) ; la charte Elios (vert `#a9c810`…) sera appliquée plus tard.
 
 ## 8. Journal des décisions
 
@@ -172,3 +173,4 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | 30/10/2026 | Photos : celles récupérées de l'ancien site (`../contenu/images/`, à retélécharger avec `../telecharger-images.sh`), renommées et converties en WebP selon `../seo/donnees/images-alt.csv`. |
 | 30/10/2026 | L'accueil est intégré **à partir de la maquette PDF du designer** (mise en page, design) et des **textes de `../redaction/transverse/accueil.md`** (contenu). La proposition `maquette/accueil-proposition.dc.html` n'est pas un modèle. Procédure : `01-brief-accueil-depuis-maquette.md`. |
 | 30/10/2026 | Maquette reçue : `Adventure_Tour.pdf`, un modèle Figma monochrome « Trekova » de 5 pages (la page 1 est l'accueil), non commité. Le relevé et la correspondance Flatsome sont dans `pages/accueil-design-releve.md` : **en attente de validation du client** (questions Q1 à Q14). L'accueil sera construit dans la **page brouillon existante (id 8)**. |
+| 30/10/2026 | Réponses du client sur le relevé : monochrome conservé pour l'instant (charte plus tard), police **Geist**, sections hors maquette ajoutées dans son style, sur-titres rédigés (ajoutés dans `accueil.md`), footer mixte. Points 🔶 vérifiés dans le zip Flatsome. Accueil sur le modèle `page-transparent-header-light.php`. Relevé v2 en attente de validation. |

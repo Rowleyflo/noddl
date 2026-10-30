@@ -15,31 +15,32 @@ mots: 1090
 
 Elios Evasion est une **agence de team building** basée à Font-Romeu qui organise des séminaires d'entreprise clés en main en pleine nature : journées autour de Montpellier et d'Avignon, séjours de plusieurs jours à la montagne dans les Pyrénées. Matinée de travail, repas et activité de cohésion sont réunis dans une seule journée, à partir de **100 € HT par personne**.
 
-<!-- [SECTION] 3 puces courtes sous l'intro, icônes -->
+<!-- sur-titre (ajouté le 30/10/2026, maquette) : « [L'AGENCE] » ; l'intro ci-dessus est affichée en grand texte -->
+<!-- [SECTION] 3 puces courtes sous l'intro, icônes (maquette : à la place de la rangée de chiffres clés) -->
 - **Un seul interlocuteur**, du premier appel à l'apéritif de fin de journée.
 - **Travail et cohésion le même jour** : salle équipée le matin, activité l'après-midi.
 - **Des lieux qui changent du bureau** : grotte, château, vignoble, plage, montagne.
 
-<!-- [CARTES] 3 cartes destinations : image, H3, 2 lignes, lien texte -->
+<!-- [CARTES] 3 cartes destinations : image, H3, 2 lignes, lien texte | sur-titre : « [NOS DESTINATIONS] » -->
 ## Trois destinations pour vos séminaires d'entreprise
 
 Nous travaillons sur trois territoires que nous connaissons bien, chacun avec ses lieux partenaires et son ambiance. Près des villes, nos journées évitent l'hébergement et limitent les trajets ; à la montagne, le séjour laisse le temps de prendre du recul.
 
-<!-- carte 1 | image : team-building-paddle-geant-equipe.webp -->
+<!-- carte 1 | image : team-building-paddle-geant-equipe.webp | ligne de lieu : « HÉRAULT · SALAGOU · PALAVAS-LES-FLOTS » -->
 ### Montpellier et la vallée de l'Hérault
 Sept journées clés en main entre la vallée de l'Hérault, le lac du Salagou et la plage de Palavas-les-Flots, à 20 à 50 minutes de Montpellier. Découvrez notre offre de [team building à Montpellier](/seminaire-montpellier/).
 
-<!-- carte 2 | image : chateau-fines-roches-vignes-crepuscule.webp -->
+<!-- carte 2 | image : chateau-fines-roches-vignes-crepuscule.webp | ligne de lieu : « VAUCLUSE · CHÂTEAUNEUF-DU-PAPE » -->
 ### Avignon et la Provence
 Quatre journées dans les châteaux et les vignobles du Vaucluse, de Châteauneuf-du-Pape à la Quiz Room d'Avignon. Voir nos [séminaires et team building autour d'Avignon](/seminaire-avignon/).
 
-<!-- carte 3 | image : seminaire-ski-groupe-entreprise-neige.webp -->
+<!-- carte 3 | image : seminaire-ski-groupe-entreprise-neige.webp | ligne de lieu : « FONT-ROMEU · HIVER ET ÉTÉ » -->
 ### Les Pyrénées, au départ de Font-Romeu
 Des séjours de deux jours ou plus, l'hiver sur les pistes et l'été en randonnée, avec hébergement, salle et activités organisés pour vous. Pour un [séminaire à la montagne dans les Pyrénées](/sejours/sejour-team-building-pyrenees/), c'est notre terrain d'origine.
 
 Vous hésitez entre plusieurs formules ? Comparez [toutes nos idées de séminaire d'entreprise](/sejours/) sur une seule page, ou imaginez une [journée de cohésion sur mesure](/journee-sur-mesure/) à partir de 110 € HT par personne.
 
-<!-- [SECTION] 4 étapes numérotées, en ligne sur ordinateur, en colonne sur mobile -->
+<!-- [SECTION] 4 étapes numérotées, en ligne sur ordinateur, en colonne sur mobile | sur-titre : « [NOTRE MÉTHODE] » | intitulés des colonnes : « 01 · VOTRE PROJET », « 02 · VOTRE PROGRAMME », « 03 · LES RÉSERVATIONS », « 04 · LE JOUR J » -->
 ## Comment se passe l'organisation avec notre agence de team building
 
 1. **Vous nous décrivez votre projet.** Dates, effectif, destination, objectif de la journée : le formulaire de devis prend deux minutes, et vous pouvez aussi nous appeler au [06 79 02 93 32](tel:+33679029332).
@@ -47,7 +48,7 @@ Vous hésitez entre plusieurs formules ? Comparez [toutes nos idées de séminai
 3. **Vous validez, nous réservons.** Lieu, traiteur, encadrants, matériel : nous nous occupons de toutes les réservations auprès de nos partenaires.
 4. **Le jour J, vous profitez.** Vos équipes travaillent le matin, partagent l'activité l'après-midi et terminent autour d'un apéritif. Une soirée est possible sur demande.
 
-<!-- [CARTES] 3 offres coup de cœur : image, badge prix, H3, 2 lignes, lien -->
+<!-- [CARTES] 3 offres coup de cœur : image, badge prix, H3, 2 lignes, lien | sur-titre : « [COUPS DE CŒUR] » | lien de chaque offre : « VOIR LA JOURNÉE → » (carte 3 : « VOIR LE SÉJOUR → ») -->
 ## Nos offres coup de cœur
 
 <!-- carte 1 | image : grotte-clamouse-parcours-aventure-tyrolienne.webp | badge : « dès 100 € HT/pers. » -->
@@ -70,7 +71,7 @@ Ski, raquettes, chiens de traîneau, biathlon et dîner d'altitude en dameuse : 
 - **[PROVISOIRE] 80+** entreprises clientes
 - **7 lieux partenaires** entre l'Hérault et le Vaucluse, et un réseau de prestataires dans les Pyrénées
 
-<!-- [TEMOIGNAGES] 3 témoignages, carrousel. Texte et signatures [PROVISOIRE] : interdits en ligne tels quels, à remplacer par de vrais avis clients avec leur accord -->
+<!-- [TEMOIGNAGES] 3 témoignages, carrousel. Texte et signatures [PROVISOIRE] : interdits en ligne tels quels, à remplacer par de vrais avis clients avec leur accord | décision du 30/10/2026 : on publie les 3 vrais avis de l'ancien site (Céline A., Samantha C., Mathieu M., voir ../pyrenees/sejour-team-building-pyrenees.md), avec la ligne « SÉJOUR DANS LES PYRÉNÉES » | sur-titre : « [AVIS CLIENTS] » -->
 ## Ce qu'en disent nos clients
 
 > « [PROVISOIRE] Nous cherchions un séminaire qui sorte de la salle de réunion. La matinée de travail au domaine puis la descente de l'Hérault en canoë ont soudé l'équipe, et tout était organisé de A à Z. »
@@ -82,7 +83,7 @@ Ski, raquettes, chiens de traîneau, biathlon et dîner d'altitude en dameuse : 
 > « [PROVISOIRE] Deux jours à Font-Romeu avec ateliers le matin, raquettes et chiens de traîneau l'après-midi : notre meilleur séminaire de direction. »
 > — [PROVISOIRE] Directeur général, groupe toulousain · Séminaire Pyrénées hiver · 2024
 
-<!-- [SECTION] texte + image olympiades-entreprise-plage-groupe.webp -->
+<!-- [SECTION] texte + image olympiades-entreprise-plage-groupe.webp | sur-titre : « [POURQUOI ELIOS] » -->
 ## Pourquoi confier votre séminaire à une agence locale
 
 Organiser un séminaire seul, c'est trouver une salle, un traiteur, un prestataire d'activité, vérifier les horaires et gérer les imprévus. Avec Elios Evasion, vous n'avez qu'un contact et qu'un devis.
@@ -91,7 +92,7 @@ Nous travaillons avec des lieux que nous connaissons : la grotte de Clamouse, le
 
 Nos journées s'adressent aux entreprises, aux comités de direction et aux CSE, pour des groupes d'adultes. Pour préparer votre projet, lisez notre guide [comment organiser un séminaire d'entreprise](/blog/organiser-seminaire-entreprise/).
 
-<!-- [FAQ] 4 questions, balisage FAQPage -->
+<!-- [FAQ] 4 questions, balisage FAQPage | sur-titre : « [BON À SAVOIR] » -->
 ## Questions fréquentes
 
 ### Quel budget prévoir pour une journée de team building ?
@@ -109,7 +110,7 @@ Prévoyez au moins quatre semaines avant la date de votre journée [À CONFIRMER
 ### Peut-on garder un temps de travail pendant la journée ?
 Oui, c'est le principe de nos journées : une matinée de travail dans une salle équipée, puis l'activité de cohésion l'après-midi. Le programme peut aussi être inversé, ou se passer de temps de travail.
 
-<!-- [CTA] bandeau pleine largeur, image de fond kayak-paddle-etang-palavas-coucher-soleil.webp -->
+<!-- [CTA] bandeau pleine largeur, image de fond kayak-paddle-etang-palavas-coucher-soleil.webp | sur-titre : « [VOTRE PROJET] » -->
 ## Parlons de votre prochain séminaire
 
 Donnez-nous vos dates, votre effectif et la destination qui vous tente : nous revenons vers vous avec une proposition et un devis.
