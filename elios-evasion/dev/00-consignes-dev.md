@@ -7,6 +7,7 @@
 1. **Pas de CSS personnalisé.**
    - Rien dans « CSS personnalisé » (Flatsome > Avancé ou Customizer > CSS additionnel), rien dans un `style.css` de thème enfant, aucun attribut `style=""` écrit à la main dans les contenus, aucune classe inventée.
    - Seuls sont permis les **options Flatsome** (Customizer / theme mods) et les **attributs natifs des éléments UX Builder** (shortcodes).
+   - **Exception autorisée par le client le 30/10/2026 : le menu pilule du header**, et lui seul (`css/menu-pilule.css`, posé dans *Flatsome > Avancé > Custom CSS* par l'import n° 3).
    - Les classes utilitaires **fournies par Flatsome** (ex. `form-flat`, `flex-row`, `button primary` dans les modèles Contact Form 7 du thème) sont permises, car elles font partie du thème.
 2. **Zéro hallucination.**
    - On n'utilise que ce qui est **vérifié dans le code source de Flatsome 3.20.12** (voir `reference-flatsome/`) ou dans la documentation officielle.
@@ -41,7 +42,8 @@
 | Sections réutilisables (CTA, réassurance, témoignages…) | Type de contenu **`blocks`** (`show_in_rest => true`), shortcode **`[block id=""]`** | `inc/post-types/post-type-ux-blocks.php` |
 | Footer | Option **`footer_block`** : choisit un Bloc UX comme footer | `inc/admin/options/footer/options-footer.php` |
 | Pleine largeur sans titre automatique | Modèle de page **`page-blank.php`** (« Page - Full Width ») ; pour un header transparent à texte clair : **`page-transparent-header-light.php`** | en-tête du fichier |
-| Photos à coins arrondis, avec dégradé | `[ux_image_box image_radius="2"]` (en **%** ; `.box-image` découpe la photo) ; `style="shade"` = dégradé sombre en bas ; `style="overlay"` + `image_overlay` = voile uni et texte centré (`text_pos="middle"`). **Ne pas** utiliser `[ux_banner]` pour une photo arrondie : son `border_radius` n'arrondit que la bordure décorative | `inc/shortcodes/ux_image_box.php`, `commons/border.php` |
+| **Règle du client (30/10)** : images = **bloc image `[ux_image]`**, ou **`[ux_banner]`** si du texte est posé dessus. Encarts arrondis à **16 px**. Pas de `[ux_image_box]` | — | — |
+| Photos à coins arrondis, avec dégradé (abandonné, voir la règle ci-dessus) | `[ux_image_box image_radius="2"]` (en **%** ; `.box-image` découpe la photo) ; `style="shade"` = dégradé sombre en bas ; `style="overlay"` + `image_overlay` = voile uni et texte centré (`text_pos="middle"`). **Ne pas** utiliser `[ux_banner]` pour une photo arrondie : son `border_radius` n'arrondit que la bordure décorative | `inc/shortcodes/ux_image_box.php`, `commons/border.php` |
 | Séparateurs de section (vagues, courbes) | Attributs de `[section]` : `divider_top`, `divider_top_height`, `divider_top_fill`, `divider_top_flip`, `divider`, `divider_height`, `divider_fill`, `divider_flip`, `divider_to_front`. Les formes disponibles sont dans `inc/builder/shortcodes/values/dividers.php` | `inc/shortcodes/sections.php` |
 | Fil d'Ariane | Option **`wpseo_breadcrumb`** : remplace le fil d'Ariane Flatsome par celui de Yoast | `inc/integrations/wp-seo/class-wp-seo.php` |
 | Formulaires | Contact Form 7, avec les **préréglages Flatsome** (onglet « Presets » dans l'éditeur de CF7 : classes `form-flat`, `flex-row`, `button primary`) | `inc/integrations/contact-form-7/contact-form-7.php` |
@@ -180,3 +182,4 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | 30/10/2026 | Accueil construit en brouillon sur la préprod : page 8, blocs 21-23, menu 3, médias 12-20, logos 38-39. Envoi des JPEG d'origine à cause de l'AVIF. Logo couleur à texte foncé trouvé sur l'ancien site, d'où le header collant réactivé (import n° 2, à coller par le client). Écarts et captures dans `pages/accueil-ecarts.md`. |
 | 30/10/2026 | Retour du client sur le brouillon : plus d'air et photos à coins arrondis. Toutes les photos passent en `[ux_image_box]` arrondis (dégradé `shade` sur les cartes), et l'espacement passe à 160 px. Import n° 2 appliqué par le client. |
 | 30/10/2026 | Hero refait selon la hiérarchie de la maquette (H1, sous-titre, un seul bouton, bloc calé à gauche et en bas), avec la photo fournie par le client (média 47, pic du Midi d'Ossau). |
+| 30/10/2026 | Client : images uniquement en `[ux_image]` (ou `[ux_banner]` avec texte), encarts arrondis à 16 px ; CSS perso autorisé pour le **menu pilule uniquement** (import n° 3). Point bloquant : `[ux_image]` n'a pas d'attribut d'arrondi, et `bg_radius` de colonne ne découpe pas son contenu (pas d'`overflow:hidden` dans le thème). Question posée au client. |
