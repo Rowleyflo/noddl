@@ -1,0 +1,476 @@
+[ux_banner height="680px" height__sm="560px" bg="20" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>APRÈS-MIDI TEAM BUILDING · ÉTANGS DE PALAVAS-LES-FLOTS</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Team building kayak au coucher du soleil sur l'étang de Palavas</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Pré-réserver cet après-midi" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion propose un <strong>team building kayak près de Montpellier</strong>, de 14 h à 20 h, à Palavas-les-Flots, à 20 minutes de la ville. Après-midi de travail, balade en kayak sur les étangs en fin de journée, puis dégustation chez un pêcheur. Pour 35 personnes maximum, de mai à septembre, à partir de <strong>130 € HT par personne</strong>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>LIEU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>étangs de Palavas-les-Flots (34250)</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ACCÈS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>environ 20 min en voiture depuis Montpellier (12 km)</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DURÉE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>de 14 h à 20 h, soirée possible ensuite</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>SAISON</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>de mai à septembre</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>à partir de 130 € HT par personne</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NON INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>le transport</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NIVEAU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>accessible à tous, public adulte (18 ans et plus)</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="130" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>L'activité : un team building kayak sur les étangs de Palavas</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Entre Montpellier et la mer, les <strong>étangs de Palavas</strong> forment un monde à part : eaux calmes, roseaux, canaux étroits, cabanes et filets de pêcheurs. C'est ce paysage que vos équipes découvrent en kayak, en fin d'après-midi.</p>
+<p>L'eau des étangs est plate et protégée.</p>
+<h3>L'escale chez un pêcheur</h3>
+<p>À mi-parcours, le groupe accoste chez <strong>un pêcheur des étangs</strong>. Il vous fait déguster les produits issus directement de sa pêche. C'est le moment fort de la journée : une rencontre authentique, loin des buffets de salon.</p>
+<h3>Une cohésion en douceur</h3>
+<p>Pas de chrono ni de classement ici. La balade invite à la conversation, d'un kayak à l'autre. C'est souvent là que se nouent des échanges qu'on n'a jamais le temps d'avoir au bureau.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Votre après-midi de travail à Palavas-les-Flots</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Ce format inverse la journée classique.</p>
+<p>Tout le matériel est fourni. Vous pouvez aussi inviter un intervenant, d'un magicien à un sportif de haut niveau, pour lancer la réflexion. À 17 h, on range les ordinateurs : direction les kayaks.</p>
+<p>Ce rythme convient bien aux équipes qui ne peuvent pas bloquer une journée entière, ou qui cherchent un <strong>afterwork d'entreprise près de Montpellier</strong> qui sort de l'ordinaire.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Le programme</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>APRÈS-MIDI</strong></p>
+[/ux_text]
+<ul>
+<li>14 h : arrivée sur le lieu de travail</li>
+<li>14 h – 14 h 30 : accueil café</li>
+<li>14 h 30 – 17 h : après-midi de travail</li>
+<li>17 h : départ pour l'activité</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>SOIR</strong></p>
+[/ux_text]
+<ul>
+<li>17 h 30 : début de la balade en kayak sur l'étang</li>
+<li>18 h 30 : escale chez le pêcheur et dégustation</li>
+<li>19 h 30 : fin de l'activité</li>
+<li>À partir de 20 h : soirée sur demande</li>
+</ul>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;EN IMAGES&#93;</strong></p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="20" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="3" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="130" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="3" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="129" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="3" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="132" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi choisir cet après-midi</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un format court et efficace</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>six heures, de 14 h à 20 h, travail compris.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un petit groupe</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>35 personnes au maximum, pour un moment convivial où chacun se parle.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Une rencontre locale</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>la dégustation chez un pêcheur, un vrai morceau de culture palavasienne.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>La lumière du soir</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>la balade se déroule à l'heure où les étangs sont les plus beaux.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À DÉCOUVRIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Autres journées autour de Montpellier</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="128" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/">Olympiades sur la plage de Palavas</a></strong></p>
+[/ux_text]
+<p>côté mer cette fois, avec pirogue tahitienne et paddle géant, dès 130 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/"]
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="116" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-descente-canoe-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-descente-canoe-montpellier/">Descente de l'Hérault en canoë</a></strong></p>
+[/ux_text]
+<p>une autre façon de pagayer ensemble, sur 12 km de rivière, dès 120 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-descente-canoe-montpellier/"]
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="MEDIA:murder-party-cartes-indices.webp" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-murder-party-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-murder-party-montpellier/">Murder party dans un château</a></strong></p>
+[/ux_text]
+<p>une enquête animée au Domaine de Capion, toute l'année, dès 140 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-murder-party-montpellier/"]
+
+[/col]
+
+[/row]
+[row h_align="center"]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="32px"]
+
+[ux_text font_size="1.25" text_align="center"]
+<p>Vous organisez une sortie pour votre comité d'entreprise ? Lisez nos <a href="/blog/idees-sortie-cse/">idées de sortie CSE et les règles à connaître</a>. Et retrouvez <a href="/seminaire-montpellier/">toutes nos journées team building à Montpellier</a>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Pourquoi ce team building kayak à Montpellier est-il limité à 35 personnes ?"]
+
+<p>La balade et l'escale chez le pêcheur sont pensées pour un groupe à taille humaine. Au-delà de 35 personnes, nous vous orientons vers une autre formule, comme les olympiades sur la plage de Palavas.</p>
+
+[/accordion-item]
+[accordion-item title="Peut-on prolonger par un dîner ?"]
+
+<p>Oui. La balade se termine vers 19 h 30, et une soirée peut être organisée sur demande à partir de 20 h. Précisez-le dans votre demande de devis.</p>
+
+[/accordion-item]
+[accordion-item title="Combien coûte cet après-midi team building ?"]
+
+<p>À partir de 130 € HT par personne, avec accueil café, salle de travail, kayak et dégustation. Le transport n'est pas inclus. Le prix final dépend de l'effectif, de la date et des options.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Pré-réservez votre balade sur l'étang</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Indiquez vos dates et votre effectif (35 personnes au maximum) : nous revenons vers vous avec un programme et un devis. Pensez à réserver au moins 4 semaines à l'avance.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

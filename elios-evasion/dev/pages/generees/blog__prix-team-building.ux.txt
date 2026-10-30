@@ -1,0 +1,387 @@
+[row]
+
+[col span__sm="12"]
+
+<p><em>Mis à jour le 30 octobre 2026 · tarifs Elios Evasion 2026</em></p>
+<p>Le prix d'un team building dépend surtout de ce qui est inclus. D'après des tarifs publics relevés en septembre 2026, comptez <strong>30 à 120 € par personne pour une activité seule</strong> de 2 à 3 heures et <strong>100 à 250 € pour une journée complète</strong> (<a href="https://conseil.morning.fr/en/blog/team-building-budget-per-person/">Morning, 2026</a>). Chez Elios Evasion, une journée complète coûte de <strong>100 à 180 € HT par personne</strong>, repas, salle et activité compris, transport en plus.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="marche">Prix d'un team building : les fourchettes du marché</h2>
+[/ux_text]
+<p><strong>Sommaire</strong>
+1. <a href="#marche">Les prix du marché</a>
+2. <a href="#variables">Ce qui fait varier le prix</a>
+3. <a href="#prix-elios">Nos prix, offre par offre</a>
+4. <a href="#comparaison">Elios et le marché : la comparaison honnête</a>
+5. <a href="#exemples">Deux exemples de budget : 20 et 50 personnes</a>
+6. <a href="#plusieurs-jours">Et pour un séminaire de plusieurs jours ?</a>
+7. <a href="#conseils">Comment maîtriser son budget</a>
+8. <a href="#faq">Questions fréquentes</a></p>
+<p>Il n'existe pas de tarif officiel. Deux sources donnent toutefois des ordres de grandeur utiles.</p>
+<p><strong>Les tarifs publics des prestataires.</strong> Une synthèse publiée par Morning en septembre 2026, construite à partir de tarifs relevés sur plusieurs plateformes de réservation, donne les fourchettes suivantes (<a href="https://conseil.morning.fr/en/blog/team-building-budget-per-person/">source</a>) :</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[gap height="8px"]
+
+<table>
+<thead>
+<tr>
+<th>Format</th>
+<th>Budget indicatif par personne</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Activité seule (2 à 3 h)</td>
+<td>30 à 120 €</td>
+</tr>
+<tr>
+<td>Demi-journée clé en main</td>
+<td>40 à 90 €</td>
+</tr>
+<tr>
+<td>Journée complète</td>
+<td>100 à 250 €</td>
+</tr>
+<tr>
+<td>Journée et soirée</td>
+<td>120 à 280 €</td>
+</tr>
+<tr>
+<td>Séminaire de 2 jours et 1 nuit</td>
+<td>250 à 600 €</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Les dépenses déclarées par les entreprises.</strong> L'étude annuelle de Coach Omnium sur le tourisme d'affaires relève une dépense de <strong>100 à 160 € par participant pour une journée d'études</strong> (salle et repas, en général sans activité) et de <strong>240 à 300 € pour un séminaire résidentiel</strong> (<a href="https://www.tendancehotellerie.fr/articles-breves/communique-de-presse/24154-article/resultats-de-l-etude-coach-omnium-et-le-groupe-1001salles-sur-les-tendances-de-la-demande-en-tourisme-d-affaires-mice-pour-2024-2025">communiqué de l'étude MICE 2025</a>).</p>
+<p>Ces chiffres sont des repères, pas des prix garantis. Vérifiez toujours si un tarif est affiché HT ou TTC, et ce qu'il comprend.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À RETENIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="variables">Ce qui fait varier le prix d'un team building</h2>
+[/ux_text]
+<blockquote>
+<p><strong>À retenir</strong>
+- Activité seule : environ 30 à 120 € par personne.
+- Journée complète : environ 100 à 250 € par personne.
+- Comparez toujours à périmètre égal : ce qui est inclus compte plus que le prix affiché.</p>
+</blockquote>
+<h3>Ce qui est inclus</h3>
+<p>C'est le premier facteur. Une activité de deux heures dans un parc n'a rien à voir avec une journée qui comprend le petit-déjeuner, la salle de travail équipée, le déjeuner, l'activité encadrée et l'apéritif. Demandez toujours la liste détaillée.</p>
+<h3>L'activité et son encadrement</h3>
+<p>Une activité qui demande du matériel, des moniteurs diplômés ou un animateur professionnel coûte plus cher qu'un jeu autonome. Une dégustation avec un sommelier, une murder party animée par un comédien ou une sortie en canoë encadrée n'ont pas le même coût de revient.</p>
+<h3>L'effectif</h3>
+<p>Une partie des coûts est fixe : privatisation du lieu, animateur, préparation. Le prix par personne baisse donc souvent quand le groupe grandit. À l'inverse, certaines activités sont plafonnées, comme notre balade en kayak, limitée à 35 personnes.</p>
+<h3>Le lieu, la date et la saison</h3>
+<p>Un château ou un domaine privatisé coûte plus qu'une salle polyvalente. Les jours et les périodes les plus demandés sont aussi les plus chers et les premiers réservés.</p>
+<h3>Les options</h3>
+<p>Intervenant pendant la matinée de travail, soirée, cadeaux, photographe : chacune s'ajoute au budget.</p>
+<h3>Le transport et l'hébergement</h3>
+<p>Ils sont rarement compris dans les prix affichés. C'est le cas chez nous : <strong>le transport n'est pas inclus</strong> dans nos journées.</p>
+<h3>La TVA</h3>
+<p>Les prix destinés aux entreprises sont le plus souvent affichés <strong>hors taxes</strong>. Ajoutez la TVA pour connaître le montant réellement payé, surtout si votre structure (CSE, association) ne la récupère pas.</p>
+<h2 id="prix-elios">Nos prix, offre par offre</h2>
+<p>Tous nos prix sont des prix « à partir de », <strong>par personne et hors taxes</strong>. Ils comprennent le petit-déjeuner, le déjeuner, la salle et le matériel de travail, l'activité et l'apéritif de fin de journée. Le transport n'est pas inclus.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="comparaison">Elios et le marché : la comparaison honnête</h2>
+[/ux_text]
+[gap height="8px"]
+
+<table>
+<thead>
+<tr>
+<th>Journée</th>
+<th>Lieu</th>
+<th>Saison</th>
+<th>Prix dès (HT/pers.)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Grotte : escape game et parcours aventure</td>
+<td>Grotte de Clamouse, vallée de l'Hérault</td>
+<td>Toute l'année</td>
+<td>100 €</td>
+</tr>
+<tr>
+<td>Journée sur mesure</td>
+<td>Selon votre projet</td>
+<td>Toute l'année</td>
+<td>110 €</td>
+</tr>
+<tr>
+<td>Descente de l'Hérault en canoë</td>
+<td>Vallée de l'Hérault</td>
+<td>Mai à septembre</td>
+<td>120 €</td>
+</tr>
+<tr>
+<td>Olympiades sur la plage</td>
+<td>Palavas-les-Flots</td>
+<td>Mai à septembre</td>
+<td>130 €</td>
+</tr>
+<tr>
+<td>Kayak au coucher du soleil (35 pers. max)</td>
+<td>Étangs de Palavas</td>
+<td>Mai à septembre</td>
+<td>130 €</td>
+</tr>
+<tr>
+<td>Quiz géant en équipe</td>
+<td>Château de Beauregard et Quiz Room (Vedène), près d'Avignon</td>
+<td>Toute l'année</td>
+<td>130 €</td>
+</tr>
+<tr>
+<td>Escape game en pleine nature</td>
+<td>Domaine de Capion (Hérault)</td>
+<td>Toute l'année</td>
+<td>140 €</td>
+</tr>
+<tr>
+<td>Escape game dans les vignes</td>
+<td>Moulin des Gaffins (Vaucluse)</td>
+<td>Toute l'année</td>
+<td>140 €</td>
+</tr>
+<tr>
+<td>Murder party dans un château</td>
+<td>Domaine de Capion (Hérault)</td>
+<td>Toute l'année</td>
+<td>140 €</td>
+</tr>
+<tr>
+<td>Trottinette électrique tout terrain</td>
+<td>Lac du Salagou</td>
+<td>Mai à septembre</td>
+<td>140 €</td>
+</tr>
+<tr>
+<td>Murder party au château de Beauregard</td>
+<td>Près d'Avignon</td>
+<td>Toute l'année</td>
+<td>150 €</td>
+</tr>
+<tr>
+<td>Œnologie à Châteauneuf-du-Pape</td>
+<td>Château des Fines Roches</td>
+<td>Toute l'année</td>
+<td>180 €</td>
+</tr>
+<tr>
+<td>Séminaire de plusieurs jours</td>
+<td>Pyrénées, base à Font-Romeu</td>
+<td>Été et hiver</td>
+<td>Sur devis</td>
+</tr>
+</tbody>
+</table>
+<p>Le détail de chaque formule et les réponses aux questions courantes sont regroupés dans nos <a href="/faq/">tarifs détaillés et questions fréquentes</a>.</p>
+<p><strong>Pour une journée complète</strong>, nos prix (100 à 180 € HT) se situent dans la moitié basse de la fourchette de marché (100 à 250 €). Ils comprennent aussi des postes que beaucoup de devis facturent à part : petit-déjeuner, salle équipée et apéritif.</p>
+<p><strong>Par rapport à une journée d'études sans activité</strong> (100 à 160 € par participant selon Coach Omnium), nos journées coûtent un peu plus pour la plupart, mais l'activité encadrée est comprise.</p>
+<p><strong>Là où nous ne sommes pas les moins chers</strong> : si vous cherchez seulement une activité de deux heures près de vos bureaux, sans salle ni repas, une animation urbaine à 30 ou 60 € par personne sera plus économique. Nos journées se déroulent en pleine nature, à 20 à 50 minutes de Montpellier ou d'Avignon : il faut aussi compter le trajet.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À RETENIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="exemples">Deux exemples de budget : 20 et 50 personnes</h2>
+[/ux_text]
+<blockquote>
+<p><strong>À retenir</strong>
+- Nos journées complètes : 100 à 180 € HT, dans la moitié basse du marché.
+- Petit-déjeuner, déjeuner, salle, activité et apéritif sont compris.
+- Le transport reste à prévoir en plus.</p>
+</blockquote>
+<p>Les calculs ci-dessous partent de nos prix « à partir de ». Le montant final dépend de la date, des options et de la capacité du lieu à la date choisie. <strong>Transport et TVA non inclus.</strong></p>
+<h3>Pour 20 personnes</h3>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[gap height="8px"]
+
+<table>
+<thead>
+<tr>
+<th>Formule</th>
+<th>Calcul</th>
+<th>Total HT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Journée grotte, près de Montpellier</td>
+<td>20 × 100 €</td>
+<td><strong>2 000 €</strong></td>
+</tr>
+<tr>
+<td>Journée œnologie à Châteauneuf-du-Pape</td>
+<td>20 × 180 €</td>
+<td><strong>3 600 €</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Avec 20 personnes, toutes nos journées sont possibles, y compris le kayak au coucher du soleil (35 personnes au maximum).</p>
+<h3>Pour 50 personnes</h3>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="plusieurs-jours">Et pour un séminaire de plusieurs jours ?</h2>
+[/ux_text]
+[gap height="8px"]
+
+<table>
+<thead>
+<tr>
+<th>Formule</th>
+<th>Calcul</th>
+<th>Total HT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Olympiades sur la plage de Palavas</td>
+<td>50 × 130 €</td>
+<td><strong>6 500 €</strong></td>
+</tr>
+<tr>
+<td>Murder party au château de Beauregard</td>
+<td>50 × 150 €</td>
+<td><strong>7 500 €</strong></td>
+</tr>
+</tbody>
+</table>
+<p>À 50 personnes, le kayak n'est plus possible.</p>
+<h3>À ajouter à ces montants</h3>
+<ul>
+<li><strong>La TVA</strong>, au taux applicable aux prestations facturées.</li>
+<li><strong>Les options</strong> : intervenant le matin, soirée, sur devis.</li>
+</ul>
+<p>Un séminaire résidentiel ajoute l'hébergement, le dîner et souvent une seconde activité. Les repères du marché vont de <strong>240 à 300 € par participant</strong> selon Coach Omnium, et de <strong>250 à 600 € par personne</strong> pour deux jours et une nuit selon la synthèse de Morning.</p>
+<p>Nos séminaires dans les Pyrénées sont <strong>sur devis</strong>, car tout dépend de l'hébergement (hôtel, chalet, résidence), de la saison et des activités choisies. Vous pouvez comparer nos formules à la journée et nos séjours sur la page <a href="/sejours/">nos séminaires et team buildings</a>.</p>
+<h2 id="conseils">Comment maîtriser le budget de votre team building</h2>
+<ol>
+<li><strong>Fixez un budget par personne</strong> avant de demander des devis.</li>
+<li><strong>Comparez à périmètre égal</strong> : HT ou TTC, repas, salle, transport.</li>
+<li><strong>Choisissez un lieu « tout en un »</strong> : salle, repas et activité au même endroit, sans déplacement en journée.</li>
+<li><strong>Soyez souple sur la date</strong> : un jour de semaine est souvent plus simple à réserver.</li>
+<li><strong>Mutualisez le transport</strong> : un autocar pour tout le groupe est souvent plus simple que de multiples trajets en voiture.</li>
+<li><strong>Limitez les options</strong> à celles qui servent votre objectif.</li>
+</ol>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="faq">Questions fréquentes</h2>
+[/ux_text]
+[accordion faq_schema="true"]
+
+[accordion-item title="Quel est le prix moyen d'un team building ?"]
+
+<p>Il n'existe pas de prix moyen officiel. D'après des tarifs publics relevés en 2026, une activité seule coûte environ 30 à 120 € par personne, et une journée complète environ 100 à 250 €. Chez Elios Evasion, une journée complète coûte de 100 à 180 € HT par personne, repas et salle compris.</p>
+
+[/accordion-item]
+[accordion-item title="Les prix sont-ils HT ou TTC ?"]
+
+<p>Nos prix sont affichés hors taxes, par personne. La TVA s'ajoute au moment de la facturation. C'est la pratique courante pour les prestations destinées aux entreprises.</p>
+
+[/accordion-item]
+[accordion-item title="Le transport est-il compris dans le prix ?"]
+
+<p>Non. Nos journées comprennent le petit-déjeuner, le déjeuner, la salle de travail, l'activité et l'apéritif, mais pas le transport. Nous pouvons vous conseiller sur la meilleure solution selon votre point de départ.</p>
+
+[/accordion-item]
+[accordion-item title="Combien coûte un team building pour 50 personnes ?"]
+
+<p>Avec nos formules, comptez à partir de 5 000 € HT pour 50 personnes avec la journée grotte, et jusqu'à 9 000 € HT avec la journée œnologie, transport non inclus. Par exemple, des olympiades sur la plage de Palavas reviennent à partir de 6 500 € HT.</p>
+
+[/accordion-item]
+[accordion-item title="Combien coûte un séminaire de 2 jours ?"]
+
+<p>Selon les repères du marché, un séminaire de deux jours avec une nuit coûte environ 250 à 600 € par personne. Nos séminaires dans les Pyrénées sont établis sur devis, selon l'hébergement, la saison et les activités.</p>
+
+[/accordion-item]
+
+[/accordion]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#aac816"]
+<h2>Obtenir un chiffrage précis</h2>
+[/ux_text]
+<p>Indiquez-nous votre effectif, vos dates et la formule qui vous intéresse : nous vous envoyons un devis détaillé, poste par poste. <a href="/contact/">Demander un devis</a>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+

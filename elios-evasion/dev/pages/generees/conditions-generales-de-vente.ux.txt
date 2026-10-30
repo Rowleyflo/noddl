@@ -1,0 +1,73 @@
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="2.2" font_size__sm="1.6" line_height="1.2" text_color="#3d4955"]
+<h1>Conditions générales de vente</h1>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12"]
+
+<p><strong>Sommaire</strong> : <a href="#objet">1. Objet</a> · <a href="#devis">2. Devis et réservation</a> · <a href="#prix">3. Prix</a> · <a href="#paiement">4. Paiement</a> · <a href="#effectif">5. Effectif</a> · <a href="#modification">6. Modification par le client</a> · <a href="#annulation">7. Annulation par le client</a> · <a href="#annulation-elios">8. Annulation ou modification par Elios Evasion</a> · <a href="#meteo">9. Météo et activités de plein air</a> · <a href="#securite">10. Déroulement et sécurité</a> · <a href="#responsabilite">11. Responsabilité et assurances</a> · <a href="#reclamations">12. Réclamations</a> · <a href="#donnees">13. Données personnelles et droit à l'image</a> · <a href="#droit">14. Droit applicable</a></p>
+<h2 id="objet">1. Objet et champ d'application</h2>
+<p>Elles concernent l'organisation de journées de team building, de séminaires d'entreprise et de séjours de plusieurs jours, vendus à des clients professionnels : entreprises, administrations, associations et comités sociaux et économiques (ci-après « le Client »).</p>
+<p>Toute commande implique l'acceptation sans réserve des présentes CGV, qui prévalent sur les conditions d'achat du Client, sauf accord écrit contraire. Les conditions particulières figurant sur le devis prévalent sur les CGV.</p>
+<h2 id="devis">2. Devis et réservation</h2>
+<p><strong>2.1 Demande.</strong> Le Client adresse sa demande via le formulaire du site, par téléphone ou par e-mail, en précisant notamment les dates, l'effectif estimé et la formule souhaitée.</p>
+<p><strong>2.2 Devis.</strong> Elios Evasion établit un devis détaillé : programme, lieux, prestations incluses et non incluses, prix unitaire et total. Les disponibilités des lieux et des prestataires ne sont garanties qu'à la confirmation de la réservation.</p>
+<p><strong>2.3 Confirmation.</strong> La réservation devient ferme à réception par Elios Evasion :
+- du devis signé, avec la mention « bon pour accord », ou d'un bon de commande du Client reprenant le devis ;
+- et de l'acompte prévu à l'article 4.</p>
+<h2 id="prix">3. Prix</h2>
+<p><strong>3.1</strong> Les prix sont exprimés en euros et hors taxes, par personne ou au forfait, selon le devis.</p>
+<p><strong>3.2</strong> Les prix « à partir de » affichés sur le site correspondent à une journée type et sont donnés à titre indicatif. Seul le prix du devis accepté engage les parties.</p>
+<p><strong>3.3</strong> Sauf mention contraire sur le devis, le prix d'une journée comprend : le petit-déjeuner, le déjeuner, la mise à disposition d'une salle et du matériel de travail, l'activité encadrée et l'apéritif de fin de journée. Il ne comprend pas le transport des participants, ni les dépenses personnelles.</p>
+<h2 id="paiement">4. Conditions de paiement</h2>
+<p>Elios Evasion peut suspendre l'exécution de la prestation en cas de défaut de paiement de l'acompte ou du solde exigible.</p>
+<h2 id="effectif">5. Effectif</h2>
+<p><strong>5.3</strong> Une hausse d'effectif est acceptée dans la limite des capacités des lieux et des prestataires, et facturée au prix unitaire du devis.</p>
+<p><strong>5.4</strong> Certaines formules ont un effectif maximal, précisé sur le devis (par exemple 35 personnes pour la balade en kayak sur l'étang de Palavas).</p>
+<h2 id="modification">6. Modification par le Client</h2>
+<p>Toute demande de modification (date, programme, lieu) doit être faite par écrit.</p>
+<h2 id="annulation">7. Annulation par le Client</h2>
+<p><strong>7.1</strong> Toute annulation, totale ou partielle, doit être notifiée par écrit (e-mail ou courrier). La date de réception fixe le montant des frais.</p>
+<p><strong>7.2</strong> Les frais d'annulation sont les suivants, en pourcentage du montant TTC de la prestation :</p>
+<p><strong>7.4</strong> Pour les séjours comprenant un hébergement, des conditions d'annulation spécifiques peuvent figurer sur le devis, selon les conditions des hébergeurs.</p>
+<h2 id="annulation-elios">8. Annulation ou modification par Elios Evasion</h2>
+<p><strong>8.1</strong> Si un lieu ou un prestataire devient indisponible, Elios Evasion propose au Client une prestation de qualité équivalente. Si le Client la refuse, les sommes versées lui sont intégralement remboursées.</p>
+<p><strong>8.3 Force majeure.</strong> Aucune partie n'est responsable d'un manquement causé par un cas de force majeure au sens de l'article 1218 du Code civil.</p>
+<h2 id="meteo">9. Météo et activités de plein air</h2>
+<p><strong>9.1</strong> Certaines activités se déroulent en extérieur ou sur l'eau (canoë, kayak, olympiades sur la plage, trottinette électrique, activités de montagne). Elles dépendent des conditions météorologiques, de l'état des cours d'eau et de l'enneigement.</p>
+<p><strong>9.2</strong> Les professionnels qui encadrent les activités sont seuls juges des conditions de sécurité. Si l'activité ne peut pas avoir lieu dans des conditions sûres, Elios Evasion propose, dans la mesure du possible :
+- un décalage de l'activité dans la journée ;
+- une activité de remplacement ;
+- ou un report à une date ultérieure.</p>
+<h2 id="securite">10. Déroulement et sécurité</h2>
+<p><strong>10.1</strong> Les prestations sont destinées à un public adulte (18 ans et plus).</p>
+<p><strong>10.2</strong> Le Client s'assure que les participants sont aptes à pratiquer les activités choisies et les informe des conditions indiquées sur le devis (par exemple, savoir nager pour la descente en canoë). Il signale à l'avance toute contre-indication, besoin d'accessibilité ou régime alimentaire.</p>
+<p><strong>10.3</strong> Les participants respectent les consignes de sécurité des encadrants et le règlement des lieux. Un encadrant peut exclure d'une activité un participant dont le comportement met en danger sa sécurité ou celle des autres, sans remboursement.</p>
+<p><strong>10.4</strong> L'abus d'alcool est dangereux pour la santé.</p>
+<p><strong>10.5</strong> Le Client est responsable des dégradations causées par ses participants aux lieux et au matériel mis à disposition.</p>
+<h2 id="responsabilite">11. Responsabilité et assurances</h2>
+<p><strong>11.2</strong> Elios Evasion n'est pas responsable des dommages résultant du fait du Client ou des participants, du non-respect des consignes, du fait imprévisible et insurmontable d'un tiers, ou d'un cas de force majeure.</p>
+<p><strong>11.4</strong> Les objets personnels des participants restent sous leur responsabilité. Il appartient au Client de vérifier que ses propres assurances couvrent ses collaborateurs pendant la prestation.</p>
+<h2 id="reclamations">12. Réclamations</h2>
+<h2 id="donnees">13. Données personnelles et droit à l'image</h2>
+<p><strong>13.1</strong> Les données transmises par le Client sont traitées conformément à notre <a href="/politique-de-confidentialite/">politique de confidentialité</a>.</p>
+<p><strong>13.2</strong> Elios Evasion peut prendre des photos pendant la prestation.</p>
+<h2 id="droit">14. Droit applicable et litiges</h2>
+<p>Les présentes CGV sont soumises au droit français. En cas de litige, les parties recherchent d'abord une solution amiable.</p>
+<p>&#91;À CONFIRMER par le juriste : clauses spécifiques si Elios vend aussi à des particuliers (absence de droit de rétractation pour les prestations de loisirs à date déterminée, art. L221-28 du Code de la consommation ; médiation de la consommation).&#93;</p>
+
+[/col]
+
+[/row]
+
+[/section]

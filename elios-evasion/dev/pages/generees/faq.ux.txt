@@ -1,0 +1,264 @@
+[ux_banner height="680px" height__sm="560px" bg="20" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Questions fréquentes : prix, organisation et réservation</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Le <strong>prix d'un team building</strong> chez Elios Evasion va de 100 à 180 € HT par personne pour une journée clé en main près de Montpellier ou d'Avignon, repas, salle de travail et activité compris. Les séminaires de plusieurs jours dans les Pyrénées sont établis sur devis. Retrouvez ci-dessous les réponses aux questions que nous posent le plus souvent les RH, les dirigeants et les élus de CSE.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+<p><strong>Thèmes</strong> : <a href="#prix">Prix et budget</a> · <a href="#inclus">Ce qui est inclus</a> · <a href="#meteo">Météo et saison</a> · <a href="#transport">Transport et accès</a> · <a href="#accessibilite">Accessibilité</a> · <a href="#cse">CSE</a></p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="prix">Prix d'un team building et budget</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Combien coûte un team building avec Elios Evasion ?"]
+
+<p>Nos journées clés en main coûtent de 100 à 180 € HT par personne selon l'activité : 100 € pour la grotte de Clamouse, 120 € pour le canoë, 130 € pour les olympiades, le kayak ou le quiz, 140 € pour les escape games, la murder party près de Montpellier et la trottinette, 150 € pour la murder party près d'Avignon et 180 € pour l'œnologie. La journée sur mesure démarre à 110 € HT. Toutes les formules sont comparées sur notre page <a href="/sejours/">séminaires et team buildings clés en main</a>.</p>
+
+[/accordion-item]
+[accordion-item title="Qu'est-ce qui fait varier le prix final ?"]
+
+<p>Le prix « à partir de » correspond à une journée standard. Le devis final dépend de votre effectif, de la date, du lieu choisi et des options : intervenant pendant la matinée, soirée, transport ou activité supplémentaire. Pour un programme qui sort de nos formules, voyez notre <a href="/journee-sur-mesure/">journée de team building sur mesure</a>.</p>
+
+[/accordion-item]
+[accordion-item title="Quel budget prévoir pour un séminaire de plusieurs jours à la montagne ?"]
+
+<p>Nos séminaires dans les Pyrénées sont établis sur devis, car le prix dépend surtout de l'hébergement (du chalet à l'hôtel, de 2 à 5 étoiles), de la durée et des activités choisies. Décrivez-nous votre projet sur la page <a href="/sejours/sejour-team-building-pyrenees/">séminaire d'entreprise dans les Pyrénées</a> et nous vous envoyons une estimation.</p>
+
+[/accordion-item]
+[accordion-item title="Quelle est la formule la plus économique ?"]
+
+<p>La <a href="/seminaire-montpellier/journee-grotte-montpellier/">journée dans la grotte de Clamouse</a>, près de Montpellier, est notre formule la plus accessible, à partir de 100 € HT par personne avec les repas et la salle. Pour comprendre comment se construit un budget de séminaire, lisez aussi notre article <a href="/blog/prix-team-building/">prix d'un team building : quel budget par personne ?</a>.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="inclus">Ce qui est inclus dans nos journées</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Que comprend le prix d'une journée de team building ?"]
+
+<p>Le prix comprend le petit-déjeuner, le déjeuner, la salle et le matériel pour votre temps de travail, l'activité encadrée et l'apéritif de fin de journée. Le transport n'est pas inclus. Le détail de chaque journée figure dans l'encadré « L'essentiel » des pages de nos <a href="/seminaire-montpellier/">journées de team building à Montpellier</a>.</p>
+
+[/accordion-item]
+[accordion-item title="Peut-on ajouter un intervenant ou une soirée ?"]
+
+<p>Oui. Nous pouvons faire venir un intervenant pendant la matinée de travail, d'un magicien à un sportif de haut niveau, et organiser une soirée après l'apéritif. Ces options sont chiffrées dans votre devis ; elles se combinent facilement dans une <a href="/journee-sur-mesure/">journée sur mesure</a>.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="meteo">Météo et saison</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Quelles activités sont possibles toute l'année ?"]
+
+<p>La grotte, les escape games, les murder parties, le quiz et l'œnologie sont proposés toute l'année. Le canoë, le kayak, la trottinette électrique et les olympiades sur la plage ont lieu de mai à septembre. En hiver, pensez aussi au <a href="/sejours/seminaire-ski-hiver/">séminaire ski à Font-Romeu</a>.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="transport">Transport et accès</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="À quelle distance de Montpellier et d'Avignon se trouvent vos lieux ?"]
+
+<p>Autour de Montpellier, comptez environ 20 minutes pour Palavas-les-Flots, 40 minutes pour la vallée de l'Hérault (Aniane, Saint-Jean-de-Fos) et 50 minutes pour le lac du Salagou. Autour d'Avignon, nos lieux sont à 20 à 30 minutes du centre, à Châteauneuf-du-Pape, Althen-des-Paluds et Vedène. Les trajets sont précisés sur chaque page, par exemple pour le <a href="/seminaire-avignon/">team building près d'Avignon</a>.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="accessibilite">Accessibilité</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Faut-il être sportif pour participer ?"]
+
+<p>Non, la plupart de nos journées sont accessibles à tous : la grotte, les escape games, les murder parties, le quiz et l'œnologie ne demandent aucune condition physique. Pour la descente en canoë, il faut savoir nager. Chaque page précise le niveau, comme celle du <a href="/seminaire-montpellier/journee-grotte-montpellier/">team building dans une grotte</a>.</p>
+
+[/accordion-item]
+[accordion-item title="Les journées sont-elles ouvertes aux mineurs ?"]
+
+<p>Non, nos séminaires et team buildings s'adressent à un public adulte, de 18 ans et plus. Certaines journées comprennent d'ailleurs une dégustation ou un apéritif. Toutes nos formules pour adultes sont présentées sur la page <a href="/sejours/">nos séminaires</a>.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="cse">CSE et sorties d'équipe</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Un CSE peut-il réserver une journée ?"]
+
+<p>Oui. Le devis et la facture sont alors établis au nom du CSE, et la journée peut se faire sans temps de travail, sous forme de sortie conviviale. La <a href="/seminaire-avignon/journee-decouverte-du-vin/">dégustation à Châteauneuf-du-Pape</a> et le kayak au coucher du soleil font partie des formules les plus adaptées. Pour les règles de financement, lisez notre article <a href="/blog/idees-sortie-cse/">sortie CSE : idées et règles à connaître</a>.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Vous n'avez pas trouvé votre réponse ?</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Posez-nous directement votre question ou demandez un devis : nous vous répondons avec une proposition adaptée à votre groupe.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

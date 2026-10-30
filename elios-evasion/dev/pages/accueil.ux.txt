@@ -1,6 +1,6 @@
-[ux_banner height="100%" bg="47" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 40%" parallax="2" video_mp4="https://core-flatsome.otakudesign.fr/wp-content/uploads/2026/10/elios-evasion-video-pyrenees.mp4"]
+[ux_banner height="994px" bg="47" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 40%" parallax="7" divider="curve" divider_height="120px" video_mp4="https://core-flatsome.otakudesign.fr/wp-content/uploads/2026/10/elios-evasion-video-pyrenees.mp4"]
 
-[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="85" position_y__sm="85" text_align="left"]
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="85" text_align="left"]
 
 [ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
 
@@ -12,40 +12,43 @@
 [/ux_text]
 [gap height="16px"]
 
-[button text="Demander un devis" color="white" size="small" padding="10px 28px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
 
 
 [/text_box]
-[text_box width="4" width__sm="8" animate="fadeInUp" position_x="100" position_y="90"]
+[text_box width="5" width__sm="8" animate="fadeInUp" position_x="100" position_y="90" text_align="right"]
 
 [follow style="small" scale="139" facebook="https://www.facebook.com/p/Elios-Evasion-100070387800853/" instagram="https://www.instagram.com/eliosevasion/" linkedin="https://www.linkedin.com/in/eliottreyivan/"]
 
-
-[/text_box]
-[text_box width="20" width__sm="45" animate="fadeInUp" position_x="100" position_y="95" text_align="right"]
-
-[button text="Voir plus" color="white" style="link" size="small" icon="icon-angle-down" icon_pos="right" link="#agence"]
+[button style="link" size="xxlarge" icon="icon-angle-down" icon_pos="right" link="#agence"]
 
 
 [/text_box]
 
 [/ux_banner]
-[section padding="160px" padding__sm="80px"]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
 
 [scroll_to title="L'agence" link="agence" bullet="false"]
 
 [row]
 
-[col span="5" span__sm="12" padding="0px 64px 0px 0px" animate="fadeInUp"]
+[col span__sm="12"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 
-<p>&#91;L'AGENCE&#93;</p>
+<p><strong>[L'AGENCE]</strong></p>
 [/ux_text]
-[ux_text font_size="1.25" line_height="1.3"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="5" span__sm="12" padding="0px 64px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 
 <h2>Venez vous ressourcer et renforcer la cohésion de vos équipes grâce à nos team-building insolite</h2>
-
 [/ux_text]
 
 [/col]
@@ -63,32 +66,39 @@
 
 [row]
 
-[col animate="fadeInUp"]
+[col span="4" span__sm="12" padding="0px 130px 0px 40px" animate="fadeInUp" border="0px 1px 0px 0px"]
 
-[divider width="100%" height="1px" color="#E2E2E2"]
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
 
-[gap height="48px" height__sm="24px"]
-
-
-[/col]
-[col span="4" span__sm="12" animate="fadeInUp"]
-
+<h3>Un seul interlocuteur tout du long</h3>
+[/ux_text]
 [ux_text font_size="1.25" line_height="1.4"]
-<p><strong>Un seul interlocuteur</strong>, du premier appel à l'apéritif de fin de journée.</p>
+
+<p>du premier appel à l'apéritif de fin de journée.</p>
 [/ux_text]
 
 [/col]
-[col span="4" span__sm="12" animate="fadeInUp"]
+[col span="4" span__sm="12" padding="0px 130px 0px 40px" animate="fadeInUp" border="0px 1px 0px 0px"]
 
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+
+<h3>Travail et cohésion le même jour</h3>
+[/ux_text]
 [ux_text font_size="1.25" line_height="1.4"]
-<p><strong>Travail et cohésion le même jour</strong> : salle équipée le matin, activité l'après-midi.</p>
+
+<p>salle équipée le matin, activité l'après-midi.</p>
 [/ux_text]
 
 [/col]
-[col span="4" span__sm="12" animate="fadeInUp"]
+[col span="4" span__sm="12" padding="0px 130px 0px 40px" animate="fadeInUp"]
 
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+
+<h3>Des lieux qui changent du bureau</h3>
+[/ux_text]
 [ux_text font_size="1.25" line_height="1.4"]
-<p><strong>Des lieux qui changent du bureau</strong> : grotte, château, vignoble, plage, montagne.</p>
+
+<p>grotte, château, vignoble, plage, montagne.</p>
 [/ux_text]
 
 [/col]
@@ -96,11 +106,15 @@
 [/row]
 
 [/section]
-[section padding="0px" padding__sm="0px"]
+[section bg_color="rgba(61, 73, 85, 0.064)" padding="0px" padding__sm="0px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[gap height="96px" height__sm="48px"]
+
+[gap height="170px"]
 
 [row]
 
-[col span="4" span__sm="12" animate="fadeInUp"]
+[col span__sm="12"]
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 
@@ -108,28 +122,35 @@
 [/ux_text]
 
 [/col]
+
+[/row]
+[row]
+
 [col span="4" span__sm="12" animate="fadeInUp"]
 
-[ux_text font_size="1.25" line_height="1.3"]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
 
 <h2>Trois destinations pour vos séminaires d'entreprise</h2>
 [/ux_text]
 
 [/col]
-[col span="4" span__sm="12" animate="fadeInUp"]
+[col span="6" span__sm="12" padding="11px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.4"]
 
 <p>Nous travaillons sur trois territoires que nous connaissons bien, chacun avec ses lieux partenaires et son ambiance. Près des villes, nos journées évitent l'hébergement et limitent les trajets ; à la montagne, le séjour laisse le temps de prendre du recul.</p>
+[/ux_text]
 
 [/col]
 
 [/row]
 [gap height="48px" height__sm="24px"]
 
-[row]
+[row v_align="equal" h_align="center"]
 
-[col span__sm="12" animate="fadeInUp"]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
-[ux_banner height="460px" height__sm="360px" bg="13" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" hover="zoom-long" link="/seminaire-montpellier/"]
+[ux_banner height="400px" height__sm="360px" bg="13" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" hover="zoom-long" link="/seminaire-montpellier/"]
 
 [text_box width="80" width__sm="90" position_x="5" position_y="90" text_align="left"]
 
@@ -147,12 +168,23 @@
 [/ux_banner]
 [gap height="16px"]
 
+[ux_banner height="200px" bg_color="rgba(0, 0, 0, 0)"]
+
+[text_box text_color="dark" width="96" position_x="50" position_y="0"]
+
+[ux_text font_size="1"]
+
 <p>Sept journées clés en main entre la vallée de l'Hérault, le lac du Salagou et la plage de Palavas-les-Flots, à 20 à 50 minutes de Montpellier. Découvrez notre offre de <a href="/seminaire-montpellier/">team building à Montpellier</a>.</p>
-[gap height="32px" height__sm="16px"]
+[/ux_text]
+
+[/text_box]
+
+[/ux_banner]
+[button text="Nos séjours héraultais" size="small" padding="10px 30px 10px 30px" expand="true" icon="icon-angle-right" icon_pos="right" link="/contact/"]
 
 
 [/col]
-[col span="6" span__sm="12" animate="fadeInUp"]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 [ux_banner height="400px" height__sm="360px" bg="14" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" hover="zoom-long" link="/seminaire-avignon/"]
 
@@ -172,10 +204,23 @@
 [/ux_banner]
 [gap height="16px"]
 
+[ux_banner height="200px" bg_color="rgba(0, 0, 0, 0)"]
+
+[text_box text_color="dark" width="96" position_x="50" position_y="0"]
+
+[ux_text font_size="1"]
+
 <p>Quatre journées dans les châteaux et les vignobles du Vaucluse, de Châteauneuf-du-Pape à la Quiz Room d'Avignon. Voir nos <a href="/seminaire-avignon/">séminaires et team building autour d'Avignon</a>.</p>
+[/ux_text]
+
+[/text_box]
+
+[/ux_banner]
+[button text="Nos séjours provençaux" size="small" padding="10px 30px 10px 30px" expand="true" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
 
 [/col]
-[col span="6" span__sm="12" animate="fadeInUp"]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
 
 [ux_banner height="400px" height__sm="360px" bg="15" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" hover="zoom-long" link="/sejours/sejour-team-building-pyrenees/"]
 
@@ -195,31 +240,47 @@
 [/ux_banner]
 [gap height="16px"]
 
+[ux_banner height="200px" bg_color="rgba(0, 0, 0, 0)"]
+
+[text_box text_color="dark" width="96" position_x="50" position_y="0"]
+
+[ux_text font_size="1"]
+
 <p>Des séjours de deux jours ou plus, l'hiver sur les pistes et l'été en randonnée, avec hébergement, salle et activités organisés pour vous. Pour un <a href="/sejours/sejour-team-building-pyrenees/">séminaire à la montagne dans les Pyrénées</a>, c'est notre terrain d'origine.</p>
+[/ux_text]
+
+[/text_box]
+
+[/ux_banner]
+[button text="Nos séjours pyrénéens" size="small" padding="10px 30px 10px 30px" expand="true" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
 
 [/col]
-[col animate="fadeInUp"]
+[col span="9" padding="38px 0px 122px 0px" animate="fadeInUp"]
 
 [gap height="32px" height__sm="16px"]
 
+[ux_text font_size="1.75" text_align="center"]
+
 <p>Vous hésitez entre plusieurs formules ? Comparez <a href="/sejours/">toutes nos idées de séminaire d'entreprise</a> sur une seule page, ou imaginez une <a href="/journee-sur-mesure/">journée de cohésion sur mesure</a> à partir de 110 € HT par personne.</p>
+[/ux_text]
 
 [/col]
 
 [/row]
 
 [/section]
-[section padding="160px" padding__sm="80px"]
+[section bg="111" bg_size="original" parallax="4" padding="160px" padding__sm="80px"]
 
 [row]
 
 [col animate="fadeInUp"]
 
-[ux_text font_size="0.75" text_color="#047ea3"]
+[ux_text font_size="0.75" text_color="#3d4955"]
 
-<p>&#91;COUPS DE CŒUR&#93;</p>
+<p><strong>[COUPS DE CŒUR]</strong></p>
 [/ux_text]
-[ux_text font_size="1.25" line_height="1.3"]
+[ux_text font_size="1.25" line_height="1.3" text_color="#aac816"]
 
 <h2>Nos offres coup de cœur</h2>
 [/ux_text]
@@ -252,7 +313,7 @@
 <p>Parcours aventure et escape game dans la grotte de Clamouse, à 40 minutes de Montpellier, toute l'année. Le <a href="/seminaire-montpellier/journee-grotte-montpellier/">team building dans une grotte</a> est notre formule la plus accessible.</p>
 [gap height="16px"]
 
-[button text="Voir la journée" style="underline" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-grotte-montpellier/"]
+[button text="Voir la journée" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-grotte-montpellier/"]
 
 
 [/col]
@@ -270,14 +331,14 @@
 [/ux_text]
 [ux_text font_size="2.4" font_size__sm="1.6" line_height="1.2"]
 
-<h3>Dans les vignes, près d'Avignon</h3>
+<h3>Dans les vignes, près d’Avignon</h3>
 [/ux_text]
 [gap height="8px"]
 
 <p>Une initiation avec un sommelier au château des Fines Roches, au cœur de l'AOC Châteauneuf-du-Pape. Une <a href="/seminaire-avignon/journee-decouverte-du-vin/">dégustation à Châteauneuf-du-Pape</a> conviviale, accessible aux novices comme aux amateurs.</p>
 [gap height="16px"]
 
-[button text="Voir la journée" style="underline" icon="icon-angle-right" icon_pos="right" link="/seminaire-avignon/journee-decouverte-du-vin/"]
+[button text="Voir la journée" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-avignon/journee-decouverte-du-vin/"]
 
 
 [/col]
@@ -314,7 +375,7 @@
 <p>Ski, raquettes, chiens de traîneau, biathlon et dîner d'altitude en dameuse : un <a href="/sejours/seminaire-ski-hiver/">séminaire ski à Font-Romeu</a> qui sort vraiment vos équipes du quotidien.</p>
 [gap height="16px"]
 
-[button text="Voir le séjour" style="underline" icon="icon-angle-right" icon_pos="right" link="/sejours/seminaire-ski-hiver/"]
+[button text="Voir le séjour" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/sejours/seminaire-ski-hiver/"]
 
 
 [/col]
@@ -322,19 +383,19 @@
 [/row]
 
 [/section]
-[section bg_color="#EEEEEE" padding="160px" padding__sm="80px"]
+[section bg_color="#f4f5f6" padding="206px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
 
 [row h_align="center"]
 
 [col span="10" span__sm="12" animate="fadeInUp"]
 
-[ux_text font_size="0.75" text_color="#047ea3"]
+[ux_text font_size="0.75" text_align="center" text_color="rgba(61, 73, 85, 0.512)"]
 
-<p>&#91;NOTRE MÉTHODE&#93;</p>
+<p><strong>[NOTRE MÉTHODE]</strong></p>
 [/ux_text]
 [ux_text font_size="1.875" font_size__sm="1.25" line_height="1.2" text_align="center"]
 
-<h2>Comment se passe l'organisation avec notre agence de team building</h2>
+<h2>Comment se passe l’organisation avec notre agence de team building ?</h2>
 [/ux_text]
 [gap height="80px" height__sm="40px"]
 
@@ -346,7 +407,7 @@
 
 [col span="3" span__sm="12" animate="fadeInUp"]
 
-[ux_text font_size="0.75"]
+[ux_text font_size="0.75" text_color="#047ea3"]
 
 <p><strong>01 · VOTRE PROJET</strong></p>
 [/ux_text]
@@ -359,7 +420,7 @@
 [/col]
 [col span="3" span__sm="12" animate="fadeInUp"]
 
-[ux_text font_size="0.75"]
+[ux_text font_size="0.75" text_color="#047ea3"]
 
 <p><strong>02 · VOTRE PROGRAMME</strong></p>
 [/ux_text]
@@ -372,7 +433,7 @@
 [/col]
 [col span="3" span__sm="12" animate="fadeInUp"]
 
-[ux_text font_size="0.75"]
+[ux_text font_size="0.75" text_color="#047ea3"]
 
 <p><strong>03 · LES RÉSERVATIONS</strong></p>
 [/ux_text]
@@ -385,7 +446,7 @@
 [/col]
 [col span="3" span__sm="12" animate="fadeInUp"]
 
-[ux_text font_size="0.75"]
+[ux_text font_size="0.75" text_color="#047ea3"]
 
 <p><strong>04 · LE JOUR J</strong></p>
 [/ux_text]
@@ -398,11 +459,21 @@
 [/col]
 
 [/row]
+[row]
+
+[col span__sm="12" padding="45px 0px 0px 0px" align="center"]
+
+[button text="Prêts à partir ?" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+
+[/col]
+
+[/row]
 
 [/section]
-[block id="21"]
+[section bg="113" bg_size="original" parallax="5" padding="0px" padding__sm="0px"]
 
-[section padding="0px" padding__sm="0px"]
+[block id="21"]
 
 [row v_align="middle"]
 
@@ -416,9 +487,9 @@
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 
-<p>&#91;POURQUOI ELIOS&#93;</p>
+<p><strong>[POURQUOI ELIOS]</strong></p>
 [/ux_text]
-[ux_text font_size="1.875" font_size__sm="1.25" line_height="1.2"]
+[ux_text font_size="1.45" font_size__sm="1.25" line_height="1.2"]
 
 <h2>Pourquoi confier votre séminaire à une agence locale</h2>
 [/ux_text]
@@ -431,9 +502,7 @@
 [/col]
 
 [/row]
-
-[/section]
-[section padding="160px" padding__sm="80px"]
+[gap height="114px"]
 
 [row]
 
@@ -441,7 +510,7 @@
 
 [ux_text font_size="0.75" text_color="#047ea3"]
 
-<p>&#91;BON À SAVOIR&#93;</p>
+<p><strong>[BON À SAVOIR]</strong></p>
 [/ux_text]
 [ux_text font_size="1.25" line_height="1.3"]
 
@@ -454,13 +523,19 @@
 [accordion faq_schema="true"]
 
 [accordion-item title="Quel budget prévoir pour une journée de team building ?"]
+
 <p>Nos journées clés en main coûtent de 100 à 180 € HT par personne selon l'activité, avec le petit-déjeuner, le déjeuner, la salle de travail et l'activité. Les séjours à la montagne sont établis sur devis. Pour le détail, consultez notre page <a href="/faq/">combien coûte un team building ?</a></p>
+
 [/accordion-item]
 [accordion-item title="Dans quelles régions intervenez-vous ?"]
+
 <p>Autour de Montpellier (vallée de l'Hérault, lac du Salagou, Palavas-les-Flots), autour d'Avignon (Châteauneuf-du-Pape et le Vaucluse) et dans les Pyrénées, au départ de notre base de Font-Romeu. Les séjours à la montagne peuvent être organisés dans tout le massif.</p>
+
 [/accordion-item]
 [accordion-item title="Peut-on garder un temps de travail pendant la journée ?"]
+
 <p>Oui, c'est le principe de nos journées : une matinée de travail dans une salle équipée, puis l'activité de cohésion l'après-midi. Le programme peut aussi être inversé, ou se passer de temps de travail.</p>
+
 [/accordion-item]
 
 [/accordion]
@@ -468,6 +543,13 @@
 [/col]
 
 [/row]
+[gap height="114px"]
+
 
 [/section]
+[section bg="95" bg_size="original" padding="87px"]
+
 [block id="22"]
+
+
+[/section]

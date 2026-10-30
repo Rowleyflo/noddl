@@ -1,0 +1,486 @@
+[ux_banner height="680px" height__sm="560px" bg="116" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>JOURNÉE TEAM BUILDING · ANIANE, VALLÉE DE L'HÉRAULT</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Team building canoë : descente de l'Hérault en équipe</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Pré-réserver cette journée" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion organise des journées de <strong>team building canoë dans l'Hérault</strong> : matinée de travail au Domaine de la Grande Sieste, à Aniane (environ 40 minutes de Montpellier), puis 12 km de descente de la rivière en équipe. Peu de rapides, accessible à tous les nageurs, de mai à septembre, à partir de <strong>120 € HT par personne</strong>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>LIEU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>Domaine de la Grande Sieste, 1434 ancienne route de Gignac, Aniane (34150), puis descente de l'Hérault</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DURÉE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>une journée, de 9 h à 16 h 30, soirée possible</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>SAISON</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>de mai à septembre</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>à partir de 120 € HT par personne</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NON INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>le transport</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NIVEAU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>accessible à tous, <strong>savoir nager obligatoire</strong>, public adulte (18 ans et plus)</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="140" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Votre team building canoë : 12 km de descente de l'Hérault</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>L'après-midi, vos équipes embarquent pour <strong>12 kilomètres au fil de l'Hérault</strong>. Eau claire, rochers blancs, collines boisées : la rivière traverse des paysages restés très sauvages.</p>
+<p>La descente compte <strong>très peu de rapides</strong>. Elle ne demande aucune expérience : il suffit de savoir nager. On pagaie à deux, on se coordonne, on rit des premiers zigzags, puis le rythme s'installe.</p>
+<h3>Des pauses sur les plages de la rivière</h3>
+<p>Le parcours longe de nombreuses plages de galets.</p>
+<h3>Une activité naturellement coopérative</h3>
+<p>Un canoë n'avance droit que si les deux équipiers s'accordent. C'est une leçon de communication immédiate, qui parle à tous et se prête très bien au debriefing de fin de journée.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" padding="0px 48px 0px 0px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;LE LIEU&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Votre matinée de travail au Domaine de la Grande Sieste</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Au cœur du vignoble d'Aniane, le <strong>Domaine de la Grande Sieste</strong> accueille votre séminaire dans un cadre en pierre, entouré d'un jardin méditerranéen. Sa grande salle peut recevoir jusqu'à 200 personnes.</p>
+<p>La journée commence par un petit-déjeuner dans le grand jardin. Vient ensuite la matinée de travail, organisée selon vos besoins, avec tout le matériel fourni. Vous pouvez aussi inviter un intervenant, d'un magicien à un sportif de haut niveau.</p>
+<p>Après le déjeuner sur place, direction la rivière.</p>
+
+[/col]
+[col span="6" span__sm="12" animate="fadeInUp" force_first="small"]
+
+[ux_image id="124" image_size="original" height="75%"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Le programme de la journée</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>MATIN</strong></p>
+[/ux_text]
+<ul>
+<li>8 h 30 – 9 h : arrivée au Domaine de la Grande Sieste</li>
+<li>9 h : petit-déjeuner</li>
+<li>9 h 30 : matinée de travail</li>
+<li>12 h : fin du temps de travail et debriefing</li>
+<li>12 h 15 : déjeuner</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>APRÈS-MIDI</strong></p>
+[/ux_text]
+<ul>
+<li>14 h : début de la descente en canoë</li>
+<li>16 h – 16 h 30 : fin de l'activité et debriefing</li>
+<li>16 h 30 : apéritif de fin de journée</li>
+<li>À partir de 17 h : soirée sur demande</li>
+</ul>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;EN IMAGES&#93;</strong></p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="116" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="140" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="124" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:domaine-grande-sieste-cour-interieure.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="131" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi choisir cette journée</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Une vraie bouffée de nature</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>une rivière sauvage à 40 minutes de Montpellier.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Accessible à tous</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>peu de rapides, aucune expérience requise, il suffit de savoir nager.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Cohésion immédiate</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>on ne peut pas avancer en canoë sans s'accorder avec son équipier.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Logistique prise en charge</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>domaine, repas, matériel et activité organisés par un seul interlocuteur.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p>Pour préparer votre venue, consultez le site du <a href="https://www.saintguilhem-valleeherault.fr/">Grand Site de France Saint-Guilhem-le-Désert – Gorges de l'Hérault</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À DÉCOUVRIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Autres journées autour de Montpellier</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="MEDIA:trottinette-electrique-lac-salagou.webp" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-trotinette-tout-terrain-electrique-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-trotinette-tout-terrain-electrique-montpellier/">Trottinette électrique au Salagou</a></strong></p>
+[/ux_text]
+<p>même domaine le matin, puis 3 h de pilotage tout terrain autour du lac, dès 140 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-trotinette-tout-terrain-electrique-montpellier/"]
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="20" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-balade-kayak-etang-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-balade-kayak-etang-montpellier/">Kayak au coucher du soleil</a></strong></p>
+[/ux_text]
+<p>balade sur l'étang de Palavas et dégustation chez un pêcheur, dès 130 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-balade-kayak-etang-montpellier/"]
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="128" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/">Olympiades sur la plage de Palavas</a></strong></p>
+[/ux_text]
+<p>pirogue tahitienne et paddle géant, dès 130 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/"]
+
+[/col]
+
+[/row]
+[row h_align="center"]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="32px"]
+
+[ux_text font_size="1.25" text_align="center"]
+<p>Besoin d'autres pistes ? Parcourez nos <a href="/blog/idees-team-building-originales/">idées de team building originales dans le Sud</a>, ou revenez à <a href="/seminaire-montpellier/">toutes nos journées team building à Montpellier</a>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Quelle est la longueur de la descente de l'Hérault ?"]
+
+<p>Le parcours fait 12 km. Il se fait sur l'après-midi, entre 14 h et 16 h 30 environ, avec des pauses sur les plages de la rivière.</p>
+
+[/accordion-item]
+[accordion-item title="Combien coûte la journée ?"]
+
+<p>À partir de 120 € HT par personne, avec petit-déjeuner, déjeuner, salle de travail, descente en canoë et apéritif. Le transport n'est pas inclus. Le prix final dépend de l'effectif, de la date et des options.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Pré-réservez votre descente de l'Hérault</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Indiquez vos dates, votre effectif et vos souhaits : nous construisons votre journée et vous envoyons un devis.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

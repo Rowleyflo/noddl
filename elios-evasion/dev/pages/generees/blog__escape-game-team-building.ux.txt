@@ -1,0 +1,252 @@
+[row]
+
+[col span__sm="12"]
+
+<p>L'<strong>escape game en team building</strong> place une équipe face à une série d'énigmes à résoudre dans un temps limité. Pour réussir, il faut communiquer, se répartir les tâches et mettre en commun les découvertes de chacun : exactement ce qu'on attend d'une équipe au travail. Selon le format, le jeu se déroule en salle, en plein air ou même sous terre.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+<p><strong>Sommaire</strong>
+1. <a href="#principe">Le principe de l'escape game</a>
+2. <a href="#pourquoi">Pourquoi l'escape game en team building fonctionne</a>
+3. <a href="#formats">Trois formats : en salle, en plein air, sous terre</a>
+4. <a href="#methode">Comment en faire un vrai team building</a>
+5. <a href="#offres">Nos escape games près de Montpellier et d'Avignon</a>
+6. <a href="#faq">Questions fréquentes</a></p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="principe">Le principe de l'escape game</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Le principe est connu : une équipe dispose d'un temps limité pour atteindre un objectif, qu'il s'agisse de sortir d'une pièce, d'ouvrir un coffre ou de résoudre une énigme finale. Pour y parvenir, elle doit trouver des indices, ouvrir des cadenas, décoder des messages et relier entre elles des informations dispersées.</p>
+<p>Chaque énigme résolue débloque la suivante. Certaines demandent de la logique, d'autres de l'observation, d'autres encore de la manipulation ou de l'orientation. C'est cette diversité qui rend le jeu si adapté aux équipes : <strong>aucun profil ne peut tout résoudre seul</strong>.</p>
+<blockquote>
+<p><strong>À retenir</strong>
+- Un objectif commun, un temps limité, des énigmes variées.
+- Le jeu ne se gagne qu'en mettant en commun les compétences de chacun.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="pourquoi">Pourquoi l'escape game en team building fonctionne</h2>
+[/ux_text]
+[gap height="8px"]
+
+<h3>Un objectif clair et partagé</h3>
+<p>Tout le monde sait ce qu'il faut accomplir, et tout le monde y a intérêt. Il n'y a pas de gagnant individuel : l'équipe réussit ou échoue ensemble. Cette règle simple aligne immédiatement les efforts.</p>
+<h3>La pression du temps révèle le fonctionnement réel de l'équipe</h3>
+<p>Le chronomètre pousse à s'organiser vite. Qui prend la parole ? Qui structure ? Qui reste en retrait alors qu'il a la bonne idée ? En quelques minutes, l'escape game montre comment l'équipe communique vraiment, sans le filtre des réunions habituelles.</p>
+<h3>Des talents qui se révèlent</h3>
+<p>Le collaborateur discret qui repère le détail décisif, la personne méthodique qui garde la liste des indices, le créatif qui voit le lien entre deux énigmes : chacun trouve sa place. Pour un manager, c'est une occasion rare d'observer son équipe sous un autre angle.</p>
+<h3>L'information doit circuler</h3>
+<p>Dans la plupart des escape games, les indices sont dispersés. Un élément trouvé par l'un n'a de sens qu'associé à celui trouvé par un autre. L'équipe apprend, en jouant, que garder une information pour soi ralentit tout le monde.</p>
+<h3>Une réussite collective, et un souvenir commun</h3>
+<p>Ouvrir le dernier cadenas à quelques secondes de la fin crée un moment de joie partagée. Ce souvenir commun nourrit les conversations bien après la journée, et c'est souvent là que se joue la cohésion.</p>
+<blockquote>
+<p><strong>À retenir</strong>
+- L'escape game met en jeu la communication, l'organisation et la prise de décision.
+- Il révèle les rôles naturels de chacun dans l'équipe.
+- Sa valeur de team building tient surtout au débriefing qui suit (voir plus bas).</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="formats">Trois formats : en salle, en plein air, sous terre</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Tous les escape games ne se ressemblent pas. Le format change l'ambiance, le nombre de joueurs possible et les compétences sollicitées.</p>
+<table>
+<thead>
+<tr>
+<th>Format</th>
+<th>Ambiance</th>
+<th>Atouts</th>
+<th>Points d'attention</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>En salle</strong></td>
+<td>Pièce thématique, décors</td>
+<td>Immersion forte, aucune dépendance à la météo</td>
+<td>Groupes souvent limités par la taille des salles</td>
+</tr>
+<tr>
+<td><strong>En plein air</strong></td>
+<td>Parc, vignoble, domaine</td>
+<td>Grands groupes, orientation, grand air</td>
+<td>Prévoir la météo et une tenue adaptée</td>
+</tr>
+<tr>
+<td><strong>Sous terre</strong></td>
+<td>Grotte, cavité aménagée</td>
+<td>Dépaysement total, température stable</td>
+<td>Lieux plus rares, chaussures fermées conseillées</td>
+</tr>
+</tbody>
+</table>
+<h3>L'escape game en salle</h3>
+<p>C'est le format le plus connu : une ou plusieurs pièces décorées, des mécanismes cachés, un maître du jeu qui surveille et donne des indices. Il convient très bien aux petites équipes. Pour un grand groupe, il faut souvent répartir les participants sur plusieurs salles en parallèle.</p>
+<h3>L'escape game en plein air</h3>
+<p>Ici, le terrain de jeu s'étend : un parc, un vignoble, le domaine d'un château. Les énigmes se combinent avec de l'<strong>orientation</strong> et de la <strong>recherche</strong>. Les équipes se déplacent, s'entraident, se croisent. Dans les formats que nous proposons, l'aventure se joue <strong>à l'aide d'un téléphone</strong>, ce qui permet d'installer le jeu presque partout et de l'adapter sur mesure à votre groupe.</p>
+<h3>L'escape game souterrain</h3>
+<p>C'est le format le plus dépaysant. Dans une grotte, les repères habituels disparaissent. Cadenas, coffres métalliques, indices révélés à la <strong>lumière ultraviolette</strong> : l'ambiance fait la moitié du travail. Autre avantage, la température d'une grotte varie peu au fil des saisons, ce qui rend l'activité possible toute l'année.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="methode">Comment faire d'un escape game un vrai team building</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Un escape game reste un jeu. Pour qu'il devienne un outil de cohésion, quelques règles simples font la différence.</p>
+<h3>Avant : composer les équipes avec intention</h3>
+<p>Mélangez les services, les anciennetés et les niveaux hiérarchiques. Si l'objectif est de rapprocher deux équipes qui travaillent mal ensemble, mettez-les dans le même groupe.</p>
+<h3>Pendant : laisser jouer</h3>
+<p>Les managers doivent jouer comme les autres, sans diriger d'office. C'est la condition pour que des leaders naturels émergent.</p>
+<h3>Après : prendre le temps du débriefing</h3>
+<p>C'est l'étape la plus importante, et la plus souvent oubliée. Quelques questions suffisent :
+- Comment nous sommes-nous organisés ?
+- Quelle information a manqué, et pourquoi ?
+- Qui a débloqué la situation, et comment ?
+- Qu'est-ce qu'on peut transposer à notre façon de travailler ?</p>
+<p>Le meilleur moment pour ce débriefing ? Juste après le jeu, quand les souvenirs sont frais, ou lors de l'apéritif de fin de journée.</p>
+<blockquote>
+<p><strong>À retenir</strong>
+- Composez les équipes en fonction de votre objectif.
+- Un débriefing de 15 minutes transforme le jeu en apprentissage collectif.
+- L'escape game se combine idéalement avec une matinée de travail en salle.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="offres">Nos escape games près de Montpellier et d'Avignon</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Elios Evasion organise trois journées autour de l'escape game, toutes avec matinée de travail en salle équipée, petit-déjeuner, déjeuner et apéritif de fin de journée. Le transport n'est pas inclus.</p>
+<h3>Dans le parc d'un château, près de Montpellier</h3>
+<p>Notre <a href="/seminaire-montpellier/journee-escape-game-nature-montpellier/">escape game en pleine nature</a> se joue dans le parc boisé ou le vignoble du Domaine de Capion, à Aniane, à environ 40 minutes de Montpellier. Entraide, recherche, orientation : le parcours est construit sur mesure pour votre groupe. Toute l'année, <strong>à partir de 140 € HT par personne</strong>.</p>
+<h3>Dans les vignes de Châteauneuf-du-Pape, près d'Avignon</h3>
+<p>Côté Provence, l'<a href="/seminaire-avignon/journee-escape-game-nature/">escape game dans les vignes</a> part du Moulin des Gaffins, un moulin de 1598 devenu domaine de réception, à Althen-des-Paluds. Les énigmes se jouent dans son parc ou dans le vignoble de Châteauneuf-du-Pape. Toute l'année, <strong>à partir de 140 € HT par personne</strong>.</p>
+<h3>Sous terre, dans la grotte de Clamouse</h3>
+<p>Pour un dépaysement total, notre <a href="/seminaire-montpellier/journee-grotte-montpellier/">team building dans une grotte</a> combine un escape game souterrain et deux parcours aventure dans la grotte de Clamouse, à Saint-Jean-de-Fos. Toute l'année, <strong>à partir de 100 € HT par personne</strong>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-carnet-indices-equipe.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-coffres-sablier.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-tablette-enigme.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-grotte-lumiere-uv.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-grotte-cadenas-indices.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="faq">Questions fréquentes</h2>
+[/ux_text]
+[accordion faq_schema="true"]
+
+[accordion-item title="Combien de temps dure un escape game en team building ?"]
+
+<p>Dans nos journées, l'escape game occupe l'après-midi, de 14 h à 16 h 30 environ. Le format exact dépend du lieu et du scénario. Les sessions en salle sont souvent plus courtes : le plein air permet d'en faire une vraie activité d'après-midi.</p>
+
+[/accordion-item]
+[accordion-item title="Faut-il être bon en énigmes pour participer ?"]
+
+<p>Non. Les énigmes sont variées (observation, logique, orientation, manipulation) pour que chacun puisse contribuer. Le jeu se gagne en équipe, et l'animation accompagne les groupes qui bloquent.</p>
+
+[/accordion-item]
+
+[/accordion]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#aac816"]
+<h2>Envie de tester l'escape game avec votre équipe ?</h2>
+[/ux_text]
+<p>Château, vignes ou grotte : dites-nous quel décor vous inspire, votre effectif et vos dates. Nous vous répondons avec un programme et un devis. Vous pouvez aussi nous appeler au <a href="tel:+33679029332">06 79 02 93 32</a> ou passer par la page <a href="/contact/">contact</a>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+

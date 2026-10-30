@@ -1,0 +1,328 @@
+[row]
+
+[col span__sm="12"]
+
+<p><em>Mis à jour le 30 octobre 2026 · prix 2026</em></p>
+<p>Vous cherchez une idée de team building qui sorte de la salle de réunion ? Voici 15 activités originales, toutes organisées par Elios Evasion dans le Sud : six autour de Montpellier, quatre près d'Avignon et cinq dans les Pyrénées. Pour chacune, vous trouverez le lieu, la saison et le prix de départ.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="montpellier">Idées de team building autour de Montpellier</h2>
+[/ux_text]
+<p><strong>Sommaire</strong>
+1. <a href="#montpellier">Autour de Montpellier : 6 idées</a>
+2. <a href="#avignon">Près d'Avignon : 4 idées</a>
+3. <a href="#pyrenees">Dans les Pyrénées : 5 idées</a>
+4. <a href="#tableau">Le tableau récapitulatif</a>
+5. <a href="#choisir">Comment choisir la bonne idée</a>
+6. <a href="#faq">Questions fréquentes</a></p>
+<p>Les journées autour de Montpellier et d'Avignon suivent le même principe : petit-déjeuner, matinée de travail en salle équipée, déjeuner, activité l'après-midi et apéritif. Les prix indiqués sont des prix « à partir de », <strong>hors taxes, par personne, transport non inclus</strong>. Dans les Pyrénées, les séminaires durent en général deux jours ou plus et sont établis sur devis.</p>
+<p>Nos journées se déroulent dans la vallée de l'Hérault, au lac du Salagou et à Palavas-les-Flots, entre 20 et 50 minutes de Montpellier. Toutes sont présentées sur notre page <a href="/seminaire-montpellier/">team building Montpellier</a>.</p>
+<h3>1. Un escape game et des parcours aventure sous terre</h3>
+<p>Dans la grotte de Clamouse, à Saint-Jean-de-Fos, vos équipes évoluent sur des parcours suspendus au-dessus des concrétions, puis résolvent les énigmes d'un escape game souterrain. Le décor change tout : on avance ensemble, on s'encourage.
+<strong>Toute l'année · dès 100 € HT</strong> · <a href="/seminaire-montpellier/journee-grotte-montpellier/">team building dans une grotte</a></p>
+<h3>2. Une descente de l'Hérault en canoë</h3>
+<p>Douze kilomètres au fil de l'eau, avec très peu de rapides et des plages pour s'arrêter. Une activité nature, accessible à tous, à condition de savoir nager. Le matin, l'équipe travaille au Domaine de la Grande Sieste, à Aniane.
+<strong>Mai à septembre · dès 120 € HT</strong> · <a href="/seminaire-montpellier/journee-descente-canoe-montpellier/">descente de l'Hérault en canoë</a></p>
+<h3>3. Une virée en trottinette électrique tout terrain</h3>
+<p>Environ trois heures sur les sentiers de terre rouge du lac du Salagou, en équipes. Vitesse, paysages et fous rires : une activité sportive sans être épuisante.
+<strong>Mai à septembre · dès 140 € HT</strong> · <a href="/seminaire-montpellier/journee-trotinette-tout-terrain-electrique-montpellier/">trottinette électrique au Salagou</a></p>
+<h3>4. Des olympiades sur la plage</h3>
+<p>Course de pirogue tahitienne, abordage en paddle géant, épreuves sur le sable : une journée de défis à Palavas-les-Flots, avec repas les pieds dans le sable et remise des prix à l'apéritif. Idéal pour les grands groupes.
+<strong>Mai à septembre · dès 130 € HT</strong> · <a href="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/">olympiades sur la plage de Palavas</a></p>
+<h3>5. Une balade en kayak au coucher du soleil</h3>
+<p>Un format décalé, de 14 h à 20 h : l'après-midi de travail, puis une balade en kayak sur les étangs de Palavas, avec une halte dégustation chez un pêcheur. Pour 35 personnes au maximum.
+<strong>Mai à septembre · dès 130 € HT</strong> · <a href="/seminaire-montpellier/journee-balade-kayak-etang-montpellier/">kayak au coucher du soleil</a></p>
+<h3>6. Un escape game ou une murder party au château</h3>
+<p>Au Domaine de Capion, une folie du XVIe siècle près d'Aniane, deux options : un escape game en plein air, à mener avec votre téléphone dans le parc ou les vignes, ou une enquête de murder party animée par un professionnel, costumes à l'appui.
+<strong>Toute l'année · dès 140 € HT</strong> · <a href="/seminaire-montpellier/journee-escape-game-nature-montpellier/">escape game en pleine nature</a> ou <a href="/seminaire-montpellier/journee-murder-party-montpellier/">murder party dans un château</a></p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À RETENIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="avignon">Idées de team building près d'Avignon</h2>
+[/ux_text]
+<blockquote>
+<p><strong>À retenir : Montpellier</strong>
+- Toute l'année : grotte, escape game, murder party.
+- De mai à septembre : canoë, trottinette, olympiades, kayak.
+- De 100 à 140 € HT par personne.</p>
+</blockquote>
+<p>Nos journées se déroulent entre Châteauneuf-du-Pape et les environs d'Avignon, à 20 à 30 minutes du centre. Retrouvez-les toutes sur notre page <a href="/seminaire-avignon/">séminaires et team building autour d'Avignon</a>.</p>
+<h3>7. Une initiation à l'œnologie à Châteauneuf-du-Pape</h3>
+<p>Au château des Fines Roches, un sommelier initie vos équipes à la dégustation des vins de l'AOC Châteauneuf-du-Pape. Une initiation au café et aux digestifs est possible. Une idée élégante pour remercier une équipe ou recevoir des clients.
+<strong>Toute l'année · dès 180 € HT</strong> · <a href="/seminaire-avignon/journee-decouverte-du-vin/">team building œnologie à Châteauneuf-du-Pape</a></p>
+<h3>8. Une murder party au château de Beauregard</h3>
+<p>Un château du début du XVIIe siècle, une enquête en costume animée par un professionnel, des suspects cachés dans l'équipe : de quoi observer chacun sous un nouveau jour.
+<strong>Toute l'année · dès 150 € HT</strong> · <a href="/seminaire-avignon/journee-murder-party/">murder party au château de Beauregard</a></p>
+<h3>9. Un quiz géant en équipes de deux</h3>
+<p>Matinée de travail au château de Beauregard, puis après-midi à la Quiz Room d'Avignon, à Vedène : pupitres lumineux, buzzers et questions que l'on peut personnaliser pour vos collaborateurs. Aucune condition physique requise.
+<strong>Toute l'année · dès 130 € HT</strong> · <a href="/seminaire-avignon/journee-quizz-room-avignon/">quiz géant en équipe</a></p>
+<h3>10. Un escape game dans les vignes</h3>
+<p>Au Moulin des Gaffins, un moulin de 1598 devenu domaine de réception, ou dans les vignes de Châteauneuf-du-Pape : un escape game en plein air, conçu pour votre groupe, qui mêle entraide et orientation.
+<strong>Toute l'année · dès 140 € HT</strong> · <a href="/seminaire-avignon/journee-escape-game-nature/">escape game dans les vignes</a></p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À RETENIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="pyrenees">Idées de team building dans les Pyrénées</h2>
+[/ux_text]
+<blockquote>
+<p><strong>À retenir : Avignon</strong>
+- Les quatre journées sont proposées toute l'année.
+- De 130 à 180 € HT par personne.</p>
+</blockquote>
+<p>Depuis notre base de Font-Romeu, nous organisons des séminaires de plusieurs jours dans tout le massif, avec hébergement, repas et activités. Tout est présenté sur notre page <a href="/sejours/sejour-team-building-pyrenees/">séminaire à la montagne dans les Pyrénées</a>. Ces séjours sont établis <strong>sur devis</strong>.</p>
+<h3>11. Chiens de traîneau et raquettes</h3>
+<p>Partir en chiens de traîneau ou avancer en raquettes dans la forêt enneigée : deux activités accessibles aux débutants, qui demandent de l'écoute et du rythme commun.
+<strong>Hiver · sur devis</strong> · <a href="/sejours/seminaire-ski-hiver/">séminaire ski et neige à Font-Romeu</a></p>
+<h3>12. Un biathlon en équipe</h3>
+<p>Ski de fond et tir à la carabine laser, en relais : un défi qui mélange endurance et concentration, et qui se prête bien à un classement par équipes. Le ski alpin et le ski de randonnée sont aussi possibles.
+<strong>Hiver · sur devis</strong></p>
+<h3>13. Un dîner d'altitude, monté en dameuse</h3>
+<p>Monter au restaurant d'altitude à bord d'une dameuse, à la nuit tombée, puis dîner au milieu des pistes. Le temps fort d'un séminaire d'hiver.
+<strong>Hiver · sur devis</strong></p>
+<h3>14. Canyoning, escalade ou spéléologie</h3>
+<p>Pour les équipes qui aiment l'aventure : glisser dans les vasques d'un canyon, grimper une falaise ou explorer une grotte, toujours encadrés par des professionnels.
+<strong>Été · sur devis</strong> · <a href="/sejours/seminaire-montagne-ete/">team building montagne en été : rando, VTT, canyoning</a></p>
+<h3>15. Randonnée, patrimoine et sources d'eau chaude</h3>
+<p>Une randonnée vers les lacs du massif du Carlit, une visite des fortifications Vauban de Mont-Louis, inscrites au patrimoine mondial de l'UNESCO, puis un bain dans les sources d'eau chaude naturelles des Pyrénées catalanes. Une idée de team building plus douce, centrée sur le bien-être.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À RETENIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="tableau">Le tableau récapitulatif</h2>
+[/ux_text]
+<blockquote>
+<p><strong>À retenir : Pyrénées</strong>
+- Des séminaires de deux jours ou plus, hébergement compris.
+- En hiver : neige, glisse et dîner d'altitude. En été : randonnée, VTT, canyoning.
+- Sur devis.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="choisir">Comment choisir la bonne idée de team building</h2>
+[/ux_text]
+[gap height="8px"]
+
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Idée</th>
+<th>Où</th>
+<th>Saison</th>
+<th>Prix dès (HT/pers.)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Grotte : parcours et escape game</td>
+<td>Vallée de l'Hérault</td>
+<td>Toute l'année</td>
+<td>100 €</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Canoë sur l'Hérault</td>
+<td>Vallée de l'Hérault</td>
+<td>Mai-septembre</td>
+<td>120 €</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Trottinette électrique</td>
+<td>Lac du Salagou</td>
+<td>Mai-septembre</td>
+<td>140 €</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Olympiades sur la plage</td>
+<td>Palavas-les-Flots</td>
+<td>Mai-septembre</td>
+<td>130 €</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Kayak au coucher du soleil</td>
+<td>Étangs de Palavas</td>
+<td>Mai-septembre</td>
+<td>130 €</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Escape game ou murder party</td>
+<td>Domaine de Capion</td>
+<td>Toute l'année</td>
+<td>140 €</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Œnologie</td>
+<td>Châteauneuf-du-Pape</td>
+<td>Toute l'année</td>
+<td>180 €</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Murder party</td>
+<td>Château de Beauregard</td>
+<td>Toute l'année</td>
+<td>150 €</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Quiz géant</td>
+<td>Avignon (Vedène)</td>
+<td>Toute l'année</td>
+<td>130 €</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Escape game dans les vignes</td>
+<td>Moulin des Gaffins</td>
+<td>Toute l'année</td>
+<td>140 €</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Chiens de traîneau, raquettes</td>
+<td>Pyrénées</td>
+<td>Hiver</td>
+<td>Sur devis</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Biathlon</td>
+<td>Pyrénées</td>
+<td>Hiver</td>
+<td>Sur devis</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Dîner en dameuse</td>
+<td>Pyrénées</td>
+<td>Hiver</td>
+<td>Sur devis</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Canyoning, escalade, spéléo</td>
+<td>Pyrénées</td>
+<td>Été</td>
+<td>Sur devis</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Randonnée, patrimoine, eau chaude</td>
+<td>Pyrénées</td>
+<td>Été</td>
+<td>Sur devis</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Partez de l'objectif.</strong> Coopérer : escape game ou murder party. Créer de l'émulation : olympiades, quiz, biathlon. Remercier : œnologie, dîner d'altitude. Souffler ensemble : canoë, kayak, randonnée.</li>
+<li><strong>Pensez à toute l'équipe.</strong> Le quiz, la murder party et la dégustation ne demandent aucune condition physique. Le canoë suppose de savoir nager.</li>
+<li><strong>Regardez le calendrier.</strong> Les activités nautiques et la trottinette se font de mai à septembre. La grotte, les escape games, les murder parties, le quiz et l'œnologie, toute l'année.</li>
+<li><strong>Vérifiez l'effectif.</strong> Le kayak est limité à 35 personnes. Les olympiades conviennent bien aux grands groupes.</li>
+<li><strong>Envie d'autre chose ?</strong> Nous pouvons aussi <a href="/journee-sur-mesure/">composer une journée sur mesure</a> avec nos partenaires, dès 110 € HT par personne.</li>
+</ul>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="faq">Questions fréquentes</h2>
+[/ux_text]
+[accordion faq_schema="true"]
+
+[accordion-item title="Quelle est l'idée de team building la plus originale près de Montpellier ?"]
+
+<p>La journée dans la grotte de Clamouse est la plus insolite : parcours aventure et escape game sous terre, dans une grotte de la vallée de l'Hérault. Elle est proposée toute l'année, à partir de 100 € HT par personne, repas et salle de travail compris.</p>
+
+[/accordion-item]
+[accordion-item title="Quelle idée de team building pour une équipe peu sportive ?"]
+
+<p>Le quiz géant, la murder party, l'escape game et l'initiation à l'œnologie ne demandent aucune condition physique. La balade en kayak sur l'étang de Palavas reste aussi très accessible. Chacun peut participer à son rythme.</p>
+
+[/accordion-item]
+[accordion-item title="Quelle idée de team building en hiver ?"]
+
+<p>Près de Montpellier et d'Avignon, la grotte, les escape games, les murder parties, le quiz et l'œnologie sont proposés toute l'année. À la montagne, l'hiver est la saison des chiens de traîneau, des raquettes, du biathlon et du dîner d'altitude en dameuse.</p>
+
+[/accordion-item]
+[accordion-item title="Peut-on combiner plusieurs activités dans la même journée ?"]
+
+<p>Oui, dans certaines formules : la journée grotte associe parcours aventure et escape game, et les olympiades enchaînent plusieurs épreuves. Pour un mélange sur mesure, la journée à la carte permet de choisir les activités, le lieu et le traiteur.</p>
+
+[/accordion-item]
+
+[/accordion]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#aac816"]
+<h2>Une idée vous tente ?</h2>
+[/ux_text]
+<p>Dites-nous laquelle, avec vos dates et votre effectif : nous vérifions les disponibilités et vous envoyons un programme et un devis. <a href="/contact/">Nous contacter</a>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+

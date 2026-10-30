@@ -1,0 +1,273 @@
+[row]
+
+[col span__sm="12"]
+
+<p><em>Mis à jour le 30 octobre 2026</em></p>
+<p>Vous cherchez une idée de séminaire sur 2 jours ? Voici deux programmes types à Font-Romeu, dans les Pyrénées catalanes : l'un en hiver, l'autre en été. Le principe est le même : des ateliers le matin, une activité de pleine nature l'après-midi, une soirée qui compte, et une seconde matinée pour décider. Hébergement, repas et activités sont organisés par Elios Evasion, sur devis.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="pourquoi">Pourquoi un séminaire d'entreprise de 2 jours ?</h2>
+[/ux_text]
+<p><strong>Sommaire</strong>
+1. <a href="#pourquoi">Pourquoi un séminaire de 2 jours ?</a>
+2. <a href="#montagne">Pourquoi à la montagne, et pourquoi Font-Romeu ?</a>
+3. <a href="#hiver">Programme type en hiver</a>
+4. <a href="#ete">Programme type en été</a>
+5. <a href="#logistique">Hébergement, accès et logistique</a>
+6. <a href="#conseils">Nos conseils pour réussir un séminaire de 2 jours</a>
+7. <a href="#faq">Questions fréquentes</a></p>
+<p>C'est devenu le format le plus courant. Selon la 33e étude MICE de Coach Omnium, <strong>57 % des entreprises interrogées citent les réunions de deux jours, contre 25 % en 2019</strong> (<a href="https://www.voyages-d-affaires.com/?p=219991">Voyages d'Affaires, mars 2026</a>).</p>
+<p>Deux jours, c'est le bon équilibre :
+- <strong>assez long</strong> pour travailler sur le fond, dormir sur une idée et décider le lendemain ;
+- <strong>assez court</strong> pour ne pas désorganiser l'entreprise ni peser sur la vie personnelle ;
+- <strong>une soirée commune</strong>, souvent le moment où les liens se créent vraiment.</p>
+<p>Un séminaire avec nuitée sur place est appelé <strong>séminaire résidentiel</strong>. C'est le format naturel d'un comité de direction, d'un lancement d'année ou d'une équipe qui doit se retrouver après une période difficile.</p>
+<h2 id="montagne">Pourquoi à la montagne, et pourquoi Font-Romeu ?</h2>
+<p>La montagne coupe du quotidien plus sûrement qu'un hôtel en périphérie. L'air, le silence et l'effort partagé changent la qualité des échanges.</p>
+<p>Font-Romeu a des atouts particuliers pour un <a href="/sejours/sejour-team-building-pyrenees/">séminaire à la montagne</a> :
+- <strong>Le soleil</strong> : la station est réputée pour son ensoleillement, environ 325 jours par an selon <a href="https://www.france.fr/fr/article/font-romeu-0/">France.fr</a>, le site officiel de la destination France.
+- <strong>La neige en hiver</strong> : 43 km de pistes de ski alpin, 111 km de pistes de ski de fond et 500 canons à neige, toujours selon France.fr.
+- <strong>La nature en été</strong> : lacs et sommets du massif du Carlit, sentiers de randonnée et de VTT, canyons.
+- <strong>La culture</strong> : les fortifications Vauban de Mont-Louis, inscrites au patrimoine mondial de l'UNESCO, le patrimoine catalan, l'Espagne et l'Andorre toutes proches.
+- <strong>Une agence sur place</strong> : Elios Evasion est basée à Font-Romeu et connaît les hébergements, les restaurants et les prestataires d'activités.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À RETENIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="hiver">Programme type d'un séminaire de 2 jours en hiver</h2>
+[/ux_text]
+<blockquote>
+<p><strong>À retenir</strong>
+- Le séminaire de 2 jours est le format le plus répandu.
+- À Font-Romeu : du soleil, de la neige en hiver, des lacs et des sentiers en été.
+- Une agence basée sur place, un seul interlocuteur.</p>
+</blockquote>
+<p>Pour un groupe qui arrive de Toulouse (environ 2 h 45 de route) ou de Perpignan (environ 1 h 30).</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="ete">Programme type d'un séminaire de 2 jours en été</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 1</strong></p>
+[/ux_text]
+<ul>
+<li>10 h : arrivée à Font-Romeu, installation, café d'accueil</li>
+<li>10 h 30 – 12 h 30 : atelier 1, état des lieux et enjeux</li>
+<li>12 h 30 : déjeuner</li>
+<li>14 h – 16 h 30 : chiens de traîneau ou raquettes dans la forêt enneigée, en équipes</li>
+<li>17 h – 18 h 30 : atelier 2, en sous-groupes, ou temps libre</li>
+<li>19 h 30 : montée en dameuse et dîner dans un restaurant d'altitude</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 2</strong></p>
+[/ux_text]
+<ul>
+<li>8 h : petit-déjeuner</li>
+<li>8 h 30 – 11 h 30 : atelier 3, décisions et plan d'action</li>
+<li>12 h : déjeuner</li>
+<li>13 h 30 – 15 h 30 : biathlon en équipes ou initiation au ski de fond</li>
+<li>16 h : debriefing et départ</li>
+</ul>
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p><strong>Variantes possibles</strong> : ski alpin pour les skieurs, ski de randonnée pour les plus sportifs, soirée détente dans les sources d'eau chaude naturelles. Le détail de nos activités d'hiver figure sur la page <a href="/sejours/seminaire-ski-hiver/">séminaire ski et neige à Font-Romeu</a>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 1</strong></p>
+[/ux_text]
+<ul>
+<li>10 h : arrivée, installation, café d'accueil</li>
+<li>10 h 30 – 12 h 30 : atelier 1, état des lieux et enjeux</li>
+<li>12 h 30 : déjeuner en terrasse</li>
+<li>14 h – 17 h : randonnée vers un lac du massif du Carlit, ou VTT</li>
+<li>17 h 30 – 18 h 30 : atelier 2, en sous-groupes</li>
+<li>20 h : dîner autour des produits du terroir catalan</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 2</strong></p>
+[/ux_text]
+<ul>
+<li>8 h : petit-déjeuner</li>
+<li>8 h 30 – 11 h 30 : atelier 3, décisions et plan d'action</li>
+<li>12 h : pique-nique ou déjeuner</li>
+<li>13 h 30 – 16 h : canyoning, escalade ou visite des fortifications Vauban de Mont-Louis</li>
+<li>16 h 30 : debriefing et départ</li>
+</ul>
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p><strong>Variantes possibles</strong> : spéléologie, trottinette tout terrain, pêche, ou un moment de bien-être dans les bains d'eau chaude. Toutes nos activités d'été sont sur la page <a href="/sejours/seminaire-montagne-ete/">team building montagne en été : rando, VTT, canyoning</a>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À RETENIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="logistique">Hébergement, accès et logistique</h2>
+[/ux_text]
+<blockquote>
+<p><strong>À retenir</strong>
+- Les matinées pour travailler, les après-midi pour l'activité.
+- La soirée du premier jour est un temps fort : dîner d'altitude en hiver, terroir en été.
+- Les décisions se prennent le deuxième matin, à tête reposée.</p>
+</blockquote>
+<h3>L'hébergement</h3>
+<p>Selon la taille du groupe et le budget : hôtels, chalets, résidences ou appartements, à Font-Romeu ou aux Angles. Nous vérifions avec vous la présence d'une salle de travail sur place, ou à proximité immédiate.</p>
+<h3>L'accès</h3>
+<ul>
+<li><strong>En voiture</strong> : environ 1 h 30 depuis Perpignan, 2 h 45 depuis Toulouse et 3 h depuis Montpellier.</li>
+<li>Le transport n'est pas compris dans nos prix, mais nous vous aidons à choisir la meilleure solution.</li>
+</ul>
+<h3>La période</h3>
+<p>Nos séminaires dans les Pyrénées se déroulent <strong>toute l'année, hors vacances scolaires</strong>.</p>
+<h3>Le budget</h3>
+<p>Chaque séminaire est établi <strong>sur devis</strong> : le prix dépend surtout de l'hébergement, de la saison et des activités. Pour vous situer, notre article sur <a href="/blog/prix-team-building/">le prix d'un team building</a> détaille les repères du marché pour un séminaire de deux jours.</p>
+<h2 id="conseils">Nos conseils pour réussir un séminaire de 2 jours</h2>
+<ol>
+<li><strong>Un fil rouge.</strong> Les trois ateliers doivent se suivre : comprendre le premier jour, décider le second.</li>
+<li><strong>Des ateliers courts</strong>, en petits groupes, avec une restitution à chaque fois.</li>
+<li><strong>Une activité par jour, pas plus.</strong> Le reste du temps sert à travailler et à échanger librement.</li>
+<li><strong>Une vraie soirée</strong>, sans présentation PowerPoint.</li>
+<li><strong>Un plan B météo</strong> prévu dès le départ : activité en intérieur, visite culturelle ou bains d'eau chaude.</li>
+<li><strong>Un temps de travail réel et documenté.</strong> Pour éviter qu'un séminaire soit requalifié en avantage en nature, le cabinet CMS recommande que le temps professionnel dépasse la moitié du temps total, trajets exclus, et de ne pas inviter les conjoints (<a href="https://cms.law/fr/fra/legal-updates/les-seminaires-d-entreprise-comment-eviter-un-redressement-urssaf">analyse CMS</a>). Nos programmes types sont équilibrés : si ce point compte pour vous, allongez les ateliers et validez le programme avec votre expert-comptable.</li>
+</ol>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="faq">Questions fréquentes</h2>
+[/ux_text]
+[accordion faq_schema="true"]
+
+[accordion-item title="Qu'est-ce qu'un séminaire résidentiel ?"]
+
+<p>C'est un séminaire d'au moins deux jours avec une ou plusieurs nuits sur place. Les participants travaillent, prennent leurs repas et dorment au même endroit. Ce format favorise les échanges informels et convient bien aux séminaires de direction.</p>
+
+[/accordion-item]
+[accordion-item title="Combien coûte un séminaire de 2 jours à la montagne ?"]
+
+<p>Nos séminaires dans les Pyrénées sont établis sur devis, car le prix dépend surtout de l'hébergement, de la saison et des activités. Indiquez-nous votre effectif, vos dates et votre budget par personne : nous construisons un programme qui les respecte.</p>
+
+[/accordion-item]
+[accordion-item title="Comment venir à Font-Romeu en groupe ?"]
+
+<p>Font-Romeu est à environ 1 h 30 de Perpignan et 2 h 45 de Toulouse en voiture. Pour un grand groupe, l'autocar est souvent la solution la plus simple. Le transport n'est pas inclus dans nos prix.</p>
+
+[/accordion-item]
+[accordion-item title="Que faire s'il n'y a pas assez de neige ?"]
+
+<p>Nous prévoyons toujours une solution de repli : visite des fortifications Vauban de Mont-Louis, bains d'eau chaude naturels, activités en intérieur ou randonnée. Font-Romeu dispose aussi d'un important réseau de neige de culture.</p>
+
+[/accordion-item]
+[accordion-item title="À quelle période organiser un séminaire à la montagne ?"]
+
+<p>Nos séminaires dans les Pyrénées sont proposés toute l'année, hors vacances scolaires. L'hiver pour la neige et la glisse, l'été pour la randonnée, le VTT et le canyoning.</p>
+
+[/accordion-item]
+
+[/accordion]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#aac816"]
+<h2>Construisons votre séminaire de 2 jours</h2>
+[/ux_text]
+<p>Indiquez-nous vos dates, votre effectif et vos objectifs : nous vous proposons un programme sur mesure à Font-Romeu ou ailleurs dans les Pyrénées, avec un devis détaillé. <a href="/contact/">Parlons de votre séminaire</a>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+

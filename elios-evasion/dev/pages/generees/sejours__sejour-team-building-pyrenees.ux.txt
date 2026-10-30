@@ -1,0 +1,608 @@
+[ux_banner height="680px" height__sm="560px" bg="47" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>SÉMINAIRES DE 2 JOURS OU PLUS · TOUT LE MASSIF PYRÉNÉEN</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Séminaire d'entreprise et team building dans les Pyrénées</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion, agence réceptive installée à Font-Romeu, organise des <strong>séminaires dans les Pyrénées</strong> de 2 jours ou plus : hébergement, salle de travail, repas et activités, été comme hiver. Font-Romeu est à environ 2 h 45 de Toulouse et 1 h 30 de Perpignan.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>BASE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>Font-Romeu et Les Angles (Pyrénées-Orientales), autres massifs pyrénéens sur demande</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ACCÈS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>~1 h 30 de Perpignan (gare TGV, aéroport), ~2 h 45 de Toulouse, ~3 h de Montpellier</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DURÉE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>2 jours ou plus, jusqu'à 14 jours</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PÉRIODE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>toute l'année, hors vacances scolaires de préférence</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>sur devis, selon la durée, l'hébergement et les activités</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>HÉBERGEMENT</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>hôtels 2 et 3 étoiles, chalets du 2 au 5 étoiles, résidences, appartements</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>RESTAURATION</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>demi-pension ou pension complète, restaurants d'altitude, traiteur, chef à domicile</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>la taxe de séjour et tout ce qui figure au devis (hébergement, salle, repas, activités encadrées)</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="15" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi organiser un séminaire à la montagne dans les Pyrénées</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Un <strong>séminaire à la montagne</strong> coupe vraiment avec le quotidien. À 1 800 mètres d'altitude, sans les sollicitations du bureau, les échanges sont plus francs et les décisions se prennent plus vite.</p>
+<p>Les Pyrénées offrent tout cela à moins de trois heures de Toulouse. Les Pyrénées-Orientales, où nous sommes installés, profitent en plus d'un ensoleillement réputé : on travaille le matin et on profite du grand ciel bleu l'après-midi.</p>
+<p>Avec Elios Evasion, vous avez <strong>un seul interlocuteur</strong> pour tout : le lieu, l'hébergement, la salle, les repas, les guides et les moniteurs. Vous vous concentrez sur le contenu de votre séminaire.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Nos formules de séminaire dans les Pyrénées</h2>
+[/ux_text]
+[gap height="8px"]
+
+<table>
+<thead>
+<tr>
+<th>Formule</th>
+<th>Où</th>
+<th>Saison</th>
+<th>Prix</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/sejours/seminaire-pyrenees-catalanes/">Séminaire en Pyrénées catalanes</a></td>
+<td>Font-Romeu, Les Angles, Cerdagne, Capcir</td>
+<td>toute l'année</td>
+<td>sur devis</td>
+</tr>
+</tbody>
+</table>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À DÉCOUVRIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Sport, culture, bien-être, terroir : 4 thèmes à combiner</h2>
+[/ux_text]
+<p>Chaque séminaire se construit en piochant dans quatre thèmes. Vous les dosez selon vos objectifs : cohésion, récompense, réflexion stratégique ou intégration de nouveaux collaborateurs.</p>[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Sport : des activités de pleine nature, été comme hiver</h3>
+[/ux_text]
+<p>L'hiver, place au ski alpin, au ski de fond, au ski de randonnée, aux raquettes, aux chiens de traîneau et au biathlon. Le soir, on peut <strong>monter dîner dans un restaurant d'altitude en dameuse</strong>. Tout est détaillé sur notre page <a href="/sejours/seminaire-ski-hiver/">séminaire ski entreprise</a>.</p>
+<p>L'été, vos équipes partent en randonnée dans le massif du Carlit, en VTT, en canyoning, en escalade, en spéléologie, en trottinette tout terrain ou à la pêche. Toutes les activités sont encadrées par des professionnels et adaptées au niveau du groupe.</p>
+
+
+[/col]
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Culture : un patrimoine classé à l'UNESCO</h3>
+[/ux_text]
+<p>La citadelle de Mont-Louis, construite par Vauban, est inscrite au patrimoine mondial de l'UNESCO avec les <a href="https://whc.unesco.org/fr/list/1283/">fortifications de Vauban</a>. Le Train jaune, le four solaire d'Odeillo et l'architecture de Font-Romeu, station née au début du XXe siècle, complètent la découverte. L'Espagne et l'Andorre sont toutes proches.</p>
+
+
+[/col]
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Bien-être : récupérer après l'effort</h3>
+[/ux_text]
+<p>Après une journée dehors, rien ne vaut un bain d'eau chaude naturelle en plein air, à Dorres, à Llo ou à Saint-Thomas. Le programme peut aussi intégrer du yoga, des séances de relaxation ou des massages.</p>
+
+
+[/col]
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Terroir : la gastronomie catalane</h3>
+[/ux_text]
+<p>Visites et dégustations à la ferme, vins nature, produits locaux, tables gastronomiques : la cuisine catalane donne à chaque repas un goût de vacances, sans faire oublier le travail.</p>
+
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Font-Romeu pour base, tout le massif pour terrain de jeu</h2>
+[/ux_text]
+[gap height="8px"]
+
+<h3>Les Pyrénées catalanes, notre territoire</h3>
+<p>Nous connaissons chaque sentier de la Cerdagne et du Capcir : c'est là que nous travaillons au quotidien, avec nos hébergeurs et nos guides. Font-Romeu et Les Angles concentrent stations de ski, hôtels, salles de séminaire et activités en moins de 30 minutes de route. Découvrez notre page dédiée au <a href="/sejours/seminaire-pyrenees-catalanes/">séminaire à Font-Romeu et en Pyrénées catalanes</a>.</p>
+<h3>Les autres massifs, sur demande</h3>
+<p>Votre projet vise une autre vallée ?
+- <strong>Hautes-Pyrénées</strong> : Saint-Lary-Soulan, le pic du Midi de Bigorre et son observatoire, Cauterets ;
+- <strong>Ariège</strong> : Ax-les-Thermes et ses stations, à environ 1 h 45 de Toulouse ;
+- <strong>Béarn et Pays basque</strong> : la vallée d'Ossau, le pays de la Rhune, entre océan et montagne.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Comment se déroule un séminaire de 2 jours</h2>
+[/ux_text]
+<p>Voici un exemple de déroulé, que nous adaptons à chaque groupe.</p>[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 1</strong></p>
+[/ux_text]
+<ul>
+<li>10 h : arrivée, installation à l'hôtel ou au chalet</li>
+<li>10 h 30 : première séance de travail en salle</li>
+<li>12 h 30 : déjeuner</li>
+<li>14 h : activité de cohésion (raquettes ou randonnée selon la saison)</li>
+<li>17 h 30 : temps libre, bains d'eau chaude ou espace bien-être</li>
+<li>20 h : dîner, en restaurant d'altitude l'hiver</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 2</strong></p>
+[/ux_text]
+<ul>
+<li>8 h : petit-déjeuner</li>
+<li>9 h : séance de travail, ateliers en sous-groupes</li>
+<li>12 h 30 : déjeuner de terroir</li>
+<li>14 h : challenge par équipes ou visite culturelle</li>
+<li>16 h 30 : bilan du séminaire et départ</li>
+</ul>
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p>Pour un exemple plus détaillé, lisez notre <a href="/blog/seminaire-2-jours-programme/">programme type d'un séminaire de 2 jours</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" padding="0px 48px 0px 0px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Un séminaire au vert pour les entreprises toulousaines</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Pour une entreprise toulousaine, les Pyrénées sont le <strong>séminaire au vert</strong> le plus naturel. Font-Romeu se trouve à environ 2 h 45 de route de Toulouse. Votre équipe part le matin et travaille avant le déjeuner.</p>
+<p>C'est un argument intéressant si votre entreprise suit son bilan carbone.</p>
+<p>Vous préférez rester plus près ?</p>
+
+[/col]
+[col span="6" span__sm="12" animate="fadeInUp" force_first="small"]
+
+[ux_image id="143" image_size="original" height="75%"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="134" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Séminaire de direction et CODIR à la montagne</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Un comité de direction a besoin de calme, de confidentialité et de temps long. Nous organisons pour les petits groupes des <strong>séminaires de direction</strong> dans des chalets privatisés, avec salle de réunion, chef à domicile si vous le souhaitez, et des activités choisies pour favoriser l'échange : randonnée vers un lac d'altitude, ski de randonnée, dîner au coin du feu.</p>
+<p>Les journées alternent temps de réflexion stratégique le matin et grand air l'après-midi.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row h_align="center"]
+
+[col span="8" span__sm="12" padding="0px 40px 0px 40px" align="center" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#3d4955" text_align="center"]
+<p><strong>&#91;AVIS CLIENTS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#047ea3" text_align="center"]
+<h2>Ils ont vécu l'expérience Elios</h2>
+[/ux_text]
+[ux_slider hide_nav="true" nav_pos="outside" nav_size="normal" nav_style="simple" nav_color="dark" bullets="false" auto_slide="false"]
+
+[testimonial pos="center" name="Céline A." font_size="large" stars="0"]
+
+<p>« Un séjour merveilleux dans un espace de liberté. Réactif, à l'écoute et avec de belles surprises, Elios Evasion nous a permis de vivre une expérience unique ! À refaire vite ! »</p>
+
+[/testimonial]
+[testimonial pos="center" name="Samantha C." font_size="large" stars="0"]
+
+<p>« Des paysages splendides dans une nature sauvage, l'hébergement était parfait, super convivial, on a tous adoré ! Un grand merci pour le rhum 😉 »</p>
+
+[/testimonial]
+[testimonial pos="center" name="Mathieu M." font_size="large" stars="0"]
+
+<p>« Un séjour hors du temps et de l'agitation, un bain de nature ! Eliott, notre guide, était génial : il nous a fait découvrir ses montagnes avec une passion communicative. À refaire ! »</p>
+
+[/testimonial]
+
+[/ux_slider]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row h_align="center"]
+
+[col span="10" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="rgba(61, 73, 85, 0.512)" text_align="center"]
+<p><strong>&#91;NOTRE MÉTHODE&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.875" line_height="1.3" text_color="#3d4955" text_align="center"]
+<h2>Organiser votre séminaire avec Elios Evasion</h2>
+[/ux_text]
+[gap height="64px" height__sm="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ÉTAPE 01</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+[gap height="8px"]
+
+<p><strong>Vous nous décrivez votre projet</strong> : dates, effectif, objectifs, budget, via le formulaire ou au <a href="tel:+33679029332">06 79 02 93 32</a>.</p>
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ÉTAPE 02</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+[gap height="8px"]
+
+<p><strong>Nous vous rencontrons</strong> pour comprendre vos attentes et vos contraintes.</p>
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ÉTAPE 03</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+[gap height="8px"]
+
+<p><strong>Nous composons votre séjour</strong> : hébergement, salle, repas et activités, avec un devis détaillé.</p>
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ÉTAPE 04</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+[gap height="8px"]
+
+<p><strong>Nous gérons tout sur place</strong> : accueil, coordination des prestataires, ajustements selon la météo.</p>
+
+[/col]
+
+[/row]
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p>Elios Evasion est référencée par <a href="https://www.tourisme-pyreneesorientales.com/sorganiser/elios-evasion-font-romeu-odeillo-via-fr-5744365/">Tourisme Pyrénées-Orientales</a> parmi les agences réceptives du département. Le territoire est aussi celui du <a href="https://www.parc-pyrenees-catalanes.fr/">Parc naturel régional des Pyrénées catalanes</a>.</p>
+<p>Vous cherchez plutôt une journée ? Découvrez <a href="/sejours/">nos séminaires à la journée près de Montpellier et Avignon</a> ou revenez à l'accueil d'<a href="/">Elios Evasion, agence de séminaires en pleine nature</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="8px"]
+
+<p><strong>Pour aller plus loin</strong> : <a href="/blog/seminaire-2-jours-programme/">programme type d'un séminaire de 2 jours</a> · <a href="/blog/lieux-a-decouvrir-cerdagne-capcir/">lieux à découvrir en Cerdagne et Capcir</a></p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Combien coûte un séminaire dans les Pyrénées ?"]
+
+<p>Le prix se fait sur devis, car il dépend de la durée, de l'effectif, du niveau d'hébergement (de l'hôtel 2 étoiles au chalet 5 étoiles) et des activités choisies. Nous vous envoyons un devis détaillé après un premier échange. La taxe de séjour est incluse.</p>
+
+[/accordion-item]
+[accordion-item title="Quelle est la durée d'un séminaire à la montagne ?"]
+
+<p>Nos séminaires durent 2 jours ou plus, et jusqu'à 14 jours. Le format le plus demandé est le séminaire de 2 ou 3 jours, avec du travail le matin et des activités l'après-midi.</p>
+
+[/accordion-item]
+[accordion-item title="Que se passe-t-il en cas de mauvais temps ?"]
+
+<p>Le programme prévoit toujours une solution de repli : activité en intérieur, bains d'eau chaude, visite culturelle ou atelier de terroir. Nous ajustons le planning sur place, en fonction de la météo de montagne.</p>
+
+[/accordion-item]
+[accordion-item title="Quelle est la meilleure saison pour un séminaire à la montagne ?"]
+
+<p>Toute l'année. L'hiver pour la neige et l'ambiance des stations, l'été et l'automne pour la randonnée et les activités de plein air. Nous conseillons d'éviter les vacances scolaires, plus chargées et plus chères.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Demandez votre devis de séminaire dans les Pyrénées</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Indiquez vos dates, votre effectif et vos envies : nous vous recontactons pour composer votre séjour et vous envoyer un devis.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

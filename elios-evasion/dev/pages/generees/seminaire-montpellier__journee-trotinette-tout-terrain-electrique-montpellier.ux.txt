@@ -1,0 +1,489 @@
+[ux_banner height="680px" height__sm="560px" bg="MEDIA:trottinette-electrique-lac-salagou.webp" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>JOURNÉE TEAM BUILDING · LAC DU SALAGOU, HÉRAULT</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Team building en trottinette électrique tout terrain au lac du Salagou</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Pré-réserver cette journée" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion propose un <strong>team building en trottinette électrique près de Montpellier</strong> : matinée de travail au Domaine de la Grande Sieste, à Aniane, puis environ 3 heures de trottinette tout terrain en équipe sur les sentiers du lac du Salagou, à 50 minutes de Montpellier. De mai à septembre, à partir de <strong>140 € HT par personne</strong>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>LIEUX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>Domaine de la Grande Sieste, Aniane (34150), pour la matinée ; lac du Salagou, Clermont-l'Hérault (34800), pour l'activité</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ACCÈS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>environ 40 min de Montpellier jusqu'au domaine (38 km) ; le lac est à environ 25 min du domaine, et à 50 min de Montpellier (53 km)</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DURÉE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>une journée, de 9 h à 16 h 30, dont environ 3 h de trottinette</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>SAISON</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>de mai à septembre</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>à partir de 140 € HT par personne</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NON INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>le transport</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NIVEAU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>accessible à tous, public adulte (18 ans et plus)</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="MEDIA:trottinette-electrique-tout-terrain-salagou-piste.webp" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>L'activité : un team building en trottinette électrique autour du Salagou</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Le lac du Salagou est l'un des paysages les plus singuliers de l'Hérault : une eau turquoise posée au milieu de <strong>terres rouges</strong>, de collines et de pistes qui serpentent entre les deux. C'est ce décor que vos équipes parcourent pendant près de <strong>3 heures</strong>.</p>
+<p>La trottinette électrique tout terrain, c'est un mélange de vitesse, de parcours et de plaisir. Gros pneus, moteur électrique silencieux : les machines passent partout et ne demandent aucune condition physique particulière. Après quelques minutes de prise en main, tout le monde roule.</p>
+<h3>En équipe sur les sentiers</h3>
+<p>Les participants avancent en groupe sur les nombreux sentiers du lac. On s'attend, on se signale les passages délicats, on s'arrête pour profiter des points de vue. La cohésion se construit naturellement, sans exercice imposé.</p>
+<h3>Une activité qui surprend</h3>
+<p>Peu de vos collaborateurs auront déjà piloté une trottinette tout terrain. Cette découverte partagée met tout le monde au même niveau, du stagiaire au directeur, et alimente les conversations de l'apéritif.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" padding="0px 48px 0px 0px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;LE LIEU&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Votre matinée de travail au Domaine de la Grande Sieste</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Vous démarrez la journée au <strong>Domaine de la Grande Sieste</strong>, à Aniane, par un petit-déjeuner dans son grand jardin. La salle de séminaire, vaste et lumineuse, peut accueillir jusqu'à 200 personnes. Le domaine dispose aussi d'une piscine intérieure sous charpente.</p>
+<p>La matinée de travail s'organise selon vos objectifs, avec tout le matériel fourni. Un intervenant peut l'enrichir, d'un magicien à un sportif de haut niveau.</p>
+
+[/col]
+[col span="6" span__sm="12" animate="fadeInUp" force_first="small"]
+
+[ux_image id="126" image_size="original" height="75%"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Le programme de la journée</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>MATIN</strong></p>
+[/ux_text]
+<ul>
+<li>8 h 30 – 9 h : arrivée au Domaine de la Grande Sieste</li>
+<li>9 h : petit-déjeuner</li>
+<li>9 h 30 : matinée de travail</li>
+<li>12 h : fin du temps de travail et debriefing</li>
+<li>12 h 15 : déjeuner</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>APRÈS-MIDI</strong></p>
+[/ux_text]
+<ul>
+<li>14 h : début de l'activité trottinette au lac du Salagou</li>
+<li>16 h – 16 h 30 : fin de l'activité et debriefing</li>
+<li>16 h 30 : apéritif de fin de journée</li>
+<li>À partir de 17 h : soirée sur demande</li>
+</ul>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;EN IMAGES&#93;</strong></p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:trottinette-electrique-lac-salagou.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:trottinette-electrique-tout-terrain-salagou-piste.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:trottinette-electrique-tout-terrain-depart.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:trottinette-electrique-tout-terrain-roue.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="126" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="125" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi choisir cette journée</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un décor spectaculaire</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>les terres rouges et l'eau turquoise du Salagou, à moins d'une heure de Montpellier.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Sensations sans effort</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>l'assistance électrique met l'activité à la portée de tous.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Une découverte partagée</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>personne n'a l'avantage, tout le monde apprend en même temps.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un seul interlocuteur</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>domaine, repas, matériel et activité sont organisés par Elios Evasion.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À DÉCOUVRIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Autres journées autour de Montpellier</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="116" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-descente-canoe-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-descente-canoe-montpellier/">Descente de l'Hérault en canoë</a></strong></p>
+[/ux_text]
+<p>même domaine le matin, puis 12 km sur la rivière, dès 120 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-descente-canoe-montpellier/"]
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="128" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/">Olympiades sur la plage de Palavas</a></strong></p>
+[/ux_text]
+<p>un challenge sportif les pieds dans le sable, dès 130 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/"]
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="MEDIA:escape-game-coffres-sablier.webp" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-escape-game-nature-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-escape-game-nature-montpellier/">Escape game en pleine nature</a></strong></p>
+[/ux_text]
+<p>énigmes en équipe au Domaine de Capion, toute l'année, dès 140 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-escape-game-nature-montpellier/"]
+
+[/col]
+
+[/row]
+[row h_align="center"]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="32px"]
+
+[ux_text font_size="1.25" text_align="center"]
+<p>Vous hésitez encore ? Parcourez nos <a href="/blog/idees-team-building-originales/">idées de team building originales</a> ou revenez à <a href="/seminaire-montpellier/">toutes nos journées team building à Montpellier</a>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Combien de temps dure la balade en trottinette au lac du Salagou ?"]
+
+<p>Environ 3 heures, sur les sentiers qui entourent le lac. L'activité commence vers 14 h et se termine entre 16 h et 16 h 30, avec des pauses pour profiter des points de vue.</p>
+
+[/accordion-item]
+[accordion-item title="Combien coûte la journée ?"]
+
+<p>À partir de 140 € HT par personne, avec petit-déjeuner, déjeuner, salle de travail, activité trottinette et apéritif. Le transport n'est pas inclus. Le prix final dépend de l'effectif, de la date et des options.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Pré-réservez votre journée au lac du Salagou</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Indiquez vos dates, votre effectif et vos souhaits : nous préparons votre programme et vous adressons un devis.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

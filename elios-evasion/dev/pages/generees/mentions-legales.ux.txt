@@ -1,0 +1,45 @@
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="2.2" font_size__sm="1.6" line_height="1.2" text_color="#3d4955"]
+<h1>Mentions légales</h1>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12"]
+
+<h2>Éditeur du site</h2>
+<p>Le site www.elios-evasion.fr est édité par :</p>
+<ul>
+<li><strong>Raison sociale</strong> : Elios Evasion</li>
+<li><strong>Téléphone</strong> : 06 79 02 93 32</li>
+</ul>
+<h2>Activité réglementée</h2>
+<p>&#91;À CONFIRMER : statut d'opérateur de voyages et de séjours. Si Elios Evasion vend des prestations combinant hébergement, transport ou activités, l'immatriculation au registre Atout France, la garantie financière et l'assurance de responsabilité civile professionnelle sont obligatoires et doivent figurer ici.&#93;</p>
+<h2>Hébergeur</h2>
+<h2>Conception et réalisation</h2>
+<h2>Propriété intellectuelle</h2>
+<p>L'ensemble des contenus de ce site (textes, photographies, logos, vidéos, mise en page) est la propriété d'Elios Evasion ou de ses partenaires, et est protégé par le Code de la propriété intellectuelle. Toute reproduction, représentation ou diffusion, totale ou partielle, sans autorisation écrite préalable est interdite.</p>
+<p>Les marques et noms des lieux partenaires cités sur ce site appartiennent à leurs titulaires respectifs.</p>
+<h2>Crédits photos</h2>
+<h2>Données personnelles et cookies</h2>
+<p>Les informations recueillies via les formulaires du site sont traitées par Elios Evasion pour répondre à vos demandes. Le détail des traitements, de vos droits et de l'utilisation des cookies figure dans notre <a href="/politique-de-confidentialite/">politique de confidentialité</a>.</p>
+<h2>Liens externes</h2>
+<p>Le site contient des liens vers des sites de partenaires et d'organismes publics. Elios Evasion n'exerce aucun contrôle sur leur contenu et ne peut être tenue responsable de leurs pratiques.</p>
+<h2>Médiation</h2>
+<p>&#91;À CONFIRMER par le juriste : si Elios Evasion vend aussi à des particuliers, indiquer le médiateur de la consommation (par exemple Médiation Tourisme et Voyage) et ses coordonnées. Le lien « Plateforme RLL » du footer actuel pointe vers la plateforme européenne de règlement en ligne des litiges, qui a fermé : à retirer.&#93;</p>
+<h2>Conditions de vente</h2>
+<p>Les conditions applicables à nos prestations sont détaillées dans nos <a href="/conditions-generales-de-vente/">conditions générales de vente</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]

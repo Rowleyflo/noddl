@@ -34,6 +34,7 @@ def charger_reference():
                 ref[n] |= attrs
     # Shortcodes sans attribut, vérifiés à la main dans le code du thème.
     ref.setdefault('ux_current_year', set())  # inc/functions/function-global.php, l. 113
+    ref.setdefault('contact-form-7', {'id', 'title'})  # extension Contact Form 7 (formulaires)
     return ref
 
 

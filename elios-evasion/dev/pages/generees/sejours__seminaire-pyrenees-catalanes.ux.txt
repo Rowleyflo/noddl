@@ -1,0 +1,524 @@
+[ux_banner height="680px" height__sm="560px" bg="134" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>SÉMINAIRE DANS LES PYRÉNÉES-ORIENTALES · NOTRE TERRITOIRE</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Séminaire à Font-Romeu, en Cerdagne et dans le Capcir</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion est installée à Font-Romeu, au cœur des Pyrénées catalanes. Nous y organisons votre <strong>séminaire à Font-Romeu</strong>, aux Angles, en Cerdagne ou dans le Capcir : hébergement, salle, repas et activités chez des partenaires que nous connaissons personnellement.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>COMMUNES</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>Font-Romeu-Odeillo-Via et Bolquère (Cerdagne), Les Angles et Formiguères (Capcir), Mont-Louis</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ALTITUDE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>entre 1 500 et 1 800 mètres pour les villages, plus de 2 000 mètres au lac des Bouillouses</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ACCÈS ROUTE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>~1 h 30 de Perpignan, ~2 h 45 de Toulouse, ~3 h de Montpellier</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ACCÈS TRAIN</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>ligne Toulouse – Latour-de-Carol, puis Train jaune jusqu'à Font-Romeu-Odeillo-Via</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DURÉE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>2 jours ou plus</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PÉRIODE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>toute l'année, hors vacances scolaires de préférence</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>sur devis</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;NOTRE MÉTHODE&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Un séminaire dans les Pyrénées-Orientales, organisé par une agence du pays</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Elios Evasion n'organise pas la montagne à distance : nous vivons ici. Nous connaissons les hôteliers, les guides, les mushers et les restaurateurs de Font-Romeu et des Angles, et nous savons quel lac reste accessible en juin ou quelle piste est la plus abritée un jour de vent.</p>
+<p>Pour vous, c'est l'assurance d'un <strong>séminaire dans les Pyrénées-Orientales</strong> préparé au plus près du terrain, avec une personne joignable sur place pendant tout le séjour.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Tout est à moins de 30 minutes de Font-Romeu</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Le plateau cerdan et le Capcir forment un territoire compact. Votre groupe passe peu de temps dans les transports et beaucoup sur le terrain.</p>
+<table>
+<thead>
+<tr>
+<th>Depuis Font-Romeu</th>
+<th>Temps de route</th>
+<th>Pour quoi faire</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bolquère</td>
+<td>~10 min</td>
+<td>gare de Bolquère-Eyne, la plus haute gare SNCF de France (1 593 m)</td>
+</tr>
+<tr>
+<td>Mont-Louis</td>
+<td>~10 min</td>
+<td>citadelle de Vauban classée à l'UNESCO, four solaire de 1949</td>
+</tr>
+<tr>
+<td>Les Angles</td>
+<td>~20 min</td>
+<td>station de ski, lacs de Matemale et de Balcère, forêt du Capcir</td>
+</tr>
+<tr>
+<td>Bains de Llo</td>
+<td>~20 min</td>
+<td>bains d'eau chaude naturelle en plein air</td>
+</tr>
+<tr>
+<td>Latour-de-Carol</td>
+<td>~25 min</td>
+<td>gare de la ligne de Toulouse et terminus du Train jaune</td>
+</tr>
+<tr>
+<td>Puigcerdà et Llívia (Espagne)</td>
+<td>~25 min</td>
+<td>marché catalan, enclave espagnole de Llívia</td>
+</tr>
+<tr>
+<td>Lac des Bouillouses</td>
+<td>~30 min</td>
+<td>randonnée vers le pic Carlit (accès en navette l'été)</td>
+</tr>
+<tr>
+<td>Andorre-la-Vieille</td>
+<td>~1 h 30</td>
+<td>excursion en Andorre</td>
+</tr>
+</tbody>
+</table>
+<p>Temps calculés en voiture, hors trafic et hors conditions hivernales.</p>
+<h2>Font-Romeu, Les Angles : deux bases au choix</h2>
+<h3>Font-Romeu et la Cerdagne</h3>
+<p>Station née au début du XXe siècle, <strong>Font-Romeu</strong> domine le plateau ensoleillé de la Cerdagne. Elle réunit la plus grande offre d'hôtels de la zone, la station de Font-Romeu Pyrénées 2000 et un centre national d'entraînement en altitude où se préparent de nombreux sportifs de haut niveau. À Odeillo, le grand four solaire du CNRS est l'une des curiosités scientifiques du département.</p>
+<h3>Les Angles et le Capcir</h3>
+<p>Plus au nord, <strong>Les Angles</strong> offre une ambiance de village de montagne, entourée des forêts de pins et des lacs du Capcir. C'est une base idéale pour un séminaire tourné vers le ski, les raquettes ou les activités en forêt, à 20 minutes de Font-Romeu.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="123" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Ce que vos équipes vont vivre ici</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Le choix des activités dépend de la saison : vous trouverez le détail sur nos pages <a href="/sejours/seminaire-ski-hiver/">séminaire ski et neige à Font-Romeu</a> et <a href="/sejours/seminaire-montagne-ete/">team building montagne en été</a>. Ce qui fait la différence en Pyrénées catalanes, ce sont les lieux :</p>
+<ul>
+<li><strong>le massif du Carlit</strong>, dont le sommet (2 921 m) est le point culminant des Pyrénées-Orientales, et ses dizaines de lacs ;</li>
+<li><strong>le lac des Bouillouses</strong>, site classé à plus de 2 000 mètres, point de départ des randonnées vers le Carlit ;</li>
+<li><strong>la citadelle de Mont-Louis</strong>, fondée par Vauban en 1679 et inscrite au patrimoine mondial de l'UNESCO en 2008 ;</li>
+<li><strong>le Train jaune</strong>, qui relie Villefranche-de-Conflent à Latour-de-Carol sur 63 km, en passant par le pont Gisclard ;</li>
+<li><strong>la vallée d'Eyne</strong>, réserve naturelle réputée pour sa flore de montagne ;</li>
+<li><strong>les bains d'eau chaude naturelle</strong> de Dorres, Llo et Saint-Thomas, à ciel ouvert.</li>
+</ul>
+<p>Nous les présentons plus en détail dans notre article sur les <a href="/blog/lieux-a-decouvrir-cerdagne-capcir/">lieux à découvrir en Cerdagne et Capcir</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Exemple : 3 jours de séminaire en Cerdagne et Capcir</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="4" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 1 : FONT-ROMEU</strong></p>
+[/ux_text]
+<ul>
+<li>Arrivée en fin de matinée, déjeuner</li>
+<li>Séance de travail l'après-midi</li>
+<li>Dîner de spécialités catalanes</li>
+</ul>
+
+[/col]
+[col span="4" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 2 : CARLIT ET BOUILLOUSES</strong></p>
+[/ux_text]
+<ul>
+<li>Séance de travail le matin</li>
+<li>Après-midi au lac des Bouillouses : randonnée l'été, raquettes l'hiver</li>
+<li>Bains d'eau chaude naturelle à Llo ou à Dorres en fin de journée</li>
+</ul>
+
+[/col]
+[col span="4" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 3 : MONT-LOUIS ET TRAIN JAUNE</strong></p>
+[/ux_text]
+<ul>
+<li>Atelier de clôture et bilan</li>
+<li>Visite de la citadelle de Mont-Louis et du four solaire</li>
+</ul>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;EN IMAGES&#93;</strong></p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="134" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="135" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="123" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="122" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="143" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="139" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi organiser votre séminaire à Font-Romeu</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un interlocuteur sur place</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>joignable pendant tout le séjour.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Des trajets courts</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>tous les sites sont à moins de 30 minutes.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Le soleil</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>la Cerdagne est réputée pour son ensoleillement, hiver comme été.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>La frontière à deux pas</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>une soirée à Puigcerdà ou une journée en Andorre se glissent facilement au programme.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p>Pour préparer votre venue, consultez aussi le site de l'<a href="https://font-romeu.fr/">office de tourisme de Font-Romeu</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="8px"]
+
+<p>Cette page fait partie de nos <a href="/sejours/sejour-team-building-pyrenees/">séminaires à la montagne dans les Pyrénées</a>. Vous venez de Toulouse ? Comparez les destinations dans notre article <a href="/blog/seminaire-au-vert-toulouse-pyrenees/">séminaire au vert près de Toulouse</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Où se trouve Font-Romeu ?"]
+
+<p>Font-Romeu-Odeillo-Via est une station des Pyrénées-Orientales, en Cerdagne, à environ 1 800 mètres d'altitude. Elle se trouve à 1 h 30 de Perpignan, 2 h 45 de Toulouse et 3 h de Montpellier en voiture.</p>
+
+[/accordion-item]
+[accordion-item title="Quelle est la différence entre la Cerdagne et le Capcir ?"]
+
+<p>Ce sont deux hauts plateaux voisins des Pyrénées catalanes. La Cerdagne, autour de Font-Romeu, est un large plateau très ensoleillé, ouvert sur l'Espagne. Le Capcir, autour des Angles et de Formiguères, est plus forestier et parsemé de lacs.</p>
+
+[/accordion-item]
+[accordion-item title="Combien coûte un séminaire à Font-Romeu ?"]
+
+<p>Le prix est établi sur devis, selon la durée, l'effectif, l'hébergement et les activités. La taxe de séjour est incluse. Envoyez-nous vos dates : nous vous répondons avec une proposition détaillée.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Demandez votre devis de séminaire à Font-Romeu</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Indiquez vos dates, votre effectif et vos envies : nous préparons votre séjour en Cerdagne ou dans le Capcir et vous envoyons un devis.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

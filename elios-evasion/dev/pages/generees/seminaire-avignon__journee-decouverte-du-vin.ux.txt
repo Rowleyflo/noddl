@@ -1,0 +1,517 @@
+[ux_banner height="680px" height__sm="560px" bg="14" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>JOURNÉE TEAM BUILDING · CHÂTEAUNEUF-DU-PAPE</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Team building œnologie au cœur du vignoble de Châteauneuf-du-Pape</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Pré-réserver cette journée" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion organise des journées de <strong>team building œnologie</strong> au château des Fines Roches, à Châteauneuf-du-Pape, à environ 25 minutes d'Avignon. Le matin, vos équipes travaillent en salle. L'après-midi, un sommelier les initie à la dégustation des vins de l'AOC Châteauneuf-du-Pape. Une journée pour adultes, proposée toute l'année, à partir de <strong>180 € HT par personne</strong>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>LIEU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>château des Fines Roches, Châteauneuf-du-Pape (84230), au milieu des vignes de l'AOC</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ACCÈS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>environ 25 min en voiture depuis le centre d'Avignon (16 km)</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DURÉE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>une journée, de 9 h à 16 h 30, soirée possible</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>SAISON</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>toute l'année</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>à partir de 180 € HT par personne</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>petit-déjeuner, déjeuner, salle et matériel de travail, initiation à la dégustation avec un sommelier, apéritif de fin de journée</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NON INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>le transport</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NIVEAU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>accessible à tous, aucune connaissance du vin requise ; public adulte (18 ans et plus)</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="17" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>L'activité : une initiation à la dégustation avec un sommelier</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Châteauneuf-du-Pape est une appellation de la vallée du Rhône, à deux pas d'Avignon. Ses vignes poussent sur un sol couvert de galets roulés, que vos collaborateurs verront de près en arrivant au château. C'est ce terroir que le sommelier vous fait découvrir l'après-midi.</p>
+<h3>Apprendre à déguster</h3>
+<p>Regarder la robe, sentir, goûter, mettre des mots sur ses impressions : le sommelier donne à chacun les clés d'une dégustation, puis fait goûter les vins du domaine. La conversation s'engage vite entre des collègues qui se parlent peu d'habitude.</p>
+<h3>Comprendre comment naît un vin</h3>
+<p>L'atelier explique aussi les étapes de la vinification, de la vigne jusqu'à la bouteille. Une façon concrète de parler savoir-faire et exigence, des thèmes faciles à relier à votre séminaire.</p>
+<h3>Les options pour aller plus loin</h3>
+<ul>
+<li>un <strong>casino des vins</strong>, pour transformer la dégustation en jeu par équipes ;</li>
+<li>une <strong>découverte de l'univers du café</strong> ;</li>
+<li>une <strong>initiation à la dégustation de digestifs</strong>.</li>
+</ul>
+<p>Ce team building œnologie convient particulièrement aux comités de direction, aux équipes commerciales et aux journées où vous recevez des clients ou des partenaires.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" padding="0px 48px 0px 0px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;LE LIEU&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Votre matinée de travail au château des Fines Roches</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Construit à la fin du XIXe siècle, le château des Fines Roches domine les vignes avec ses tours crénelées. Vos équipes y prennent le petit-déjeuner sur la terrasse, puis s'installent en salle pour une matinée de travail organisée selon vos besoins. Tout le matériel est fourni.</p>
+<p>Envie de donner un fil rouge à la matinée ? Nous pouvons faire venir un intervenant, d'un magicien à un sportif de haut niveau. Le déjeuner est servi en salle ou sur la grande terrasse, selon la météo.</p>
+
+[/col]
+[col span="6" span__sm="12" animate="fadeInUp" force_first="small"]
+
+[ux_image id="141" image_size="original" height="75%"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Le programme de la journée</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>MATIN</strong></p>
+[/ux_text]
+<ul>
+<li>8 h 30 – 9 h : arrivée au château des Fines Roches</li>
+<li>9 h : petit-déjeuner en terrasse</li>
+<li>9 h 30 : matinée de travail en salle</li>
+<li>12 h : fin du temps de travail et debriefing</li>
+<li>12 h 30 – 14 h : déjeuner</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>APRÈS-MIDI</strong></p>
+[/ux_text]
+<ul>
+<li>14 h 15 : début de l'initiation à l'œnologie</li>
+<li>16 h – 16 h 30 : fin de l'activité</li>
+<li>16 h 30 : apéritif de fin de séminaire</li>
+<li>À partir de 17 h 30 : soirée sur demande</li>
+</ul>
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p>Le programme est modulable : dégustation le matin et travail l'après-midi, demi-journée, ou journée sans temps de travail.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;EN IMAGES&#93;</strong></p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="14" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="120" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="121" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="141" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="17" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="144" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi choisir cette journée</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un savoir que l'on rapporte chez soi</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>chacun repart en sachant déguster un vin, pas seulement avec un bon souvenir.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Tout le monde au même niveau</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>personne n'est expert, ce qui efface les écarts de hiérarchie le temps d'un après-midi.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un cadre de prestige</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>un château au milieu des vignes, à 25 minutes d'Avignon, pour recevoir aussi des clients.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un seul interlocuteur</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>Elios Evasion coordonne le château, le sommelier, le traiteur et les options.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À DÉCOUVRIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Autres journées autour d'Avignon</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="119" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-avignon/journee-murder-party/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-avignon/journee-murder-party/">Murder party au château de Beauregard</a></strong></p>
+[/ux_text]
+<p>une enquête en costume dans un château du XVIIe siècle, dès 150 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-avignon/journee-murder-party/"]
+
+[/col]
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="MEDIA:escape-game-tablette-enigme.webp" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-avignon/journee-escape-game-nature/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-avignon/journee-escape-game-nature/">Escape game nature près d'Avignon</a></strong></p>
+[/ux_text]
+<p>des énigmes dans le parc d'un moulin de 1598 ou dans les vignes, dès 140 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-avignon/journee-escape-game-nature/"]
+
+[/col]
+
+[/row]
+[row h_align="center"]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="32px"]
+
+[ux_text font_size="1.25" text_align="center"]
+<p>Voir <a href="/seminaire-avignon/">toutes nos journées team building autour d'Avignon</a>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="8px"]
+
+<p><strong>Pour aller plus loin</strong> : vous préparez une sortie pour votre comité ? Lisez nos <a href="/blog/idees-sortie-cse/">idées de sortie CSE et les règles à connaître</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Faut-il s'y connaître en vin pour participer ?"]
+
+<p>Non. L'initiation est pensée pour des débutants : le sommelier part des bases et adapte son discours au groupe, amateurs éclairés compris.</p>
+
+[/accordion-item]
+[accordion-item title="Combien coûte un team building œnologie à Châteauneuf-du-Pape ?"]
+
+<p>La journée est à partir de 180 € HT par personne. Ce prix comprend le petit-déjeuner, le déjeuner, la salle de travail, l'initiation avec le sommelier et l'apéritif. Les options (casino des vins, café, digestifs, intervenant, soirée) sont chiffrées dans le devis.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Pré-réservez votre journée œnologie</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Indiquez vos dates, votre effectif et vos souhaits : nous revenons vers vous pour construire votre programme et vous envoyer un devis. Prévoyez au moins 4 semaines entre votre demande et la date du séminaire.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

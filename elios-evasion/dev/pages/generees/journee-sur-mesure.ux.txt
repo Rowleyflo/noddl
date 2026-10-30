@@ -1,0 +1,449 @@
+[ux_banner height="680px" height__sm="560px" bg="128" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>JOURNÉE SUR MESURE · TOUTE L'ANNÉE</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Team building sur mesure : une journée de cohésion à votre image</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Construire ma journée" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion compose des journées de <strong>team building sur mesure</strong> pour les entreprises qui ont un besoin précis : un lieu, une date, un effectif ou un message à faire passer. Nous assemblons pour vous le lieu, le temps de travail, l'activité et les repas parmi notre réseau de partenaires, autour de Montpellier, d'Avignon ou à la montagne. Toute l'année, à partir de <strong>110 € HT par personne</strong>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>LIEU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>autour de Montpellier, autour d'Avignon ou dans les Pyrénées, selon vos souhaits</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DURÉE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>une journée, de 9 h à 16 h 30 environ ; demi-journée ou soirée possibles</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>SAISON</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>toute l'année</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>à partir de 110 € HT par personne</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>petit-déjeuner, déjeuner, salle et matériel pour votre matinée de travail, activités de l'après-midi, apéritif de fin de journée</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NON INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>le transport</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NIVEAU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>accessible à tous, public adulte (18 ans et plus)</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="120" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi choisir un team building sur mesure</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Nos journées clés en main conviennent à la plupart des groupes. Mais certains projets demandent plus de souplesse : une date imposée par un salon, un groupe de 80 personnes aux profils très différents, un lancement de produit à mettre en scène, ou un lieu déjà réservé.</p>
+<p>Dans ces cas, nous partons de votre contrainte plutôt que de notre catalogue. Vous gardez un seul interlocuteur et un seul devis, mais chaque élément de la journée est choisi pour vous.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Les éléments de votre journée à la carte</h2>
+[/ux_text]
+[gap height="8px"]
+
+<h3>Le lieu</h3>
+<p>Un château, un domaine viticole, une grotte, une plage ou un hôtel à la montagne : nous vous proposons des lieux adaptés à votre effectif et à votre budget, parmi nos partenaires ou selon votre demande.</p>
+<h3>Le temps de travail</h3>
+<p>Une matinée en salle équipée, un atelier en extérieur, une plénière suivie de sous-groupes : vous choisissez la durée et le format. Nous pouvons faire venir un intervenant, d'un magicien à un sportif de haut niveau, selon le message que vous voulez faire passer.</p>
+<h3>L'activité de cohésion</h3>
+<h3>La restauration</h3>
+<p>Petit-déjeuner, déjeuner sur place ou en extérieur selon la météo, apéritif de fin de journée.</p>
+<h3>La soirée</h3>
+<p>Si votre journée se prolonge, nous organisons une soirée sur demande : dîner, animation ou hébergement pour un séminaire de deux jours.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row h_align="center"]
+
+[col span="10" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="rgba(61, 73, 85, 0.512)" text_align="center"]
+<p><strong>&#91;NOTRE MÉTHODE&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.875" line_height="1.3" text_color="#3d4955" text_align="center"]
+<h2>Comment nous construisons votre journée</h2>
+[/ux_text]
+[gap height="64px" height__sm="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ÉTAPE 01</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+[gap height="8px"]
+
+<p><strong>Vous nous décrivez votre projet</strong> : dates, effectif, zone géographique, objectif de la journée et budget indicatif.</p>
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ÉTAPE 02</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+[gap height="8px"]
+
+<p><strong>Nous vous rappelons</strong> pour préciser vos attentes et vous proposer une ou plusieurs pistes de programme.</p>
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ÉTAPE 03</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+[gap height="8px"]
+
+<p><strong>Vous recevez un devis détaillé</strong>, poste par poste, et nous l'ajustons avec vous si besoin.</p>
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ÉTAPE 04</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+[gap height="8px"]
+
+<p><strong>Nous réservons et coordonnons</strong> le lieu, le traiteur et les prestataires jusqu'au jour J.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Un programme type, à adapter</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>MATIN</strong></p>
+[/ux_text]
+<ul>
+<li>8 h 30 – 9 h : arrivée sur le lieu de travail</li>
+<li>9 h : petit-déjeuner</li>
+<li>9 h 30 : début de la matinée de travail</li>
+<li>12 h : fin de la matinée et debriefing</li>
+<li>12 h 30 – 14 h : déjeuner</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>APRÈS-MIDI</strong></p>
+[/ux_text]
+<ul>
+<li>14 h 15 : début de l'activité</li>
+<li>16 h – 16 h 30 : fin de l'activité</li>
+<li>16 h 30 : apéritif de fin de séminaire</li>
+<li>À partir de 17 h 30 : soirée sur demande</li>
+</ul>
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p>Tout se déplace : activité le matin, demi-journée, ou journée sans temps de travail pour une sortie d'équipe ou de CSE.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;EN IMAGES&#93;</strong></p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="12" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="119" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:trottinette-electrique-lac-salagou.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-carnet-indices-equipe.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="16" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="120" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Partir de nos journées existantes</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Pour trouver l'inspiration, parcourez nos formules par destination. Chacune peut servir de base à votre journée sur mesure :</p>
+<ul>
+<li><strong>Vallée de l'Hérault, lac du Salagou, Palavas</strong> : nos journées de team building <a href="/seminaire-montpellier/">à Montpellier</a>, de la grotte de Clamouse à la plage.</li>
+<li><strong>Châteaux et vignobles du Vaucluse</strong> : nos journées <a href="/seminaire-avignon/">près d'Avignon</a>, dont l'œnologie à Châteauneuf-du-Pape.</li>
+<li><strong>Neige ou randonnée</strong> : nos séminaires de plusieurs jours <a href="/sejours/sejour-team-building-pyrenees/">à la montagne</a>, au départ de Font-Romeu.</li>
+</ul>
+<p>Vous avez une question sur les prix, les effectifs ou les délais ? Consultez notre <a href="/faq/">foire aux questions</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Combien coûte un team building sur mesure ?"]
+
+<p>Une journée sur mesure démarre à 110 € HT par personne, avec le petit-déjeuner, le déjeuner, la salle de travail, les activités et l'apéritif. Le prix final dépend du lieu, de l'activité, de l'effectif et des options (intervenant, soirée, transport).</p>
+
+[/accordion-item]
+[accordion-item title="Peut-on mélanger plusieurs activités dans la même journée ?"]
+
+<p>Oui, c'est l'un des intérêts du sur-mesure. Deux activités peuvent se combiner sous forme de challenge par équipes, avec un classement et une remise de prix pendant l'apéritif.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Construisons votre journée ensemble</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Décrivez-nous votre projet : dates, effectif, lieu souhaité et objectif. Nous vous rappelons pour en parler, puis nous vous envoyons un devis. Vous préférez échanger directement ? Écrivez-nous depuis la page <a href="/contact/">contact</a> ou appelez le <a href="tel:+33679029332">06 79 02 93 32</a>.</p>
+[gap height="16px"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

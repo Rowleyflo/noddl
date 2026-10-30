@@ -1,29 +1,28 @@
-[section padding="80px" padding__sm="40px"]
-
 [row]
 
-[col span="12" animate="fadeInUp"]
+[col animate="fadeInUp"]
 
-[ux_banner height="500px" height__sm="560px" bg="20" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%"]
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
 
-[text_box width="70" width__sm="90" position_x="50" position_y="50" text_align="center" text_color="light"]
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
 
 [ux_text font_size="0.75"]
-<p>&#91;VOTRE PROJET&#93;</p>
+
+<p><strong>[VOTRE PROJET]</strong></p>
 [/ux_text]
-[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2"]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+
 <h2>Parlons de votre prochain séminaire</h2>
 [/ux_text]
-
 [gap height="8px"]
 
 <p>Donnez-nous vos dates, votre effectif et la destination qui vous tente : nous revenons vers vous avec une proposition et un devis.</p>
-
 [gap height="16px"]
 
-[button padding="10px 28px" text="Demander un devis" color="white" size="small" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+[button text="Demander un devis" padding="10px 30px 10px 30px" radius="99" icon="icon-angle-right" icon_pos="right" link="/contact/"]
 
-[button text="Appeler le 06 79 02 93 32" color="white" size="small" style="underline" link="tel:+33679029332"]
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
 
 [/text_box]
 
@@ -32,5 +31,3 @@
 [/col]
 
 [/row]
-
-[/section]

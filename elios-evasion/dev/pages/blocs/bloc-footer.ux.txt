@@ -1,43 +1,81 @@
-[section bg_color="#F9F9F9" padding="120px" padding__sm="64px"]
+[section bg_color="rgb(39, 49, 58)" padding="0px" padding__sm="64px"]
+
+[gap height="83px"]
 
 [row]
 
-[col span="5" span__sm="12"]
+[col span="5" span__sm="12" padding="0px 184px 0px 0px" padding__sm="0px 20px 0px 20px" color="light"]
 
-[logo img="38" height="90" padding="0px" link="/" title="Elios Evasion"]
+[ux_image id="61" width="78"]
+
+[ux_text text_color="rgb(124, 132, 140)"]
+
 <p>Agence réceptive basée à Font-Romeu, Elios Evasion organise des séminaires d'entreprise et des team buildings clés en main en pleine nature : près de Montpellier, près d'Avignon et dans les Pyrénées.</p>
+[/ux_text]
+[ux_text font_size="0.9" text_color="#aac816"]
 
-[/col]
-[col span="3" span__sm="12"]
-
-[ux_text font_size="0.75"]
 <p><strong>CONTACT</strong></p>
 [/ux_text]
 <p>66120 Font-Romeu-Odeillo-Via<br />
 <a href="tel:+33679029332">06 79 02 93 32</a></p>
+[follow style="small" facebook="https://www.facebook.com/p/Elios-Evasion-100070387800853/" instagram="https://www.instagram.com/eliosevasion/" linkedin="https://www.linkedin.com/in/eliottreyivan/"]
 
-[follow style="outline" facebook="https://www.facebook.com/p/Elios-Evasion-100070387800853/" instagram="https://www.instagram.com/eliosevasion/" linkedin="https://www.linkedin.com/in/eliottreyivan/"]
 
 [/col]
-[col span="2" span__sm="6"]
+[col span="1" span__sm="12" color="light" visibility="hide-for-small"]
 
-[ux_text font_size="0.75"]
+
+[/col]
+[col span="3" span__sm="12" padding__sm="0px 20px 0px 20px" color="light"]
+
+[ux_text font_size="0.9" text_color="#aac816"]
+
 <p><strong>DESTINATIONS</strong></p>
 [/ux_text]
-<p><a href="/seminaire-montpellier/">Team building Montpellier</a><br />
-<a href="/seminaire-avignon/">Team building Avignon</a><br />
-<a href="/sejours/seminaire-ski-hiver/">Séminaire montagne en hiver</a><br />
-<a href="/sejours/seminaire-montagne-ete/">Séminaire montagne en été</a><br />
-<a href="/journee-sur-mesure/">Journée sur mesure</a></p>
+[ux_menu]
+
+[ux_menu_link text="Team building Montpellier"]
+
+[ux_menu_link text="Team building Avignon"]
+
+[ux_menu_link text="Séminaire montagne en hiver"]
+
+[ux_menu_link text="Séminaire montagne en été"]
+
+[ux_menu_link text="Journée sur mesure"]
+
+
+[/ux_menu]
 
 [/col]
-[col span="2" span__sm="6"]
+[col span="3" span__sm="12" padding__sm="0px 20px 0px 20px" color="light"]
 
-[ux_text font_size="0.75"]
+[ux_text font_size="0.9" text_color="#aac816"]
+
 <p><strong>RESSOURCES</strong></p>
 [/ux_text]
-<p><a href="/faq/">Questions fréquentes et prix</a><br />
-<a href="/blog/">Le blog</a></p>
+[ux_menu]
+
+[ux_menu_link text="Questions fréquentes et prix"]
+
+[ux_menu_link text="Le blog"]
+
+
+[/ux_menu]
+
+[/col]
+
+[/row]
+[gap height="41px"]
+
+[row]
+
+[col span__sm="12" padding__sm="0px 20px 0px 20px"]
+
+[ux_text font_size="0.8" text_align="center" text_align__sm="left" text_color="#747d85"]
+
+<p>© Copyright Elios Evasion – Mentions légales – Développement site web : Otaku – Plateforme RLL</p>
+[/ux_text]
 
 [/col]
 

@@ -1,0 +1,492 @@
+[ux_banner height="680px" height__sm="560px" bg="15" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>SÉMINAIRE D'HIVER · FONT-ROMEU ET STATIONS DES PYRÉNÉES</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Séminaire ski et team building neige dans les Pyrénées</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion organise des <strong>séminaires ski d'entreprise</strong> de 2 jours ou plus au départ de Font-Romeu, dans les Pyrénées catalanes : ateliers de travail le matin, ski, raquettes, chiens de traîneau ou biathlon l'après-midi, dîner d'altitude le soir.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>LIEU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>stations de Font-Romeu Pyrénées 2000 et des Angles (Pyrénées-Orientales), autres stations pyrénéennes sur demande</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ACCÈS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>~2 h 45 de Toulouse, ~1 h 30 de Perpignan, ~3 h de Montpellier</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DURÉE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>2 jours ou plus</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>sur devis</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>selon le devis, hébergement, salle de travail, repas, activités encadrées, taxe de séjour</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NIVEAU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>tous niveaux, débutants bienvenus</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="18" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;LA SAISON&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Un séminaire d'hiver au soleil des Pyrénées</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>La neige change le rythme d'un séminaire. Le matin, on travaille au calme, face aux sommets. L'après-midi, on enfile les chaussures de ski ou les raquettes, et l'équipe se retrouve sur un tout autre terrain.</p>
+<p>Les stations des Pyrénées catalanes ont un atout : elles sont parmi les plus ensoleillées du massif. Les journées sur les pistes se font souvent sous le ciel bleu, ce qui compte quand on organise un <strong>séminaire à la neige</strong> pour des collaborateurs qui ne skient pas tous.</p>
+<h2>Les activités de votre team building neige</h2>
+<p>Nous composons le programme avec vous, selon le niveau et les envies du groupe. Toutes les activités sont encadrées par des professionnels : moniteurs de ski, guides, mushers.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Ski alpin et snowboard</h3>
+[/ux_text]
+<p>Cours collectifs par niveau ou descente encadrée pour les skieurs confirmés : chacun profite du domaine à son rythme, et tout le monde se retrouve pour le déjeuner en altitude.</p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Ski de fond et biathlon</h3>
+[/ux_text]
+<p>Le ski de fond se pratique sur les pistes nordiques du plateau. Associé à un tir à la carabine laser, il devient un <strong>biathlon par équipes</strong>, un challenge très apprécié en team building : ça se joue autant sur la précision que sur l'endurance.</p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Raquettes à neige</h3>
+[/ux_text]
+<p>Accessible à tous, la randonnée en raquettes emmène le groupe en forêt ou vers un lac gelé. C'est l'activité idéale pour mélanger sportifs et non-sportifs, et pour parler en marchant.</p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Chiens de traîneau</h3>
+[/ux_text]
+<p>Conduire son propre attelage ou se laisser tirer en traîneau : l'activité marque les esprits. Elle demande d'écouter le musher et de coopérer avec les chiens, ce qui fait d'elle un vrai exercice de confiance.</p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Ski de randonnée</h3>
+[/ux_text]
+<p>Pour les groupes sportifs, une sortie en ski de randonnée avec un guide permet de découvrir les sommets loin des pistes, en peaux de phoque à la montée.</p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Dîner d'altitude en dameuse et soirées</h3>
+[/ux_text]
+<p>Le soir, montez <strong>dîner dans un restaurant d'altitude à bord d'une dameuse</strong>, puis redescendez sous les étoiles. D'autres activités ludiques, comme le snakegliss (descente en luges reliées les unes aux autres), complètent la soirée.</p>
+
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Votre temps de travail en station</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>L'idéal est de travailler le matin, quand l'attention est la meilleure, et de garder l'après-midi pour la neige.</p>
+<p>Côté hébergement, nous proposons des hôtels 2 et 3 étoiles, des chalets du 2 au 5 étoiles et des résidences, au pied des pistes ou au cœur du village.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Exemple de séminaire ski de 2 jours</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 1</strong></p>
+[/ux_text]
+<ul>
+<li>10 h : arrivée à Font-Romeu, remise du matériel</li>
+<li>10 h 30 : séance de travail en salle</li>
+<li>12 h 30 : déjeuner</li>
+<li>14 h : ski alpin par niveaux ou raquettes</li>
+<li>17 h : bains d'eau chaude naturelle ou temps libre</li>
+<li>19 h 30 : montée en dameuse et dîner au restaurant d'altitude</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 2</strong></p>
+[/ux_text]
+<ul>
+<li>8 h : petit-déjeuner</li>
+<li>9 h : ateliers en sous-groupes</li>
+<li>12 h 30 : déjeuner</li>
+<li>14 h : biathlon par équipes ou chiens de traîneau</li>
+<li>16 h 30 : remise des prix, bilan et départ</li>
+</ul>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À DÉCOUVRIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Font-Romeu, et les autres stations des Pyrénées</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Notre base est à Font-Romeu. Autour, les stations des Angles, de Formiguères, du Cambre d'Aze ou de Porté-Puymorens sont à moins d'une heure de route. Vous pouvez aussi passer la frontière : l'Andorre est à environ 1 h 30.</p>
+<p>Vous préférez une autre vallée ?</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;EN IMAGES&#93;</strong></p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="15" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="18" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi choisir un séminaire ski avec Elios Evasion</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Tout le monde participe</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>skieurs confirmés, débutants ou non-skieurs trouvent chacun une activité.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Des moments qui soudent</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>un biathlon par équipes ou une soirée en dameuse créent des souvenirs communs.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Une logistique prise en charge</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>hébergement, matériel, moniteurs, repas et salle, avec un seul interlocuteur.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Une agence de la montagne</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>nous vivons à Font-Romeu et connaissons les stations, les guides et les conditions.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Prolonger votre réflexion</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Cette formule fait partie de nos <a href="/sejours/sejour-team-building-pyrenees/">séminaires à la montagne dans les Pyrénées</a>. Vous préférez les beaux jours ? Découvrez notre <a href="/sejours/seminaire-montagne-ete/">team building montagne en été</a>. Et pour préparer vos temps libres, voici les <a href="/blog/lieux-a-decouvrir-cerdagne-capcir/">lieux à découvrir en Cerdagne et Capcir</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Faut-il savoir skier pour participer à un séminaire à la neige ?"]
+
+<p>Non. Nous prévoyons des cours par niveau pour les débutants et des activités sans ski, comme les raquettes, les chiens de traîneau ou le biathlon. Chacun participe à son rythme.</p>
+
+[/accordion-item]
+[accordion-item title="Que faire s'il ne neige pas assez ?"]
+
+<p>Nous adaptons le programme : raquettes ou randonnée sur les secteurs enneigés, bains d'eau chaude, visite de la citadelle de Mont-Louis ou atelier de terroir. Vous êtes prévenus avant le départ si un changement est nécessaire.</p>
+
+[/accordion-item]
+[accordion-item title="Combien coûte un séminaire ski d'entreprise ?"]
+
+<p>Le prix est établi sur devis, selon la durée, l'effectif, l'hébergement et les activités. Envoyez-nous vos dates et votre effectif : nous vous répondons avec une proposition détaillée.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Demandez votre devis de séminaire ski</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Indiquez vos dates, votre effectif et le niveau de ski du groupe : nous composons votre séminaire d'hiver et vous envoyons un devis.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

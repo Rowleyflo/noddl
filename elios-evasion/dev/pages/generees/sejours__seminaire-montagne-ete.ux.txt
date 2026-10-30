@@ -1,0 +1,529 @@
+[ux_banner height="680px" height__sm="560px" bg="142" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>SÉMINAIRE D'ÉTÉ · MASSIF DU CARLIT, CERDAGNE, CAPCIR</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Team building à la montagne en été dans les Pyrénées</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion organise des <strong>team buildings à la montagne en été</strong> depuis Font-Romeu, dans les Pyrénées catalanes : séminaires de 2 jours ou plus, avec travail en salle le matin et randonnée, VTT, canyoning, escalade ou spéléologie l'après-midi.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>LIEU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>Font-Romeu, Les Angles, massif du Carlit, Cerdagne et Capcir ; autres massifs pyrénéens sur demande</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ACCÈS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>~2 h 45 de Toulouse, ~1 h 30 de Perpignan, ~3 h de Montpellier</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DURÉE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>2 jours ou plus</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>sur devis</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>selon le devis, hébergement, salle de travail, repas, activités encadrées, taxe de séjour</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NON INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>le transport jusqu'à Font-Romeu</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NIVEAU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>des activités pour tous, des plus tranquilles aux plus sportives</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="139" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Un séminaire nature entre lacs et sommets</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>L'été, la montagne pyrénéenne devient une immense salle de séminaire à ciel ouvert. Autour de Font-Romeu, à plus de 1 800 mètres d'altitude, les nuits sont fraîches et les journées lumineuses : on travaille bien, on dort bien.</p>
+<p>Le massif du Carlit et ses dizaines de lacs, les forêts de pins du Capcir et les villages de Cerdagne se rejoignent en quelques minutes. Votre <strong>séminaire nature</strong> se vit dehors, loin de la chaleur des villes.</p>
+<h2>Les activités de votre team building montagne</h2>
+<p>Toutes les activités sont encadrées par des professionnels et adaptées au niveau du groupe. Vous pouvez en combiner plusieurs sur un même séjour, ou les organiser en challenge par équipes.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Team building randonnée</h3>
+[/ux_text]
+<p>Une randonnée accompagnée vers un lac d'altitude du massif du Carlit, avec pique-nique au bord de l'eau. La marche délie les langues, et l'arrivée au lac récompense l'effort collectif. Plusieurs niveaux sont possibles, de la balade facile à l'ascension.</p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Team building VTT</h3>
+[/ux_text]
+<p>En VTT classique ou à assistance électrique, le groupe parcourt les pistes forestières du plateau. Le VTT électrique permet de rouler ensemble, quel que soit le niveau de chacun.</p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Team building canyoning</h3>
+[/ux_text]
+<p>Sauts, toboggans naturels et descentes en rappel dans l'eau vive : le canyoning, c'est l'activité qui soude le plus vite une équipe. Combinaison, casque et baudrier sont fournis.</p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Team building escalade</h3>
+[/ux_text]
+<p>Sur un site d'escalade en falaise, encadré par un moniteur, chacun grimpe à son niveau pendant qu'un collègue l'assure. Rien de tel pour travailler la confiance.</p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Spéléologie</h3>
+[/ux_text]
+<p>Une sortie sous terre, casque et lampe frontale vissés sur la tête, pour découvrir un autre visage de la montagne et apprendre à progresser ensemble dans le noir.</p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Trottinette tout terrain, quadbike et biathlon</h3>
+[/ux_text]
+<p>Pour varier les plaisirs : descente en trottinette tout terrain électrique, balade en quadbike, ou biathlon d'été qui associe course et tir à la carabine laser.</p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Pêche en lac de montagne</h3>
+[/ux_text]
+<p>Plus calme, une initiation à la pêche avec un guide, au bord d'un lac d'altitude. Idéale pour un séminaire de direction ou une fin de journée au calme.</p>
+
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Votre temps de travail en altitude</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Quand la météo s'y prête, certains ateliers peuvent se tenir dehors, sur une terrasse ou au bord d'un lac.</p>
+<p>Le programme alterne réflexion le matin et grand air l'après-midi. Après l'effort, les bains d'eau chaude naturelle en plein air de Dorres, de Llo ou de Saint-Thomas sont le meilleur moyen de récupérer.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Exemple de séminaire d'été de 2 jours</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 1</strong></p>
+[/ux_text]
+<ul>
+<li>10 h : arrivée à Font-Romeu, installation</li>
+<li>10 h 30 : séance de travail en salle</li>
+<li>12 h 30 : déjeuner</li>
+<li>14 h : canyoning ou VTT électrique</li>
+<li>17 h 30 : bains d'eau chaude naturelle</li>
+<li>20 h : dîner de spécialités catalanes</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>JOUR 2</strong></p>
+[/ux_text]
+<ul>
+<li>8 h : petit-déjeuner</li>
+<li>9 h : ateliers en sous-groupes</li>
+<li>11 h 30 : départ en randonnée, pique-nique au bord d'un lac</li>
+<li>15 h 30 : retour, bilan du séminaire</li>
+<li>16 h 30 : départ</li>
+</ul>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;EN IMAGES&#93;</strong></p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="142" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="139" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="146" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="134" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="127" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="145" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Les Pyrénées catalanes, et au-delà</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Nous connaissons les sentiers du Carlit, de la vallée d'Eyne et du Capcir comme notre poche : c'est là que nous travaillons toute l'année. L'Espagne et l'Andorre sont aussi à portée de route pour une excursion.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi choisir un séminaire d'été à la montagne</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>La fraîcheur de l'altitude</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>à 1 800 mètres, on échappe aux fortes chaleurs de la plaine.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Des activités pour tous les profils</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>du canyoning sportif à la pêche au bord d'un lac.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un cadre qui libère la parole</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>marcher ensemble change la façon de se parler.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un seul interlocuteur</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>hébergement, salle, repas, guides et moniteurs, tout est organisé par Elios Evasion.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Prolonger votre réflexion</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Cette formule fait partie de nos <a href="/sejours/sejour-team-building-pyrenees/">séminaires à la montagne dans les Pyrénées</a>. En hiver, découvrez notre <a href="/sejours/seminaire-ski-hiver/">séminaire ski et team building neige</a>. Pour vos temps libres, voici les <a href="/blog/lieux-a-decouvrir-cerdagne-capcir/">lieux à découvrir en Cerdagne et Capcir</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Faut-il être sportif pour un team building à la montagne en été ?"]
+
+<p>Non. Nous adaptons chaque activité au niveau du groupe : randonnée facile, VTT électrique, pêche ou visites pour les moins sportifs, canyoning ou escalade pour les plus motivés. Personne n'est mis en difficulté.</p>
+
+[/accordion-item]
+[accordion-item title="Que se passe-t-il en cas d'orage ?"]
+
+<p>Les orages d'été sont fréquents en montagne, surtout en fin de journée. Nos guides surveillent la météo et décalent ou remplacent l'activité si nécessaire : spéléologie, bains d'eau chaude, visite de la citadelle de Mont-Louis.</p>
+
+[/accordion-item]
+[accordion-item title="Quelle est la meilleure période pour un séminaire d'été à la montagne ?"]
+
+<p>Juin et septembre sont idéaux : il fait beau, les sentiers sont calmes et les hébergements plus disponibles qu'en plein été. Nous conseillons d'éviter les vacances scolaires.</p>
+
+[/accordion-item]
+[accordion-item title="Combien coûte un séminaire d'été dans les Pyrénées ?"]
+
+<p>Le prix est établi sur devis, selon la durée, l'effectif, l'hébergement et les activités. Envoyez-nous vos dates et votre effectif : nous vous proposons un programme chiffré.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Demandez votre devis de séminaire d'été</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Indiquez vos dates, votre effectif et les activités qui vous tentent : nous composons votre séminaire et vous envoyons un devis.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

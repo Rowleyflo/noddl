@@ -1,0 +1,546 @@
+[ux_banner height="680px" height__sm="560px" bg="19" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>NOS SÉMINAIRES · MONTPELLIER, AVIGNON, PYRÉNÉES</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Nos séminaires et team buildings clés en main</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Vous cherchez une <strong>idée de séminaire d'entreprise</strong> qui sorte de la salle de réunion ? Elios Evasion propose 11 journées clés en main autour de Montpellier et d'Avignon, une journée sur mesure et des séjours de plusieurs jours dans les Pyrénées. Chaque journée réunit temps de travail, repas et activité de cohésion, de <strong>100 à 180 € HT par personne</strong>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DESTINATIONS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>Montpellier et la vallée de l'Hérault, Avignon et le Vaucluse, les Pyrénées (base à Font-Romeu)</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>FORMATS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>journée, demi-journée, journée sans temps de travail, séjour de deux jours ou plus</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>de 100 à 180 € HT par personne pour les journées, sur devis pour la montagne</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>INCLUS DANS LES JOURNÉES</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>petit-déjeuner, déjeuner, salle et matériel de travail, activité, apéritif de fin de journée</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NON INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>le transport</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PUBLIC</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>entreprises, comités de direction, CSE ; groupes d'adultes (18 ans et plus)</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;NOS DESTINATIONS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Trois destinations et une formule sur mesure</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="119" image_size="original" height="66%" image_hover="zoom-long"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Team building à Montpellier</h3>
+[/ux_text]
+<p>Sept journées entre la vallée de l'Hérault, le lac du Salagou et Palavas-les-Flots : grotte, canoë, trottinette électrique, olympiades sur la plage, escape game, murder party et kayak. <a href="/seminaire-montpellier/">Voir les journées autour de Montpellier</a></p>
+
+
+[/col]
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="15" image_size="original" height="66%" image_hover="zoom-long"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Team building à Avignon</h3>
+[/ux_text]
+<p>Quatre journées dans les châteaux et les vignes du Vaucluse : œnologie à Châteauneuf-du-Pape, escape game, murder party et quiz géant. <a href="/seminaire-avignon/">Découvrir le team building près d'Avignon</a></p>
+
+
+[/col]
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="MEDIA:escape-game-carnet-indices-equipe.webp" image_size="original" height="66%" image_hover="zoom-long"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Séminaire dans les Pyrénées</h3>
+[/ux_text]
+<p>Des séjours de deux jours ou plus, avec hébergement, salle, repas et activités, l'hiver comme l'été. <a href="/sejours/sejour-team-building-pyrenees/">Organiser un séminaire à la montagne</a></p>
+
+
+[/col]
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Journée sur mesure</h3>
+[/ux_text]
+<p>Vous avez déjà un lieu, une date ou une activité en tête ? Nous composons la journée autour de vos contraintes, dès 110 € HT par personne. <a href="/journee-sur-mesure/">Composer une journée sur mesure</a></p>
+
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Comparez nos journées de team building</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Le tableau ci-dessous résume nos 12 formules à la journée.</p>
+<table>
+<thead>
+<tr>
+<th>Activité</th>
+<th>Lieu</th>
+<th>Saison</th>
+<th>Prix dès (HT/pers.)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/seminaire-montpellier/journee-grotte-montpellier/">Team building dans une grotte</a></td>
+<td>Grotte de Clamouse, Saint-Jean-de-Fos (34), à 40 min de Montpellier</td>
+<td>Toute l'année</td>
+<td>100 €</td>
+</tr>
+<tr>
+<td><a href="/seminaire-montpellier/journee-descente-canoe-montpellier/">Descente de l'Hérault en canoë</a></td>
+<td>Domaine de la Grande Sieste, Aniane (34), et 12 km sur l'Hérault</td>
+<td>Mai à septembre</td>
+<td>120 €</td>
+</tr>
+<tr>
+<td><a href="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/">Olympiades sur la plage de Palavas</a></td>
+<td>Plage de Palavas-les-Flots (34), à 20 min de Montpellier</td>
+<td>Mai à septembre</td>
+<td>130 €</td>
+</tr>
+<tr>
+<td><a href="/seminaire-montpellier/journee-balade-kayak-etang-montpellier/">Kayak au coucher du soleil</a></td>
+<td>Étangs de Palavas-les-Flots (34), de 14 h à 20 h, 35 pers. max</td>
+<td>Mai à septembre</td>
+<td>130 €</td>
+</tr>
+<tr>
+<td><a href="/seminaire-montpellier/journee-escape-game-nature-montpellier/">Escape game en pleine nature</a></td>
+<td>Domaine de Capion, Aniane (34), à 40 min de Montpellier</td>
+<td>Toute l'année</td>
+<td>140 €</td>
+</tr>
+<tr>
+<td><a href="/seminaire-montpellier/journee-trotinette-tout-terrain-electrique-montpellier/">Trottinette électrique au Salagou</a></td>
+<td>Lac du Salagou, Clermont-l'Hérault (34), à 50 min de Montpellier</td>
+<td>Mai à septembre</td>
+<td>140 €</td>
+</tr>
+<tr>
+<td><a href="/seminaire-avignon/journee-quizz-room-avignon/">Quiz géant en équipe</a></td>
+<td>Château de Beauregard, puis Quiz Room Avignon, Vedène (84)</td>
+<td>Toute l'année</td>
+<td>130 €</td>
+</tr>
+<tr>
+<td><a href="/seminaire-avignon/journee-escape-game-nature/">Escape game dans les vignes</a></td>
+<td>Moulin des Gaffins, Althen-des-Paluds (84), ou vignoble de Châteauneuf-du-Pape</td>
+<td>Toute l'année</td>
+<td>140 €</td>
+</tr>
+<tr>
+<td><a href="/seminaire-avignon/journee-decouverte-du-vin/">Œnologie à Châteauneuf-du-Pape</a></td>
+<td>Château des Fines Roches, Châteauneuf-du-Pape (84), à 25 min d'Avignon</td>
+<td>Toute l'année</td>
+<td>180 €</td>
+</tr>
+<tr>
+<td><a href="/journee-sur-mesure/">Journée sur mesure</a></td>
+<td>Autour de Montpellier, d'Avignon ou à la montagne</td>
+<td>Toute l'année</td>
+<td>110 €</td>
+</tr>
+</tbody>
+</table>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Séminaires de plusieurs jours à la montagne</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Pour un séminaire résidentiel, un comité de direction ou un lancement d'année, nous organisons des séjours de deux jours ou plus dans les Pyrénées. L'hébergement, la salle, les repas et les activités sont réunis dans un devis unique.</p>
+<table>
+<thead>
+<tr>
+<th>Séjour</th>
+<th>Activités</th>
+<th>Saison</th>
+<th>Prix</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/sejours/seminaire-ski-hiver/">Séminaire ski et neige</a></td>
+<td>Ski alpin, ski de fond, raquettes, chiens de traîneau, biathlon, dîner d'altitude en dameuse</td>
+<td>Hiver</td>
+<td>Sur devis</td>
+</tr>
+<tr>
+<td><a href="/sejours/seminaire-montagne-ete/">Team building à la montagne en été</a></td>
+<td>Randonnée dans le massif du Carlit, VTT, canyoning, escalade, spéléologie</td>
+<td>Été</td>
+<td>Sur devis</td>
+</tr>
+</tbody>
+</table>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;NOTRE MÉTHODE&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Comment choisir votre idée de séminaire d'entreprise</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Pour un groupe aux profils variés</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>préférez une activité où personne n'est mis en difficulté : grotte, escape game, murder party ou quiz. Elles sont accessibles à tous et se jouent en équipe.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Pour une équipe qui aime bouger</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>choisissez le canoë, la trottinette ou les olympiades sur la plage, de mai à septembre. Le canoë demande de savoir nager.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Pour remercier une équipe ou recevoir des clients</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>l'œnologie à Châteauneuf-du-Pape offre un cadre plus élégant.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Pour un vrai temps de recul</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>comme un séminaire de direction ou un lancement de projet, le séjour de deux jours à la montagne laisse le temps de travailler et de souffler.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p>Le bon format dépend d'abord de votre objectif et de votre groupe. Quelques repères pour vous orienter :</p>
+<p>Vous ne trouvez pas exactement ce qu'il vous faut ? Toutes nos journées sont modulables : activité le matin et travail l'après-midi, demi-journée, ou journée sans temps de travail pour une sortie d'équipe.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Ce que comprend une journée clé en main</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Le matin</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>accueil et petit-déjeuner, puis matinée de travail dans une salle équipée, avec le matériel fourni. Un intervenant peut animer une partie de la matinée, d'un magicien à un sportif de haut niveau.</p>
+[/ux_text]
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Le midi</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>déjeuner sur place, en salle ou en extérieur selon le lieu et la météo.</p>
+[/ux_text]
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>L'après-midi</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>l'activité de cohésion, encadrée par des professionnels, puis un apéritif de fin de journée. Une soirée est possible sur demande.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À DÉCOUVRIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pour aller plus loin</h2>
+[/ux_text]
+[gap height="8px"]
+
+<ul>
+<li>Notre sélection d'<a href="/blog/idees-team-building-originales/">idées de team building originales</a> dans le Sud de la France.</li>
+<li>Un <a href="/blog/seminaire-2-jours-programme/">séminaire de 2 jours : programme type</a> à la montagne, heure par heure.</li>
+</ul>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Quelle est la journée de team building la moins chère ?"]
+
+<p>La journée dans la grotte de Clamouse, près de Montpellier, est proposée à partir de 100 € HT par personne. Elle comprend le petit-déjeuner, le déjeuner, la salle de travail, les activités et l'apéritif. Viennent ensuite la descente de l'Hérault en canoë, dès 120 € HT, et la journée sur mesure, dès 110 € HT.</p>
+
+[/accordion-item]
+[accordion-item title="Quelles journées peut-on organiser en hiver ?"]
+
+<p>La grotte, les escape games, les murder parties, le quiz et l'œnologie sont proposés toute l'année. Les activités nautiques et la trottinette ont lieu de mai à septembre. En hiver, les Pyrénées proposent aussi des séminaires sur la neige.</p>
+
+[/accordion-item]
+[accordion-item title="Peut-on organiser une journée sans temps de travail ?"]
+
+<p>Oui. Toutes nos journées sont modulables : vous pouvez supprimer la matinée de travail pour une sortie d'équipe, ou placer l'activité le matin et le travail l'après-midi. Nous adaptons alors le programme et le devis.</p>
+
+[/accordion-item]
+[accordion-item title="Quelle différence entre une journée et un séminaire à la montagne ?"]
+
+<p>Une journée se déroule près de Montpellier ou d'Avignon, sans hébergement, avec un programme déjà construit. Un séminaire à la montagne dure deux jours ou plus et comprend l'hébergement ; il est entièrement composé sur devis.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Une formule vous plaît ?</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Indiquez-nous vos dates, votre effectif et l'activité qui vous tente : nous vous envoyons une proposition et un devis.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

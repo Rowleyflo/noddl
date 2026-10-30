@@ -1,0 +1,322 @@
+[row]
+
+[col span__sm="12"]
+
+<p><em>Mis à jour le 30 octobre 2026</em></p>
+<p>Pour organiser un séminaire d'entreprise, partez d'un objectif clair. Fixez ensuite le budget, la date et l'effectif, puis choisissez un lieu adapté. Construisez un programme qui alterne travail et cohésion, et bouclez la logistique. Pour un séminaire en France, comptez environ trois mois de préparation. Voici la méthode, étape par étape, avec une checklist à la fin.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+<p><strong>Sommaire</strong>
+1. <a href="#pourquoi">Pourquoi organiser un séminaire d'entreprise ?</a>
+2. <a href="#objectif">Étape 1 : définir l'objectif</a>
+3. <a href="#budget">Étape 2 : fixer le budget, la date et l'effectif</a>
+4. <a href="#format">Étape 3 : choisir la durée et le format</a>
+5. <a href="#lieu">Étape 4 : choisir le lieu</a>
+6. <a href="#programme">Étape 5 : construire le programme</a>
+7. <a href="#logistique">Étape 6 : régler la logistique</a>
+8. <a href="#communiquer">Étape 7 : communiquer et mesurer</a>
+9. <a href="#retroplanning">Le rétroplanning d'un séminaire</a>
+10. <a href="#checklist">La checklist complète</a>
+11. <a href="#faq">Questions fréquentes</a></p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="pourquoi">Pourquoi organiser un séminaire d'entreprise ?</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Un séminaire sort l'équipe de son quotidien pour un temps donné, avec un but précis. Il sert à réfléchir ensemble à la stratégie, lancer un projet, intégrer de nouveaux collaborateurs ou retisser des liens entre des services qui se croisent peu.</p>
+<p>Le changement de décor joue un rôle réel. Loin des écrans et des sollicitations, les échanges sont plus libres et les décisions plus rapides. Une activité partagée l'après-midi crée des souvenirs communs, qui facilitent ensuite le travail au bureau.</p>
+<h2 id="objectif">Étape 1 : définir l'objectif du séminaire</h2>
+<p>C'est l'étape que l'on saute le plus souvent, et celle qui conditionne toutes les autres. Posez-vous une seule question : <strong>que doit-il avoir changé au retour ?</strong></p>
+<p>Les objectifs les plus fréquents sont les suivants :
+- <strong>Stratégie</strong> : partager les résultats, fixer le cap de l'année, travailler en ateliers sur des choix concrets.
+- <strong>Cohésion</strong> : faire se rencontrer des équipes, intégrer les nouveaux, apaiser des tensions.
+- <strong>Mobilisation</strong> : lancer un projet, une réorganisation, un nouveau produit.
+- <strong>Reconnaissance</strong> : remercier les équipes après une période chargée.</p>
+<p>Un séminaire peut viser deux objectifs, rarement plus. Écrivez-les en une phrase et faites-les valider par la direction : ils serviront à arbitrer chaque choix, du lieu à l'activité.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À RETENIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="budget">Étape 2 : fixer le budget, la date et l'effectif</h2>
+[/ux_text]
+<blockquote>
+<p><strong>À retenir</strong>
+- Un objectif écrit en une phrase, validé par la direction.
+- Deux objectifs au maximum.
+- Chaque choix (lieu, durée, activité) se juge à l'aune de cet objectif.</p>
+</blockquote>
+<h3>Le budget</h3>
+<p>Raisonnez <strong>par participant</strong>, puis multipliez. Les postes habituels sont la salle, les repas et les pauses, l'activité, l'hébergement si le séminaire dure plusieurs jours, le transport, et d'éventuels intervenants. Prévoyez aussi une petite marge pour les imprévus.</p>
+<p>Pour vous situer, l'étude annuelle de Coach Omnium sur le tourisme d'affaires relève une dépense de <strong>100 à 160 € par participant pour une journée d'études</strong> et de <strong>240 à 300 € pour un séminaire résidentiel</strong> (<a href="https://www.tendancehotellerie.fr/articles-breves/communique-de-presse/24154-article/resultats-de-l-etude-coach-omnium-et-le-groupe-1001salles-sur-les-tendances-de-la-demande-en-tourisme-d-affaires-mice-pour-2024-2025">communiqué de l'étude MICE 2025, Tendance Hôtellerie</a>). Nos propres repères, offre par offre, sont regroupés dans <a href="/faq/">nos réponses sur les prix et l'organisation</a>.</p>
+<h3>La date</h3>
+<p>Évitez les clôtures comptables, les pics d'activité et les veilles de vacances. Proposez deux ou trois dates à la direction avant de consulter les lieux. Pensez à la saison : une descente de rivière se fait en été, le ski en hiver.</p>
+<h3>L'effectif</h3>
+<p>Le nombre de participants détermine la taille de la salle, le type d'activité et parfois le lieu lui-même. Demandez une estimation dès le départ, même approximative, puis affinez-la.</p>
+<h2 id="format">Étape 3 : choisir la durée et le format</h2>
+<ul>
+<li><strong>La demi-journée</strong> convient à une réunion d'information suivie d'un moment convivial.</li>
+<li><strong>La journée complète</strong> est le format le plus courant : travail le matin, activité de cohésion l'après-midi.</li>
+<li><strong>Le séminaire de deux jours ou plus</strong>, dit résidentiel, ajoute une nuit sur place. La soirée et le petit-déjeuner partagés pèsent autant que les ateliers. C'est le format idéal pour un comité de direction ou un vrai travail de fond, par exemple lors d'un <a href="/sejours/sejour-team-building-pyrenees/">séminaire à la montagne dans les Pyrénées</a>.</li>
+</ul>
+<p>Plus l'objectif est ambitieux, plus il faut de temps. On ne refond pas une stratégie en une matinée.</p>
+<h2 id="lieu">Étape 4 : choisir le lieu</h2>
+<p>Quatre critères comptent plus que les autres :
+1. <strong>L'accès</strong> : temps de trajet depuis vos bureaux, gare ou aéroport, parking, transport collectif possible.
+2. <strong>La salle</strong> : capacité, lumière naturelle, vidéoprojecteur, paperboard, espaces pour les ateliers en sous-groupes.
+3. <strong>Tout sur place</strong> : salle, repas et activité sur le même site, ou très proches. Chaque déplacement en cours de journée coûte du temps et de l'énergie.
+4. <strong>Le cadre</strong> : un domaine, un château, une grotte ou un chalet marquent davantage qu'une salle d'hôtel en zone d'activité.</p>
+<p>Visitez le lieu, ou demandez une visite vidéo. Vérifiez l'accessibilité pour les personnes à mobilité réduite et le plan B en cas de pluie.</p>
+<h2 id="programme">Étape 5 : construire le programme</h2>
+<p>Un bon programme alterne les temps forts et les respirations. Voici la trame que nous utilisons pour nos journées :</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>MATIN</strong></p>
+[/ux_text]
+<ul>
+<li>8 h 30 – 9 h : arrivée et accueil</li>
+<li>9 h : petit-déjeuner</li>
+<li>9 h 30 – 12 h : temps de travail en salle</li>
+<li>12 h 15 : déjeuner</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>APRÈS-MIDI</strong></p>
+[/ux_text]
+<ul>
+<li>14 h – 16 h 30 : activité de cohésion</li>
+<li>16 h 30 : debriefing et apéritif de fin de journée</li>
+<li>Soirée en option</li>
+</ul>
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p>Quelques règles simples :
+- <strong>Le travail le matin</strong>, quand l'attention est la meilleure.
+- <strong>Des ateliers courts</strong> (45 à 60 minutes), en petits groupes, avec une restitution.
+- <strong>Une activité en lien avec l'objectif</strong> : un escape game pour la coopération, un défi sportif pour l'esprit d'équipe, une dégustation pour un moment de reconnaissance.
+- <strong>Un intervenant extérieur</strong> peut relancer l'énergie en fin de matinée.</p>
+<p><strong>Un point de vigilance social.</strong> Pour qu'un séminaire reste une dépense de l'entreprise et ne soit pas requalifié en avantage en nature, il doit avoir un objectif professionnel et un vrai programme de travail. Le cabinet CMS Francis Lefebvre recommande notamment de ne pas inviter les conjoints et de consacrer plus de la moitié du temps au travail (<a href="https://cms.law/fr/fra/legal-updates/les-seminaires-d-entreprise-comment-eviter-un-redressement-urssaf">analyse CMS, 2018</a>). Conservez le programme et la feuille de présence, et faites valider votre cas par votre expert-comptable.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5" padding__sm="20px"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À RETENIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="logistique">Étape 6 : régler la logistique</h2>
+[/ux_text]
+<blockquote>
+<p><strong>À retenir</strong>
+- Le travail le matin, l'activité l'après-midi.
+- Une activité choisie pour servir l'objectif, pas seulement pour divertir.
+- Un programme de travail écrit et conservé.</p>
+</blockquote>
+<p>C'est la partie la plus chronophage. Listez :
+- <strong>le transport</strong> : covoiturage, autocar, train, horaires d'arrivée échelonnés ;
+- <strong>les repas</strong> : régimes alimentaires, allergies, options végétariennes ;
+- <strong>le matériel</strong> : vidéoprojecteur, micro, paperboard, supports imprimés, badges ;
+- <strong>l'activité</strong> : tenue conseillée, conditions (savoir nager pour le canoë, par exemple), encadrement, solution de repli en cas de météo défavorable ;
+- <strong>les assurances et les conditions d'annulation</strong> du lieu et des prestataires ;
+- <strong>un interlocuteur unique</strong> joignable le jour J.</p>
+<h2 id="communiquer">Étape 7 : communiquer et mesurer</h2>
+<p><strong>Avant</strong>, envoyez une invitation qui dit pourquoi le séminaire a lieu, puis le programme et les infos pratiques une semaine avant. <strong>Pendant</strong>, gardez une personne disponible pour les imprévus. <strong>Après</strong>, envoyez un questionnaire court (trois à cinq questions) et partagez les décisions prises. Un séminaire dont personne ne reparle au retour a manqué une partie de son objectif.</p>
+<h2 id="retroplanning">Le rétroplanning d'un séminaire d'entreprise</h2>
+<p>Le Journal des Entreprises recommande de compter environ <strong>trois mois de préparation pour un séminaire en France</strong>, et six mois pour un séminaire à l'étranger (<a href="https://www.lejournaldesentreprises.com/article/evitez-limprovisation-pour-votre-seminaire-22439">Le Journal des Entreprises</a>). Les lieux les plus demandés se réservent souvent plus tôt.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="checklist">La checklist pour organiser un séminaire d'entreprise</h2>
+[/ux_text]
+[gap height="8px"]
+
+<table>
+<thead>
+<tr>
+<th>Quand</th>
+<th>Quoi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>J-3 mois</td>
+<td>Objectif, budget, dates possibles, effectif estimé. Demande de devis.</td>
+</tr>
+<tr>
+<td>J-2 mois</td>
+<td>Choix du lieu et de l'activité, réservation, envoi de l'invitation.</td>
+</tr>
+<tr>
+<td>J-1 mois</td>
+<td>Programme détaillé, intervenants, transport, régimes alimentaires.</td>
+</tr>
+<tr>
+<td>J-15 jours</td>
+<td>Effectif définitif, supports de travail, liste des chambres si besoin.</td>
+</tr>
+<tr>
+<td>J-7 jours</td>
+<td>Programme et infos pratiques envoyés aux participants.</td>
+</tr>
+<tr>
+<td>Jour J</td>
+<td>Accueil, animation, debriefing.</td>
+</tr>
+<tr>
+<td>J+7 jours</td>
+<td>Questionnaire de satisfaction, partage des décisions.</td>
+</tr>
+</tbody>
+</table>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Déléguer l'organisation de votre séminaire</h2>
+[/ux_text]
+[gap height="8px"]
+
+<ul>
+<li>&#91; &#93; Objectif écrit et validé par la direction</li>
+<li>&#91; &#93; Budget par participant et budget global</li>
+<li>&#91; &#93; Deux ou trois dates possibles</li>
+<li>&#91; &#93; Effectif estimé, puis définitif</li>
+<li>&#91; &#93; Format : demi-journée, journée ou plusieurs jours</li>
+<li>&#91; &#93; Lieu visité, salle équipée, plan B météo</li>
+<li>&#91; &#93; Accès et transport organisés</li>
+<li>&#91; &#93; Programme : ateliers, pauses, activité, debriefing</li>
+<li>&#91; &#93; Repas et régimes particuliers</li>
+<li>&#91; &#93; Hébergement (séminaire résidentiel)</li>
+<li>&#91; &#93; Matériel et supports</li>
+<li>&#91; &#93; Conditions d'annulation et assurances</li>
+<li>&#91; &#93; Invitation, puis programme envoyé à J-7</li>
+<li>&#91; &#93; Questionnaire et compte rendu après l'événement</li>
+</ul>
+<p>Toutes ces étapes demandent du temps, surtout quand l'organisation s'ajoute à un poste à plein temps. Confier le projet à une agence vous laisse un seul interlocuteur pour le lieu, les repas, l'activité et le programme.</p>
+<p>C'est ce que propose Elios Evasion avec un <a href="/sejours/">séminaire d'entreprise clé en main</a> : des journées autour de Montpellier et d'Avignon, de 100 à 180 € HT par personne avec petit-déjeuner, déjeuner, salle de travail équipée et activité, et des séminaires de plusieurs jours dans les Pyrénées, sur devis. Le transport n'est pas inclus.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="faq">Questions fréquentes</h2>
+[/ux_text]
+[accordion faq_schema="true"]
+
+[accordion-item title="Combien de temps à l'avance faut-il organiser un séminaire ?"]
+
+<p>Comptez environ trois mois pour un séminaire en France, et davantage pour un séminaire de plusieurs jours ou en haute saison. Ce délai laisse le temps de comparer les lieux, de réserver et d'informer les participants. Un séminaire d'une journée peut parfois s'organiser plus vite si le lieu est disponible.</p>
+
+[/accordion-item]
+[accordion-item title="Quel budget prévoir par personne pour un séminaire ?"]
+
+<p>Selon l'étude MICE de Coach Omnium, les entreprises dépensent en général de 100 à 160 € par participant pour une journée d'études et de 240 à 300 € pour un séminaire résidentiel. Chez Elios Evasion, une journée complète avec activité coûte de 100 à 180 € HT par personne, hors transport.</p>
+
+[/accordion-item]
+[accordion-item title="Qu'est-ce qu'un séminaire résidentiel ?"]
+
+<p>C'est un séminaire d'au moins deux jours, avec une ou plusieurs nuits sur place. Les participants travaillent, mangent et dorment au même endroit, ce qui favorise les échanges informels. C'est le format courant des séminaires de direction et des séminaires à la montagne.</p>
+
+[/accordion-item]
+[accordion-item title="Quelle différence entre un séminaire et un team building ?"]
+
+<p>Le séminaire est un temps de travail collectif hors du bureau, avec un objectif professionnel. Le team building est une activité qui renforce la cohésion de l'équipe. Les deux se combinent souvent : travail le matin, team building l'après-midi.</p>
+
+[/accordion-item]
+
+[/accordion]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#aac816"]
+<h2>Un projet de séminaire en préparation ?</h2>
+[/ux_text]
+<p>Décrivez-nous votre objectif, vos dates et votre effectif : nous vous proposons un programme et un devis, sans engagement. <a href="/contact/">Parlons de votre séminaire</a>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+

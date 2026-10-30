@@ -1,0 +1,259 @@
+[row]
+
+[col span__sm="12"]
+
+<p>Des <strong>olympiades d'entreprise</strong> réunissent vos collaborateurs en équipes mixtes qui s'affrontent sur une série d'épreuves courtes : sportives, d'adresse, de réflexion ou créatives. Bien conçues, elles conviennent à tous les profils, durent une demi-journée ou une journée, et se terminent par une remise de prix. Voici des idées d'épreuves, une méthode d'organisation et les points de sécurité à ne pas négliger.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+<p><strong>Sommaire</strong>
+1. <a href="#pourquoi">Pourquoi organiser des olympiades d'entreprise ?</a>
+2. <a href="#idees">12 idées d'épreuves, classées par type</a>
+3. <a href="#organisation">Organiser des olympiades d'entreprise en 6 étapes</a>
+4. <a href="#securite">Sécurité : les points à vérifier</a>
+5. <a href="#palavas">Un exemple concret : les olympiades sur la plage de Palavas</a>
+6. <a href="#faq">Questions fréquentes</a></p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="pourquoi">Pourquoi organiser des olympiades d'entreprise ?</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Le principe est simple : des équipes, des épreuves, des points, un classement. C'est justement cette simplicité qui fait son efficacité. Chacun comprend la règle du jeu en deux minutes, et l'esprit de compétition fait le reste.</p>
+<p>Les olympiades mélangent des profils qui ne se croisent jamais : le comptable et le commercial, le nouvel arrivant et le directeur. Sur une épreuve d'adresse, la hiérarchie s'efface. Sur une épreuve de réflexion, ce n'est pas forcément le plus sportif qui fait gagner l'équipe.</p>
+<p>Elles servent plusieurs objectifs à la fois :
+- <strong>renforcer la cohésion</strong> entre services ou entre sites ;
+- <strong>intégrer les nouveaux</strong> collaborateurs, qui se font connaître autrement ;
+- <strong>célébrer</strong> un résultat, un anniversaire d'entreprise ou la fin d'un projet ;
+- <strong>donner de l'énergie</strong> à un séminaire, après une matinée de travail en salle.</p>
+<blockquote>
+<p><strong>À retenir</strong>
+- Des olympiades réussies alternent les épreuves physiques, d'adresse, de réflexion et de créativité.
+- L'objectif n'est pas la performance sportive, mais la coopération au sein de l'équipe.
+- Le format s'adapte à tous les effectifs, de quelques équipes à plusieurs dizaines.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="idees">12 idées d'épreuves pour vos olympiades</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Le secret de bonnes olympiades, c'est la <strong>variété</strong>. Si toutes les épreuves demandent de courir, une partie de l'équipe décroche. Alternez les registres pour que chaque participant ait son moment.</p>
+<h3>Épreuves sportives (accessibles)</h3>
+<ol>
+<li><strong>Course de relais à obstacles</strong> : sacs, cerceaux, plots, en version douce.</li>
+<li><strong>Course de pirogue ou de canoë</strong> : une épreuve de synchronisation plus que de force, où l'équipage avance seulement s'il rame en rythme.</li>
+<li><strong>Tir à la corde</strong> : un classique, rapide et spectaculaire.</li>
+<li><strong>Course en ski collectif</strong> (planches à plusieurs paires de pieds) : impossible d'avancer sans se coordonner.</li>
+</ol>
+<h3>Épreuves d'adresse</h3>
+<ol start="5">
+<li><strong>Lancer de précision</strong> : palets, pétanque, mölkky ou anneaux.</li>
+<li><strong>Construction express</strong> : bâtir la tour la plus haute avec du matériel imposé, en temps limité.</li>
+<li><strong>Parcours les yeux bandés</strong>, guidé à la voix par un coéquipier.</li>
+</ol>
+<h3>Épreuves de réflexion</h3>
+<ol start="8">
+<li><strong>Énigmes et quiz</strong> sur l'entreprise, la région ou la culture générale.</li>
+<li><strong>Course d'orientation</strong> avec balises et questions.</li>
+<li><strong>Mini escape game</strong> en plein air : un coffre, un code, des indices à réunir.</li>
+</ol>
+<h3>Épreuves créatives et collectives</h3>
+<ol start="11">
+<li><strong>Cri de guerre et mascotte</strong> : chaque équipe crée son nom, son blason et son chant, présentés à l'ouverture.</li>
+<li><strong>Photo-défi</strong> : reproduire une scène imposée, ou réunir une liste de clichés.</li>
+</ol>
+<p>Sur la plage, les possibilités s'élargissent : <strong>abordage sur un paddle géant</strong>, course de pirogue tahitienne, jeux dans le sable. C'est ce que nous proposons à Palavas-les-Flots (détails plus bas).</p>
+<blockquote>
+<p><strong>À retenir</strong>
+- Chaque équipe doit pouvoir briller au moins une fois.
+- Prévoyez une épreuve « joker » qui rapporte des points bonus pour relancer le suspense.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="organisation">Organiser des olympiades d'entreprise en 6 étapes</h2>
+[/ux_text]
+[gap height="8px"]
+
+<h3>1. Fixer l'objectif et le public</h3>
+<p>Intégration, célébration, cohésion entre deux services ? L'objectif oriente le choix des épreuves. Renseignez-vous aussi sur votre public : âge, condition physique, éventuelles restrictions. Les épreuves doivent rester accessibles à tous.</p>
+<h3>2. Choisir le lieu et la saison</h3>
+<p>Parc, domaine, plage ou gymnase : le lieu conditionne les épreuves possibles. En extérieur, privilégiez la belle saison et prévoyez un plan B en cas de météo défavorable. Sur la plage, les mois de mai à septembre sont les plus adaptés.</p>
+<h3>3. Composer les équipes</h3>
+<p>Mélangez les services, les âges et les niveaux hiérarchiques. Annoncez la composition à l'avance, ou tirez-la au sort le jour même pour créer la surprise.</p>
+<h3>4. Construire le déroulé</h3>
+<p>Alternez temps forts et temps calmes. Un exemple de journée :
+- <strong>matin</strong> : accueil, petit-déjeuner, présentation des équipes et premières épreuves ;
+- <strong>midi</strong> : déjeuner convivial, idéal pour que les équipes refassent la stratégie ;
+- <strong>après-midi</strong> : épreuves finales, puis annonce des résultats ;
+- <strong>fin de journée</strong> : remise de prix et apéritif.</p>
+<p>Si vous souhaitez un temps de travail, placez-le le matin et gardez l'après-midi pour les épreuves.</p>
+<h3>5. Prévoir l'encadrement et le matériel</h3>
+<p>Chaque épreuve a besoin d'un arbitre, d'un chronomètre et d'une feuille de score. Pour les activités nautiques ou techniques, l'encadrement par des professionnels diplômés est indispensable. C'est là qu'une agence fait gagner du temps : matériel, animateurs et repas sont gérés pour vous.</p>
+<h3>6. Soigner le final</h3>
+<p>Le classement, la remise de prix et l'apéritif sont le moment dont tout le monde se souviendra. Récompensez aussi l'esprit d'équipe, le meilleur cri de guerre ou la plus belle remontée. Prenez des photos : elles serviront pour votre communication interne.</p>
+<blockquote>
+<p><strong>À retenir</strong>
+- Composez des équipes mixtes et équilibrées.
+- Un arbitre par épreuve, un tableau des scores visible de tous.
+- Le final (résultats et apéritif) compte autant que les épreuves.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="securite">Sécurité : les points à vérifier</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Des olympiades restent une activité physique. Quelques précautions évitent la plupart des incidents.</p>
+<h3>Adapter l'intensité</h3>
+<p>Les épreuves doivent être <strong>accessibles sans entraînement</strong>. Prévoyez des alternatives pour les personnes qui ne souhaitent pas ou ne peuvent pas faire un effort physique : arbitrage, épreuve de réflexion, rôle de capitaine. Personne ne doit se sentir obligé.</p>
+<h3>Prévoir la chaleur et le soleil</h3>
+<p>En été et en extérieur, prévoyez de l'eau en quantité, des zones d'ombre, de la crème solaire et des pauses régulières. Évitez les épreuves les plus intenses aux heures les plus chaudes. En cas d'épisode de forte chaleur, les recommandations officielles invitent à limiter les efforts physiques : suivez les consignes publiées par les autorités sanitaires (par exemple sur <a href="https://www.santepubliquefrance.fr/">santepubliquefrance.fr</a>).</p>
+<h3>Encadrer les activités nautiques</h3>
+<h3>Assurances et premiers secours</h3>
+<p>Vérifiez la couverture de responsabilité civile de l'organisateur et des prestataires. Repérez à l'avance le poste de secours le plus proche, et ayez une trousse de premiers secours sur place. Demandez aux participants de signaler, de façon confidentielle, toute contre-indication.</p>
+<blockquote>
+<p><strong>À retenir</strong>
+- Chaque épreuve doit avoir une version douce ou un rôle alternatif.
+- Eau, ombre, pauses : indispensables en été.
+- Activités nautiques : encadrement professionnel et matériel de sécurité fourni.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="palavas">Un exemple concret : les olympiades sur la plage de Palavas</h2>
+[/ux_text]
+[gap height="8px"]
+
+[ux_image id="12" image_size="original" height="56%"]
+
+<p>Près de Montpellier, Elios Evasion organise des <a href="/seminaire-montpellier/journee-challenge-sportif-plage-montpellier/">olympiades d'entreprise sur la plage</a> de Palavas-les-Flots, à environ 20 minutes du centre-ville. Au programme : <strong>course de pirogue tahitienne</strong>, <strong>abordage entre équipages sur un paddle géant</strong> et épreuves sur le sable.</p>
+<ul>
+<li><strong>Lieu</strong> : plage de Palavas-les-Flots (34250)</li>
+<li><strong>Saison</strong> : de mai à septembre</li>
+<li><strong>Déroulé</strong> : accueil et petit-déjeuner à 9 h, épreuves le matin, déjeuner les pieds dans le sable, épreuves l'après-midi, annonce des résultats et apéritif à 17 h</li>
+<li><strong>Formule</strong> : journée 100 % activités, ou matinée de travail en salle puis challenge l'après-midi</li>
+<li><strong>Prix</strong> : à partir de 130 € HT par personne (petit-déjeuner, déjeuner, salle et matériel de travail, activités ; transport non inclus)</li>
+</ul>
+<p>Pour varier les plaisirs, d'autres journées existent autour de la ville : voir <a href="/seminaire-montpellier/">toutes nos journées de team building à Montpellier</a>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="3" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="19" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="3" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="12" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="3" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="117" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="3" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="13" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="faq">Questions fréquentes</h2>
+[/ux_text]
+[accordion faq_schema="true"]
+
+[accordion-item title="Combien de temps durent des olympiades d'entreprise ?"]
+
+<p>Une demi-journée suffit pour 4 à 6 épreuves. Une journée complète permet d'en enchaîner davantage, avec un déjeuner entre les deux manches et une remise de prix en fin d'après-midi. Le format se cale sur votre programme de séminaire.</p>
+
+[/accordion-item]
+[accordion-item title="Faut-il être sportif pour participer ?"]
+
+<p>Non. De bonnes olympiades mélangent des épreuves physiques, d'adresse, de réflexion et de créativité. Chaque participant peut briller à un moment, et ceux qui ne souhaitent pas faire d'effort physique peuvent arbitrer ou se concentrer sur les épreuves de réflexion.</p>
+
+[/accordion-item]
+[accordion-item title="Quel budget prévoir pour des olympiades d'entreprise ?"]
+
+<p>Le budget dépend du lieu, de l'effectif, de l'encadrement et des repas. Chez Elios Evasion, la journée d'olympiades sur la plage de Palavas démarre à 130 € HT par personne, avec petit-déjeuner, déjeuner et activités encadrées. Le transport n'est pas inclus.</p>
+
+[/accordion-item]
+
+[/accordion]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#aac816"]
+<h2>Envie d'organiser vos olympiades au bord de la mer ?</h2>
+[/ux_text]
+<p>Parlez-nous de votre équipe, de vos dates et de vos envies : nous vous proposons un programme d'épreuves adapté et un devis détaillé. Vous pouvez aussi nous appeler au <a href="tel:+33679029332">06 79 02 93 32</a> ou nous écrire depuis la page <a href="/contact/">contact</a>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+

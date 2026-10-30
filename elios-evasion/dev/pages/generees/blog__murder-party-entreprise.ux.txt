@@ -1,0 +1,242 @@
+[row]
+
+[col span__sm="12"]
+
+<p>Une <strong>murder party en entreprise</strong> est un jeu d'enquête grandeur nature : un crime fictif a été commis, et vos collaborateurs, répartis en équipes de détectives, interrogent des suspects et réunissent des indices pour démasquer le coupable. L'activité dure en général un après-midi, est menée par un animateur, et convient à tous, sans effort physique.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+<p><strong>Sommaire</strong>
+1. <a href="#principe">Le principe de la murder party</a>
+2. <a href="#deroule">Le déroulé d'une murder party en entreprise</a>
+3. <a href="#roles">Les rôles : enquêteurs, suspects, animateur</a>
+4. <a href="#pourquoi">Pourquoi c'est un bon team building</a>
+5. <a href="#conseils">Nos conseils pour réussir votre murder party</a>
+6. <a href="#ou">Où organiser une murder party près de Montpellier et d'Avignon</a>
+7. <a href="#faq">Questions fréquentes</a></p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="principe">Le principe de la murder party</h2>
+[/ux_text]
+[gap height="8px"]
+
+[ux_image id="MEDIA:murder-party-cartes-indices.webp" image_size="original" height="56%"]
+
+<p>La murder party emprunte au roman policier à énigme. Un scénario pose le décor : un dîner dans un manoir, une réception dans les années 1930, un héritage disputé. Puis survient le drame. La victime est découverte, et chacun a une bonne raison d'être soupçonné.</p>
+<p>Le jeu repose sur trois ingrédients :
+- <strong>une histoire</strong> avec ses personnages, ses secrets et ses fausses pistes ;
+- <strong>des indices</strong> matériels : lettres, objets, cartes, scène de crime reconstituée ;
+- <strong>des interrogatoires</strong>, où il faut écouter, recouper et repérer les contradictions.</p>
+<p>À la fin, chaque équipe présente sa solution : le coupable, le mobile et le mode opératoire. L'animateur révèle alors la vérité.</p>
+<blockquote>
+<p><strong>À retenir</strong>
+- Une murder party, c'est une enquête collective sur un crime fictif.
+- On y gagne par l'observation, la déduction et l'échange, pas par la force physique.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="deroule">Le déroulé d'une murder party en entreprise</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Le format varie selon les organisateurs. Voici le déroulé type que nous proposons dans nos journées.</p>
+<h3>1. Le briefing</h3>
+<p>L'animateur plante le décor, présente la victime et les suspects, et explique les règles. Les participants sont répartis en équipes d'enquêteurs. Ceux qui le souhaitent revêtent un <strong>costume d'enquêteur</strong> : chapeau, imperméable, loupe. L'immersion commence.</p>
+<h3>2. L'enquête</h3>
+<p>Les équipes fouillent les lieux, examinent les indices et interrogent les suspects. Il faut s'organiser : qui note, qui interroge, qui fait le lien entre les pistes ? Au fil du jeu, des rebondissements relancent l'intrigue : un nouvel indice, un témoignage qui change tout.</p>
+<h3>3. La délibération</h3>
+<p>Les équipes se réunissent pour confronter leurs hypothèses. C'est souvent le moment le plus animé. Il faut trancher, argumenter, convaincre ses coéquipiers.</p>
+<h3>4. La révélation et le débriefing</h3>
+<p>Chaque équipe présente sa conclusion. L'animateur dévoile la solution et désigne l'équipe gagnante. Un court débriefing permet ensuite de revenir sur la façon dont chaque équipe s'est organisée.</p>
+<h3>Combien de temps dure une murder party ?</h3>
+<p>Dans nos journées, l'activité commence à 14 h et se termine entre 16 h et 16 h 30, débriefing compris. Elle peut aussi occuper une journée entière. Plus généralement, la durée d'une murder party dépend du scénario et de la taille du groupe : comptez au minimum un après-midi pour que l'intrigue ait le temps de se déployer.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="roles">Les rôles : enquêteurs, suspects, animateur</h2>
+[/ux_text]
+[gap height="8px"]
+
+<h3>Les enquêteurs</h3>
+<p>En entreprise, la plupart des participants jouent les enquêteurs, en équipes. C'est la formule la plus simple : personne n'a besoin de préparer un rôle à l'avance, et chacun participe à son niveau.</p>
+<h3>Les suspects</h3>
+<p>Confier un rôle de suspect à un manager peut être très drôle, à condition qu'il soit volontaire.</p>
+<h3>L'animateur</h3>
+<p>C'est le maître du jeu. Il fait respecter le rythme, distribue les indices au bon moment, relance les équipes qui piétinent et garde le suspense jusqu'au bout. Chez Elios Evasion, <strong>la murder party est animée par un professionnel</strong>.</p>
+<blockquote>
+<p><strong>À retenir</strong>
+- Les participants jouent en équipes d'enquêteurs : aucune préparation n'est demandée.
+- L'animateur professionnel garantit le rythme et l'équité entre les équipes.
+- Les costumes sont facultatifs, mais ils font beaucoup pour l'ambiance.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="pourquoi">Pourquoi la murder party est un bon team building</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>La murder party en entreprise sollicite exactement les compétences que l'on attend d'une équipe qui fonctionne bien.</p>
+<ul>
+<li><strong>La communication</strong> : une information non partagée est une information perdue. Les équipes comprennent vite qu'il faut tout se dire.</li>
+<li><strong>L'écoute</strong> : les détails des interrogatoires font la différence. Ceux qui parlent peu mais écoutent beaucoup deviennent précieux.</li>
+<li><strong>La répartition des rôles</strong> : sans organisation, l'équipe tourne en rond. Le jeu révèle les leaders, les synthétiseurs, les intuitifs.</li>
+<li><strong>La prise de décision collective</strong> : au moment de désigner le coupable, il faut arbitrer entre des hypothèses concurrentes.</li>
+<li><strong>L'inclusion</strong> : pas besoin d'être sportif ni extraverti. L'activité convient à tous les âges et à tous les profils.</li>
+</ul>
+<p>C'est aussi une activité qui fonctionne <strong>toute l'année</strong>, en intérieur comme en extérieur, ce qui en fait une valeur sûre pour un séminaire d'hiver.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="conseils">Nos conseils pour réussir votre murder party</h2>
+[/ux_text]
+[gap height="8px"]
+
+<ol>
+<li><strong>Composez des équipes mixtes.</strong> Mélangez les services et les niveaux hiérarchiques : c'est là que l'activité crée du lien.</li>
+<li><strong>Annoncez le thème à l'avance.</strong> Sans dévoiler l'intrigue, un mail d'invitation « dans l'ambiance » met tout le monde en appétit.</li>
+<li><strong>Encouragez les costumes, sans les imposer.</strong> Certains adorent, d'autres préfèrent rester discrets. Les deux sont bienvenus.</li>
+<li><strong>Choisissez un lieu qui a du caractère.</strong> Un château ou un domaine ancien renforce l'immersion bien plus qu'une salle de réunion.</li>
+<li><strong>Prévoyez un vrai débriefing.</strong> Dix minutes pour revenir sur la façon dont chaque équipe a travaillé : c'est ce qui transforme le jeu en team building.</li>
+<li><strong>Gardez du temps pour la convivialité.</strong> Une remise de prix pendant l'apéritif prolonge l'expérience.</li>
+</ol>
+<blockquote>
+<p><strong>À retenir</strong>
+- Équipes mixtes, lieu de caractère et débriefing : le trio gagnant.
+- L'activité se combine très bien avec une matinée de travail en salle.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="ou">Où organiser une murder party près de Montpellier et d'Avignon</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Elios Evasion propose deux journées de murder party d'entreprise, chacune dans un château, toute l'année. Le principe est le même : matinée de travail en salle, déjeuner dans le parc si la météo le permet, enquête l'après-midi, apéritif de fin de journée.</p>
+<h3>Près de Montpellier : le Domaine de Capion</h3>
+<p>Notre <a href="/seminaire-montpellier/journee-murder-party-montpellier/">murder party dans un château de la vallée de l'Hérault</a> se déroule au Domaine de Capion, à Aniane, à environ 40 minutes de Montpellier. Le petit-déjeuner est servi sur la grande terrasse du château, et le parc boisé accueille le déjeuner. <strong>À partir de 140 € HT par personne.</strong></p>
+<h3>Près d'Avignon : le château de Beauregard</h3>
+<p>Côté Provence, la <a href="/seminaire-avignon/journee-murder-party/">murder party au château de Beauregard</a> se joue dans un château du début du XVIIᵉ siècle, à environ 25 à 30 minutes d'Avignon. Petit-déjeuner dans la cour, déjeuner dans le parc, enquête l'après-midi. <strong>À partir de 150 € HT par personne.</strong></p>
+<p>Dans les deux cas, le prix comprend le petit-déjeuner, le déjeuner, la salle et le matériel de travail et l'activité. Le transport n'est pas inclus. Un intervenant peut animer la matinée, et une soirée est possible sur demande.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:murder-party-scene-de-crime.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:murder-party-cartes-indices.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:murder-party-bureau-enqueteur.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2 id="faq">Questions fréquentes</h2>
+[/ux_text]
+[accordion faq_schema="true"]
+
+[accordion-item title="Faut-il préparer un rôle à l'avance ?"]
+
+<p>Non. Dans nos murder parties, les participants enquêtent en équipes et n'ont rien à préparer. L'animateur explique tout au briefing. Les costumes d'enquêteur sont proposés à ceux qui le souhaitent.</p>
+
+[/accordion-item]
+[accordion-item title="Une murder party convient-elle à des collègues qui ne se connaissent pas ?"]
+
+<p>Oui, c'est même un très bon moyen de briser la glace. Le jeu donne un prétexte pour parler, échanger des hypothèses et collaborer, sans mise en avant individuelle forcée.</p>
+
+[/accordion-item]
+[accordion-item title="Peut-on organiser une murder party en soirée ?"]
+
+<p>Oui. La journée type place l'enquête l'après-midi, mais une soirée peut être organisée sur demande, dans le prolongement de la journée. Précisez-le dans votre demande pour que nous adaptions le programme.</p>
+
+[/accordion-item]
+
+[/accordion]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#aac816"]
+<h2>Prêts à mener l'enquête ?</h2>
+[/ux_text]
+<p>Montpellier ou Avignon, dites-nous ce que vous imaginez pour votre équipe : nous construisons la journée et vous envoyons un devis. Vous pouvez aussi nous joindre au <a href="tel:+33679029332">06 79 02 93 32</a> ou passer par la page <a href="/contact/">contact</a>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+

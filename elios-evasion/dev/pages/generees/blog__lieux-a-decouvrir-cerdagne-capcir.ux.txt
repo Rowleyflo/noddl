@@ -1,0 +1,208 @@
+[row]
+
+[col span__sm="12"]
+
+<p><strong>La Cerdagne et le Capcir sont deux hauts plateaux des Pyrénées catalanes, autour de Font-Romeu et des Angles. Six lieux résument leurs activités : le lac des Bouillouses, le pic Carlit, la citadelle de Mont-Louis, le Train jaune, la vallée d'Eyne et les bains d'eau chaude naturelle. Tous sont à moins de 30 minutes de Font-Romeu, ce qui permet de les glisser facilement dans un séminaire.</strong></p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="40px 40px 30px 40px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Cerdagne et Capcir : de quoi parle-t-on ?</h2>
+[/ux_text]
+<p><strong>Sommaire</strong>
+1. <a href="#cerdagne-capcir">Cerdagne et Capcir : de quoi parle-t-on ?</a>
+2. <a href="#bouillouses">Le lac des Bouillouses</a>
+3. <a href="#carlit">Le pic Carlit</a>
+4. <a href="#mont-louis">La citadelle de Mont-Louis</a>
+5. <a href="#train-jaune">Le Train jaune</a>
+6. <a href="#eyne">La vallée d'Eyne</a>
+7. <a href="#bains">Les bains d'eau chaude naturelle</a>
+8. <a href="#seminaire">Comment les intégrer à un séminaire</a></p>
+<p><a id="cerdagne-capcir"></a></p>
+<p>La <strong>Cerdagne</strong> est un large plateau d'altitude, partagé entre la France et l'Espagne, autour de Font-Romeu, Bolquère et Saillagouse. Elle est réputée pour son ensoleillement et ses vues dégagées sur la chaîne des Pyrénées. Côté espagnol, Puigcerdà est à quelques minutes, et la petite ville de Llívia forme une enclave espagnole en territoire français.</p>
+<p>Le <strong>Capcir</strong>, plus au nord, autour des Angles et de Formiguères, est un plateau plus forestier, couvert de pins et parsemé de lacs. Les deux territoires font partie du <a href="https://www.parc-pyrenees-catalanes.fr/">Parc naturel régional des Pyrénées catalanes</a>, créé en 2004.</p>
+<p>L'été, on y vient pour la randonnée et le VTT ; l'hiver, pour le ski alpin, le ski de fond, le ski de randonnée et les raquettes. Voici les six lieux que nous faisons découvrir le plus souvent à nos groupes.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>1. Le lac des Bouillouses, porte d'entrée du Carlit</h2>
+[/ux_text]
+[gap height="8px"]
+
+[ux_image id="133" image_size="original" height="56%"]
+
+<p><a id="bouillouses"></a></p>
+<p>À un peu plus de 2 000 mètres d'altitude, le <strong>lac des Bouillouses</strong> est l'un des plus grands lacs des Pyrénées-Orientales. C'est un lac de barrage, construit au début du XXe siècle pour fournir l'électricité du Train jaune. Le site est classé et offre un grand espace de nature sauvage, apprécié des pêcheurs.</p>
+<p>C'est surtout le point de départ des randonnées dans le massif du Carlit : en quelques heures de marche, on enchaîne les lacs d'altitude, du plus facile au plus sportif. L'hiver, le secteur se parcourt en raquettes et en ski de randonnée.</p>
+<p><strong>Bon à savoir</strong> : en juillet et en août, la route d'accès est fermée aux voitures pendant la journée.</p>
+<blockquote>
+<p><strong>À retenir</strong> : le lac des Bouillouses est à environ 30 minutes de Font-Romeu. Pour un groupe, prévoyez une demi-journée au minimum, pique-nique compris.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>2. Le pic Carlit, toit des Pyrénées-Orientales</h2>
+[/ux_text]
+[gap height="8px"]
+
+[ux_image id="134" image_size="original" height="56%"]
+
+<p><a id="carlit"></a></p>
+<p>Avec ses <strong>2 921 mètres</strong>, le pic Carlit est le point culminant des Pyrénées-Orientales. Son massif compte des dizaines de lacs et abrite une faune remarquable, comme le desman des Pyrénées, un petit mammifère semi-aquatique cousin de la taupe, devenu très rare.</p>
+<p>Le sommet se gravit le plus souvent par sa face sud, depuis le lac des Bouillouses, en longeant une succession d'étangs. La fin de l'ascension est raide et réservée aux marcheurs entraînés. Au sommet, la vue embrasse toute la chaîne : le Puigmal, le Cambre d'Aze et le Canigou, symbole du pays catalan.</p>
+<p>Pour un séminaire, on préfère souvent la <strong>boucle des lacs</strong> au pied du Carlit, accessible au plus grand nombre, avec un guide qui raconte la montagne.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>3. La citadelle de Mont-Louis et ses fours solaires</h2>
+[/ux_text]
+[gap height="8px"]
+
+[ux_image id="122" image_size="original" height="56%"]
+
+<p><a id="mont-louis"></a></p>
+<p>Après le traité des Pyrénées de 1659, qui fixe la frontière entre la France et l'Espagne, Louis XIV veut la protéger. <strong>Vauban</strong> fonde Mont-Louis en 1679, au carrefour de la Cerdagne, du Capcir et du Conflent, à environ 1 600 mètres d'altitude.</p>
+<p>Depuis 2008, la citadelle est inscrite au patrimoine mondial de l'UNESCO avec les <a href="https://whc.unesco.org/fr/list/1283/">fortifications de Vauban</a>. Elle a gardé sa vocation militaire : elle abrite aujourd'hui le Centre national d'entraînement commando.</p>
+<p>Mont-Louis est aussi une étape de l'histoire de l'énergie solaire. Le chercheur Félix Trombe y installe en 1949 l'un des tout premiers fours solaires, qui se visite toujours. Il a servi de modèle au grand four solaire d'Odeillo, à Font-Romeu, dont l'immense miroir est visible depuis toute la Cerdagne.</p>
+<blockquote>
+<p><strong>À retenir</strong> : la visite combinée de la citadelle et du four solaire est une bonne option de repli culturelle en cas de mauvais temps, à 10 minutes de Font-Romeu.</p>
+</blockquote>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>4. Le Train jaune, la ligne la plus haute de France</h2>
+[/ux_text]
+[gap height="8px"]
+
+[ux_image id="143" image_size="original" height="56%"]
+
+<p><a id="train-jaune"></a></p>
+<p>Inaugurée en 1910 sur son premier tronçon, la ligne de Cerdagne relie <strong>Villefranche-de-Conflent à Latour-de-Carol</strong> sur 63 kilomètres. Ses voitures jaunes et rouges, aux couleurs catalanes, lui ont valu son surnom de « canari ».</p>
+<p>La ligne franchit des ouvrages spectaculaires, comme le viaduc Séjourné et le <strong>pont Gisclard</strong>, dernier pont suspendu ferroviaire encore en service en France. La gare de <strong>Bolquère-Eyne</strong>, à 1 593 mètres, est la plus haute gare SNCF de France.</p>
+<p>Le Train jaune circule toute l'année et dessert les villages du Conflent et de la Cerdagne. En été, ses voitures découvertes en font l'une des balades les plus appréciées du département.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>5. La vallée d'Eyne, la vallée des fleurs</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p><a id="eyne"></a></p>
+<p>Au-dessus du village d'Eyne, cette vallée glaciaire est protégée par une <strong>réserve naturelle</strong>. Elle est connue depuis des siècles des botanistes pour la richesse de sa flore de montagne : au début de l'été, les prairies se couvrent de fleurs.</p>
+<p>La randonnée remonte la vallée sur un sentier régulier, avec de bonnes chances d'apercevoir des marmottes et des isards. C'est une sortie idéale pour un groupe aux niveaux variés, avec un accompagnateur qui présente la faune et la flore.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>6. Les bains d'eau chaude naturelle</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p><a id="bains"></a></p>
+<p>La Cerdagne a une particularité appréciée après l'effort : des <strong>sources d'eau chaude naturelle</strong>, aménagées en bassins en plein air.
+- <strong>Dorres</strong> : des bassins taillés dans le granit, avec vue sur la Cerdagne ;
+- <strong>Llo</strong> : des bains au pied du village, face aux montagnes ;
+- <strong>Saint-Thomas-les-Bains</strong>, à Fontpédrouse : des bassins extérieurs dans la vallée de la Têt, appréciés sous la neige.</p>
+<p>Pour aller plus loin dans la détente, le centre de balnéothérapie Angléo, aux Angles, complète l'offre bien-être du Capcir.</p>
+<p><a id="seminaire"></a></p>
+<h2>Comment intégrer ces lieux à un séminaire</h2>
+<p>Ces six lieux sont tous à moins de 30 minutes de Font-Romeu. Ils se glissent facilement dans un programme qui alterne travail le matin et découverte l'après-midi :
+- <strong>en hiver</strong> : raquettes aux Bouillouses, puis bains d'eau chaude. Voir notre <a href="/sejours/seminaire-ski-hiver/">séminaire ski et team building neige</a> ;
+- <strong>en été</strong> : randonnée au pied du Carlit ou dans la vallée d'Eyne. Voir notre <a href="/sejours/seminaire-montagne-ete/">team building montagne en été</a> ;
+- <strong>toute l'année</strong> : citadelle de Mont-Louis, four solaire et Train jaune.</p>
+<p>Elios Evasion, installée à Font-Romeu, organise votre <a href="/sejours/sejour-team-building-pyrenees/">séminaire en Cerdagne</a> de A à Z : hébergement, salle, repas, guides et visites. Pour les détails pratiques sur place, voyez aussi notre page <a href="/sejours/seminaire-pyrenees-catalanes/">séminaire à Font-Romeu et en Pyrénées catalanes</a>.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+[accordion faq_schema="true"]
+
+[accordion-item title="Quelle est la différence entre la Cerdagne et le Capcir ?"]
+
+<p>Ce sont deux hauts plateaux voisins des Pyrénées catalanes. La Cerdagne, autour de Font-Romeu, est un large plateau ensoleillé ouvert sur l'Espagne. Le Capcir, autour des Angles et de Formiguères, est plus forestier et riche en lacs.</p>
+
+[/accordion-item]
+[accordion-item title="Quelles activités faire en Cerdagne et dans le Capcir ?"]
+
+<p>L'été : randonnée, VTT, canyoning, escalade, pêche, visites de Mont-Louis et balade en Train jaune. L'hiver : ski alpin, ski de fond, ski de randonnée, raquettes et chiens de traîneau. Toute l'année : bains d'eau chaude naturelle.</p>
+
+[/accordion-item]
+[accordion-item title="Peut-on monter au lac des Bouillouses en voiture ?"]
+
+<p>Oui, sauf en journée en juillet et en août, où la route est fermée et remplacée par une navette depuis le Pla de Barrès. L'hiver, la route est fermée plus bas à cause de la neige, et le lac se rejoint en raquettes ou en ski de randonnée.</p>
+
+[/accordion-item]
+
+[/accordion]
+[gap height="48px"]
+
+[row]
+
+[col span="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+<p><strong>Envie de faire découvrir la Cerdagne à vos équipes ?</strong> <a href="/contact/">Parlez-nous de votre projet</a> : nous composons un séminaire à votre mesure.</p>
+
+[/col]
+
+[/row]
+[gap height="48px"]
+

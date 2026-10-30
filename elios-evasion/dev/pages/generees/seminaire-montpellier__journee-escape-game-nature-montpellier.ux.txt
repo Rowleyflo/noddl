@@ -1,0 +1,510 @@
+[ux_banner height="680px" height__sm="560px" bg="MEDIA:escape-game-coffres-sablier.webp" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>JOURNÉE TEAM BUILDING · DOMAINE DE CAPION, ANIANE</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Escape game team building en pleine nature près de Montpellier</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Pré-réserver cette journée" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion organise un <strong>escape game team building près de Montpellier</strong>, en plein air, au Domaine de Capion à Aniane, dans la vallée de l'Hérault (environ 40 minutes de route). Matinée de travail au château, déjeuner dans le parc, puis énigmes en équipe entre sous-bois et vignes. Toute l'année, à partir de <strong>140 € HT par personne</strong>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>LIEU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>Domaine de Capion, Aniane (34150), vallée de l'Hérault</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ACCÈS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>environ 40 min en voiture depuis Montpellier (38 km depuis la gare Saint-Roch)</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DURÉE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>une journée, de 9 h à 17 h, soirée possible</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>SAISON</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>toute l'année</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>à partir de 140 € HT par personne</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>petit-déjeuner, déjeuner, salle et matériel de travail, escape game, apéritif de fin de journée</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NON INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>le transport</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NIVEAU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>accessible à tous, public adulte (18 ans et plus)</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-carnet-indices-equipe.webp" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>L'activité : un escape game team building en plein air, dans la vallée de l'Hérault</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Oubliez la pièce fermée et le compte à rebours dans le noir. Ici, le terrain de jeu, c'est le <strong>parc boisé du Domaine de Capion</strong>, ou ses vignes si vous le préférez. Vos équipes partent avec un téléphone, suivent les indices et avancent d'énigme en énigme jusqu'au dénouement.</p>
+<p>Le scénario est <strong>construit sur mesure pour votre groupe</strong>. Trois ressorts reviennent tout au long de l'après-midi :</p>
+<h3>Orientation</h3>
+<p>Il faut lire le terrain, choisir un itinéraire, décider ensemble où chercher. Les équipes qui communiquent bien prennent vite de l'avance.</p>
+<h3>Recherche</h3>
+<p>Coffres cadenassés, carnets, objets cachés dans le paysage : chaque découverte débloque l'étape suivante. Les profils observateurs, souvent discrets en réunion, se révèlent.</p>
+<h3>Entraide</h3>
+<p>Une énigme ne se résout jamais seul. Les équipes partagent leurs trouvailles, se répartissent les rôles et apprennent à se faire confiance sous la pression du temps.</p>
+<p>Le jeu se déroule sur téléphone, ce qui permet de l'adapter au lieu choisi : allée du parc, lisière des vignes ou abords du château. Le debriefing de fin d'activité met en lumière ce qui a fonctionné dans chaque équipe.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" padding="0px 48px 0px 0px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;LE LIEU&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Votre matinée de travail au Domaine de Capion</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Vous profitez de ses espaces intérieurs comme extérieurs.</p>
+<p>La journée commence par un petit-déjeuner sur la grande terrasse du château. Votre matinée de travail s'organise ensuite comme vous le souhaitez : plénière, ateliers en sous-groupes, séance de créativité. Tout le matériel est fourni.</p>
+<p>Pour donner du relief à la matinée, un intervenant peut venir partager son expérience, d'un magicien à un sportif de haut niveau. Quand la météo s'y prête, le déjeuner est servi dans le grand parc boisé.</p>
+
+[/col]
+[col span="6" span__sm="12" animate="fadeInUp" force_first="small"]
+
+[ux_image id="MEDIA:domaine-capion-terrasse-chateau.webp" image_size="original" height="75%"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Le programme de la journée</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>MATIN</strong></p>
+[/ux_text]
+<ul>
+<li>8 h 30 – 9 h : arrivée au Domaine de Capion</li>
+<li>9 h : petit-déjeuner sur la terrasse du château</li>
+<li>9 h 30 : matinée de travail</li>
+<li>12 h : fin du temps de travail</li>
+<li>12 h – 13 h 30 : déjeuner</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>APRÈS-MIDI</strong></p>
+[/ux_text]
+<ul>
+<li>14 h : début de l'escape game</li>
+<li>16 h 30 : fin de l'activité</li>
+<li>16 h 30 – 17 h : apéritif de fin de journée</li>
+<li>À partir de 17 h 30 : soirée sur demande</li>
+</ul>
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p>Le programme s'adapte : escape game le matin et travail l'après-midi, ou journée entièrement consacrée au jeu.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;EN IMAGES&#93;</strong></p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-coffres-sablier.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-carnet-indices-equipe.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-tablette-enigme.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:domaine-capion-terrasse-chateau.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:chateau-parc-jardin-buis.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:salon-chateau-parquet-point-de-hongrie.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi choisir cette journée</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un escape game qui fait bouger</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>on marche, on cherche, on explore le parc, loin d'une salle close.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un scénario fait pour vous</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>le jeu est conçu sur mesure et peut s'adapter à votre groupe et à vos objectifs.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Disponible toute l'année</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>au printemps dans les vignes, en hiver sous les arbres du parc.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un seul site pour tout</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>travail, repas et activité au même endroit, sans déplacement dans la journée.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À DÉCOUVRIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Autres journées autour de Montpellier</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="16" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-grotte-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-grotte-montpellier/">Team building dans une grotte</a></strong></p>
+[/ux_text]
+<p>escape game souterrain et parcours aventure dans la grotte de Clamouse, dès 100 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-grotte-montpellier/"]
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="MEDIA:murder-party-cartes-indices.webp" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-murder-party-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-murder-party-montpellier/">Murder party au Domaine de Capion</a></strong></p>
+[/ux_text]
+<p>la même demeure, mais une enquête en costume animée par un professionnel, dès 140 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-murder-party-montpellier/"]
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="MEDIA:trottinette-electrique-lac-salagou.webp" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-montpellier/journee-trotinette-tout-terrain-electrique-montpellier/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-montpellier/journee-trotinette-tout-terrain-electrique-montpellier/">Trottinette électrique au lac du Salagou</a></strong></p>
+[/ux_text]
+<p>3 h de pilotage sur les terres rouges, de mai à septembre, dès 140 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-montpellier/journee-trotinette-tout-terrain-electrique-montpellier/"]
+
+[/col]
+
+[/row]
+[row h_align="center"]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="32px"]
+
+[ux_text font_size="1.25" text_align="center"]
+<p>Vous êtes plutôt dans le Vaucluse ? Découvrez notre <a href="/seminaire-avignon/journee-escape-game-nature/">escape game nature près d'Avignon</a>. Et pour comprendre ce que le jeu apporte à une équipe, lisez <a href="/blog/escape-game-team-building/">pourquoi l'escape game fonctionne en team building</a>.</p>
+<p>Retrouvez <a href="/seminaire-montpellier/">toutes nos journées team building à Montpellier</a>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Combien coûte cet escape game team building près de Montpellier ?"]
+
+<p>À partir de 140 € HT par personne, avec petit-déjeuner, déjeuner, salle de travail, escape game et apéritif. Le transport n'est pas inclus. Le prix final dépend de l'effectif, de la date et des options choisies.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Pré-réservez votre escape game au Domaine de Capion</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Donnez-nous vos dates, votre effectif et vos envies : nous préparons votre programme et vous adressons un devis.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

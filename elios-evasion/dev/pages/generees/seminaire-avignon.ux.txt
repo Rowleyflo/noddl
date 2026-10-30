@@ -1,0 +1,496 @@
+[ux_banner height="680px" height__sm="560px" bg="120" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>SÉMINAIRES À LA JOURNÉE · AVIGNON ET VAUCLUSE</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Team building et séminaire d'entreprise à Avignon</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion organise des journées de <strong>team building autour d'Avignon</strong>, dans des lieux situés à 20 ou 30 minutes du centre : un château viticole à Châteauneuf-du-Pape, un moulin de 1598, un château du XVIIe siècle. Le matin, vos équipes travaillent en salle. L'après-midi, place à la dégustation, à l'enquête, aux énigmes ou au quiz. Toute l'année, de <strong>130 à 180 € HT par personne</strong>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="144" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi un team building à Avignon</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Le Vaucluse réunit ce qu'on attend d'un séminaire réussi : des lieux de caractère, un vignoble réputé et une météo qui permet de profiter des parcs et des terrasses une bonne partie de l'année. Le tout sans s'éloigner de la ville.</p>
+<ul>
+<li><strong>Des lieux proches</strong> : chaque journée se déroule à environ 25 minutes d'Avignon en voiture.</li>
+<li><strong>Un vrai décor provençal</strong> : vignes de l'AOC Châteauneuf-du-Pape, parc boisé, cour de château.</li>
+<li><strong>Toute l'année</strong> : les quatre journées sont proposées en toute saison.</li>
+<li><strong>Une formule complète</strong> : petit-déjeuner, salle de travail équipée, déjeuner, activité et apéritif de fin de journée.</li>
+<li><strong>Un seul interlocuteur</strong> : Elios Evasion réserve le lieu, le traiteur et les prestataires, et vous envoie un devis unique.</li>
+</ul>
+<p>Pour une sortie d'entreprise à Avignon comme pour un séminaire de direction, le principe reste le même : une demi-journée pour travailler, une demi-journée pour se retrouver.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="12" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Nos journées team building autour d'Avignon</h2>
+[/ux_text]
+[gap height="8px"]
+
+<table>
+<thead>
+<tr>
+<th>Journée</th>
+<th>Lieu</th>
+<th>Commune</th>
+<th>Saison</th>
+<th>Prix dès (HT/pers.)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/seminaire-avignon/journee-decouverte-du-vin/">Team building œnologie à Châteauneuf-du-Pape</a></td>
+<td>Château des Fines Roches</td>
+<td>Châteauneuf-du-Pape (84230)</td>
+<td>toute l'année</td>
+<td>180 €</td>
+</tr>
+<tr>
+<td><a href="/seminaire-avignon/journee-escape-game-nature/">Escape game dans les vignes</a></td>
+<td>Moulin des Gaffins ou vignes de Châteauneuf-du-Pape</td>
+<td>Althen-des-Paluds (84210)</td>
+<td>toute l'année</td>
+<td>140 €</td>
+</tr>
+<tr>
+<td><a href="/seminaire-avignon/journee-quizz-room-avignon/">Quiz géant en équipe</a></td>
+<td>Château de Beauregard, puis Quiz Room Avignon</td>
+<td>Vedène (84270) pour le quiz</td>
+<td>toute l'année</td>
+<td>130 €</td>
+</tr>
+<tr>
+<td><a href="/journee-sur-mesure/">Journée de cohésion sur mesure</a></td>
+<td>lieu au choix dans le Vaucluse</td>
+<td>selon le programme</td>
+<td>toute l'année</td>
+<td>110 €</td>
+</tr>
+</tbody>
+</table>
+<p>Tous les prix comprennent le petit-déjeuner, le déjeuner, la salle et le matériel de travail, et l'activité. Le transport n'est pas inclus.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="14" image_size="original" height="66%" image_hover="zoom-long"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Œnologie à Châteauneuf-du-Pape</h3>
+[/ux_text]
+<p>Initiation à la dégustation avec un sommelier, au château des Fines Roches. → <a href="/seminaire-avignon/journee-decouverte-du-vin/">Découvrir la dégustation à Châteauneuf-du-Pape</a></p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="MEDIA:escape-game-tablette-enigme.webp" image_size="original" height="66%" image_hover="zoom-long"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Escape game nature</h3>
+[/ux_text]
+<p>Un parcours d'énigmes conçu pour votre équipe, dans un parc boisé ou au milieu des vignes. → <a href="/seminaire-avignon/journee-escape-game-nature/">Voir l'escape game en plein air près d'Avignon</a></p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="MEDIA:murder-party-scene-de-crime.webp" image_size="original" height="66%" image_hover="zoom-long"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Murder party</h3>
+[/ux_text]
+<p>Une enquête en costume, animée par un professionnel, dans un château du XVIIe siècle. → <a href="/seminaire-avignon/journee-murder-party/">Voir la murder party en château</a></p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="138" image_size="original" height="66%" image_hover="zoom-long"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Quiz en équipe</h3>
+[/ux_text]
+<p>Matinée au château, puis un quiz en équipes de deux, aux questions personnalisées. → <a href="/seminaire-avignon/journee-quizz-room-avignon/">Voir la journée quiz à Avignon</a></p>
+
+
+[/col]
+[col span="4" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="13" image_size="original" height="66%" image_hover="zoom-long"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<h3>Journée sur mesure</h3>
+[/ux_text]
+<p>Lieu, activité, traiteur : vous composez la journée avec nous, dès 110 € HT. → <a href="/journee-sur-mesure/">Composer une journée sur mesure</a></p>
+
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" padding="0px 48px 0px 0px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Vin et terroir : le team building œnologie</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Une formule toute trouvée pour les entreprises qui reçoivent des clients ou des partenaires. Au château des Fines Roches, un sommelier initie vos collaborateurs à la dégustation des vins de l'AOC Châteauneuf-du-Pape et leur explique comment ces vins sont élaborés.</p>
+<p>Le programme peut s'enrichir d'un casino des vins, d'une découverte du café ou d'une initiation à la dégustation de digestifs. Une journée conviviale, qui met tout le monde au même niveau, du stagiaire à la direction. Tous les détails sur la page <a href="/seminaire-avignon/journee-decouverte-du-vin/">team building œnologie à Châteauneuf-du-Pape</a>.</p>
+
+[/col]
+[col span="6" span__sm="12" animate="fadeInUp" force_first="small"]
+
+[ux_image id="17" image_size="original" height="75%"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="MEDIA:murder-party-cartes-indices.webp" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Enquêtes et énigmes : escape game et murder party</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Deux journées font appel à la réflexion collective plutôt qu'à la condition physique.</p>
+<h3>L'escape game nature, entre parc boisé et vignoble</h3>
+<p>Smartphone en main, les équipes suivent un parcours d'énigmes créé pour elles : orientation, recherche d'indices, entraide. Le jeu se déroule dans le parc du Moulin des Gaffins ou dans les vignes de Châteauneuf-du-Pape. Voir notre <a href="/seminaire-avignon/journee-escape-game-nature/">escape game dans les vignes</a>.</p>
+<h3>La murder party, une enquête au château</h3>
+<p>Au château de Beauregard, vos collaborateurs deviennent détectives et doivent démasquer le coupable caché parmi eux. Un professionnel anime l'enquête, et les costumes font vite tomber la cravate. Découvrez la <a href="/seminaire-avignon/journee-murder-party/">murder party au château de Beauregard</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" padding="0px 48px 0px 0px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Le quiz en équipe, une activité team building à Avignon accessible à tous</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Pas besoin d'aimer le sport ni les énigmes : un buzzer suffit. Après une matinée de travail au château de Beauregard, le groupe rejoint la Quiz Room Avignon, à Vedène. Les joueurs s'affrontent en équipes de deux, sur des questions que nous pouvons personnaliser selon le ton de votre séminaire. Une collation clôt la partie. Voir le <a href="/seminaire-avignon/journee-quizz-room-avignon/">quiz géant en équipe</a>.</p>
+
+[/col]
+[col span="6" span__sm="12" animate="fadeInUp" force_first="small"]
+
+[ux_image id="136" image_size="original" height="75%"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Comment se déroule une journée type</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Les quatre journées suivent le même rythme, ajusté selon l'activité :</p>
+<ul>
+<li><strong>8 h 30 – 9 h</strong> : arrivée sur le lieu</li>
+<li><strong>9 h</strong> : petit-déjeuner, en terrasse, dans le parc ou dans la cour du château selon le lieu</li>
+<li><strong>9 h 30</strong> : matinée de travail en salle, matériel fourni</li>
+<li><strong>12 h</strong> : fin du temps de travail et debriefing</li>
+<li><strong>12 h 15 – 14 h</strong> : déjeuner, à l'extérieur quand la météo le permet</li>
+<li><strong>14 h – 16 h 30</strong> : activité de l'après-midi</li>
+<li><strong>16 h 30</strong> : apéritif de fin de journée</li>
+<li><strong>À partir de 17 h – 17 h 30</strong> : soirée sur demande</li>
+</ul>
+<p>Vous pouvez inviter un intervenant pendant la matinée, d'un magicien à un sportif de haut niveau. Le programme reste modulable : activité le matin, demi-journée, ou journée sans temps de travail.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="14" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;LE LIEU&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Les lieux de nos séminaires dans le Vaucluse</h2>
+[/ux_text]
+[gap height="8px"]
+
+<ul>
+<li><strong>Château des Fines Roches, Châteauneuf-du-Pape (84230)</strong> : un château de la fin du XIXe siècle au milieu des vignes, avec une grande terrasse. Environ 25 minutes d'Avignon (16 km).</li>
+<li><strong>Moulin des Gaffins, Althen-des-Paluds (84210)</strong> : un moulin construit en 1598, reconverti en domaine de réception, avec un parc boisé. Environ 25 minutes d'Avignon (16 km). La salle de 400 m² peut accueillir jusqu'à 160 personnes.</li>
+<li><strong>Quiz Room Avignon, Vedène (84270)</strong> : la salle de jeu partenaire de la journée quiz, à environ 20 minutes d'Avignon (10 km).</li>
+</ul>
+<p>Les temps de trajet sont indiqués en voiture depuis le centre d'Avignon, hors trafic.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row h_align="center"]
+
+[col span="10" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="rgba(61, 73, 85, 0.512)" text_align="center"]
+<p><strong>&#91;NOTRE MÉTHODE&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.875" line_height="1.3" text_color="#3d4955" text_align="center"]
+<h2>Organiser votre séminaire avec Elios Evasion</h2>
+[/ux_text]
+[gap height="64px" height__sm="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ÉTAPE 01</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+[gap height="8px"]
+
+<p><strong>Vous nous écrivez</strong> : dates, effectif, journée envisagée et objectifs du séminaire, via le formulaire ou au <a href="tel:+33679029332">06 79 02 93 32</a>.</p>
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ÉTAPE 02</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+[gap height="8px"]
+
+<p><strong>Nous construisons le programme</strong> : choix du lieu, horaires, options (intervenant, soirée), puis envoi d'un devis.</p>
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ÉTAPE 03</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+[gap height="8px"]
+
+<p><strong>Vous validez</strong> au moins 4 semaines avant la date : c'est le délai minimum de réservation.</p>
+
+[/col]
+
+[/row]
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p>Vous hésitez encore ? Comparez avec <a href="/sejours/">nos autres destinations de séminaire</a>, ou piochez dans nos <a href="/blog/idees-team-building-originales/">idées de team building originales</a>. Elios Evasion est une <a href="/">agence de team building et de séminaires en pleine nature</a> basée à Font-Romeu, qui organise aussi des journées près de Montpellier et des séjours dans les Pyrénées.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Combien coûte un team building à Avignon ?"]
+
+<p>Nos journées autour d'Avignon coûtent de 130 € HT par personne (quiz) à 180 € HT par personne (œnologie). L'escape game est à partir de 140 € HT et la murder party à partir de 150 € HT. Ces prix comprennent le petit-déjeuner, le déjeuner, la salle de travail et l'activité.</p>
+
+[/accordion-item]
+[accordion-item title="Les journées sont-elles proposées en hiver ?"]
+
+<p>Oui. Les quatre journées autour d'Avignon sont proposées toute l'année. Le déjeuner se prend en extérieur quand la météo le permet, en salle sinon.</p>
+
+[/accordion-item]
+[accordion-item title="Quel délai faut-il prévoir pour réserver ?"]
+
+<p>Le délai minimum de réservation est de 4 semaines. Plus vous nous contactez tôt, plus le choix de dates et de lieux est large, surtout pour les grands groupes.</p>
+
+[/accordion-item]
+[accordion-item title="Peut-on organiser une journée différente de celles proposées ?"]
+
+<p>Oui. Avec la <a href="/journee-sur-mesure/">journée de cohésion sur mesure</a>, à partir de 110 € HT par personne, vous choisissez le lieu, l'activité et le traiteur dans le Vaucluse, avec nos partenaires.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Parlons de votre séminaire près d'Avignon</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Dites-nous vos dates, votre effectif et l'ambiance recherchée : nous revenons vers vous avec un programme et un devis.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]

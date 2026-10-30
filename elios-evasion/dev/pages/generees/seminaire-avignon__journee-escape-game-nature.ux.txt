@@ -1,0 +1,486 @@
+[ux_banner height="680px" height__sm="560px" bg="MEDIA:escape-game-tablette-enigme.webp" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%" parallax="2" divider="curve" divider_height="120px"]
+
+[text_box width="67" width__sm="90" animate="fadeInUp" position_x="0" position_x__sm="50" position_y="75" position_y__sm="80" text_align="left"]
+
+[ux_text font_size="0.75"]
+<p><strong>JOURNÉE TEAM BUILDING · VAUCLUSE</strong></p>
+[/ux_text]
+[ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
+<h1 class="thin-font">Escape game team building en plein air près d'Avignon</h1>
+[/ux_text]
+[gap height="16px"]
+
+[button text="Pré-réserver cette journée" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[/text_box]
+
+[/ux_banner]
+[section bg="112" bg_size="original" bg_overlay="rgba(255, 255, 255, 0.576)" padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.35" font_size__sm="1.15" line_height="1.7"]
+<p>Elios Evasion propose un <strong>escape game team building près d'Avignon</strong>, au Moulin des Gaffins, un moulin de 1598 entouré d'un parc boisé à Althen-des-Paluds. Après une matinée de travail et un déjeuner sur place, vos équipes résolvent, smartphone en main, des énigmes conçues pour elles, dans le parc ou dans les vignes de Châteauneuf-du-Pape. Toute l'année, dès <strong>140 € HT par personne</strong>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;L'ESSENTIEL&#93;</strong></p>
+[/ux_text]
+[gap height="24px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>ACCÈS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>environ 25 min en voiture depuis le centre d'Avignon (16 km)</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>DURÉE</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>une journée, de 9 h à 17 h, soirée possible</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>SAISON</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>toute l'année</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>PRIX</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>à partir de 140 € HT par personne</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>petit-déjeuner, déjeuner, salle et matériel de travail, escape game, apéritif de fin de journée</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NON INCLUS</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>le transport</p>
+
+[/col]
+[col span="4" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>NIVEAU</strong></p>
+[/ux_text]
+[divider width="100%" height="1px" color="#E2E2E2"]
+
+<p>accessible à tous, public adulte (18 ans et plus)</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-carnet-indices-equipe.webp" image_size="original" height="75%"]
+
+[/col]
+[col span="6" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
+
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Un escape game en Provence, sans murs ni cadenas de salle</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Oubliez la pièce fermée et le chronomètre au mur. Ici, le terrain de jeu est un parc provençal ou un vignoble, et l'aventure se suit sur téléphone. Les équipes partent avec leur smartphone, reçoivent les énigmes au fil du parcours et doivent trouver ensemble la suite de l'histoire.</p>
+<p>Le scénario est <strong>écrit sur mesure</strong> pour votre groupe. Il mêle plusieurs ressorts : se repérer dans l'espace, fouiller les lieux, croiser les informations, s'entraider entre équipes quand un indice résiste. Chacun y trouve son rôle, du plus méthodique au plus intuitif.</p>
+<h3>Premier décor : le parc boisé du Moulin des Gaffins</h3>
+<p>Le jeu se déroule à l'ombre des arbres, à quelques pas de la salle où vous avez travaillé le matin. Aucun déplacement : on sort du déjeuner et la partie commence.</p>
+<h3>Second décor : les vignes de Châteauneuf-du-Pape</h3>
+<p>Comme le jeu repose sur le téléphone, il peut aussi être installé dans un autre lieu de votre choix dans le Vaucluse.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;LE LIEU&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Votre matinée de travail au Moulin des Gaffins</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Construit en 1598, le Moulin des Gaffins a été reconverti en domaine de réception. Il met à votre disposition une salle de 400 m² et un parc boisé, où vos collaborateurs prennent le petit-déjeuner avant de se mettre au travail. Le matériel nécessaire est fourni, et la matinée s'organise comme vous le souhaitez : plénière, ateliers, présentation de résultats.</p>
+<p>Vous pouvez aussi inviter un intervenant, d'un magicien à un sportif de haut niveau, pour lancer la journée. À midi, le déjeuner est servi dans le parc si la météo le permet.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;PROGRAMME&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Le programme de la journée</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>MATIN</strong></p>
+[/ux_text]
+<ul>
+<li>8 h 30 – 9 h : arrivée au Moulin des Gaffins</li>
+<li>9 h : petit-déjeuner sur place</li>
+<li>9 h 30 : début de la matinée de travail</li>
+<li>12 h : fin du temps de travail</li>
+<li>12 h – 13 h 30 : déjeuner</li>
+</ul>
+
+[/col]
+[col span="6" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>APRÈS-MIDI</strong></p>
+[/ux_text]
+<ul>
+<li>14 h : lancement de l'escape game</li>
+<li>16 h 30 : fin du jeu et résultats</li>
+<li>16 h 30 – 17 h : apéritif de fin de journée</li>
+<li>À partir de 17 h 30 : soirée sur demande</li>
+</ul>
+
+[/col]
+
+[/row]
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="24px"]
+
+<p>Le programme se module : jeu le matin et travail l'après-midi, demi-journée, ou journée entièrement consacrée au jeu.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;EN IMAGES&#93;</strong></p>
+[/ux_text]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-tablette-enigme.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-carnet-indices-equipe.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+[col span="4" span__sm="6" animate="fadeInUp"]
+
+[ux_image id="MEDIA:escape-game-coffres-sablier.webp" image_size="original" height="75%" lightbox="true" image_hover="zoom-long"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;POURQUOI ELIOS&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Pourquoi choisir cette journée</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un lieu chargé d'histoire</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>plus de quatre siècles de pierres provençales, loin du centre d'affaires.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Un jeu qui vous ressemble</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>le scénario est construit pour votre groupe, pas sorti d'un catalogue.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Deux ambiances au choix</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>la fraîcheur d'un parc boisé ou l'ouverture du vignoble.</p>
+[/ux_text]
+
+[/col]
+[col span="3" span__md="6" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="1.1" line_height="1.4" text_color="#aac816"]
+<p><strong>Une logistique simple</strong></p>
+[/ux_text]
+[ux_text font_size="1.1" line_height="1.5"]
+<p>petit-déjeuner, travail, déjeuner et activité sur un même domaine, avec Elios Evasion comme seul interlocuteur.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+
+[row]
+
+[col span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;À DÉCOUVRIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Autres journées autour d'Avignon</h2>
+[/ux_text]
+[gap height="32px"]
+
+[/col]
+
+[/row]
+[row v_align="equal"]
+
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="14" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-avignon/journee-decouverte-du-vin/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-avignon/journee-decouverte-du-vin/">Dégustation à Châteauneuf-du-Pape</a></strong></p>
+[/ux_text]
+<p>initiation avec un sommelier au château des Fines Roches, dès 180 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-avignon/journee-decouverte-du-vin/"]
+
+[/col]
+[col span="6" span__sm="12" padding="20px 20px 10px 20px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+
+[ux_image id="137" image_size="original" height="66%" image_hover="zoom-long" link="/seminaire-avignon/journee-quizz-room-avignon/"]
+
+[gap height="16px"]
+
+[ux_text font_size="1.1" line_height="1.3" text_color="#3d4955"]
+<p><strong><a href="/seminaire-avignon/journee-quizz-room-avignon/">Quiz géant en équipe</a></strong></p>
+[/ux_text]
+<p>matinée au château de Beauregard, puis quiz à la Quiz Room Avignon, dès 130 € HT.</p>
+
+[button text="Découvrir" letter_case="lowercase" style="link" icon="icon-angle-right" icon_pos="right" link="/seminaire-avignon/journee-quizz-room-avignon/"]
+
+[/col]
+
+[/row]
+[row h_align="center"]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="32px"]
+
+[ux_text font_size="1.25" text_align="center"]
+<p>Retrouvez <a href="/seminaire-avignon/">toutes nos journées team building autour d'Avignon</a>. Votre équipe est plutôt basée dans l'Hérault ? Découvrez notre <a href="/seminaire-montpellier/journee-escape-game-nature-montpellier/">escape game en pleine nature près de Montpellier</a>.</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="9" span__sm="12" animate="fadeInUp"]
+
+[gap height="8px"]
+
+<p><strong>Pour aller plus loin</strong> : <a href="/blog/escape-game-team-building/">escape game en team building, pourquoi ça fonctionne</a>.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section padding="160px" padding__sm="80px"]
+
+[row]
+
+[col span="4" span__sm="12" animate="fadeInUp"]
+
+[ux_text font_size="0.75" text_color="#047ea3"]
+<p><strong>&#91;BON À SAVOIR&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+<h2>Questions fréquentes</h2>
+[/ux_text]
+
+[/col]
+[col span="8" span__sm="12" animate="fadeInUp"]
+
+[accordion faq_schema="true"]
+
+[accordion-item title="Moulin ou vignes : quel décor choisir ?"]
+
+<p>Le parc du Moulin des Gaffins évite tout déplacement dans la journée et offre de l'ombre en été. Les vignes de Châteauneuf-du-Pape donnent une couleur plus provençale à l'après-midi. Nous vous conseillons selon la saison, votre effectif et votre programme.</p>
+
+[/accordion-item]
+[accordion-item title="Faut-il connaître la Provence ou être habitué des escape games ?"]
+
+<p>Non. Les énigmes ne demandent aucune connaissance préalable, et le scénario est calibré pour des débutants. Les joueurs aguerris apprécient le format en plein air, très différent d'une salle d'escape game classique.</p>
+
+[/accordion-item]
+[accordion-item title="Quel est le prix de cet escape game team building près d'Avignon ?"]
+
+<p>À partir de 140 € HT par personne, avec petit-déjeuner, déjeuner, salle de travail, escape game et apéritif. Le prix final dépend de l'effectif, de la date, du décor choisi et des options (intervenant, soirée).</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+[gap height="48px"]
+
+
+[/section]
+[section bg="95" bg_size="original" padding="87px"]
+
+[row]
+
+[col animate="fadeInUp"]
+
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
+
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
+<p><strong>&#91;VOTRE PROJET&#93;</strong></p>
+[/ux_text]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
+<h2>Pré-réservez votre escape game au Moulin des Gaffins</h2>
+[/ux_text]
+[gap height="8px"]
+
+<p>Indiquez vos dates, votre effectif et le décor qui vous tente : nous revenons vers vous avec un programme et un devis. Le délai minimum de réservation est de 4 semaines.</p>
+[gap height="16px"]
+
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
+
+[/col]
+
+[/row]
+
+[/section]
