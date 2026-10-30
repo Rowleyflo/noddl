@@ -58,7 +58,7 @@ mots: 730
 - **Adresse** : [À FOURNIR : adresse postale], 66120 Font-Romeu-Odeillo-Via
 - **Téléphone** : [06 79 02 93 32](tel:+33679029332)
 - **E-mail** : [À FOURNIR : adresse e-mail]
-- **Réseaux sociaux** (icônes avec libellé accessible « Elios Evasion sur LinkedIn », etc.) : LinkedIn [À FOURNIR : URL] · Facebook [À FOURNIR : URL] · Instagram [À FOURNIR : URL]. Supprimer toute icône sans vraie page (le footer actuel pointe vers les pages d'accueil génériques des réseaux).
+- **Réseaux sociaux** (icônes avec libellé accessible « Elios Evasion sur LinkedIn », etc.) : Facebook https://www.facebook.com/p/Elios-Evasion-100070387800853/ · Instagram https://www.instagram.com/eliosevasion/ · LinkedIn https://www.linkedin.com/in/eliottreyivan/ (URL fournies par le client le 30/10/2026). Supprimer toute icône sans vraie page (le footer actuel pointe vers les pages d'accueil génériques des réseaux).
 
 ### Colonne 2 : Nos destinations
 - [Team building Montpellier](/seminaire-montpellier/)

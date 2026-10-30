@@ -15,6 +15,12 @@
 
 [/text_box]
 
+[text_box width="4" width__sm="8" position_x="100" position_y="90" text_align="center" text_color="light" animate="fadeInUp"]
+
+[follow style="outline" scale="110" facebook="https://www.facebook.com/p/Elios-Evasion-100070387800853/" instagram="https://www.instagram.com/eliosevasion/" linkedin="https://www.linkedin.com/in/eliottreyivan/"]
+
+[/text_box]
+
 [text_box width="20" width__sm="45" position_x="100" position_y="95" text_align="right" text_color="light" animate="fadeInUp"]
 
 [button text="Voir plus" style="link" color="white" size="small" icon="icon-angle-down" icon_pos="right" link="#agence"]
