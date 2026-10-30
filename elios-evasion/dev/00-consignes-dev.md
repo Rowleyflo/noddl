@@ -170,3 +170,4 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | 30/10/2026 | Title, meta et données structurées : reportés après l'intégration et le design. |
 | 30/10/2026 | Extensions : analyser l'existant sur la préprod **avant toute installation ou modification**. |
 | 30/10/2026 | Photos : celles récupérées de l'ancien site (`../contenu/images/`, à retélécharger avec `../telecharger-images.sh`), renommées et converties en WebP selon `../seo/donnees/images-alt.csv`. |
+| 30/10/2026 | L'accueil est intégré **à partir de la maquette PDF du designer** (mise en page, design) et des **textes de `../redaction/transverse/accueil.md`** (contenu). La proposition `maquette/accueil-proposition.dc.html` n'est pas un modèle. Procédure : `01-brief-accueil-depuis-maquette.md`. |
