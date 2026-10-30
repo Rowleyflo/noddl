@@ -451,22 +451,19 @@
 [/col]
 [col span="8" span__sm="12" animate="fadeInUp"]
 
-[divider width="100%" height="1px" color="#E2E2E2"]
+[accordion faq_schema="true"]
 
-<h3>Quel budget prévoir pour une journée de team building ?</h3>
+[accordion-item title="Quel budget prévoir pour une journée de team building ?"]
 <p>Nos journées clés en main coûtent de 100 à 180 € HT par personne selon l'activité, avec le petit-déjeuner, le déjeuner, la salle de travail et l'activité. Les séjours à la montagne sont établis sur devis. Pour le détail, consultez notre page <a href="/faq/">combien coûte un team building ?</a></p>
-
-[divider width="100%" height="1px" color="#E2E2E2"]
-
-<h3>Dans quelles régions intervenez-vous ?</h3>
+[/accordion-item]
+[accordion-item title="Dans quelles régions intervenez-vous ?"]
 <p>Autour de Montpellier (vallée de l'Hérault, lac du Salagou, Palavas-les-Flots), autour d'Avignon (Châteauneuf-du-Pape et le Vaucluse) et dans les Pyrénées, au départ de notre base de Font-Romeu. Les séjours à la montagne peuvent être organisés dans tout le massif.</p>
-
-[divider width="100%" height="1px" color="#E2E2E2"]
-
-<h3>Peut-on garder un temps de travail pendant la journée ?</h3>
+[/accordion-item]
+[accordion-item title="Peut-on garder un temps de travail pendant la journée ?"]
 <p>Oui, c'est le principe de nos journées : une matinée de travail dans une salle équipée, puis l'activité de cohésion l'après-midi. Le programme peut aussi être inversé, ou se passer de temps de travail.</p>
+[/accordion-item]
 
-[divider width="100%" height="1px" color="#E2E2E2"]
+[/accordion]
 
 [/col]
 
