@@ -10,7 +10,7 @@ image_principale: massif-carlit-lacs.webp
 date_publication: 2021-09-13
 date_mise_a_jour: 2026-10-30
 auteur: Eliott [À CONFIRMER : nom complet et fonction de l'auteur]
-mots: 1550
+mots: 1370
 ---
 
 <!-- [HERO] image : massif-carlit-lacs.webp (alt : « Vue sur le massif du Carlit et ses lacs » ; Wikimedia Commons : vérifier la licence et créditer) | mention visible : « Mis à jour le 30 octobre 2026 » -->

@@ -3,11 +3,11 @@ url: /
 statut: ✏️
 mot_cle: agence team building
 title: Agence team building et séminaires nature | Elios Evasion
-meta: Séminaires et team building insolites en pleine nature : Montpellier, Avignon et Pyrénées. Journées clés en main dès 100 € HT par personne, devis rapide.
+meta: "Séminaires et team building insolites en pleine nature : Montpellier, Avignon et Pyrénées. Journées clés en main dès 100 € HT par personne, devis rapide."
 h1: Agence de team building et de séminaires en pleine nature dans le Sud
 schema: [TravelAgency, WebSite, FAQPage]
 image_principale: pirogue-tahitienne-team-building-palavas.webp
-mots: 1180
+mots: 1090
 ---
 
 <!-- [HERO] image : pirogue-tahitienne-team-building-palavas.webp (alt repris de images-alt.csv) | sur-titre : « Agence de séminaires et de team building · Sud de la France » | bouton 1 : « Demander un devis » → /contact/ | bouton 2 (texte) : « Voir nos séminaires » → /sejours/ -->
@@ -23,7 +23,7 @@ Elios Evasion est une **agence de team building** basée à Font-Romeu qui organ
 <!-- [CARTES] 3 cartes destinations : image, H3, 2 lignes, lien texte -->
 ## Trois destinations pour vos séminaires d'entreprise
 
-Nous travaillons sur trois territoires que nous connaissons bien, chacun avec ses lieux partenaires et son ambiance.
+Nous travaillons sur trois territoires que nous connaissons bien, chacun avec ses lieux partenaires et son ambiance. Près des villes, nos journées évitent l'hébergement et limitent les trajets ; à la montagne, le séjour laisse le temps de prendre du recul.
 
 <!-- carte 1 | image : team-building-paddle-geant-equipe.webp -->
 ### Montpellier et la vallée de l'Hérault
@@ -102,6 +102,9 @@ Autour de Montpellier (vallée de l'Hérault, lac du Salagou, Palavas-les-Flots)
 
 ### Le transport est-il compris ?
 Non, le transport jusqu'au lieu du séminaire n'est pas inclus dans nos prix. Indiquez-le dans votre demande : nous pouvons étudier une solution [À CONFIRMER : autocar proposé sur devis ?].
+
+### Combien de temps à l'avance faut-il nous contacter ?
+Prévoyez au moins quatre semaines avant la date de votre journée [À CONFIRMER : délai minimum affiché sur le site actuel]. Pour un grand groupe, un séjour à la neige ou une date en été, prenez contact plus tôt : les lieux les plus demandés se réservent vite.
 
 ### Peut-on garder un temps de travail pendant la journée ?
 Oui, c'est le principe de nos journées : une matinée de travail dans une salle équipée, puis l'activité de cohésion l'après-midi. Le programme peut aussi être inversé, ou se passer de temps de travail.

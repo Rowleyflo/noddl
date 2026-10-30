@@ -3,11 +3,11 @@ url: /contact/
 statut: ✏️
 mot_cle: devis séminaire
 title: Contact et devis séminaire ou team building | Elios Evasion
-meta: Un projet de séminaire ou de team building ? Décrivez-nous vos dates, votre effectif et vos envies : nous revenons vers vous rapidement. 06 79 02 93 32.
+meta: "Un projet de séminaire ou de team building ? Décrivez-nous vos dates, votre effectif et vos envies : nous revenons vers vous rapidement. 06 79 02 93 32."
 h1: Demandez votre devis de séminaire ou de team building
 schema: [ContactPage, BreadcrumbList]
 image_principale: domaine-capion-terrasse-chateau.webp
-mots: 420
+mots: 580
 ---
 
 <!-- [HERO] bandeau court, image : domaine-capion-terrasse-chateau.webp | pas de bouton (le formulaire est juste en dessous) -->

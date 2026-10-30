@@ -7,7 +7,7 @@ meta: "Séminaire de 2 jours ou plus dans les Pyrénées : hébergement, salle, 
 h1: Séminaire d'entreprise et team building dans les Pyrénées
 schema: [Service, Offer, FAQPage, BreadcrumbList]
 image_principale: lac-montagne-pic-du-midi-ossau-pyrenees.webp
-mots: 1650
+mots: 1700
 ---
 
 <!-- [HERO] image : lac-montagne-pic-du-midi-ossau-pyrenees.webp (alt exact : « Lac de montagne et prairies au pied du pic du Midi d'Ossau, dans les Pyrénées-Atlantiques ») | sur-titre : « Séminaires de 2 jours ou plus · tout le massif pyrénéen » | bouton : « Demander un devis » → #devis -->

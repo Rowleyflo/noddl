@@ -3,12 +3,12 @@ url: /mentions-legales/
 statut: 🆕
 mot_cle: —
 title: Mentions légales | Elios Evasion
-meta: Mentions légales du site Elios Evasion : éditeur, immatriculation Atout France, garantie financière, hébergeur, propriété intellectuelle et crédits.
+meta: "Mentions légales du site Elios Evasion : éditeur, immatriculation Atout France, garantie financière, hébergeur, propriété intellectuelle et crédits."
 h1: Mentions légales
 robots: noindex, follow
 schema: [WebPage, BreadcrumbList]
 image_principale: —
-mots: 640
+mots: 570
 ---
 
 <!-- ⚠️ MODÈLE À FAIRE VALIDER PAR UN JURISTE AVANT MISE EN LIGNE.

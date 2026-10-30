@@ -3,11 +3,11 @@ url: /blog/murder-party-entreprise/
 statut: 🆕
 mot_cle: murder party entreprise
 title: Murder party en entreprise : comment ça marche ?
-meta: Scénario, rôles, durée, animation : tout savoir sur la murder party en entreprise, et nos conseils pour réussir ce team building d'enquête avec vos équipes.
+meta: Scénario, rôles, durée, animation : tout savoir sur la murder party en entreprise, et nos conseils pour réussir ce team building d'enquête en équipe.
 h1: Murder party en entreprise : comment ça marche ?
 schema: [Article, FAQPage, BreadcrumbList]
 image_principale: murder-party-scene-de-crime.webp
-mots: 1450
+mots: 1350
 ---
 
 <!-- [HERO] image : murder-party-scene-de-crime.webp | alt : « Scène de crime reconstituée avec silhouette au sol et marqueurs numérotés » | sur-titre : « Conseils · Team building » | date visible : « Mis à jour le 30/10/2026 » -->

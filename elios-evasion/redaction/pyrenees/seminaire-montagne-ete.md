@@ -7,7 +7,7 @@ meta: "Randonnée, VTT, canyoning, escalade, spéléologie : un séminaire d'ét
 h1: Team building à la montagne en été dans les Pyrénées
 schema: [Service, Offer, FAQPage, BreadcrumbList]
 image_principale: team-building-canyoning-groupe-pyrenees.webp
-mots: 1050
+mots: 1080
 ---
 
 <!-- [HERO] image : team-building-canyoning-groupe-pyrenees.webp (alt : « Groupe en combinaison et casque glissant dans une vasque pendant un canyoning ») | sur-titre : « Séminaire d'été · massif du Carlit, Cerdagne, Capcir » | bouton : « Demander un devis » → #devis -->

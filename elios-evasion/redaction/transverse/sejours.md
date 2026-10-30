@@ -3,11 +3,11 @@ url: /sejours/
 statut: ✏️
 mot_cle: idée séminaire entreprise
 title: Idées de séminaire entreprise et team building clés en main
-meta: Journées team building à Montpellier et Avignon, séminaires de plusieurs jours à la montagne : comparez nos formules clés en main et demandez un devis.
+meta: "Journées team building à Montpellier et Avignon, séminaires de plusieurs jours à la montagne : comparez nos formules clés en main et demandez un devis."
 h1: Nos séminaires et team buildings clés en main
 schema: [CollectionPage, ItemList, FAQPage, BreadcrumbList]
 image_principale: olympiades-entreprise-plage-groupe.webp
-mots: 1080
+mots: 1160
 ---
 
 <!-- [HERO] image : olympiades-entreprise-plage-groupe.webp | sur-titre : « Nos séminaires · Montpellier, Avignon, Pyrénées » | bouton : « Demander un devis » → /contact/ -->

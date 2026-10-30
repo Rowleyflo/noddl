@@ -7,7 +7,7 @@ meta: "Séminaire à Font-Romeu, aux Angles, en Cerdagne ou dans le Capcir : une
 h1: Séminaire à Font-Romeu, en Cerdagne et dans le Capcir
 schema: [Service, Offer, Place, FAQPage, BreadcrumbList]
 image_principale: lac-pradeil-carlit-refuge.webp
-mots: 1250
+mots: 1160
 ---
 
 <!-- [HERO] image : lac-pradeil-carlit-refuge.webp (alt : « Lac de montagne bordé d'herbes et de pins, avec le massif du Carlit en fond » ; fichier de 9,5 Mo à compresser) | sur-titre : « Séminaire dans les Pyrénées-Orientales · notre territoire » | bouton : « Demander un devis » → #devis -->

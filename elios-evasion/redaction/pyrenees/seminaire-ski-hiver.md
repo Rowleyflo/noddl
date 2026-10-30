@@ -7,7 +7,7 @@ meta: "Ski, raquettes, chiens de traîneau, biathlon, dîner d'altitude : un sé
 h1: Séminaire ski et team building neige dans les Pyrénées
 schema: [Service, Offer, FAQPage, BreadcrumbList]
 image_principale: seminaire-ski-groupe-entreprise-neige.webp
-mots: 1050
+mots: 1110
 ---
 
 <!-- [HERO] image : seminaire-ski-groupe-entreprise-neige.webp (vraie photo client, alt : « Groupe de collaborateurs posant dans la neige lors d'un séminaire d'entreprise à la montagne ») | sur-titre : « Séminaire d'hiver · Font-Romeu et stations des Pyrénées » | bouton : « Demander un devis » → #devis -->
@@ -106,7 +106,7 @@ Cette formule fait partie de nos [séminaires à la montagne dans les Pyrénées
 <!-- [FAQ] -->
 ## Questions fréquentes
 
-### Faut-il savoir skier pour participer à un séminaire ski ?
+### Faut-il savoir skier pour participer à un séminaire à la neige ?
 Non. Nous prévoyons des cours par niveau pour les débutants et des activités sans ski, comme les raquettes, les chiens de traîneau ou le biathlon. Chacun participe à son rythme.
 
 ### Quand organiser un séminaire à la neige dans les Pyrénées ?

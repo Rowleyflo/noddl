@@ -3,11 +3,11 @@ url: /blog/olympiades-entreprise/
 statut: 🆕
 mot_cle: olympiades entreprise
 title: Olympiades d'entreprise : idées d'épreuves et organisation
-meta: Idées d'épreuves, constitution des équipes, déroulé type et sécurité : notre méthode pour organiser des olympiades d'entreprise qui fédèrent toute l'équipe.
+meta: Idées d'épreuves, constitution des équipes, déroulé type et sécurité : notre méthode pour organiser des olympiades d'entreprise qui fédèrent vos équipes.
 h1: Olympiades d'entreprise : idées d'épreuves et organisation
 schema: [Article, FAQPage, BreadcrumbList]
 image_principale: olympiades-entreprise-plage-groupe.webp
-mots: 1500
+mots: 1550
 ---
 
 <!-- [HERO] image : olympiades-entreprise-plage-groupe.webp | alt : « Grand groupe de collaborateurs en tenues colorées sur la plage après des olympiades d'entreprise » | sur-titre : « Conseils · Team building sportif » | date visible : « Mis à jour le 30/10/2026 » -->
@@ -43,9 +43,9 @@ Elles servent plusieurs objectifs à la fois :
 > - Le format s'adapte à tous les effectifs, de quelques équipes à plusieurs dizaines.
 
 <!-- [SECTION] cartes ou liste à intertitres -->
-## 12 idées d'épreuves pour vos olympiades d'entreprise {#idees}
+## 12 idées d'épreuves pour vos olympiades {#idees}
 
-Le secret d'une bonne olympiade d'entreprise, c'est la **variété**. Si toutes les épreuves demandent de courir, une partie de l'équipe décroche. Alternez les registres pour que chaque participant ait son moment.
+Le secret de bonnes olympiades, c'est la **variété**. Si toutes les épreuves demandent de courir, une partie de l'équipe décroche. Alternez les registres pour que chaque participant ait son moment.
 
 ### Épreuves sportives (accessibles)
 1. **Course de relais à obstacles** : sacs, cerceaux, plots, en version douce.
@@ -78,7 +78,7 @@ Sur la plage, les possibilités s'élargissent : **abordage sur un paddle géant
 ## Organiser des olympiades d'entreprise en 6 étapes {#organisation}
 
 ### 1. Fixer l'objectif et le public
-Intégration, célébration, cohésion entre deux services ? L'objectif oriente le choix des épreuves. Renseignez-vous aussi sur votre public : âge, condition physique, éventuelles restrictions. Une olympiade d'entreprise doit rester accessible à tous.
+Intégration, célébration, cohésion entre deux services ? L'objectif oriente le choix des épreuves. Renseignez-vous aussi sur votre public : âge, condition physique, éventuelles restrictions. Les épreuves doivent rester accessibles à tous.
 
 ### 2. Choisir le lieu et la saison
 Parc, domaine, plage ou gymnase : le lieu conditionne les épreuves possibles. En extérieur, privilégiez la belle saison et prévoyez un plan B en cas de météo défavorable. Sur la plage, les mois de mai à septembre sont les plus adaptés.
@@ -109,7 +109,7 @@ Le classement, la remise de prix et l'apéritif sont le moment dont tout le mond
 <!-- [SECTION] texte + encadré -->
 ## Sécurité : les points à vérifier {#securite}
 
-Une olympiade d'entreprise reste une activité physique. Quelques précautions évitent la plupart des incidents.
+Des olympiades restent une activité physique. Quelques précautions évitent la plupart des incidents.
 
 ### Adapter l'intensité
 Les épreuves doivent être **accessibles sans entraînement**. Prévoyez des alternatives pour les personnes qui ne souhaitent pas ou ne peuvent pas faire un effort physique : arbitrage, épreuve de réflexion, rôle de capitaine. Personne ne doit se sentir obligé.
@@ -151,7 +151,7 @@ Pour varier les plaisirs, d'autres journées existent autour de la ville : voir 
 Une demi-journée suffit pour 4 à 6 épreuves. Une journée complète permet d'en enchaîner davantage, avec un déjeuner entre les deux manches et une remise de prix en fin d'après-midi. Le format se cale sur votre programme de séminaire.
 
 ### Faut-il être sportif pour participer ?
-Non. De bonnes olympiades d'entreprise mélangent des épreuves physiques, d'adresse, de réflexion et de créativité. Chaque participant peut briller à un moment, et ceux qui ne souhaitent pas faire d'effort physique peuvent arbitrer ou se concentrer sur les épreuves de réflexion.
+Non. De bonnes olympiades mélangent des épreuves physiques, d'adresse, de réflexion et de créativité. Chaque participant peut briller à un moment, et ceux qui ne souhaitent pas faire d'effort physique peuvent arbitrer ou se concentrer sur les épreuves de réflexion.
 
 ### Combien de personnes faut-il pour organiser des olympiades ?
 Le format fonctionne dès quelques équipes de 6 à 10 personnes et s'adapte aux grands groupes, en faisant tourner les équipes sur plusieurs ateliers en parallèle. Pour la journée sur la plage de Palavas, comptez de 15 à 150 participants [PROVISOIRE].

@@ -3,11 +3,11 @@ url: /faq/
 statut: 🆕
 mot_cle: prix team building
 title: Prix d'un team building et questions fréquentes | Elios
-meta: Combien coûte un team building ou un séminaire ? Effectifs, délais, ce qui est inclus, transport, météo : toutes les réponses avant votre devis.
-h1: Questions fréquentes : prix, organisation et réservation
+meta: "Combien coûte un team building ou un séminaire ? Effectifs, délais, ce qui est inclus, transport, météo : toutes les réponses avant votre devis."
+h1: "Questions fréquentes : prix, organisation et réservation"
 schema: [FAQPage, BreadcrumbList]
 image_principale: kayak-paddle-etang-palavas-coucher-soleil.webp
-mots: 2050
+mots: 1650
 ---
 
 <!-- [HERO] bandeau court, image : kayak-paddle-etang-palavas-coucher-soleil.webp | bouton : « Demander un devis » → /contact/ -->

@@ -3,11 +3,11 @@ url: /a-propos/
 statut: ✏️
 mot_cle: Elios Evasion
 title: À propos d'Elios Evasion, agence réceptive à Font-Romeu
-meta: Elios Evasion organise séminaires et team buildings en pleine nature depuis Font-Romeu : notre histoire, nos partenaires, notre façon de travailler.
+meta: "Elios Evasion organise séminaires et team buildings en pleine nature depuis Font-Romeu : notre histoire, nos partenaires, notre façon de travailler."
 h1: Elios Evasion, agence de séminaires nature née à Font-Romeu
 schema: [AboutPage, TravelAgency, BreadcrumbList]
 image_principale: citadelle-mont-louis-vauban-montagne.webp
-mots: 950
+mots: 780
 ---
 
 <!-- [HERO] image : [PHOTO À FOURNIR : l'équipe d'Elios Evasion sur le terrain, ou le fondateur avec un groupe] (à défaut : citadelle-mont-louis-vauban-montagne.webp) | pas de bouton -->

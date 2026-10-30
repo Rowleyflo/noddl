@@ -2,12 +2,12 @@
 url: /journee-sur-mesure/
 statut: ✏️
 mot_cle: team building sur mesure
-title: Team building sur mesure : votre journée à la carte | Elios
-meta: Activités, lieu, traiteur, temps de travail : composez une journée de cohésion d'équipe 100 % sur mesure avec nos partenaires. Dès 110 € HT par personne.
+title: "Team building sur mesure : votre journée à la carte | Elios"
+meta: "Activités, lieu, traiteur, temps de travail : composez une journée de cohésion d'équipe 100 % sur mesure avec nos partenaires. Dès 110 € HT par personne."
 h1: "Team building sur mesure : une journée de cohésion à votre image"
 schema: [Service, Offer, FAQPage, BreadcrumbList]
 image_principale: pirogue-tahitienne-team-building-palavas.webp
-mots: 900
+mots: 930
 ---
 
 <!-- [HERO] image : header-challenge-sportif-pirogues.webp (reprendre la photo d'origine, sans la courbe intégrée) | sur-titre : « Journée sur mesure · toute l'année » | bouton : « Construire ma journée » → #devis -->

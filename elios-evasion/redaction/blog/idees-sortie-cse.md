@@ -30,7 +30,7 @@ Vous cherchez une **idée de sortie CSE** qui plaise à tous ? Les sorties colle
 <!-- [CARTES] 8 idées -->
 ## 8 idées de sortie CSE dans le Sud {#idees}
 
-Une bonne sortie CSE réunit des salariés de tous âges et de tous services, sans exiger de condition physique particulière. Voici des idées testées dans nos journées, autour de Montpellier, d'Avignon et dans les Pyrénées.
+Une bonne sortie CSE réunit des salariés de tous âges et de tous services, sans prérequis physique. Voici nos idées autour de Montpellier, d'Avignon et dans les Pyrénées.
 
 ### Au bord de l'eau
 1. **Balade en kayak au coucher du soleil** sur les étangs de Palavas-les-Flots, avec un arrêt chez un pêcheur pour déguster les produits de sa pêche. Notre [balade en kayak sur les étangs de Palavas](/seminaire-montpellier/journee-balade-kayak-etang-montpellier/) se déroule de 14 h à 20 h, de mai à septembre, pour 35 personnes au maximum, à partir de 130 € HT par personne.
@@ -105,7 +105,7 @@ Les bons d'achat et cadeaux sont une autre catégorie. Ils sont exonérés lorsq
 <!-- [SECTION] tableau comparatif -->
 ## Sortie CSE ou séminaire d'entreprise : quelle différence ? {#difference}
 
-Les deux se ressemblent parfois : une journée dans un beau lieu, une activité en équipe, un bon repas. Mais leur cadre est différent.
+Les deux se ressemblent, mais leur cadre diffère.
 
 | | Sortie CSE | Séminaire ou team building employeur |
 |---|---|---|
@@ -144,10 +144,7 @@ Non. Pour bénéficier de l'exonération de cotisations, les avantages du CSE ne
 Pour les bons d'achat et cadeaux, le seuil d'exonération est de 5 % du plafond mensuel de la Sécurité sociale par salarié et par année civile, soit 200 € en 2026 selon l'URSSAF. Au-delà, l'exonération dépend de conditions liées à des événements précis. Ce seuil ne s'applique pas aux sorties et voyages.
 
 ### Peut-on organiser une sortie CSE avec Elios Evasion ?
-Oui. Nos journées près de Montpellier et d'Avignon peuvent se faire sans temps de travail, autour d'une activité et d'un repas, de 130 € à 180 € HT par personne selon la formule. Dans les Pyrénées, nous construisons un programme sur devis. Le transport n'est pas inclus.
-
-### Quelle sortie CSE choisir pour un groupe aux profils très variés ?
-Les activités sans prérequis physique fonctionnent le mieux : dégustation de vin, enquête de murder party, escape game ou balade en kayak sur un étang calme. Pour un groupe sportif, les activités de montagne ou le challenge sur la plage sont plus dynamiques.
+Oui. Nos journées près de Montpellier et d'Avignon peuvent se faire sans temps de travail, autour d'une activité et d'un repas, à partir de 100 € HT par personne selon la formule [À CONFIRMER : tarif d'une journée sans temps de travail]. Dans les Pyrénées, nous construisons un programme sur devis. Le transport n'est pas inclus.
 
 <!-- [CTA] doux → /sejours/ et /contact/ -->
 ## Parlons de votre prochaine sortie

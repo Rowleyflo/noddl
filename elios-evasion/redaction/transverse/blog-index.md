@@ -2,12 +2,12 @@
 url: /blog/
 statut: ✏️
 mot_cle: blog séminaire team building
-title: Blog : conseils pour organiser séminaires et team buildings
-meta: Méthodes, budgets, idées d'activités et destinations : nos conseils pour réussir vos séminaires et team buildings dans le Sud de la France.
+title: "Blog : conseils pour organiser séminaires et team buildings"
+meta: "Méthodes, budgets, idées d'activités et destinations : nos conseils pour réussir vos séminaires et team buildings dans le Sud de la France."
 h1: Le blog des séminaires et team buildings en pleine nature
 schema: [Blog, CollectionPage, BreadcrumbList]
 image_principale: randonnee-lac-montagne-carlit.webp
-mots: 480
+mots: 320
 ---
 
 <!-- [HERO] bandeau court, image : randonnee-lac-montagne-carlit.webp (remplace le bandeau « cerf » à courbe intégrée) | pas de bouton -->

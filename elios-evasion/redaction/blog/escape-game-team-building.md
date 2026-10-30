@@ -3,11 +3,11 @@ url: /blog/escape-game-team-building/
 statut: 🆕
 mot_cle: escape game team building
 title: Escape game en team building : pourquoi ça fonctionne
-meta: Pourquoi l'escape game soude les équipes, quel format choisir (salle, plein air, grotte) et comment en faire un vrai team building : nos conseils pratiques.
+meta: Pourquoi l'escape game soude les équipes, quel format choisir (salle, plein air, grotte) et comment en faire un vrai team building : nos conseils.
 h1: Escape game en team building : pourquoi ça fonctionne
 schema: [Article, FAQPage, BreadcrumbList]
 image_principale: escape-game-carnet-indices-equipe.webp
-mots: 1450
+mots: 1350
 ---
 
 <!-- [HERO] image : escape-game-carnet-indices-equipe.webp | alt : « Équipe consultant un carnet d'indices et une boussole pendant un escape game » | sur-titre : « Conseils · Team building » | date visible : « Mis à jour le 30/10/2026 » -->
