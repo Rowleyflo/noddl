@@ -1,6 +1,6 @@
 [ux_banner height="800px" height__sm="640px" bg="47" bg_size="original" bg_overlay="rgba(0,0,0,0.15)" bg_pos="50% 40%" parallax="2"]
 
-[text_box width="55" width__sm="90" position_x="0" position_x__sm="50" position_y="85" position_y__sm="85" text_align="left" text_color="light"]
+[text_box width="55" width__sm="90" position_x="0" position_x__sm="50" position_y="85" position_y__sm="85" text_align="left" text_color="light" animate="fadeInUp"]
 
 [ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
 <h1>Agence de team building et de séminaires en pleine nature dans le Sud</h1>

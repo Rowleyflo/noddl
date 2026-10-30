@@ -78,7 +78,7 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | Logo | `site_logo` | logo actuel `LOGO_Elios-Evasion_wht.png` ; version foncée à fournir |
 
 **Règles d'usage dans les pages** (conséquences de la directive 3) :
-- **Animations** : une seule, `animate="fadeInUp"`, sur les **colonnes** (jamais sur le hero, le header ni le footer) ; zoom lent au survol (`zoom-long`) sur les photos cliquables ; parallaxe `2` sur le fond du hero uniquement.
+- **Animations** : une seule, `animate="fadeInUp"`, sur les **colonnes** et sur le **texte du hero** (`[text_box]`), jamais sur la photo du hero, le header ni le footer ; zoom lent au survol (`zoom-long`) sur les photos cliquables ; parallaxe `2` sur le fond du hero uniquement.
 - **Couleurs** : seulement `primary`, `secondary`, `success`, `alert`, ainsi que le blanc et le noir. Dans les attributs (`color`, `bg_color`…), on utilise les **mots-clés de couleur Flatsome** (`primary`, `secondary`, `white`…) quand l'attribut les accepte, sinon le code hexadécimal **exact** de la palette.
 - **Espacements de section** : une seule échelle (ex. `padding="60px"` pour une section standard, `padding="30px"` pour une section serrée), notée ici une fois choisie.
 - **Titres de section** : toujours le même élément `[title]`, avec le même `style`.
@@ -190,3 +190,4 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | 30/10/2026 | Client : CSS global sans classe pour arrondir à 16 px les images et banners placés dans une colonne (`.col-inner .img-inner, .col-inner .banner`). Photos reconstruites en `[ux_image]` et `[ux_banner]` (CTA compris). Import n° 3 = menu pilule + encarts + bouton du header `small` + `nav_spacing` `xlarge`. |
 | 30/10/2026 | Retours du client : boutons pleins plus hauts (`padding="10px 28px"`), pilule plus aérée, témoignages entièrement centrés (`pos="center"`) avec flèches à l'extérieur (`nav_pos="outside"`), header collé sans bandeau (`header_bg` transparent et ombre supprimée). Import n° 4. |
 | 30/10/2026 | Animations validées : `fadeInUp` sur toutes les colonnes (29 sur l'accueil, et 1 dans chacun des blocs Témoignages et CTA), `zoom-long` au survol des 6 photos cliquables, parallaxe `2` sur le hero. Pas de décalage entre les cartes (`animate_delay` non implémenté par Flatsome). |
+| 30/10/2026 | Apparition `fadeInUp` ajoutée sur le texte du hero (`[text_box animate]`), à la demande du client. Le LCP reste la photo de fond, qui n'est pas animée (mesuré : LCP = image du hero, texte visible juste après). |

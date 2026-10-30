@@ -64,3 +64,4 @@ Captures du 30/10 (2ᵉ version) : faites **après** l'import n° 2 (logo blanc 
 - Parallaxe `2` (sur 10) sur le fond du hero : environ 44 px de décalage pour 400 px de défilement, et rien sur mobile.
 - Vérifié dans le navigateur : 31 éléments masqués au chargement, tous visibles après le défilement. Vidéo : `captures/accueil-animations.mp4`.
 - **Non faisable nativement** : faire arriver les cartes l'une après l'autre (`animate_delay` n'est pas utilisé par le thème) ; couper les animations pour les visiteurs qui ont demandé « moins de mouvements » (il faudrait du CSS).
+- **Hero** (ajout) : `fadeInUp` sur le texte (H1, sous-titre, bouton), la photo n'est pas animée. Mesure : le LCP reste l'image de fond, et le texte apparaît juste après. Vidéo : `captures/accueil-hero-apparition.mp4`.
