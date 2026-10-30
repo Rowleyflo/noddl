@@ -9,7 +9,7 @@
 [text_box width="70" width__sm="90" position_x="50" position_y="50" text_align="center" text_color="light"]
 
 [ux_text font_size="0.75"]
-<p>[VOTRE PROJET]</p>
+<p>&#91;VOTRE PROJET&#93;</p>
 [/ux_text]
 [ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2"]
 <h2>Parlons de votre prochain séminaire</h2>

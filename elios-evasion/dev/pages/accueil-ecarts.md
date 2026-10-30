@@ -68,3 +68,13 @@ Captures du 30/10 (2ᵉ version) : faites **après** l'import n° 2 (logo blanc 
 - **Hero plein écran** (`height="100%"` = 100vh, minimum 550 px). Mesures : 2560×1440 → hero de 1440 px, texte entre 810 et 1224 px ; 1366×768 → hero de 768 px, texte à partir de 238 px (le header se termine à 120 px) ; mobile 390×844 → hero de 844 px.
 - **Hero, en bas à droite** (maquette) : 3 icônes Facebook, Instagram et LinkedIn, en cercles à contour (`[follow style="outline"]`), empilées et alignées à droite, puis « Voir plus ↓ » qui mène à `#agence`. Mesures : cercles de 43 px (maquette : 40 px), même bord droit que « Voir plus ». Écarts : contour à l'épaisseur native (maquette : 1 px, impossible sans CSS), pas d'espacement des lettres sur « Voir plus ». Les mêmes icônes figurent dans la colonne Contact du footer.
 - **Test vidéo** : YouTube `9OvjQ7sXhjI` en fond du hero (ordinateur uniquement, photo en secours dessous). Dans mon navigateur automatisé (serveur), YouTube répond « Video unavailable », un blocage courant des robots : **à vérifier dans un vrai navigateur**. Coût : environ 1,1 Mo et 27 requêtes ; cookies YouTube déposés dès l'affichage.
+
+## Publication (30/10/2026)
+
+- Page 8 **publiée** (par le client) et **définie comme page d'accueil** : https://core-flatsome.otakudesign.fr/ ; `/accueil/` redirige en 301 vers `/`.
+- **Plan des titres rendu** : H1 → H2 « Venez vous ressourcer… » → H2 Destinations (3 × H3) → H2 Offres (3 × H3) → H2 Organisation → H2 Avis clients → H2 Pourquoi → H2 FAQ (3 × H3) → H2 CTA.
+- **Écarts SEO introduits par les retouches du client, à valider** :
+  - le H1 ne contient plus le mot-clé principal « agence de team building » (rédaction : « Agence de team building et de séminaires en pleine nature dans le Sud ») ;
+  - le H2 ajouté « … grâce à nos team-building insolite » : faute d'accord, « insolites » ;
+  - sections absentes de la page publiée, conformément à la rédaction : chiffres clés (provisoires), 2 questions de FAQ (`[À CONFIRMER]`).
+- Captures du **vrai rendu en ligne** : `captures/accueil-ordinateur-1440.jpg`, `captures/accueil-mobile-390.jpg`.

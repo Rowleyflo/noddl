@@ -13,6 +13,8 @@ from pathlib import Path
 
 REF = Path(__file__).resolve().parent.parent / 'reference-flatsome' / 'shortcodes-attributs.md'
 INTERDITS = {'class', 'style_inline', 'css'}
+# Classes utilitaires fournies par Flatsome (vérifiées dans assets/css/flatsome.css), permises par la directive 1.
+CLASSES_FLATSOME = {'thin-font'}  # .thin-font{font-weight:300!important}
 REPERES = re.compile(r'\[(?:PROVISOIRE|À CONFIRMER|À FOURNIR|PHOTO À FOURNIR|TEXTE À FOURNIR)[^\]]*\]')
 
 
@@ -49,8 +51,13 @@ def verifier(chemin, ref):
                 erreurs.append(f'[{nom}] attribut interdit par les consignes : {attr}')
             elif attr not in ref[base]:
                 erreurs.append(f'[{nom}] attribut absent de la référence : {attr}="{val}"')
-    if 'style="' in re.sub(r'\[[^\]]*\]', '', texte) or 'class="' in re.sub(r'\[[^\]]*\]', '', texte):
-        erreurs.append('attribut HTML style="" ou class="" dans le contenu')
+    html = re.sub(r'\[[^\]]*\]', '', texte)
+    if 'style="' in html:
+        erreurs.append('attribut HTML style="" dans le contenu')
+    for classes in re.findall(r'class="([^"]*)"', html):
+        inconnues = set(classes.split()) - CLASSES_FLATSOME
+        if inconnues:
+            erreurs.append(f'classe non fournie par Flatsome : {" ".join(sorted(inconnues))}')
     for r in REPERES.findall(texte):
         erreurs.append(f'repère éditorial non publiable : {r}')
     return erreurs

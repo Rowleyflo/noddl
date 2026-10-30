@@ -81,6 +81,12 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | Espacement des sections | attribut `padding` de `[section]` | **160px** (80px sur mobile) ; 48px entre titre et contenu, 96px entre les rangées d'offres, 48px entre photo et texte (retour du client : « plus aéré ») |
 | Logo | `site_logo` | logo actuel `LOGO_Elios-Evasion_wht.png` ; version foncée à fournir |
 
+**Règles de balisage (SEO), exigées par le client le 30/10/2026** :
+- Le balisage suit **exactement** la rédaction : un seul `<h1>`, `##` → `<h2>`, `###` → `<h3>`, texte en `<p>`, gras en `<strong>`. Contrôle : extraire le plan des titres du rendu (`content.rendered`) et le comparer à celui du `.md`.
+- **Sur-titres entre crochets** : écrire `<p>&#91;TEXTE&#93;</p>`. Avec de vrais crochets, WordPress prend `<p>[…]</p>` pour un shortcode et retire le `<p>`.
+- **FAQ** : `<h3>` par question, puis `<p>`, séparés par `[divider]`. **Pas de `[accordion-item]`**, qui rend la question dans un `<span>` et non un `<h3>`.
+- **Avant de mettre à jour une page ou un bloc** : récupérer la version de la préprod (le client édite aussi dans UX Builder) et ne jamais écraser ses modifications.
+
 **Règles d'usage dans les pages** (conséquences de la directive 3) :
 - **Animations** : une seule, `animate="fadeInUp"`, sur les **colonnes** et sur le **texte du hero** (`[text_box]`), jamais sur la photo du hero, le header ni le footer ; zoom lent au survol (`zoom-long`) sur les photos cliquables ; parallaxe `2` sur le fond du hero uniquement.
 - **Couleurs** : seulement `primary`, `secondary`, `success`, `alert`, ainsi que le blanc et le noir. Dans les attributs (`color`, `bg_color`…), on utilise les **mots-clés de couleur Flatsome** (`primary`, `secondary`, `white`…) quand l'attribut les accepte, sinon le code hexadécimal **exact** de la palette.
@@ -201,3 +207,5 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | 30/10/2026 | **Test** à la demande du client : vidéo YouTube `9OvjQ7sXhjI` (« ELIOS EVASION », chaîne Pyrview Eliott ; publique et intégrable d'après l'oEmbed) en fond du hero, sur ordinateur seulement. Poids mesuré : environ 1,1 Mo et 27 requêtes vers YouTube. Points à trancher : cookies YouTube (consentement RGPD), poids, écran noir si la vidéo ne se charge pas. |
 | 30/10/2026 | Constat : le client a passé la typographie en **Montserrat** dans le Customizer (titres, texte, menu). Geist n'est plus utilisée. |
 | 30/10/2026 | Vidéo YouTube abandonnée (lecteur visible). Remplacée par le **fichier fourni par le client**, recompressé (1920×1080, sans son, H.264 CRF 31, `faststart`, 6,7 Mo au lieu de 12,8 Mo), média 74, en `video_mp4` : balise `<video>` native en lecture auto, muette, en boucle, sans commandes, sur ordinateur uniquement ; voile passé à 0,35 (scènes claires). Pilule qui s'étire jusqu'au logo au défilement (CSS du menu pilule, import n° 5). |
+| 30/10/2026 | Le client a retouché l'accueil dans UX Builder (nouveau H1 « Vos team building et séminaires dans les grands espaces du Sud », H2 ajouté dans « L'agence », sur-titres en `#047ea3`, `thin-font` sur le H1, icônes `small`) et l'a publié ; il a aussi renommé le site « Elios Evasion » (slogan « Teambuilding en pleine nature »). Sa version devient la référence (`pages/accueil.ux.txt`). |
+| 30/10/2026 | Balisage corrigé à la demande du client : sur-titres de nouveau en `<p>` (crochets en entités), puces avec le texte exact de la rédaction en `<strong>`, FAQ en `<h3>`. **Page 8 définie comme page d'accueil** (`show_on_front=page`, `page_on_front=8`) : `/` répond 200, `/accueil/` redirige en 301 vers `/`. Le site reste en `noindex, nofollow` (réglage de préprod, à retirer à la mise en ligne). |
