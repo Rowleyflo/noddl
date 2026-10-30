@@ -27,7 +27,7 @@
   - Yoast SEO (déjà utilisé sur le site actuel ; Flatsome a une intégration native, voir § 3) ;
   - Redirection (pour les 301 de `../seo/donnees/redirections.csv`).
   - Toute autre extension doit être validée par le client avant installation.
-- **Préprod** : URL [À FOURNIR]. Accès par l'**API REST WordPress** avec un **mot de passe d'application**, rangé dans les variables d'environnement de la session (`WP_URL`, `WP_USER`, `WP_APP_PASSWORD`) et **jamais écrit** dans le dépôt ni dans le chat. Le domaine de la préprod doit être autorisé dans la politique réseau de l'environnement cloud.
+- **Préprod** : https://core-flatsome.otakudesign.fr (serveur Apache). Accès par l'**API REST WordPress** avec un **mot de passe d'application**, rangé dans les variables d'environnement de la session (`WP_URL`, `WP_USER`, `WP_APP_PASSWORD`) et **jamais écrit** dans le dépôt ni dans le chat. Le domaine de la préprod doit être autorisé dans la politique réseau de l'environnement cloud.
 - **Pas de SSH ni de WP-CLI** depuis le conteneur cloud : le port 22 sortant est bloqué (testé le 30/10/2026).
 
 ## 3. Mécanismes Flatsome vérifiés dans le code source
@@ -110,6 +110,16 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 6. SEO : Yoast (title, meta, robots), fil d'Ariane, redirections, `llms.txt`, `robots.txt`, données structurées.
 7. Recette : crawl, liens, performances, mobile, repères `[…]` restants, accessibilité.
 
+## 6 bis. État de la préprod (analyse publique du 30/10/2026, sans authentification)
+
+- WordPress avec les thèmes **Flatsome 3.20.12** et **flatsome-child** (Template: flatsome). Aucun thème par défaut installé.
+- Extensions détectées : **contact-form-7**, **performance-lab**, **optimization-detective** (namespaces REST + readme). Yoast SEO et Redirection **absents**.
+- Contenu : 1 page « Page d'exemple », 1 article « Bonjour tout le monde », 0 média, 0 bloc UX visible publiquement.
+- ⚠️ **API authentifiée inaccessible** : toute requête authentifiée répond `rest_not_logged_in`, même avec un faux mot de passe. Apache supprime l'en-tête `Authorization`. Correctif à appliquer côté serveur, dans le `.htaccess`, avant le bloc WordPress :
+  `SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1`
+- ⚠️ **Front vide** : toutes les pages publiques renvoient HTTP 200 avec un corps de 0 octet, alors que WordPress va jusqu'au template (`server-timing: wp-before-template`). C'est probablement une erreur PHP fatale au rendu du thème. À diagnostiquer avec `WP_DEBUG_LOG`, ou en désactivant performance-lab / optimization-detective.
+- La liste exacte des extensions actives (`/wp/v2/plugins`) et les réglages ne pourront être lus qu'une fois l'authentification réparée.
+
 ## 7. Points ouverts
 
 - **Méta Yoast** : on les saisit à la main (34 pages), ou bien on ajoute temporairement un petit code PHP (pas de CSS) dans le thème enfant pour les rendre modifiables par l'API REST ? → à décider avec le client.
@@ -122,3 +132,7 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 |---|---|
 | 30/10/2026 | Pas de CSS perso ; uniquement des choses vérifiées ; cohérence de design entre les pages (directives du client). |
 | 30/10/2026 | Flatsome 3.20.12 analysé ; référence extraite dans `reference-flatsome/`. |
+| 30/10/2026 | **Périmètre : uniquement la page d'accueil pour l'instant.** Le design est fourni par le designer du client ; on s'y adapte exactement, avec les options Flatsome uniquement. Le § 4 (système de design) sera rempli à partir de sa maquette. |
+| 30/10/2026 | Title, meta et données structurées : reportés après l'intégration et le design. |
+| 30/10/2026 | Extensions : analyser l'existant sur la préprod **avant toute installation ou modification**. |
+| 30/10/2026 | Photos : celles récupérées de l'ancien site (`../contenu/images/`, à retélécharger avec `../telecharger-images.sh`), renommées et converties en WebP selon `../seo/donnees/images-alt.csv`. |
