@@ -110,15 +110,23 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 6. SEO : Yoast (title, meta, robots), fil d'Ariane, redirections, `llms.txt`, `robots.txt`, données structurées.
 7. Recette : crawl, liens, performances, mobile, repères `[…]` restants, accessibilité.
 
-## 6 bis. État de la préprod (analyse publique du 30/10/2026, sans authentification)
+## 6 bis. État de la préprod (analyse publique, mise à jour le 30/10/2026)
 
-- WordPress avec les thèmes **Flatsome 3.20.12** et **flatsome-child** (Template: flatsome). Aucun thème par défaut installé.
-- Extensions détectées : **contact-form-7**, **performance-lab**, **optimization-detective** (namespaces REST + readme). Yoast SEO et Redirection **absents**.
-- Contenu : 1 page « Page d'exemple », 1 article « Bonjour tout le monde », 0 média, 0 bloc UX visible publiquement.
-- ⚠️ **API authentifiée inaccessible** : toute requête authentifiée répond `rest_not_logged_in`, même avec un faux mot de passe. Apache supprime l'en-tête `Authorization`. Correctif à appliquer côté serveur, dans le `.htaccess`, avant le bloc WordPress :
-  `SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1`
-- ⚠️ **Front vide** : toutes les pages publiques renvoient HTTP 200 avec un corps de 0 octet, alors que WordPress va jusqu'au template (`server-timing: wp-before-template`). C'est probablement une erreur PHP fatale au rendu du thème. À diagnostiquer avec `WP_DEBUG_LOG`, ou en désactivant performance-lab / optimization-detective.
-- La liste exacte des extensions actives (`/wp/v2/plugins`) et les réglages ne pourront être lus qu'une fois l'authentification réparée.
+- **WordPress 7.1.4**. Thème actif : **flatsome-child** (classes `wp-theme-flatsome wp-child-theme-flatsome-child`), parent Flatsome 3.20.12.
+- **On travaille uniquement dans le thème enfant.** On ne modifie jamais le thème parent, et rien n'est ajouté au thème enfant sans validation.
+- Le front répond (64 Ko de HTML), après correction côté client.
+- **Extensions visibles depuis le front** (balises `generator`) :
+  - Contact Form 7 ;
+  - **Performance Lab 4.2.0** et ses modules : auto-sizes, dominant-color-images, embed-optimizer, image-prioritizer, performant-translations, nocache-bfcache, speculation-rules, view-transitions, **webp-uploads** ;
+  - **Optimization Detective 1.0.0-beta7**.
+- **Conséquence pour les médias** : le module **webp-uploads** (Modern Image Formats) convertit déjà les envois en WebP. Avant d'envoyer des images, il faut vérifier son réglage (sortie WebP ou AVIF, conservation ou non de l'original), pour ne pas convertir deux fois.
+- Yoast SEO et Redirection ne sont **pas installés**.
+- Contenu : page et article d'exemple de WordPress, aucun média.
+- ⚠️ **API authentifiée toujours inaccessible** après la modification du `.htaccess` : `rest_not_logged_in`, même avec un faux mot de passe. L'en-tête `Authorization` n'atteint toujours pas PHP. Variantes à essayer, en haut du `.htaccess` :
+  - `CGIPassAuth On` (Apache ≥ 2.4.13, PHP en CGI/FPM) ;
+  - ou, dans le bloc `mod_rewrite` : `RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]`.
+
+  La liste exacte des extensions actives (`/wp/v2/plugins`) et les réglages ne seront lisibles qu'après correction.
 
 ## 7. Points ouverts
 
