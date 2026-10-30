@@ -7,7 +7,7 @@ meta: Un séminaire de 2 jours à Font-Romeu, en été ou en hiver : programme h
 h1: Séminaire de 2 jours à la montagne : programme type
 schema: [Article, FAQPage, BreadcrumbList]
 image_principale: seminaire-ski-groupe-entreprise-neige.webp
-mots: 1600
+mots: 1400
 ---
 
 <!-- [HERO] image : seminaire-ski-groupe-entreprise-neige.webp | sur-titre : « Inspiration · Séminaire résidentiel » | pas de bouton -->

@@ -7,7 +7,7 @@ meta: Objectif, activité, budget, logistique, debriefing : la méthode en 7 ét
 h1: Organiser un team building réussi en 7 étapes
 schema: [Article, FAQPage, BreadcrumbList]
 image_principale: team-building-paddle-geant-equipe.webp
-mots: 1500
+mots: 1300
 ---
 
 <!-- [HERO] image : team-building-paddle-geant-equipe.webp | sur-titre : « Conseils · Team building » | pas de bouton -->

@@ -7,7 +7,7 @@ meta: Objectif, budget, lieu, programme, logistique : la méthode pas à pas pou
 h1: Comment organiser un séminaire d'entreprise : méthode et checklist
 schema: [Article, FAQPage, BreadcrumbList]
 image_principale: domaine-grande-sieste-salle-seminaire.webp
-mots: 1600
+mots: 1700
 ---
 
 <!-- [HERO] image : domaine-grande-sieste-salle-seminaire.webp | sur-titre : « Conseils · Organisation » | pas de bouton -->

@@ -7,7 +7,7 @@ meta: Grotte, canoë, œnologie, chiens de traîneau : 15 idées de team buildin
 h1: 15 idées de team building originales dans le Sud de la France
 schema: [Article, FAQPage, BreadcrumbList]
 image_principale: grotte-clamouse-parcours-aventure-tyrolienne.webp
-mots: 1700
+mots: 1600
 ---
 
 <!-- [HERO] image : grotte-clamouse-parcours-aventure-tyrolienne.webp | sur-titre : « Inspiration · Team building » | pas de bouton -->
@@ -109,7 +109,7 @@ Pour les équipes qui aiment l'aventure : glisser dans les vasques d'un canyon, 
 
 ### 15. Randonnée, patrimoine et sources d'eau chaude
 Une randonnée vers les lacs du massif du Carlit, une visite des fortifications Vauban de Mont-Louis, inscrites au patrimoine mondial de l'UNESCO, puis un bain dans les sources d'eau chaude naturelles des Pyrénées catalanes. Une idée de team building plus douce, centrée sur le bien-être.
-**Été (et bains toute l'année [À CONFIRMER]) · sur devis**
+**Été (bains d'eau chaude toute l'année [À CONFIRMER : ouverture des bains en hiver]) · sur devis**
 
 <!-- [ESSENTIEL] encadré « À retenir » -->
 > **À retenir : Pyrénées**
