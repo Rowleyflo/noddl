@@ -172,3 +172,6 @@ video='https://www.youtube.com/watch?v=f3Hh_qSkpaA'; size=''
 ## [tabs] (shortcodes/tabs.php — extraction manuelle)
 'id' => 'panel-'.rand();'title' => '';'style' => 'line';'align' => 'left';'class' => '';'visibility' => '';'type' => '';'nav_style' => 'uppercase';'nav_size' => 'normal';'history' => 'false';'event' => '';'title' => '';'anchor' => '';'title' => $title;'anchor' => $anchor;'content' => $content );;
 
+
+## [ux_image_box]  (shortcodes/ux_image_box.php — extraction manuelle)
+class='';visibility='';img='';style='';depth='';depth_hover='';link='';target='_self';rel='';animate='';text_pos='bottom';text_padding='';text_bg='';text_color='';text_hover='';text_align='center';text_size='';image_size='';image_width='';image_height='';image_hover='';image_radius='';image_hover_alt='';image_overlay='';

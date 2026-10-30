@@ -1,0 +1,268 @@
+[ux_banner height="600px" height__sm="520px" bg="https://www.elios-evasion.fr/wp-content/uploads/2023/03/Pirogue-1.jpg" bg_overlay="rgba(0, 0, 0, 0.4)" bg_pos="50% 50%"]
+
+[text_box width="70" width__sm="90" position_x="50" position_y="50" text_align="center" text_color="light"]
+
+<p>Agence de séminaires et de team building · Sud de la France</p>
+<h1>Agence de team building et de séminaires en pleine nature dans le Sud</h1>
+<p>Elios Evasion est une <strong>agence de team building</strong> basée à Font-Romeu qui organise des séminaires d'entreprise clés en main en pleine nature : journées autour de Montpellier et d'Avignon, séjours de plusieurs jours à la montagne dans les Pyrénées. Matinée de travail, repas et activité de cohésion sont réunis dans une seule journée, à partir de <strong>100 € HT par personne</strong>.</p>
+
+[button text="Demander un devis" color="primary" link="/contact/"]
+
+[button text="Voir nos séminaires" color="white" style="outline" link="/sejours/"]
+
+[/text_box]
+
+[/ux_banner]
+[section padding="40px"]
+
+[row]
+
+[col span="4" span__sm="12"]
+
+<p><strong>Un seul interlocuteur</strong>, du premier appel à l'apéritif de fin de journée.</p>
+
+[/col]
+[col span="4" span__sm="12"]
+
+<p><strong>Travail et cohésion le même jour</strong> : salle équipée le matin, activité l'après-midi.</p>
+
+[/col]
+[col span="4" span__sm="12"]
+
+<p><strong>Des lieux qui changent du bureau</strong> : grotte, château, vignoble, plage, montagne.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section]
+
+[row]
+
+[col span="12"]
+
+[title style="center" text="Trois destinations pour vos séminaires d'entreprise" tag_name="h2"]
+
+<p>Nous travaillons sur trois territoires que nous connaissons bien, chacun avec ses lieux partenaires et son ambiance. Près des villes, nos journées évitent l'hébergement et limitent les trajets ; à la montagne, le séjour laisse le temps de prendre du recul.</p>
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="12"]
+
+[ux_image_box img="https://www.elios-evasion.fr/wp-content/uploads/2023/03/team-1.jpg" image_height="66%" link="/seminaire-montpellier/"]
+
+<h3>Montpellier et la vallée de l'Hérault</h3>
+<p>Sept journées clés en main entre la vallée de l'Hérault, le lac du Salagou et la plage de Palavas-les-Flots, à 20 à 50 minutes de Montpellier.</p>
+
+[/ux_image_box]
+
+<p>Découvrez notre offre de <a href="/seminaire-montpellier/">team building à Montpellier</a>.</p>
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_image_box img="https://www.elios-evasion.fr/wp-content/uploads/2023/03/Capion-4.jpg" image_height="66%" link="/seminaire-avignon/"]
+
+<h3>Avignon et la Provence</h3>
+<p>Quatre journées dans les châteaux et les vignobles du Vaucluse, de Châteauneuf-du-Pape à la Quiz Room d'Avignon.</p>
+
+[/ux_image_box]
+
+<p>Voir nos <a href="/seminaire-avignon/">séminaires et team building autour d'Avignon</a>.</p>
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_image_box img="https://www.elios-evasion.fr/wp-content/uploads/2018/04/As-tech-groupe-1.jpg" image_height="66%" link="/sejours/sejour-team-building-pyrenees/"]
+
+<h3>Les Pyrénées, au départ de Font-Romeu</h3>
+<p>Des séjours de deux jours ou plus, l'hiver sur les pistes et l'été en randonnée, avec hébergement, salle et activités organisés pour vous.</p>
+
+[/ux_image_box]
+
+<p>Pour un <a href="/sejours/sejour-team-building-pyrenees/">séminaire à la montagne dans les Pyrénées</a>, c'est notre terrain d'origine.</p>
+
+[/col]
+
+[/row]
+[row]
+
+[col span="12"]
+
+<p>Vous hésitez entre plusieurs formules ? Comparez <a href="/sejours/">toutes nos idées de séminaire d'entreprise</a> sur une seule page, ou imaginez une <a href="/journee-sur-mesure/">journée de cohésion sur mesure</a> à partir de 110 € HT par personne.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section]
+
+[row]
+
+[col span="12"]
+
+[title style="center" text="Comment se passe l'organisation avec notre agence de team building" tag_name="h2"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="3" span__md="6" span__sm="12"]
+
+<h3>1. Vous nous décrivez votre projet</h3>
+<p>Dates, effectif, destination, objectif de la journée : le formulaire de devis prend deux minutes, et vous pouvez aussi nous appeler au <a href="tel:+33679029332">06 79 02 93 32</a>.</p>
+
+[/col]
+[col span="3" span__md="6" span__sm="12"]
+
+<h3>2. Nous construisons votre programme</h3>
+<p>Nous vous proposons un lieu, un temps de travail, une activité et des repas adaptés, puis nous vous envoyons un devis détaillé.</p>
+
+[/col]
+[col span="3" span__md="6" span__sm="12"]
+
+<h3>3. Vous validez, nous réservons</h3>
+<p>Lieu, traiteur, encadrants, matériel : nous nous occupons de toutes les réservations auprès de nos partenaires.</p>
+
+[/col]
+[col span="3" span__md="6" span__sm="12"]
+
+<h3>4. Le jour J, vous profitez</h3>
+<p>Vos équipes travaillent le matin, partagent l'activité l'après-midi et terminent autour d'un apéritif. Une soirée est possible sur demande.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section]
+
+[row]
+
+[col span="12"]
+
+[title style="center" text="Nos offres coup de cœur" tag_name="h2"]
+
+[/col]
+
+[/row]
+[row]
+
+[col span="4" span__sm="12"]
+
+[ux_image_box img="https://www.elios-evasion.fr/wp-content/uploads/2023/03/Grotte-1.jpg" image_height="66%" link="/seminaire-montpellier/journee-grotte-montpellier/"]
+
+<p><strong>Dès 100 € HT / pers.</strong></p>
+<h3>Sous terre, près de Montpellier</h3>
+<p>Parcours aventure et escape game dans la grotte de Clamouse, à 40 minutes de Montpellier, toute l'année.</p>
+
+[/ux_image_box]
+
+<p>Le <a href="/seminaire-montpellier/journee-grotte-montpellier/">team building dans une grotte</a> est notre formule la plus accessible.</p>
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_image_box img="https://www.elios-evasion.fr/wp-content/uploads/2023/03/Vigne-1.jpg" image_height="66%" link="/seminaire-avignon/journee-decouverte-du-vin/"]
+
+<p><strong>Dès 180 € HT / pers.</strong></p>
+<h3>Dans les vignes, près d'Avignon</h3>
+<p>Une initiation avec un sommelier au château des Fines Roches, au cœur de l'AOC Châteauneuf-du-Pape.</p>
+
+[/ux_image_box]
+
+<p>Une <a href="/seminaire-avignon/journee-decouverte-du-vin/">dégustation à Châteauneuf-du-Pape</a> conviviale, accessible aux novices comme aux amateurs.</p>
+
+[/col]
+[col span="4" span__sm="12"]
+
+[ux_image_box img="https://www.elios-evasion.fr/wp-content/uploads/2018/04/ski-rando-carlit.png" image_height="66%" link="/sejours/seminaire-ski-hiver/"]
+
+<p><strong>Sur devis</strong></p>
+<h3>Sur la neige, dans les Pyrénées</h3>
+<p>Ski, raquettes, chiens de traîneau, biathlon et dîner d'altitude en dameuse.</p>
+
+[/ux_image_box]
+
+<p>Un <a href="/sejours/seminaire-ski-hiver/">séminaire ski à Font-Romeu</a> qui sort vraiment vos équipes du quotidien.</p>
+
+[/col]
+
+[/row]
+
+[/section]
+[section]
+
+[row v_align="middle"]
+
+[col span="6" span__sm="12"]
+
+[title text="Pourquoi confier votre séminaire à une agence locale" tag_name="h2"]
+
+<p>Organiser un séminaire seul, c'est trouver une salle, un traiteur, un prestataire d'activité, vérifier les horaires et gérer les imprévus. Avec Elios Evasion, vous n'avez qu'un contact et qu'un devis.</p>
+<p>Nous travaillons avec des lieux que nous connaissons : la grotte de Clamouse, le Domaine de Capion et le Domaine de la Grande Sieste dans la vallée de l'Hérault, le château des Fines Roches, le château de Beauregard et le Moulin des Gaffins autour d'Avignon, la Quiz Room d'Avignon, et nos prestataires de Font-Romeu. Nous savons quelle salle convient à votre effectif et quelle activité plaira à un groupe peu sportif.</p>
+<p>Nos journées s'adressent aux entreprises, aux comités de direction et aux CSE, pour des groupes d'adultes. Pour préparer votre projet, lisez notre guide <a href="/blog/organiser-seminaire-entreprise/">comment organiser un séminaire d'entreprise</a>.</p>
+
+[/col]
+[col span="6" span__sm="12"]
+
+[ux_image id="https://www.elios-evasion.fr/wp-content/uploads/2018/04/Challenge-2.jpg"]
+
+[/col]
+
+[/row]
+
+[/section]
+[section]
+
+[row]
+
+[col span="12"]
+
+[title style="center" text="Questions fréquentes" tag_name="h2"]
+
+[accordion]
+
+[accordion-item title="Quel budget prévoir pour une journée de team building ?"]
+
+<p>Nos journées clés en main coûtent de 100 à 180 € HT par personne selon l'activité, avec le petit-déjeuner, le déjeuner, la salle de travail et l'activité. Les séjours à la montagne sont établis sur devis. Pour le détail, consultez notre page <a href="/faq/">combien coûte un team building ?</a></p>
+
+[/accordion-item]
+[accordion-item title="Dans quelles régions intervenez-vous ?"]
+
+<p>Autour de Montpellier (vallée de l'Hérault, lac du Salagou, Palavas-les-Flots), autour d'Avignon (Châteauneuf-du-Pape et le Vaucluse) et dans les Pyrénées, au départ de notre base de Font-Romeu. Les séjours à la montagne peuvent être organisés dans tout le massif.</p>
+
+[/accordion-item]
+[accordion-item title="Peut-on garder un temps de travail pendant la journée ?"]
+
+<p>Oui, c'est le principe de nos journées : une matinée de travail dans une salle équipée, puis l'activité de cohésion l'après-midi. Le programme peut aussi être inversé, ou se passer de temps de travail.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+
+[/section]
+[ux_banner height="400px" bg="https://www.elios-evasion.fr/wp-content/uploads/2023/04/Kayak-etang-1.jpg" bg_overlay="rgba(0, 0, 0, 0.4)" bg_pos="50% 50%"]
+
+[text_box width="60" width__sm="90" position_x="50" position_y="50" text_align="center" text_color="light"]
+
+<h2>Parlons de votre prochain séminaire</h2>
+<p>Donnez-nous vos dates, votre effectif et la destination qui vous tente : nous revenons vers vous avec une proposition et un devis.</p>
+
+[button text="Demander un devis" color="primary" link="/contact/"]
+
+[button text="Appeler le 06 79 02 93 32" color="white" style="outline" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
