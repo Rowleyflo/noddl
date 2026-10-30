@@ -122,11 +122,37 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 - **Conséquence pour les médias** : le module **webp-uploads** (Modern Image Formats) convertit déjà les envois en WebP. Avant d'envoyer des images, il faut vérifier son réglage (sortie WebP ou AVIF, conservation ou non de l'original), pour ne pas convertir deux fois.
 - Yoast SEO et Redirection ne sont **pas installés**.
 - Contenu : page et article d'exemple de WordPress, aucun média.
-- ⚠️ **API authentifiée toujours inaccessible** après la modification du `.htaccess` : `rest_not_logged_in`, même avec un faux mot de passe. L'en-tête `Authorization` n'atteint toujours pas PHP. Variantes à essayer, en haut du `.htaccess` :
-  - `CGIPassAuth On` (Apache ≥ 2.4.13, PHP en CGI/FPM) ;
-  - ou, dans le bloc `mod_rewrite` : `RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]`.
+- ✅ **API authentifiée opérationnelle** (vérifié le 30/10/2026) : `GET /wp/v2/users/me` renvoie l'utilisateur `noddl` (id 2), rôle **administrator**. Sans identifiants : 401, comme attendu. Remarque : `WP_URL` contient le domaine **sans** `https://`, il faut ajouter le schéma dans les scripts.
 
-  La liste exacte des extensions actives (`/wp/v2/plugins`) et les réglages ne seront lisibles qu'après correction.
+## 6 ter. Inventaire authentifié (lecture seule, 30/10/2026)
+
+- **Extensions** : 13, **toutes actives**, aucune inactive.
+  - Classic Editor 1.7.0 (*non visible depuis le front, découverte par l'API*) ;
+  - Contact Form 7 6.2.4.1 (demande WP 7.1, PHP 8.3) ;
+  - Performance Lab 4.2.0 et ses modules : Embed Optimizer 1.0.0-beta6, Enhanced Responsive Images (auto-sizes) 1.8.0, Image Placeholders (dominant-color-images) 1.3.0, Image Prioritizer 1.0.0-beta4, Instant Back/Forward (nocache-bfcache) 1.3.3, **Modern Image Formats (webp-uploads) 2.7.1**, Performant Translations 1.2.0, Speculative Loading 1.7.0, View Transitions 1.2.1 ;
+  - Optimization Detective 1.0.0-beta7.
+  - Yoast SEO et Redirection : toujours absents.
+- **Thèmes** : `flatsome-child` 3.0, actif (parent `flatsome`) ; `flatsome` 3.20.12, inactif en tant que thème.
+- **Réglages (`/wp/v2/settings`)** :
+  - titre « core-flatsome », slogan vide ;
+  - langue `fr_FR`, fuseau `Europe/Paris`, format de date `j F Y`, format d'heure `G\hi`, semaine commençant le lundi ;
+  - page d'accueil = **derniers articles** (`show_on_front: posts`, aucune page d'accueil ni page des articles définie) ;
+  - 10 articles par page ; commentaires et pings ouverts par défaut ;
+  - pas de logo ni d'icône de site ;
+  - e-mail d'administration : `contact@otkudesign.fr` (⚠️ « otkudesign » : faute de frappe probable pour « otakudesign », à signaler au client) ;
+  - Speculative Loading : `prerender`, `moderate`, visiteurs non connectés ; View Transitions : réglage vide (défauts).
+- **Non exposé par l'API REST**, donc à vérifier dans l'admin :
+  - réglages de Modern Image Formats (WebP ou AVIF, conservation de l'original) : *Réglages > Médias* ;
+  - **permaliens** : actuellement datés (`/2026/10/30/bonjour-tout-le-monde/`), à passer en `/blog/%postname%/` (*Réglages > Permaliens*) ;
+  - theme mods Flatsome (passer par l'export *Flatsome > Avancé > Backup and Import*).
+- **Contenu** :
+  - 3 pages : « accueil » (id 8, brouillon, vide, aucun modèle), « Politique de confidentialité » (id 3, brouillon), « Page d'exemple » (id 2, publiée) ;
+  - 1 article (« Bonjour tout le monde ») ; 1 catégorie ; 0 média ; 0 menu ; 0 Bloc UX ; 0 bloc réutilisable WP ;
+  - 1 formulaire CF7 (id 5, « Formulaire de contact 1 ») ;
+  - 2 utilisateurs, tous deux administrateurs : `agenceotaku` (id 1) et `noddl` (id 2).
+- **Espaces de noms REST** : `wp/v2`, `contact-form-7/v1`, `performance-lab/v1`, `optimization-detective/v1`, `wp-site-health/v1`, `wp-block-editor/v1`, `wp-abilities/v1`, `oembed/1.0`. L'API **CF7 est disponible**.
+- **Base REST des Blocs UX** : le type `blocks` est servi sous **`/wp/v2/ux-blocks`** (pas `/wp/v2/blocks`, qui correspond aux blocs réutilisables de WordPress).
+- **Emplacements de menu** du thème : `primary`, `primary_mobile`, `secondary`, `footer`, `top_bar_nav`, `my_account`, `vertical`.
 
 ## 7. Points ouverts
 
