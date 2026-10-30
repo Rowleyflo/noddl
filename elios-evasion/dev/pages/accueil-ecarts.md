@@ -65,3 +65,4 @@ Captures du 30/10 (2ᵉ version) : faites **après** l'import n° 2 (logo blanc 
 - Vérifié dans le navigateur : 31 éléments masqués au chargement, tous visibles après le défilement. Vidéo : `captures/accueil-animations.mp4`.
 - **Non faisable nativement** : faire arriver les cartes l'une après l'autre (`animate_delay` n'est pas utilisé par le thème) ; couper les animations pour les visiteurs qui ont demandé « moins de mouvements » (il faudrait du CSS).
 - **Hero** (ajout) : `fadeInUp` sur le texte (H1, sous-titre, bouton), la photo n'est pas animée. Mesure : le LCP reste l'image de fond, et le texte apparaît juste après. Vidéo : `captures/accueil-hero-apparition.mp4`.
+- **Hero plein écran** (`height="100%"` = 100vh, minimum 550 px). Mesures : 2560×1440 → hero de 1440 px, texte entre 810 et 1224 px ; 1366×768 → hero de 768 px, texte à partir de 238 px (le header se termine à 120 px) ; mobile 390×844 → hero de 844 px.
