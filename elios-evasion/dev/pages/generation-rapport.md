@@ -6,7 +6,7 @@
 | `/seminaire-avignon/journee-escape-game-nature/` | 5 |
 | `/seminaire-avignon/journee-murder-party/` | 5 |
 | `/seminaire-avignon/journee-quizz-room-avignon/` | 8 |
-| `/seminaire-avignon/` | 9 |
+| `/seminaire-avignon/` | 7 |
 | `/blog/escape-game-team-building/` | 3 |
 | `/blog/idees-sortie-cse/` | 6 |
 | `/blog/idees-team-building-originales/` | 2 |
@@ -28,10 +28,10 @@
 | `/seminaire-montpellier/` | 6 |
 | `/sejours/sejour-team-building-pyrenees/` | 13 |
 | `/sejours/seminaire-montagne-ete/` | 6 |
-| `/sejours/seminaire-pyrenees-catalanes/` | 7 |
+| `/sejours/seminaire-pyrenees-catalanes/` | 6 |
 | `/sejours/seminaire-ski-hiver/` | 8 |
 | `/a-propos/` | 14 |
-| `/blog/` | 1 |
+| `/blog/` | 0 |
 | `/conditions-generales-de-vente/` | 29 |
 | `/contact/` | 7 |
 | `/faq/` | 20 |
@@ -75,8 +75,6 @@
 
 ### `/seminaire-avignon/`
 - | [Murder party au château de Beauregard](/seminaire-avignon/journee-murder-party/) | Château de Beauregard | [À CONFIRMER : Jonquières ou Monteux] | toute l'année | 150 € |
-- <!-- image : team-building-paddle-geant-equipe.webp (photo prise à la plage : [PHOTO À FOURNIR : visuel Vaucluse pour la carte sur mesure]) -->
-- <!-- image : team-building-paddle-geant-equipe.webp (photo prise à la plage : [PHOTO À FOURNIR : visuel Vaucluse pour la carte sur mesure]) -->
 - - **Château de Beauregard, [À CONFIRMER : commune]** : un château du début du XVIIe siècle, sa cour et son grand parc boisé. Environ 25 à 30 minutes d'Avignon.
 - bloc témoignages provisoires retiré
 - 4. **Le jour J**, vos équipes n'ont qu'à arriver : salle, repas et activité sont prêts. [À CONFIRMER : présence d'un coordinateur Elios sur place]
@@ -247,7 +245,6 @@
 - FAQ retirée : Faut-il savoir nager pour le canyoning ?
 
 ### `/sejours/seminaire-pyrenees-catalanes/`
-- <!-- [PHOTO À FOURNIR : vue de Font-Romeu ou d'Odeillo, idéalement avec le four solaire, pour remplacer ou compléter le bandeau] -->
 - À 1 h 30 de Perpignan et 2 h 45 de Toulouse, pour 8 à 80 personnes [PROVISOIRE], sur devis.
 - - **Effectif** : de 8 à 80 personnes selon l'hébergement [PROVISOIRE]
 - - **Hébergement** : hôtels, chalets, résidences et appartements à Font-Romeu et aux Angles [À FOURNIR : noms des hébergements partenaires et capacités]
@@ -280,9 +277,6 @@
 - - **[PROVISOIRE] 4 000+** participants accueillis
 - - **[PROVISOIRE] 80+** entreprises clientes
 - section masquée : bandeau chiffres clés, 4 compteurs. Chiffres [PROVISOIRE] masqués tant qu'Elios
-
-### `/blog/`
-- Auteur : [À CONFIRMER : signature des articles, « Eliott » ou « L'équipe Elios Evasion » ; les archives auteur sont désactivées] -->
 
 ### `/conditions-generales-de-vente/`
 - *En vigueur au [À FOURNIR : date]*

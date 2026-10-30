@@ -133,6 +133,7 @@ PHRASE = re.compile(r'(?<=[.!?…])\s+(?=[A-ZÀ-ÖØ-Þ«(])')
 
 def nettoyer(md, journal):
     """Retire toute unité (ligne de tableau, puce, titre, phrase, citation) contenant un repère."""
+    md = re.sub(r'<!--.*?-->', '', md, flags=re.S)   # d'abord les commentaires (sinon un « --> » peut disparaître avec une phrase)
     sortie = []
     for ligne in md.split('\n'):
         if not REPERE.search(ligne):
@@ -281,6 +282,8 @@ class Rendu:
             carte = (f'[row]\n\n[col span="12" {CARTE_COL}]\n\n' + (titre_h2(h2) if h2 else '') + vers_html(reste) + '\n\n[/col]\n\n[/row]\n')
             return self.section(carte.replace('padding="20px 20px 10px 20px"', 'padding="40px 40px 30px 40px"'))
         corps = vers_html(reste)
+        if 'grille de tous les articles' in com:      # index du blog : la grille d'articles native de Flatsome
+            corps += '\n\n[blog_posts posts=\"12\" image_height=\"66%\" image_radius=\"5\" show_date=\"text\" excerpt_length=\"20\"]\n'
         if imgs and not self.article:
             self.cote_image ^= 1
             img = f'[col span="6" span__sm="12" animate="fadeInUp"{" force_first=\"small\"" if self.cote_image == 0 else ""}]\n\n[ux_image id="{self.m.id(imgs[0])}" image_size="original" height="75%"]\n\n[/col]\n'
@@ -537,8 +540,6 @@ def generer(fichiers, medias, form_id=None):
         journal = Journal()
         r = Rendu(fm, medias, journal, article, images_pages, form_id)
         contenu = r.rendre(blocs)
-        if url == '/blog/':
-            contenu += SECTION_BLANCHE + '\n\n[row]\n\n[col span__sm="12"]\n\n[blog_posts posts="12" image_height="66%" image_radius="5" show_date="text" excerpt_length="20"]\n\n[/col]\n\n[/row]\n\n[/section]\n'
         if not contenu.lstrip().startswith('[ux_banner') and not article:
             journal.note('pas de hero : modèle de page sans header transparent')
         if article and blocs and blocs[0]['type'] == 'HERO':
@@ -686,7 +687,7 @@ def envoyer_contenus(api, resultats, fiches):
         slug = segments[-1]
         if r['article']:
             corps = {'title': r['h1'], 'slug': slug, 'content': r['contenu'], 'status': 'publish',
-                     'excerpt': (fm.get('meta') or '').strip().strip('"')}
+                     'excerpt': (fm.get('meta') or '').strip().strip('"'), 'comment_status': 'closed', 'ping_status': 'closed'}
             img = fm.get('image_principale', '').strip()
             if img in MEDIAS.ids:
                 corps['featured_media'] = MEDIAS.ids[img]
@@ -698,7 +699,7 @@ def envoyer_contenus(api, resultats, fiches):
         corps = {'title': titre_page(fm, r['h1']), 'slug': slug, 'parent': parent, 'content': r['contenu'],
                  'status': 'draft' if r['url'] in PAGES_BROUILLON else 'publish',
                  'template': 'page-transparent-header-light.php' if r['contenu'].lstrip().startswith('[ux_banner') else 'page-blank.php',
-                 'excerpt': (fm.get('meta') or '').strip().strip('"')}
+                 'excerpt': '', 'comment_status': 'closed', 'ping_status': 'closed'}   # Flatsome affiche l'extrait d'une page en tête de page (page-header-excerpt) : on le laisse vide
         pid = pages.get((slug, parent))
         res = api.req(f'/wp/v2/pages/{pid}' if pid else '/wp/v2/pages', corps)
         ids_url[r['url']] = res['id']

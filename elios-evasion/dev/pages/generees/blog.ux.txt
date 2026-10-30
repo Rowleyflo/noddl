@@ -130,7 +130,10 @@
 [/ux_text]
 [gap height="8px"]
 
-<p>&lt;!-- Grille automatique WordPress. Afficher la date de mise à jour (« Mis à jour le … ») plutôt que la date de publication.</p>
+
+
+[blog_posts posts="12" image_height="66%" image_radius="5" show_date="text" excerpt_length="20"]
+
 
 [/col]
 
@@ -162,19 +165,6 @@
 [/text_box]
 
 [/ux_banner]
-
-[/col]
-
-[/row]
-
-[/section]
-[section padding="160px" padding__sm="80px"]
-
-[row]
-
-[col span__sm="12"]
-
-[blog_posts posts="12" image_height="66%" image_radius="5" show_date="text" excerpt_length="20"]
 
 [/col]
 

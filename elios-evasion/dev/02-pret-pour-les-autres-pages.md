@@ -1,6 +1,6 @@
 # Création des autres pages : état de préparation (30/10/2026)
 
-> Audit en lecture seule, **rien n'a été généré**. La génération attend le feu vert du client.
+> Audit du 30/10/2026. **Génération faite le même jour** après le feu vert du client : voir le journal des consignes et `pages/generation-rapport.md`.
 
 ## 1. Ce qu'il reste à créer : 36 contenus
 

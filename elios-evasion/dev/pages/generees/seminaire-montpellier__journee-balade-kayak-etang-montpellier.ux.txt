@@ -10,7 +10,7 @@
 [/ux_text]
 [gap height="16px"]
 
-[button text="Pré-réserver cet après-midi" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="#devis"]
+[button text="Pré-réserver cet après-midi" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
 
 [/text_box]
 
@@ -440,26 +440,34 @@
 
 
 [/section]
-[section bg_color="#f4f5f6" padding="160px" padding__sm="80px" divider_top="curve" divider_top_height="120px" divider="curve" divider_height="120px"]
+[section bg="95" bg_size="original" padding="87px"]
 
-[scroll_to title="Devis" link="devis" bullet="false"]
+[row]
 
-[row v_align="middle"]
+[col animate="fadeInUp"]
 
-[col span="5" span__sm="12" padding="0px 48px 0px 0px" padding__sm="0px" animate="fadeInUp"]
+[ux_banner height="500px" height__sm="447px" bg_color="rgba(255, 255, 255, 0)"]
 
-[ux_text font_size="0.75" text_color="#047ea3"]
+[text_box text_color="dark" width="70" width__sm="90" position_x="50" position_y="50"]
+
+[ux_text font_size="0.75" text_color="#3d4955"]
 <p><strong>&#91;VOTRE PROJET&#93;</strong></p>
 [/ux_text]
-[ux_text font_size="1.25" line_height="1.3" text_color="#3d4955"]
+[ux_text font_size="1.03" font_size__sm="0.69" line_height="1.2" text_color="#aac816"]
 <h2>Pré-réservez votre balade sur l'étang</h2>
 [/ux_text]
+[gap height="8px"]
+
 <p>Indiquez vos dates et votre effectif (35 personnes au maximum) : nous revenons vers vous avec un programme et un devis. Pensez à réserver au moins 4 semaines à l'avance.</p>
+[gap height="16px"]
 
-[/col]
-[col span="7" span__sm="12" padding="40px 40px 30px 40px" padding__sm="24px" bg_color="rgb(255,255,255)" bg_radius="30" animate="fadeInUp" depth="5"]
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
 
-[contact-form-7 id="5"]
+[button text="Appeler le 06 79 02 93 32" color="secondary" style="link" icon="icon-phone" link="tel:+33679029332"]
+
+[/text_box]
+
+[/ux_banner]
 
 [/col]
 

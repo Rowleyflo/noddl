@@ -10,7 +10,7 @@
 [/ux_text]
 [gap height="16px"]
 
-[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="#devis"]
+[button text="Demander un devis" padding="10px 30px 10px 30px" icon="icon-angle-right" icon_pos="right" link="/contact/"]
 
 [/text_box]
 
