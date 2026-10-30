@@ -81,7 +81,6 @@ Légende : **P1** = priorité haute (piliers), **P2** = pages offres, **P3** = b
 | `…/journee-trotinette-tout-terrain-electrique-montpellier/` | ✏️ | **team building trottinette électrique Montpellier** | trottinette électrique tout terrain Hérault, balade trottinette électrique groupe | ●● | P2 |
 | `…/journee-challenge-sportif-plage-montpellier/` | ✏️ | **olympiades entreprise Montpellier** | team building plage Montpellier, challenge sportif entreprise, team building sportif, team building façon aventuriers Palavas | ●●● | P2 |
 | `…/journee-balade-kayak-etang-montpellier/` | ✏️ | **team building kayak Montpellier** | kayak Palavas groupe, séminaire Palavas-les-Flots, afterwork entreprise Montpellier (format 14h-20h) | ● | P2 |
-| 💡 Opportunité : team building cuisine Montpellier | à décider | team building cuisine Montpellier | cours de cuisine team building Montpellier | ●● | seulement si Elios a l'offre |
 
 ### 3.2 Silo Avignon / Provence
 
@@ -102,7 +101,6 @@ Légende : **P1** = priorité haute (piliers), **P2** = pages offres, **P3** = b
 | **Pilier** `/sejours/sejour-team-building-pyrenees/` | ✏️ | **séminaire montagne** | séminaire entreprise montagne, séminaire à la montagne, team building Pyrénées-Orientales, séminaire Pyrénées-Orientales, séminaire Font-Romeu, séminaire Pyrénées, team building montagne, séminaire résidentiel, séminaire 2 jours, séminaire au vert | ●●● | **P1** |
 | 🆕 `/sejours/seminaire-ski-hiver/` | 🆕 | **séminaire ski entreprise** | séminaire ski, team building neige, team building hiver, chiens de traîneau entreprise, raquettes, biathlon, séminaire station de ski Pyrénées | ●● | P2 |
 | 🆕 `/sejours/seminaire-montagne-ete/` | 🆕 | **team building montagne été** | team building randonnée, team building VTT, team building canyoning, team building escalade, séminaire nature | ● | P2 |
-| 🆕 (option) `/sejours/seminaire-codir-montagne/` | à décider | **séminaire de direction** / séminaire CODIR | séminaire comité de direction au vert | ●● | P3 |
 
 Contenu « destination » de ce silo, pour le blog et le GEO : Font-Romeu, Cerdagne, Capcir, lac des Bouillouses, pic Carlit, citadelle de Mont-Louis (Vauban, UNESCO), vallée d'Eyne, Train jaune. Ces requêtes touristiques (« Font-Romeu activités été/hiver », « activités Cerdagne Capcir ») amènent surtout du grand public. Elles ne sont utiles que pour **asseoir l'expertise locale**, pas comme pages commerciales.
 
@@ -135,14 +133,13 @@ Rythme conseillé : 1 article par mois. Commencer par les 4 premiers, qui ont la
 4. **Les toponymes réels sont des mots-clés** : Palavas-les-Flots, vallée de l'Hérault, Saint-Guilhem-le-Désert, Pont du Diable, Châteauneuf-du-Pape, Font-Romeu, Cerdagne, Capcir. On les cite dès qu'ils sont vrais.
 5. On garde les prix « à partir de … € HT/pers ». C'est un signal fort pour l'utilisateur comme pour les IA. **Il faut vérifier qu'ils sont à jour** : ils datent de 2023, et l'escape game Montpellier affiche 130 € et 140 € sur la même page.
 
-## 5. Questions à valider avant l'étape suivante
+## 5. Décisions validées (30/10/2026)
 
-1. **Les offres sont-elles toujours actives ?** Les 7 journées Montpellier, les 4 journées Avignon, la journée sur-mesure et le séjour Pyrénées. Les prix 2023 sont-ils toujours valables ?
-2. **Renommer `/seminaire-a-la-journee/` en `/seminaire-avignon/` ?** Je le recommande.
-3. **Fusionner `/nos-destinations/` dans `/sejours/` ?** Je le recommande, et le menu deviendrait : Nos séminaires (Montpellier, Avignon, Montagne) · Sur-mesure · À propos · Blog · Contact.
-4. **Créer les pages Montagne hiver et été ?** Elios propose-t-il toujours ski, chiens de traîneau, raquettes, canyoning, VTT ?
-5. **Y a-t-il de nouvelles offres** (team building cuisine à Montpellier, séminaire de direction…) ou de nouvelles zones ?
-6. **La Search Console et Google Analytics existent-ils** sur le site actuel ? Un accès ou un export de 12 mois permettrait de mesurer les pages à protéger et les vrais volumes.
-7. **La fiche Google Business Profile existe-t-elle ?** Quelle adresse et quelle zone desservie ?
+1. ✅ Toutes les offres sont actives, aux prix affichés.
+2. ✅ `/seminaire-a-la-journee/` devient `/seminaire-avignon/` (redirections 301).
+3. ✅ `/nos-destinations/` est fusionnée dans `/sejours/`.
+4. ✅ Les pages Montagne hiver et été sont créées.
+5. ❌ Pas de nouvelle offre : l'opportunité « team building cuisine Montpellier » et la page CODIR sont abandonnées (le séminaire de direction sera traité comme une section du pilier Montagne).
+6. ⏳ Pas de Search Console ni d'Analytics pour l'instant : à créer au lancement du nouveau site.
 
-Une fois ces points validés, l'étape suivante est `02-cocon-semantique-et-maillage.md` : le schéma des silos, les liens montants, descendants et transverses avec leurs ancres, et le maillage externe. Viendront ensuite les métadonnées, les alt, les données structurées, le GEO (llms.txt, FAQ, entités) et la rédaction page par page.
+Suite : `02-cocon-semantique-et-maillage.md`, `03-metadonnees-alt-donnees-structurees.md`, `04-geo-ia.md`.
