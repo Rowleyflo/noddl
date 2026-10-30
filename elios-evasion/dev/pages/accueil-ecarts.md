@@ -56,3 +56,11 @@ Captures du 30/10 (2ᵉ version) : faites **après** l'import n° 2 (logo blanc 
 1. Coller l'import n° 2 (logos, header collant, footer, barre du bas), voir `accueil-options-globales.md`.
 2. Ouvrir l'aperçu du brouillon dans l'admin (Pages > accueil > Prévisualiser).
 3. Une fois l'accueil validé : le publier et le définir comme page d'accueil (`show_on_front=page`, `page_on_front=8`). C'est nous qui le faisons, par l'API, avec votre accord.
+
+## Animations (30/10/2026)
+
+- `fadeInUp` sur toutes les colonnes de la page (29), ainsi que sur la colonne des blocs Témoignages et CTA. Aucune animation sur le hero, le header ni le footer.
+- Zoom lent au survol (`zoom-long`) des 3 cartes destinations et des 3 photos d'offres.
+- Parallaxe `2` (sur 10) sur le fond du hero : environ 44 px de décalage pour 400 px de défilement, et rien sur mobile.
+- Vérifié dans le navigateur : 31 éléments masqués au chargement, tous visibles après le défilement. Vidéo : `captures/accueil-animations.mp4`.
+- **Non faisable nativement** : faire arriver les cartes l'une après l'autre (`animate_delay` n'est pas utilisé par le thème) ; couper les animations pour les visiteurs qui ont demandé « moins de mouvements » (il faudrait du CSS).

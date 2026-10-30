@@ -1,4 +1,4 @@
-[ux_banner height="800px" height__sm="640px" bg="47" bg_size="original" bg_overlay="rgba(0,0,0,0.15)" bg_pos="50% 40%"]
+[ux_banner height="800px" height__sm="640px" bg="47" bg_size="original" bg_overlay="rgba(0,0,0,0.15)" bg_pos="50% 40%" parallax="2"]
 
 [text_box width="55" width__sm="90" position_x="0" position_x__sm="50" position_y="85" position_y__sm="85" text_align="left" text_color="light"]
 
@@ -20,14 +20,14 @@
 
 [row]
 
-[col span="4" span__sm="12"]
+[col span="4" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p>[L'AGENCE]</p>
 [/ux_text]
 
 [/col]
-[col span="8" span__sm="12"]
+[col span="8" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="2" font_size__sm="1.375" line_height="1.3"]
 <p>Elios Evasion est une <strong>agence de team building</strong> basée à Font-Romeu qui organise des séminaires d'entreprise clés en main en pleine nature : journées autour de Montpellier et d'Avignon, séjours de plusieurs jours à la montagne dans les Pyrénées. Matinée de travail, repas et activité de cohésion sont réunis dans une seule journée, à partir de <strong>100 € HT par personne</strong>.</p>
@@ -41,14 +41,14 @@
 
 [row]
 
-[col span="12"]
+[col span="12" animate="fadeInUp"]
 
 [divider width="100%" height="1px" color="#E2E2E2"]
 
 [gap height="48px" height__sm="24px"]
 
 [/col]
-[col span="4" span__sm="12"]
+[col span="4" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="1.5" line_height="1.3"]
 <p>Un seul interlocuteur</p>
@@ -56,7 +56,7 @@
 <p>Du premier appel à l'apéritif de fin de journée.</p>
 
 [/col]
-[col span="4" span__sm="12"]
+[col span="4" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="1.5" line_height="1.3"]
 <p>Travail et cohésion le même jour</p>
@@ -64,7 +64,7 @@
 <p>Salle équipée le matin, activité l'après-midi.</p>
 
 [/col]
-[col span="4" span__sm="12"]
+[col span="4" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="1.5" line_height="1.3"]
 <p>Des lieux qui changent du bureau</p>
@@ -80,21 +80,21 @@
 
 [row]
 
-[col span="4" span__sm="12"]
+[col span="4" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p>[NOS DESTINATIONS]</p>
 [/ux_text]
 
 [/col]
-[col span="4" span__sm="12"]
+[col span="4" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="1.25" line_height="1.3"]
 <h2>Trois destinations pour vos séminaires d'entreprise</h2>
 [/ux_text]
 
 [/col]
-[col span="4" span__sm="12"]
+[col span="4" span__sm="12" animate="fadeInUp"]
 
 <p>Nous travaillons sur trois territoires que nous connaissons bien, chacun avec ses lieux partenaires et son ambiance. Près des villes, nos journées évitent l'hébergement et limitent les trajets ; à la montagne, le séjour laisse le temps de prendre du recul.</p>
 
@@ -106,9 +106,9 @@
 
 [row]
 
-[col span="12" span__sm="12"]
+[col span="12" span__sm="12" animate="fadeInUp"]
 
-[ux_banner height="460px" height__sm="360px" bg="13" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" link="/seminaire-montpellier/"]
+[ux_banner height="460px" height__sm="360px" bg="13" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" link="/seminaire-montpellier/" hover="zoom-long"]
 
 [text_box width="80" width__sm="90" position_x="5" position_y="90" text_align="left" text_color="light"]
 
@@ -130,9 +130,9 @@
 [gap height="32px" height__sm="16px"]
 
 [/col]
-[col span="6" span__sm="12"]
+[col span="6" span__sm="12" animate="fadeInUp"]
 
-[ux_banner height="400px" height__sm="360px" bg="14" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" link="/seminaire-avignon/"]
+[ux_banner height="400px" height__sm="360px" bg="14" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" link="/seminaire-avignon/" hover="zoom-long"]
 
 [text_box width="80" width__sm="90" position_x="5" position_y="90" text_align="left" text_color="light"]
 
@@ -152,9 +152,9 @@
 <p>Quatre journées dans les châteaux et les vignobles du Vaucluse, de Châteauneuf-du-Pape à la Quiz Room d'Avignon. Voir nos <a href="/seminaire-avignon/">séminaires et team building autour d'Avignon</a>.</p>
 
 [/col]
-[col span="6" span__sm="12"]
+[col span="6" span__sm="12" animate="fadeInUp"]
 
-[ux_banner height="400px" height__sm="360px" bg="15" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" link="/sejours/sejour-team-building-pyrenees/"]
+[ux_banner height="400px" height__sm="360px" bg="15" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" link="/sejours/sejour-team-building-pyrenees/" hover="zoom-long"]
 
 [text_box width="80" width__sm="90" position_x="5" position_y="90" text_align="left" text_color="light"]
 
@@ -174,7 +174,7 @@
 <p>Des séjours de deux jours ou plus, l'hiver sur les pistes et l'été en randonnée, avec hébergement, salle et activités organisés pour vous. Pour un <a href="/sejours/sejour-team-building-pyrenees/">séminaire à la montagne dans les Pyrénées</a>, c'est notre terrain d'origine.</p>
 
 [/col]
-[col span="12"]
+[col span="12" animate="fadeInUp"]
 
 [gap height="32px" height__sm="16px"]
 
@@ -189,7 +189,7 @@
 
 [row]
 
-[col span="12"]
+[col span="12" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p>[COUPS DE CŒUR]</p>
@@ -205,12 +205,12 @@
 [/row]
 [row v_align="middle"]
 
-[col span="7" span__sm="12"]
+[col span="7" span__sm="12" animate="fadeInUp"]
 
-[ux_image id="16" image_size="original" height="75%" link="/seminaire-montpellier/journee-grotte-montpellier/"]
+[ux_image id="16" image_size="original" height="75%" link="/seminaire-montpellier/journee-grotte-montpellier/" image_hover="zoom-long"]
 
 [/col]
-[col span="5" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px"]
+[col span="5" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p>DÈS 100 € HT/PERS.</p>
@@ -235,7 +235,7 @@
 
 [row v_align="middle"]
 
-[col span="5" span__sm="12" padding="0px 48px 0px 0px" padding__sm="24px 0px 0px 0px"]
+[col span="5" span__sm="12" padding="0px 48px 0px 0px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p>DÈS 180 € HT/PERS.</p>
@@ -253,9 +253,9 @@
 [button text="Voir la journée" color="primary" style="underline" icon="icon-angle-right" icon_pos="right" link="/seminaire-avignon/journee-decouverte-du-vin/"]
 
 [/col]
-[col span="7" span__sm="12" force_first="small"]
+[col span="7" span__sm="12" force_first="small" animate="fadeInUp"]
 
-[ux_image id="17" image_size="original" height="75%" link="/seminaire-avignon/journee-decouverte-du-vin/"]
+[ux_image id="17" image_size="original" height="75%" link="/seminaire-avignon/journee-decouverte-du-vin/" image_hover="zoom-long"]
 
 [/col]
 
@@ -265,12 +265,12 @@
 
 [row v_align="middle"]
 
-[col span="7" span__sm="12"]
+[col span="7" span__sm="12" animate="fadeInUp"]
 
-[ux_image id="18" image_size="original" height="75%" link="/sejours/seminaire-ski-hiver/"]
+[ux_image id="18" image_size="original" height="75%" link="/sejours/seminaire-ski-hiver/" image_hover="zoom-long"]
 
 [/col]
-[col span="5" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px"]
+[col span="5" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p>SUR DEVIS</p>
@@ -296,7 +296,7 @@
 
 [row h_align="center"]
 
-[col span="10" span__sm="12"]
+[col span="10" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="0.75" text_align="center"]
 <p>[NOTRE MÉTHODE]</p>
@@ -312,7 +312,7 @@
 [/row]
 [row]
 
-[col span="3" span__sm="12"]
+[col span="3" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p><strong>01 · VOTRE PROJET</strong></p>
@@ -325,7 +325,7 @@
 <p><strong>Vous nous décrivez votre projet.</strong> Dates, effectif, destination, objectif de la journée : le formulaire de devis prend deux minutes, et vous pouvez aussi nous appeler au <a href="tel:+33679029332">06 79 02 93 32</a>.</p>
 
 [/col]
-[col span="3" span__sm="12"]
+[col span="3" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p><strong>02 · VOTRE PROGRAMME</strong></p>
@@ -338,7 +338,7 @@
 <p><strong>Nous construisons votre programme.</strong> Nous vous proposons un lieu, un temps de travail, une activité et des repas adaptés, puis nous vous envoyons un devis détaillé.</p>
 
 [/col]
-[col span="3" span__sm="12"]
+[col span="3" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p><strong>03 · LES RÉSERVATIONS</strong></p>
@@ -351,7 +351,7 @@
 <p><strong>Vous validez, nous réservons.</strong> Lieu, traiteur, encadrants, matériel : nous nous occupons de toutes les réservations auprès de nos partenaires.</p>
 
 [/col]
-[col span="3" span__sm="12"]
+[col span="3" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p><strong>04 · LE JOUR J</strong></p>
@@ -373,12 +373,12 @@
 
 [row v_align="middle"]
 
-[col span="7" span__sm="12"]
+[col span="7" span__sm="12" animate="fadeInUp"]
 
 [ux_image id="19" image_size="original" height="80%"]
 
 [/col]
-[col span="5" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px"]
+[col span="5" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p>[POURQUOI ELIOS]</p>
@@ -402,7 +402,7 @@
 
 [row]
 
-[col span="4" span__sm="12"]
+[col span="4" span__sm="12" animate="fadeInUp"]
 
 [ux_text font_size="0.75"]
 <p>[BON À SAVOIR]</p>
@@ -412,7 +412,7 @@
 [/ux_text]
 
 [/col]
-[col span="8" span__sm="12"]
+[col span="8" span__sm="12" animate="fadeInUp"]
 
 [accordion]
 
