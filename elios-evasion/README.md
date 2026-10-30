@@ -4,6 +4,8 @@ Extraction réalisée le 30/10/2026 sur https://www.elios-evasion.fr/ (via sitem
 
 ## Contenu de ce dossier
 
+**Stratégie SEO :** voir `seo/` (commencer par `seo/01-strategie-mots-cles.md`).
+
 | Fichier | Contenu |
 |---|---|
 | `contenu/pages/*.md` | Une fiche par page : URL, SEO (title, meta, robots, canonical), textes dans l'ordre (avec niveau Hn réel), images + alt, boutons, liens, formulaires. Les `---` séparent les rangées WPBakery (≈ futures `[section]` Flatsome). |
@@ -58,7 +60,7 @@ Extraction réalisée le 30/10/2026 sur https://www.elios-evasion.fr/ (via sitem
 - Réseaux sociaux du footer → pointent vers `facebook.com`, `instagram.com`, `linkedin.com` génériques (pas les vrais comptes).
 
 ### Contenu / conversion
-- **Téléphone incohérent** sur `/contact/` : affiché **06 79 02 93 32** mais le lien appelle **06 76 02 93 32**. À faire confirmer.
+- **Lien téléphone erroné** sur `/contact/` : le numéro affiché **06 79 02 93 32** est le bon (confirmé), mais le lien appelle 06 76 02 93 32. Dans la refonte : `tel:+33679029332`.
 - Formulaire newsletter de l'accueil : un seul champ texte, pas d'outil d'emailing visible → à rebrancher (Brevo/Mailchimp) ou supprimer.
 - La fiche « Quizz room Avignon » utilise un ancien formulaire (adultes/enfants/problème) différent des autres fiches.
 - Champs « Lieu de rdv » et « Durée » vides dans les encadrés d'infos des fiches.
@@ -100,6 +102,6 @@ Principe : **on garde les mêmes URLs** pour toutes les pages conservées. Pas d
 
 ## Prochaines étapes
 
-1. Faire valider les décisions du tableau d'arborescence par le client, ainsi que le numéro de téléphone.
+1. Faire valider les décisions du tableau d'arborescence par le client.
 2. Préparer le gabarit Flatsome « fiche séminaire » et les pages hub.
 3. Une fois la préprod prête (mot de passe d'application + domaine autorisé) : import des images optimisées, création des pages en shortcodes Flatsome, création des formulaires CF7, puis mise en place des redirections.
