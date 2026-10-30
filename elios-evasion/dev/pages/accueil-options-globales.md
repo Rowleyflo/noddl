@@ -80,3 +80,15 @@ Fichier : `../imports/flatsome-import-2-logo-header-footer.txt`, 9 clés vérifi
 4. Si les polices ne changent pas sur le site : cliquer sur le bouton de vidage du cache des typographies, dans la section *Typography* du Customizer (option `clear_typography_cache`).
 
 Il n'y a pas d'API REST pour cet import : c'est le client qui le fait dans l'admin.
+
+## Import n° 3 : CSS perso autorisé, bouton et espacement du menu
+
+Fichier : `../imports/flatsome-import-3-css-perso.txt`.
+
+| Clé | Valeur |
+|---|---|
+| `html_custom_css` | contenu de `../css/flatsome-custom-css.css` = `menu-pilule.css` (header, à partir de 850 px de large) + `encarts-arrondis.css` (16 px sur `.col-inner .img-inner` et `.col-inner .banner`) |
+| `header_button_1_size` | `small` (corrige aussi le bouton sur 2 lignes en mobile) |
+| `nav_spacing` | `xlarge` (choix vérifiés : `xsmall`, `small`, `''`, `medium`, `large`, `xlarge`) |
+
+⚠️ L'import **remplace** tout le champ *Custom CSS* : pour modifier ce CSS plus tard, on édite les fichiers de `../css/` et on régénère l'import. On n'écrit pas directement dans l'admin.

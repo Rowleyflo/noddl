@@ -7,7 +7,7 @@
 1. **Pas de CSS personnalisé.**
    - Rien dans « CSS personnalisé » (Flatsome > Avancé ou Customizer > CSS additionnel), rien dans un `style.css` de thème enfant, aucun attribut `style=""` écrit à la main dans les contenus, aucune classe inventée.
    - Seuls sont permis les **options Flatsome** (Customizer / theme mods) et les **attributs natifs des éléments UX Builder** (shortcodes).
-   - **Exception autorisée par le client le 30/10/2026 : le menu pilule du header**, et lui seul (`css/menu-pilule.css`, posé dans *Flatsome > Avancé > Custom CSS* par l'import n° 3).
+   - **Exceptions autorisées par le client le 30/10/2026**, et elles seules : le **menu pilule** du header (`css/menu-pilule.css`) et les **encarts arrondis à 16 px**, c'est-à-dire toute image ou tout banner placé dans une colonne (`css/encarts-arrondis.css`, sans classe). Les deux sont posés ensemble dans *Flatsome > Avancé > Custom CSS* par l'import n° 3 (`css/flatsome-custom-css.css`).
    - Les classes utilitaires **fournies par Flatsome** (ex. `form-flat`, `flex-row`, `button primary` dans les modèles Contact Form 7 du thème) sont permises, car elles font partie du thème.
 2. **Zéro hallucination.**
    - On n'utilise que ce qui est **vérifié dans le code source de Flatsome 3.20.12** (voir `reference-flatsome/`) ou dans la documentation officielle.
@@ -183,3 +183,4 @@ Tous les réglages passent par les options Flatsome. Chaque valeur est notée ic
 | 30/10/2026 | Retour du client sur le brouillon : plus d'air et photos à coins arrondis. Toutes les photos passent en `[ux_image_box]` arrondis (dégradé `shade` sur les cartes), et l'espacement passe à 160 px. Import n° 2 appliqué par le client. |
 | 30/10/2026 | Hero refait selon la hiérarchie de la maquette (H1, sous-titre, un seul bouton, bloc calé à gauche et en bas), avec la photo fournie par le client (média 47, pic du Midi d'Ossau). |
 | 30/10/2026 | Client : images uniquement en `[ux_image]` (ou `[ux_banner]` avec texte), encarts arrondis à 16 px ; CSS perso autorisé pour le **menu pilule uniquement** (import n° 3). Point bloquant : `[ux_image]` n'a pas d'attribut d'arrondi, et `bg_radius` de colonne ne découpe pas son contenu (pas d'`overflow:hidden` dans le thème). Question posée au client. |
+| 30/10/2026 | Client : CSS global sans classe pour arrondir à 16 px les images et banners placés dans une colonne (`.col-inner .img-inner, .col-inner .banner`). Photos reconstruites en `[ux_image]` et `[ux_banner]` (CTA compris). Import n° 3 = menu pilule + encarts + bouton du header `small` + `nav_spacing` `xlarge`. |

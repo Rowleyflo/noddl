@@ -108,16 +108,20 @@
 
 [col span="12" span__sm="12"]
 
-[ux_image_box style="shade" img="13" image_size="original" image_height="40%" image_radius="2" text_pos="bottom" text_align="left" text_padding="32px" link="/seminaire-montpellier/"]
+[ux_banner height="460px" height__sm="360px" bg="13" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" link="/seminaire-montpellier/"]
 
-[ux_text font_size="1.6" font_size__sm="1.2"]
+[text_box width="80" width__sm="90" position_x="5" position_y="90" text_align="left" text_color="light"]
+
+[ux_text font_size="1" font_size__sm="0.75"]
 <h3>Montpellier et la vallée de l'Hérault</h3>
 [/ux_text]
 [ux_text font_size="0.75"]
 <p>HÉRAULT · SALAGOU · PALAVAS-LES-FLOTS</p>
 [/ux_text]
 
-[/ux_image_box]
+[/text_box]
+
+[/ux_banner]
 
 [gap height="16px"]
 
@@ -128,16 +132,20 @@
 [/col]
 [col span="6" span__sm="12"]
 
-[ux_image_box style="shade" img="14" image_size="original" image_height="72%" image_radius="3" text_pos="bottom" text_align="left" text_padding="32px" link="/seminaire-avignon/"]
+[ux_banner height="400px" height__sm="360px" bg="14" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" link="/seminaire-avignon/"]
 
-[ux_text font_size="1.6" font_size__sm="1.2"]
+[text_box width="80" width__sm="90" position_x="5" position_y="90" text_align="left" text_color="light"]
+
+[ux_text font_size="1" font_size__sm="0.75"]
 <h3>Avignon et la Provence</h3>
 [/ux_text]
 [ux_text font_size="0.75"]
 <p>VAUCLUSE · CHÂTEAUNEUF-DU-PAPE</p>
 [/ux_text]
 
-[/ux_image_box]
+[/text_box]
+
+[/ux_banner]
 
 [gap height="16px"]
 
@@ -146,16 +154,20 @@
 [/col]
 [col span="6" span__sm="12"]
 
-[ux_image_box style="shade" img="15" image_size="original" image_height="72%" image_radius="3" text_pos="bottom" text_align="left" text_padding="32px" link="/sejours/sejour-team-building-pyrenees/"]
+[ux_banner height="400px" height__sm="360px" bg="15" bg_size="original" bg_overlay="rgba(0,0,0,0.3)" bg_pos="50% 50%" link="/sejours/sejour-team-building-pyrenees/"]
 
-[ux_text font_size="1.6" font_size__sm="1.2"]
+[text_box width="80" width__sm="90" position_x="5" position_y="90" text_align="left" text_color="light"]
+
+[ux_text font_size="1" font_size__sm="0.75"]
 <h3>Les Pyrénées, au départ de Font-Romeu</h3>
 [/ux_text]
 [ux_text font_size="0.75"]
 <p>FONT-ROMEU · HIVER ET ÉTÉ</p>
 [/ux_text]
 
-[/ux_image_box]
+[/text_box]
+
+[/ux_banner]
 
 [gap height="16px"]
 
@@ -195,9 +207,7 @@
 
 [col span="7" span__sm="12"]
 
-[ux_image_box img="16" image_size="original" image_height="75%" image_radius="2.5" link="/seminaire-montpellier/journee-grotte-montpellier/"]
-
-[/ux_image_box]
+[ux_image id="16" image_size="original" height="75%" link="/seminaire-montpellier/journee-grotte-montpellier/"]
 
 [/col]
 [col span="5" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px"]
@@ -245,9 +255,7 @@
 [/col]
 [col span="7" span__sm="12" force_first="small"]
 
-[ux_image_box img="17" image_size="original" image_height="75%" image_radius="2.5" link="/seminaire-avignon/journee-decouverte-du-vin/"]
-
-[/ux_image_box]
+[ux_image id="17" image_size="original" height="75%" link="/seminaire-avignon/journee-decouverte-du-vin/"]
 
 [/col]
 
@@ -259,9 +267,7 @@
 
 [col span="7" span__sm="12"]
 
-[ux_image_box img="18" image_size="original" image_height="75%" image_radius="2.5" link="/sejours/seminaire-ski-hiver/"]
-
-[/ux_image_box]
+[ux_image id="18" image_size="original" height="75%" link="/sejours/seminaire-ski-hiver/"]
 
 [/col]
 [col span="5" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px"]
@@ -369,9 +375,7 @@
 
 [col span="7" span__sm="12"]
 
-[ux_image_box img="19" image_size="original" image_height="80%" image_radius="2.5"]
-
-[/ux_image_box]
+[ux_image id="19" image_size="original" height="80%"]
 
 [/col]
 [col span="5" span__sm="12" padding="0px 0px 0px 48px" padding__sm="24px 0px 0px 0px"]

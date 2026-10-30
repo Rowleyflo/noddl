@@ -1,0 +1,6 @@
+/* Encarts arrondis à 16 px : toute image ou tout banner placé dans une colonne. Autorisé par le client le 30/10/2026. */
+.col-inner .img-inner,
+.col-inner .banner {
+  border-radius: 16px;
+  overflow: hidden;
+}
