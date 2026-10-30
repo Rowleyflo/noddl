@@ -104,3 +104,9 @@ Fichier : `../imports/flatsome-import-4-ajustements.txt`. Il **remplace** le n°
 | `header_button_1_size`, `nav_spacing` | `small`, `xlarge` | inchangés |
 
 Note : avec un header transparent, sur les autres pages (header non transparent), le logo couleur et la pilule flottent au-dessus du contenu. C'est le comportement voulu par la maquette.
+
+## Import n° 5 : pilule qui s'étire au défilement
+
+Fichier : `../imports/flatsome-import-5-pilule-etiree.txt`. Une seule clé, `html_custom_css`, qui **remplace** tout le champ (contenu complet de `../css/flatsome-custom-css.css`).
+
+Ajout dans `menu-pilule.css` : quand le header est collé (`.header-wrapper.stuck`), un pseudo-élément `::before` de `.header-inner` dessine la pilule, de 5 px avant le logo jusqu'au bord droit du menu. Il s'étire de 50 % à toute la largeur en 0,6 s (`@keyframes elios-pilule-etiree`). La pilule propre au menu devient transparente. Ordinateur uniquement (au moins 850 px de large).

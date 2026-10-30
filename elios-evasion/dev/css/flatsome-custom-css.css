@@ -28,6 +28,36 @@
   .header-main .flex-right .header-nav-main .header-button .button {
     padding: 4px 24px;
   }
+  /* Header collé : la pilule s'étire vers la gauche jusqu'à englober le logo. */
+  .header-wrapper.stuck .header-inner {
+    position: relative;
+    z-index: 0;
+  }
+  .header-wrapper.stuck .header-inner::before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 8px;
+    bottom: 8px;
+    left: -5px;
+    right: 15px;
+    background-color: rgba(255, 255, 255, 0.85);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    border-radius: 99px;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+    animation: elios-pilule-etiree 0.6s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+  .header-wrapper.stuck .header-main .flex-right .header-nav-main {
+    background-color: transparent;
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    box-shadow: none;
+  }
+  @keyframes elios-pilule-etiree {
+    from { left: 50%; }
+    to { left: -5px; }
+  }
 }
 /* Encarts arrondis à 16 px : toute image ou tout banner placé dans une colonne. Autorisé par le client le 30/10/2026. */
 .col-inner .img-inner,
