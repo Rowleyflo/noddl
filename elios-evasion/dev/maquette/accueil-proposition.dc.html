@@ -1,0 +1,337 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Elios Evasion – Accueil</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&amp;family=DM+Sans:wght@400;500;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;background:#F4F1EA;color:#16211B;font-family:'DM Sans',system-ui,sans-serif;}
+a{color:#1E4636}a:hover{color:#B8501C}
+h1,h2,h3{font-family:'Bricolage Grotesque','DM Sans',sans-serif;}
+@keyframes blurIn{from{opacity:0;filter:blur(14px);transform:translateY(10px)}to{opacity:1;filter:blur(0);transform:none}}
+@keyframes fadeInUp{from{opacity:0;transform:translateY(32px)}to{opacity:1;transform:none}}
+.a-blur{animation:blurIn 1.1s cubic-bezier(.2,.7,.2,1) both}
+.a-up{animation:fadeInUp .9s cubic-bezier(.2,.7,.2,1) both}
+.d1{animation-delay:.15s}.d2{animation-delay:.3s}.d3{animation-delay:.45s}.d4{animation-delay:.6s}
+@supports (animation-timeline: view()){
+  .reveal{animation:fadeInUp linear both;animation-timeline:view();animation-range:entry 0% entry 55%}
+  .parallax{animation:plx linear both;animation-timeline:view();animation-range:cover}
+  @keyframes plx{from{transform:translateY(-8%) scale(1.12)}to{transform:translateY(8%) scale(1.12)}}
+  .hdr{animation:hdr linear both;animation-timeline:scroll();animation-range:0 320px}
+  @keyframes hdr{from{background:rgba(22,33,27,0)}to{background:rgba(22,33,27,.94)}}
+}
+.card-img{transition:transform .8s cubic-bezier(.2,.7,.2,1)}
+.card:hover .card-img{transform:scale(1.08)}
+.card{transition:box-shadow .4s, transform .4s}
+.card:hover{box-shadow:0 24px 48px -18px rgba(22,33,27,.35);transform:translateY(-4px)}
+.btn{transition:transform .25s, box-shadow .25s, background .25s}
+.btn:hover{transform:translateY(-2px);box-shadow:0 12px 24px -10px rgba(0,0,0,.45)}
+.navlink{color:#fff;text-decoration:none;opacity:.88}.navlink:hover{opacity:1;color:#C6E15B}
+details summary{cursor:pointer;list-style:none}
+details summary::-webkit-details-marker{display:none}
+details[open] .plus{transform:rotate(45deg)}
+.plus{transition:transform .3s}
+</style>
+</helmet>
+
+<div style="width: 100%; overflow: hidden">
+
+<!-- HEADER (transparent, collant) -->
+<header style="position: sticky; top: 0; z-index: 20; height: 0">
+<div class="hdr">
+<div style="max-width: 1240px; margin: 0 auto; padding: 22px 32px; display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap">
+<a href="#top" aria-label="Elios Evasion, accueil" style="display: flex"><img src="/_blob/04227a83ac4f137563dd68d19b7af5cf" alt="Elios Evasion" style="height: 52px; width: auto"></a>
+<nav aria-label="Menu principal" style="display: flex; align-items: center; gap: 28px; flex-wrap: wrap; font-weight: 500; font-size: 15px">
+<a class="navlink" href="#destinations">Nos séminaires</a>
+<a class="navlink" href="#agence">À propos</a>
+<a class="navlink" href="#faq">FAQ</a>
+<a class="navlink" href="#contact">Contact</a>
+<a class="btn" href="#contact" style="background: #B8501C; color: #fff; text-decoration: none; padding: 12px 22px; border-radius: 999px; font-weight: 700">Demander un devis</a>
+</nav>
+</div>
+</div>
+</header>
+
+<!-- HERO -->
+<section id="top" style="position: relative; min-height: 760px; display: flex; align-items: center; color: #fff; overflow: hidden">
+<img class="parallax" src="/_blob/5a15d96c8def69bf9006788743c6730c" alt="Groupe casqué en combinaison glissant dans une vasque pendant un canyoning" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover">
+<div style="position: absolute; inset: 0; background: linear-gradient(100deg, rgba(14,32,25,.86) 0%, rgba(14,32,25,.55) 45%, rgba(14,32,25,.15) 100%)"></div>
+<div style="position: relative; max-width: 1240px; width: 100%; margin: 0 auto; padding: 160px 32px 180px; box-sizing: border-box">
+<div style="max-width: 720px; display: flex; flex-direction: column; gap: 24px">
+<p class="a-up" style="margin: 0; display: inline-flex; align-self: flex-start; gap: 10px; align-items: center; padding: 8px 16px; border: 1px solid rgba(255,255,255,.35); border-radius: 999px; font-size: 14px; letter-spacing: .04em; text-transform: uppercase; font-weight: 500">Agence de séminaires · Sud de la France</p>
+<h1 class="a-blur d1" style="margin: 0; font-size: 72px; line-height: 1.02; font-weight: 800; letter-spacing: -.02em">Des séminaires qui sortent vraiment du bureau.</h1>
+<p class="a-up d2" style="margin: 0; font-size: 19px; line-height: 1.6; max-width: 600px; color: rgba(255,255,255,.9)">Elios Evasion est une <strong>agence de team building</strong> basée à Font-Romeu. Journées clés en main autour de Montpellier et d'Avignon, séjours à la montagne dans les Pyrénées : travail, repas et cohésion réunis, dès <strong>100 € HT par personne</strong>.</p>
+<div class="a-up d3" style="display: flex; gap: 14px; flex-wrap: wrap; margin-top: 8px">
+<a class="btn" href="#contact" style="background: #B8501C; color: #fff; text-decoration: none; padding: 17px 30px; border-radius: 999px; font-weight: 700; font-size: 16px">Demander un devis</a>
+<a class="btn" href="#destinations" style="border: 2px solid #fff; color: #fff; text-decoration: none; padding: 15px 28px; border-radius: 999px; font-weight: 700; font-size: 16px">Voir nos séminaires</a>
+</div>
+</div>
+</div>
+<svg aria-hidden="true" viewBox="0 0 1440 120" preserveAspectRatio="none" style="position: absolute; left: 0; bottom: -1px; width: 100%; height: 110px; display: block"><path d="M0 64 C 240 120 480 0 720 40 C 960 80 1200 120 1440 56 L1440 120 L0 120 Z" fill="#F4F1EA"></path></svg>
+</section>
+
+<!-- RÉASSURANCE -->
+<section style="padding: 24px 32px 72px">
+<div style="max-width: 1240px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px">
+<div class="reveal" style="display: flex; gap: 16px; align-items: flex-start; background: #fff; border-radius: 20px; padding: 26px">
+<svg aria-hidden="true" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#1E4636" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="flex: none"><circle cx="12" cy="8" r="4"></circle><path d="M4 21c0-4.4 3.6-8 8-8s8 3.6 8 8"></path></svg>
+<p style="margin: 0; font-size: 16px; line-height: 1.55"><strong style="display: block; font-family: 'Bricolage Grotesque', sans-serif; font-size: 19px; margin-bottom: 4px">Un seul interlocuteur</strong>Du premier appel à l'apéritif de fin de journée.</p>
+</div>
+<div class="reveal" style="display: flex; gap: 16px; align-items: flex-start; background: #fff; border-radius: 20px; padding: 26px">
+<svg aria-hidden="true" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#1E4636" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="flex: none"><rect x="3" y="4" width="18" height="12" rx="2"></rect><path d="M8 20h8M12 16v4"></path></svg>
+<p style="margin: 0; font-size: 16px; line-height: 1.55"><strong style="display: block; font-family: 'Bricolage Grotesque', sans-serif; font-size: 19px; margin-bottom: 4px">Travail et cohésion le même jour</strong>Salle équipée le matin, activité l'après-midi.</p>
+</div>
+<div class="reveal" style="display: flex; gap: 16px; align-items: flex-start; background: #fff; border-radius: 20px; padding: 26px">
+<svg aria-hidden="true" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#1E4636" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="flex: none"><path d="M3 20l6-11 4 7 3-4 5 8z"></path><circle cx="17" cy="6" r="2"></circle></svg>
+<p style="margin: 0; font-size: 16px; line-height: 1.55"><strong style="display: block; font-family: 'Bricolage Grotesque', sans-serif; font-size: 19px; margin-bottom: 4px">Des lieux qui changent du bureau</strong>Grotte, château, vignoble, plage, montagne.</p>
+</div>
+</div>
+</section>
+
+<!-- DESTINATIONS -->
+<section id="destinations" style="padding: 40px 32px 110px">
+<div style="max-width: 1240px; margin: 0 auto">
+<div class="reveal" style="display: flex; justify-content: space-between; align-items: flex-end; gap: 24px; flex-wrap: wrap; margin-bottom: 44px">
+<div style="max-width: 640px">
+<p style="margin: 0 0 12px; color: #B8501C; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: 13px">Trois destinations</p>
+<h2 style="margin: 0; font-size: 50px; line-height: 1.05; letter-spacing: -.02em">Où organiser votre prochain séminaire d'entreprise ?</h2>
+</div>
+<p style="margin: 0; max-width: 420px; color: #4C5A52; font-size: 17px; line-height: 1.6">Près des villes, nos journées évitent l'hébergement. À la montagne, le séjour laisse le temps de prendre du recul.</p>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 26px">
+<a class="card reveal" href="#destinations" style="position: relative; display: block; height: 520px; border-radius: 24px; overflow: hidden; color: #fff; text-decoration: none">
+<img class="card-img" src="/_blob/b49d9ea69a5a1e38b419f6979addcd22" alt="Deux collaborateurs portent un paddle géant lors d'un team building à la plage" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover">
+<div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(14,32,25,0) 35%, rgba(14,32,25,.88) 100%)"></div>
+<div style="position: absolute; left: 0; right: 0; bottom: 0; padding: 30px">
+<p style="margin: 0 0 8px; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: #C6E15B; font-weight: 700">7 journées · dès 100 € HT</p>
+<h3 style="margin: 0 0 10px; font-size: 30px; line-height: 1.1">Montpellier et la vallée de l'Hérault</h3>
+<p style="margin: 0; font-size: 16px; line-height: 1.5; color: rgba(255,255,255,.88)">Vallée de l'Hérault, lac du Salagou, plage de Palavas, à 20–50 min de Montpellier.</p>
+</div>
+</a>
+<a class="card reveal" href="#destinations" style="position: relative; display: block; height: 520px; border-radius: 24px; overflow: hidden; color: #fff; text-decoration: none">
+<img class="card-img" src="/_blob/c3bd6a0bd13f4fa28c9c4c92940f1e24" alt="Château crénelé au milieu des vignes au crépuscule" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover">
+<div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(14,32,25,0) 35%, rgba(14,32,25,.88) 100%)"></div>
+<div style="position: absolute; left: 0; right: 0; bottom: 0; padding: 30px">
+<p style="margin: 0 0 8px; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: #C6E15B; font-weight: 700">4 journées · dès 130 € HT</p>
+<h3 style="margin: 0 0 10px; font-size: 30px; line-height: 1.1">Avignon et la Provence</h3>
+<p style="margin: 0; font-size: 16px; line-height: 1.5; color: rgba(255,255,255,.88)">Châteaux et vignobles du Vaucluse, de Châteauneuf-du-Pape à la Quiz Room d'Avignon.</p>
+</div>
+</a>
+<a class="card reveal" href="#destinations" style="position: relative; display: block; height: 520px; border-radius: 24px; overflow: hidden; color: #fff; text-decoration: none">
+<img class="card-img" src="/_blob/fda0fa58e1aee5365019b929322ad81b" alt="Groupe de collaborateurs posant dans la neige lors d'un séminaire à la montagne" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover">
+<div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(14,32,25,0) 35%, rgba(14,32,25,.88) 100%)"></div>
+<div style="position: absolute; left: 0; right: 0; bottom: 0; padding: 30px">
+<p style="margin: 0 0 8px; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: #C6E15B; font-weight: 700">2 jours et plus · sur devis</p>
+<h3 style="margin: 0 0 10px; font-size: 30px; line-height: 1.1">Les Pyrénées, au départ de Font-Romeu</h3>
+<p style="margin: 0; font-size: 16px; line-height: 1.5; color: rgba(255,255,255,.88)">L'hiver sur les pistes, l'été en randonnée : hébergement, salle et activités organisés.</p>
+</div>
+</a>
+</div>
+</div>
+</section>
+
+<!-- ÉTAPES (section sombre, vagues) -->
+<section style="position: relative; background: #1E4636; color: #fff; padding: 140px 32px 150px">
+<svg aria-hidden="true" viewBox="0 0 1440 90" preserveAspectRatio="none" style="position: absolute; left: 0; top: -1px; width: 100%; height: 80px; display: block"><path d="M0 0 L1440 0 L1440 30 C 1180 90 940 10 720 40 C 480 72 220 90 0 30 Z" fill="#F4F1EA"></path></svg>
+<div style="max-width: 1240px; margin: 0 auto">
+<div class="reveal" style="max-width: 720px; margin-bottom: 56px">
+<p style="margin: 0 0 12px; color: #C6E15B; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: 13px">Comment ça se passe</p>
+<h2 style="margin: 0; font-size: 50px; line-height: 1.05; letter-spacing: -.02em">Votre séminaire en quatre étapes, sans prise de tête.</h2>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 22px">
+<div class="reveal" style="border: 1px solid rgba(255,255,255,.18); border-radius: 22px; padding: 30px; background: rgba(255,255,255,.04)">
+<p style="margin: 0 0 18px; font-family: 'Bricolage Grotesque', sans-serif; font-size: 54px; font-weight: 800; color: #C6E15B; line-height: 1">01</p>
+<h3 style="margin: 0 0 10px; font-size: 22px">Vous décrivez votre projet</h3>
+<p style="margin: 0; color: rgba(255,255,255,.82); line-height: 1.6">Dates, effectif, destination, objectif : le formulaire prend deux minutes, ou appelez le <a href="tel:+33679029332" style="color: #fff">06 79 02 93 32</a>.</p>
+</div>
+<div class="reveal" style="border: 1px solid rgba(255,255,255,.18); border-radius: 22px; padding: 30px; background: rgba(255,255,255,.04)">
+<p style="margin: 0 0 18px; font-family: 'Bricolage Grotesque', sans-serif; font-size: 54px; font-weight: 800; color: #C6E15B; line-height: 1">02</p>
+<h3 style="margin: 0 0 10px; font-size: 22px">Nous construisons le programme</h3>
+<p style="margin: 0; color: rgba(255,255,255,.82); line-height: 1.6">Lieu, temps de travail, activité et repas adaptés, puis un devis détaillé.</p>
+</div>
+<div class="reveal" style="border: 1px solid rgba(255,255,255,.18); border-radius: 22px; padding: 30px; background: rgba(255,255,255,.04)">
+<p style="margin: 0 0 18px; font-family: 'Bricolage Grotesque', sans-serif; font-size: 54px; font-weight: 800; color: #C6E15B; line-height: 1">03</p>
+<h3 style="margin: 0 0 10px; font-size: 22px">Vous validez, nous réservons</h3>
+<p style="margin: 0; color: rgba(255,255,255,.82); line-height: 1.6">Lieu, traiteur, encadrants, matériel : toutes les réservations sont pour nous.</p>
+</div>
+<div class="reveal" style="border: 1px solid rgba(255,255,255,.18); border-radius: 22px; padding: 30px; background: rgba(255,255,255,.04)">
+<p style="margin: 0 0 18px; font-family: 'Bricolage Grotesque', sans-serif; font-size: 54px; font-weight: 800; color: #C6E15B; line-height: 1">04</p>
+<h3 style="margin: 0 0 10px; font-size: 22px">Le jour J, vous profitez</h3>
+<p style="margin: 0; color: rgba(255,255,255,.82); line-height: 1.6">Travail le matin, activité l'après-midi, apéritif pour finir. Soirée possible.</p>
+</div>
+</div>
+</div>
+<svg aria-hidden="true" viewBox="0 0 1440 90" preserveAspectRatio="none" style="position: absolute; left: 0; bottom: -1px; width: 100%; height: 80px; display: block"><path d="M0 60 C 260 0 520 80 760 50 C 1000 20 1220 0 1440 50 L1440 90 L0 90 Z" fill="#F4F1EA"></path></svg>
+</section>
+
+<!-- COUPS DE CŒUR -->
+<section style="padding: 110px 32px 100px">
+<div style="max-width: 1240px; margin: 0 auto">
+<div class="reveal" style="text-align: center; max-width: 720px; margin: 0 auto 48px">
+<p style="margin: 0 0 12px; color: #B8501C; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: 13px">Nos coups de cœur</p>
+<h2 style="margin: 0; font-size: 50px; line-height: 1.05; letter-spacing: -.02em">Trois journées dont vos équipes vont parler longtemps</h2>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 26px">
+<a class="card reveal" href="#destinations" style="display: block; background: #fff; border-radius: 24px; overflow: hidden; color: inherit; text-decoration: none">
+<div style="position: relative; height: 260px; overflow: hidden">
+<img class="card-img" src="/_blob/7811d20ee743f5b3bc0e80828d212385" alt="Participants sur un parcours aventure suspendu dans la grotte de Clamouse" style="width: 100%; height: 100%; object-fit: cover; display: block">
+<span style="position: absolute; top: 16px; left: 16px; background: #fff; color: #1E4636; font-weight: 700; font-size: 14px; padding: 8px 14px; border-radius: 999px">Dès 100 € HT / pers.</span>
+</div>
+<div style="padding: 26px 28px 30px">
+<h3 style="margin: 0 0 10px; font-size: 25px">Sous terre, près de Montpellier</h3>
+<p style="margin: 0 0 18px; color: #4C5A52; line-height: 1.6">Parcours aventure et escape game dans la grotte de Clamouse, à 40 minutes de Montpellier, toute l'année.</p>
+<span style="color: #B8501C; font-weight: 700">Découvrir la journée →</span>
+</div>
+</a>
+<a class="card reveal" href="#destinations" style="display: block; background: #fff; border-radius: 24px; overflow: hidden; color: inherit; text-decoration: none">
+<div style="position: relative; height: 260px; overflow: hidden">
+<img class="card-img" src="/_blob/822a1aa126a4de0ff93339a10545e949" alt="Pied de vigne sur les galets roulés de Châteauneuf-du-Pape" style="width: 100%; height: 100%; object-fit: cover; display: block">
+<span style="position: absolute; top: 16px; left: 16px; background: #fff; color: #1E4636; font-weight: 700; font-size: 14px; padding: 8px 14px; border-radius: 999px">Dès 180 € HT / pers.</span>
+</div>
+<div style="padding: 26px 28px 30px">
+<h3 style="margin: 0 0 10px; font-size: 25px">Dans les vignes, près d'Avignon</h3>
+<p style="margin: 0 0 18px; color: #4C5A52; line-height: 1.6">Initiation avec un sommelier au château des Fines Roches, au cœur de l'AOC Châteauneuf-du-Pape.</p>
+<span style="color: #B8501C; font-weight: 700">Découvrir la journée →</span>
+</div>
+</a>
+<a class="card reveal" href="#destinations" style="display: block; background: #fff; border-radius: 24px; overflow: hidden; color: inherit; text-decoration: none">
+<div style="position: relative; height: 260px; overflow: hidden">
+<img class="card-img" src="/_blob/a870689edc11093e1b5071adb42d4f08" alt="Skieur de randonnée montant une pente enneigée face aux sommets" style="width: 100%; height: 100%; object-fit: cover; display: block">
+<span style="position: absolute; top: 16px; left: 16px; background: #fff; color: #1E4636; font-weight: 700; font-size: 14px; padding: 8px 14px; border-radius: 999px">Sur devis</span>
+</div>
+<div style="padding: 26px 28px 30px">
+<h3 style="margin: 0 0 10px; font-size: 25px">Sur la neige, dans les Pyrénées</h3>
+<p style="margin: 0 0 18px; color: #4C5A52; line-height: 1.6">Ski, raquettes, chiens de traîneau, biathlon et dîner d'altitude en dameuse.</p>
+<span style="color: #B8501C; font-weight: 700">Découvrir le séjour →</span>
+</div>
+</a>
+</div>
+</div>
+</section>
+
+<!-- AGENCE LOCALE -->
+<section id="agence" style="padding: 40px 32px 110px">
+<div style="max-width: 1240px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 60px; align-items: center">
+<div class="reveal" style="flex: 1 1 460px; min-width: 0; position: relative">
+<img src="/_blob/28aaaf5164702ebe843dec76e1bf5d1a" alt="Grand groupe de collaborateurs sur la plage après des olympiades d'entreprise" style="width: 100%; height: 520px; object-fit: cover; border-radius: 28px; display: block">
+<div style="position: absolute; right: -14px; bottom: 28px; background: #B8501C; color: #fff; border-radius: 20px; padding: 20px 24px; max-width: 220px; box-shadow: 0 20px 40px -16px rgba(0,0,0,.4)">
+<p style="margin: 0; font-family: 'Bricolage Grotesque', sans-serif; font-size: 36px; font-weight: 800; line-height: 1">7</p>
+<p style="margin: 4px 0 0; font-size: 14px; line-height: 1.4">lieux partenaires entre l'Hérault et le Vaucluse</p>
+</div>
+</div>
+<div class="reveal" style="flex: 1 1 460px; min-width: 0">
+<p style="margin: 0 0 12px; color: #B8501C; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: 13px">Une agence locale</p>
+<h2 style="margin: 0 0 22px; font-size: 46px; line-height: 1.06; letter-spacing: -.02em">Un contact, un devis, des lieux que nous connaissons</h2>
+<p style="margin: 0 0 16px; color: #4C5A52; font-size: 17px; line-height: 1.7">Organiser un séminaire seul, c'est trouver une salle, un traiteur, un prestataire d'activité, et gérer les imprévus. Avec Elios Evasion, tout passe par une seule personne.</p>
+<p style="margin: 0 0 28px; color: #4C5A52; font-size: 17px; line-height: 1.7">Grotte de Clamouse, Domaine de Capion, Domaine de la Grande Sieste, château des Fines Roches, château de Beauregard, Moulin des Gaffins, Quiz Room d'Avignon : nous savons quelle salle convient à votre effectif et quelle activité plaira à un groupe peu sportif.</p>
+<a class="btn" href="#contact" style="display: inline-block; background: #1E4636; color: #fff; text-decoration: none; padding: 16px 28px; border-radius: 999px; font-weight: 700">Parler de votre projet</a>
+</div>
+</div>
+</section>
+
+<!-- TÉMOIGNAGES (réels, site actuel) -->
+<section style="padding: 20px 32px 110px">
+<div style="max-width: 1240px; margin: 0 auto">
+<div class="reveal" style="text-align: center; max-width: 720px; margin: 0 auto 44px">
+<p style="margin: 0 0 12px; color: #B8501C; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: 13px">Ils ont vécu l'expérience</p>
+<h2 style="margin: 0; font-size: 46px; line-height: 1.06; letter-spacing: -.02em">Ce qu'en disent nos clients</h2>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px">
+<figure class="reveal" style="margin: 0; background: #fff; border-radius: 24px; padding: 32px">
+<svg aria-hidden="true" width="34" height="34" viewBox="0 0 24 24" fill="#C6E15B"><path d="M4 18v-5c0-4 2-7 6-8l1 2c-2 1-3 3-3 5h3v6zm9 0v-5c0-4 2-7 6-8l1 2c-2 1-3 3-3 5h3v6z"></path></svg>
+<blockquote style="margin: 14px 0 20px; font-size: 18px; line-height: 1.6">Un séjour merveilleux dans un espace de liberté. Réactif, à l'écoute et avec de belles surprises, Elios Evasion nous a permis de vivre une expérience unique !</blockquote>
+<figcaption style="font-weight: 700">Céline A.</figcaption>
+</figure>
+<figure class="reveal" style="margin: 0; background: #fff; border-radius: 24px; padding: 32px">
+<svg aria-hidden="true" width="34" height="34" viewBox="0 0 24 24" fill="#C6E15B"><path d="M4 18v-5c0-4 2-7 6-8l1 2c-2 1-3 3-3 5h3v6zm9 0v-5c0-4 2-7 6-8l1 2c-2 1-3 3-3 5h3v6z"></path></svg>
+<blockquote style="margin: 14px 0 20px; font-size: 18px; line-height: 1.6">Des paysages splendides dans une nature sauvage, l'hébergement était parfait, super convivial, on a tous adoré !</blockquote>
+<figcaption style="font-weight: 700">Samantha C.</figcaption>
+</figure>
+<figure class="reveal" style="margin: 0; background: #fff; border-radius: 24px; padding: 32px">
+<svg aria-hidden="true" width="34" height="34" viewBox="0 0 24 24" fill="#C6E15B"><path d="M4 18v-5c0-4 2-7 6-8l1 2c-2 1-3 3-3 5h3v6zm9 0v-5c0-4 2-7 6-8l1 2c-2 1-3 3-3 5h3v6z"></path></svg>
+<blockquote style="margin: 14px 0 20px; font-size: 18px; line-height: 1.6">Un séjour hors du temps et de l'agitation, un bain de nature ! Eliott, notre guide, nous a fait découvrir ses montagnes avec une passion communicative.</blockquote>
+<figcaption style="font-weight: 700">Mathieu M.</figcaption>
+</figure>
+</div>
+</div>
+</section>
+
+<!-- FAQ -->
+<section id="faq" style="padding: 20px 32px 120px">
+<div style="max-width: 860px; margin: 0 auto">
+<h2 class="reveal" style="margin: 0 0 32px; font-size: 46px; line-height: 1.06; letter-spacing: -.02em; text-align: center">Questions fréquentes</h2>
+<div style="display: flex; flex-direction: column; gap: 12px">
+<details class="reveal" style="background: #fff; border-radius: 18px; padding: 22px 26px">
+<summary style="display: flex; justify-content: space-between; gap: 16px; align-items: center; font-weight: 700; font-size: 18px">Quel budget prévoir pour une journée de team building ?<span class="plus" aria-hidden="true" style="font-size: 26px; color: #B8501C; line-height: 1">+</span></summary>
+<p style="margin: 14px 0 0; color: #4C5A52; line-height: 1.7">Nos journées clés en main coûtent de 100 à 180 € HT par personne selon l'activité, avec le petit-déjeuner, le déjeuner, la salle de travail et l'activité. Les séjours à la montagne sont établis sur devis.</p>
+</details>
+<details class="reveal" style="background: #fff; border-radius: 18px; padding: 22px 26px">
+<summary style="display: flex; justify-content: space-between; gap: 16px; align-items: center; font-weight: 700; font-size: 18px">Dans quelles régions intervenez-vous ?<span class="plus" aria-hidden="true" style="font-size: 26px; color: #B8501C; line-height: 1">+</span></summary>
+<p style="margin: 14px 0 0; color: #4C5A52; line-height: 1.7">Autour de Montpellier (vallée de l'Hérault, lac du Salagou, Palavas-les-Flots), autour d'Avignon (Châteauneuf-du-Pape et le Vaucluse) et dans les Pyrénées, au départ de notre base de Font-Romeu.</p>
+</details>
+<details class="reveal" style="background: #fff; border-radius: 18px; padding: 22px 26px">
+<summary style="display: flex; justify-content: space-between; gap: 16px; align-items: center; font-weight: 700; font-size: 18px">Peut-on garder un temps de travail pendant la journée ?<span class="plus" aria-hidden="true" style="font-size: 26px; color: #B8501C; line-height: 1">+</span></summary>
+<p style="margin: 14px 0 0; color: #4C5A52; line-height: 1.7">Oui, c'est le principe : une matinée de travail dans une salle équipée, puis l'activité de cohésion l'après-midi. Le programme peut aussi être inversé, ou se passer de temps de travail.</p>
+</details>
+</div>
+</div>
+</section>
+
+<!-- CTA FINAL -->
+<section id="contact" style="position: relative; overflow: hidden; color: #fff; padding: 200px 32px 160px; text-align: center">
+<img class="parallax" src="/_blob/30456006069a54de194399eea655cf3a" alt="Lac de montagne bordé d'herbes et de pins, avec le massif du Carlit en fond" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover">
+<div style="position: absolute; inset: 0; background: rgba(14,32,25,.62)"></div>
+<svg aria-hidden="true" viewBox="0 0 1440 100" preserveAspectRatio="none" style="position: absolute; left: 0; top: -1px; width: 100%; height: 90px; display: block"><path d="M0 0 L1440 0 L1440 40 C 1200 100 960 20 720 50 C 480 80 240 100 0 40 Z" fill="#F4F1EA"></path></svg>
+<div class="reveal" style="position: relative; max-width: 760px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px; align-items: center">
+<h2 style="margin: 0; font-size: 58px; line-height: 1.04; letter-spacing: -.02em">Parlons de votre prochain séminaire</h2>
+<p style="margin: 0; font-size: 19px; line-height: 1.6; color: rgba(255,255,255,.9)">Vos dates, votre effectif, la destination qui vous tente : nous revenons vers vous avec une proposition et un devis.</p>
+<div style="display: flex; gap: 14px; flex-wrap: wrap; justify-content: center; margin-top: 8px">
+<a class="btn" href="#contact" style="background: #B8501C; color: #fff; text-decoration: none; padding: 17px 30px; border-radius: 999px; font-weight: 700">Demander un devis</a>
+<a class="btn" href="tel:+33679029332" style="border: 2px solid #fff; color: #fff; text-decoration: none; padding: 15px 28px; border-radius: 999px; font-weight: 700">Appeler le 06 79 02 93 32</a>
+</div>
+</div>
+</section>
+
+<!-- FOOTER -->
+<footer style="background: #16211B; color: rgba(255,255,255,.78); padding: 72px 32px 36px">
+<div style="max-width: 1240px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 40px">
+<div style="display: flex; flex-direction: column; gap: 14px">
+<img src="/_blob/04227a83ac4f137563dd68d19b7af5cf" alt="Elios Evasion" style="height: 48px; width: auto; align-self: flex-start">
+<p style="margin: 0; line-height: 1.6">Séminaires et team building en pleine nature : Montpellier, Avignon, Pyrénées.</p>
+<a href="tel:+33679029332" style="color: #fff; font-weight: 700">06 79 02 93 32</a>
+</div>
+<nav aria-label="Destinations" style="display: flex; flex-direction: column; gap: 10px">
+<p style="margin: 0 0 4px; color: #fff; font-weight: 700">Destinations</p>
+<a href="#destinations" style="color: inherit; text-decoration: none">Team building Montpellier</a>
+<a href="#destinations" style="color: inherit; text-decoration: none">Team building Avignon</a>
+<a href="#destinations" style="color: inherit; text-decoration: none">Séminaire dans les Pyrénées</a>
+<a href="#destinations" style="color: inherit; text-decoration: none">Journée sur mesure</a>
+</nav>
+<nav aria-label="Ressources" style="display: flex; flex-direction: column; gap: 10px">
+<p style="margin: 0 0 4px; color: #fff; font-weight: 700">Ressources</p>
+<a href="#faq" style="color: inherit; text-decoration: none">FAQ et prix</a>
+<a href="#agence" style="color: inherit; text-decoration: none">À propos</a>
+<a href="#top" style="color: inherit; text-decoration: none">Blog</a>
+<a href="#contact" style="color: inherit; text-decoration: none">Contact</a>
+</nav>
+</div>
+<p style="max-width: 1240px; margin: 48px auto 0; padding-top: 24px; border-top: 1px solid rgba(255,255,255,.14); font-size: 14px">© Elios Evasion · Mentions légales · Confidentialité · CGV</p>
+</footer>
+
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":5600}}'>
+class Component extends DCLogic {
+renderVals() {
+return {};
+}
+}
+</script>
+</body>
+</html>
