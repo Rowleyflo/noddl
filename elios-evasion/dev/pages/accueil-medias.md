@@ -4,7 +4,8 @@ Alt et noms de fichiers repris de `../../seo/donnees/images-alt.csv`. Le titre d
 
 | ID | Fichier (servi en AVIF) | Taille | Usage sur l'accueil |
 |---|---|---|---|
-| 12 | `pirogue-tahitienne-team-building-palavas.avif` | 600 × 600 | Hero |
+| 47 | `lac-montagne-pic-du-midi-ossau-pyrenees.avif` | 1920 × 1250 | **Hero** (photo fournie par le client le 30/10, déjà assombrie ; nom et alt de `images-alt.csv`, ligne 041) |
+| 12 | `pirogue-tahitienne-team-building-palavas.avif` | 600 × 600 | Plus utilisée sur l'accueil (ancien hero) |
 | 13 | `team-building-paddle-geant-equipe.avif` | 600 × 600 | Carte Montpellier |
 | 14 | `chateau-fines-roches-vignes-crepuscule.avif` | 600 × 600 | Carte Avignon |
 | 15 | `seminaire-ski-groupe-entreprise-neige.avif` | 600 × 600 | Carte Pyrénées |
@@ -31,3 +32,5 @@ Test du 30/10/2026 sur un premier envoi en WebP (média 11, supprimé ensuite) :
 Sur l'ancien site, les photos prévues par la rédaction n'existent qu'en **600 × 600 px** (sauf le ski de randonnée). Elles sont un peu floues en grand format, surtout dans le **hero** (1440 × 800 px) et le bandeau CTA. Il faut demander au client les **originaux en haute définition**. Il suffira ensuite de remplacer le fichier : l'ID reste le même s'il est remplacé dans la médiathèque, sinon on change l'ID dans `accueil.ux.txt`.
 
 Aucune image n'est liée à l'ancien site : tout est servi depuis la médiathèque de la préprod.
+
+⚠️ La remarque de `images-alt.csv` sur la photo 47 : elle montre les **Pyrénées-Atlantiques** (pic du Midi d'Ossau), pas les Pyrénées catalanes de Font-Romeu. Choix du client pour le hero de l'accueil.

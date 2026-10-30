@@ -32,7 +32,8 @@ Captures du 30/10 (2ᵉ version) : faites **après** l'import n° 2 (logo blanc 
 | Écart | Cause | Solution possible |
 |---|---|---|
 | **Photos un peu floues** (hero, CTA, cartes) | Originaux de 600 × 600 px seulement | Originaux HD à fournir par le client |
-| **H1 du hero à environ 64 px** au lieu de 80 px, sur 3 lignes | Notre H1 SEO fait 70 caractères, contre 35 dans la maquette : à 80 px, il passait sur 5 lignes et sortait du bandeau | Garder 64 px, ou raccourcir le H1 (décision SEO) |
+| **Hero refait le 30/10** d'après la maquette : bloc calé sur le bord gauche du conteneur (`position_x="0"`), bas du bloc à 85 % de la hauteur (`position_y="85"` ; au-delà de 50, Flatsome compte depuis le bas), H1, puis sous-titre de 18 px, puis **un seul bouton** blanc `size="small"`. Le sur-titre est devenu le sous-titre, et le lien « Voir nos séminaires » est retiré (déjà présent dans « Vous hésitez… »). Photo 47 | Retour du client | — |
+| **H1 du hero à environ 64 px** au lieu de 80 px, sur 4 lignes | Notre H1 SEO fait 70 caractères, contre 35 dans la maquette : à 80 px, il passait sur 5 lignes et sortait du bandeau | Garder 64 px, ou raccourcir le H1 (décision SEO) |
 | **H1 en graisse normale**, pas fine (light) | La graisse fine passe par la classe `alt-font` ; on ne met pas de classe à la main | Accepter, ou autoriser explicitement la classe `alt-font` fournie par Flatsome |
 | ~~Coins droits~~ **Corrigé le 30/10** : toutes les photos (cartes, offres, « Pourquoi », CTA) sont des `[ux_image_box image_radius]` arrondis | `.box-image` a `overflow:hidden`, donc la photo est découpée. `image_radius` est **en %** (unité forcée dans `ux_image_box.php` l. 80) : 2 à 3 % selon le format, soit environ 17 px en largeur. Sur les formats très allongés, les coins sont à peine elliptiques | — |
 | ~~Pas de dégradé~~ **Corrigé** : cartes destinations en `style="shade"` | Le style `shade` de `[ux_image_box]` ajoute un dégradé sombre natif en bas de la photo | — |

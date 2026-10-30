@@ -1,19 +1,17 @@
-[ux_banner height="800px" height__sm="620px" bg="12" bg_size="original" bg_overlay="rgba(0,0,0,0.35)" bg_pos="50% 50%"]
+[ux_banner height="800px" height__sm="640px" bg="47" bg_size="original" bg_overlay="rgba(0,0,0,0.15)" bg_pos="50% 40%"]
 
-[text_box width="70" width__sm="90" position_x="5" position_x__sm="50" position_y="60" text_align="left" text_color="light"]
+[text_box width="55" width__sm="90" position_x="0" position_x__sm="50" position_y="85" position_y__sm="85" text_align="left" text_color="light"]
 
-[ux_text font_size="0.75"]
-<p>AGENCE DE SÉMINAIRES ET DE TEAM BUILDING · SUD DE LA FRANCE</p>
-[/ux_text]
 [ux_text font_size="1.14" font_size__sm="0.64" line_height="1.1"]
 <h1>Agence de team building et de séminaires en pleine nature dans le Sud</h1>
 [/ux_text]
+[ux_text font_size="1.125" font_size__sm="1" line_height="1.6"]
+<p>Agence de séminaires et de team building · Sud de la France</p>
+[/ux_text]
 
-[gap height="24px"]
+[gap height="16px"]
 
-[button text="Demander un devis" color="white" icon="icon-angle-right" icon_pos="right" link="/contact/"]
-
-[button text="Voir nos séminaires" color="white" style="underline" link="/sejours/"]
+[button text="Demander un devis" color="white" size="small" icon="icon-angle-right" icon_pos="right" link="/contact/"]
 
 [/text_box]
 
