@@ -1,0 +1,310 @@
+=== accueil.html
+TITLE: Stena
+META: Nos différents métiers : pose de chemins de câbles, tirage de câbles et raccordement, font l’objet de formations permanentes du personnel et de nombreux investissements
+CANON: https://www.stena.fr/
+HEADINGS: [('h1', 'Le professionnel du tirage de câbles, chemin de câbles, pose et raccordement'), ('h2', 'Actualités'), ('h2', 'Contact'), ('h2', 'Documentation'), ('h2', 'Ils nous font confiance')]
+IMG: 27 noalt=21
+WORDS: 241
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil"}]},{"@type":"CollectionPage","@id":"https:\\/\\/www.stena.fr\\/#collect']
+TEXT: Tirage de câble Chemin de câble Raccordement d'armoires et pose d'équipement Le professionnel du tirage de câbles, chemin de câbles, pose et raccordement Stena est une société dédiée exclusivement à la sous-traitance auprès des grands installateurs électriques. Depuis 2005, Stena réalise des chantiers dans les domaines industriel, naval, tertiaire, centre hospitalier, agroalimentaire, locaux agencés, site SEVESO et en zone amiantée. Actualités Travaux sur éoliennes – 62000 Buire le sec Travaux de raccordement pour la société Techinter. Raccordement grosse section partie BT au pied de l’éolienne. Démarrage du Chantier de la Caserne Oudinot à Commercy – 55 – Novembre 2016 Travaux pour la société SPIE , réaménagement de la caserne Oudinot. Prestation complète sur plusieurs bâtiments.( chemin de câble, tirage de câble, pose d’équipements ) Démarrage du chantier CLIMESPACE Galeries Lafayette – Janvier 2016 Travaux pour la société CLEMESSY pour le nouvel aménagement d’une centrale de production de froid dans les sous-sols du bâtiment. Prestation de pose de chemin de câble et tirage de câble. Formation – Décembre 2015 Formation au raccordement HT du personnel STENA. Démarrage Travaux Roland Garros – Novembre 2015 Travaux pour la société SFEE au sein de Roland Garros dans le cadre de la rénovation du bâtiment TV : réalisation de chemin de câble, tirage de câble, pose et raccordement d’équipements. Contact Stena ZA rue de la Pommeraie 44780 MISSILLAC 02 40 88 42 19 02 40 88 42 39 Documentation Voir nos documentations Ils nous font confiance
+
+=== actualites-sur-la-page-daccueil.html
+TITLE: Actualités sur la page d’accueil | Stena
+META: Tirage de câbles Avec nos moyens spécifiques : treuil, cabestan, porte-touret, galet, aiguille… nous tirons des câbles de toutes sections, à toutes hauteurs pour tous les domaines (y compris zone amiantée, sites Seveso, hors aérien). Tirage de câbles Avec nos moyens spécifiques : treuil, cabestan, porte-touret, galet, aiguille… nous tirons des câbles de toutes sections,
+CANON: https://www.stena.fr/actualites-sur-la-page-daccueil/
+HEADINGS: [('h1', 'Actualités sur la page d’accueil'), ('h3', 'Tirage de câbles'), ('h3', 'Tirage de câbles')]
+IMG: 2 noalt=0
+WORDS: 70
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/actualites-sur-la-page-daccueil\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","ne']
+TEXT: Tirage de câbles Avec nos moyens spécifiques : treuil, cabestan, porte-touret, galet, aiguille… nous tirons des câbles de toutes sections, à toutes hauteurs pour tous les domaines (y compris zone amiantée, sites Seveso, hors aérien). Tirage de câbles Avec nos moyens spécifiques : treuil, cabestan, porte-touret, galet, aiguille… nous tirons des câbles de toutes sections, à toutes hauteurs pour tous les domaines (y compris zone amiantée, sites Seveso, hors aérien).
+
+=== bateau-marion-dufrene-dunkerque-59.html
+TITLE: Bâteau Marion Dufresne Dunkerque (59) | Stena
+META: Rénovation du bateau du Marion Dufresne au port de Dunkerque ( 59 ) :Passage de cable pour le nouveau sondeur et équipement du local sondeurRéhabilitation du Pc scientifique et des laboratoires ( courant fort , informatique, cablâge spécifique aux recherches, câblage vidéo ).Travaux réalisé pour la sociète LC Concept.
+CANON: https://www.stena.fr/bateau-marion-dufrene-dunkerque-59/
+HEADINGS: [('h1', 'Bâteau Marion Dufresne Dunkerque (59)')]
+IMG: 6 noalt=4
+WORDS: 52
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/bateau-marion-dufrene-dunkerque-59\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr",']
+TEXT: Rénovation du bateau du Marion Dufresne au port de Dunkerque ( 59 ) : Passage de cable pour le nouveau sondeur et équipement du local sondeur Réhabilitation du Pc scientifique et des laboratoires ( courant fort , informatique, cablâge spécifique aux recherches, câblage vidéo ). Travaux réalisé pour la sociète LC Concept.
+
+=== caroussel.html
+TITLE: Caroussel | Stena
+META: 
+CANON: https://www.stena.fr/caroussel/
+HEADINGS: [('h1', 'Caroussel')]
+IMG: 13 noalt=11
+WORDS: 0
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/caroussel\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@type":"List']
+TEXT: 
+
+=== caserne-oudinot-commercy.html
+TITLE: Caserne Oudinot – Commercy | Stena
+META: Démarrage du Chantier de la Caserne Oudinot à Commercy - 55 - Novembre 2016 Travaux pour la société SPIE , réaménagement de la caserne Oudinot. Prestation complète sur plusieurs bâtiments.( chemin de câble, tirage de câble, pose d'équipements )
+CANON: https://www.stena.fr/caserne-oudinot-commercy/
+HEADINGS: [('h1', 'Caserne Oudinot  – Commercy'), ('h2', 'Laisser un commentaire Annuler la réponse'), ('h2', 'Navigation de l’article'), ('h2', 'Articles récents'), ('h2', 'Commentaires récents'), ('h2', 'Archives'), ('h2', 'Catégories'), ('h2', 'Méta')]
+IMG: 4 noalt=2
+WORDS: 115
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"Article","@id":"https:\\/\\/www.stena.fr\\/caserne-oudinot-commercy\\/#article","name":"Caserne Oudinot \\u2013 Commercy | Stena","headline":"Caserne Oudinot  &#8211; Commercy","author":{"@id":"https:\\/\\/www.stena.fr\\/author\\/admin\\/#author"},"pu']
+TEXT: Démarrage du Chantier de la Caserne Oudinot à Commercy – 55 – Novembre 2016 Travaux pour la société SPIE , réaménagement de la caserne Oudinot. Prestation complète sur plusieurs bâtiments.( chemin de câble, tirage de câble, pose d’équipements ) Laisser un commentaire Annuler la réponse Vous devez vous connecter pour publier un commentaire. Recherche pour : Recherche Articles récents Travaux sur éoliennes – 62000 Buire le sec Caserne Oudinot – Commercy Démarrage du chantier CLIMESPACE Galeries Lafayette Formation au raccordement HT du personnel STENA Démarrage Travaux Roland Garros Commentaires récents Archives novembre 2017 novembre 2016 janvier 2016 décembre 2015 novembre 2015 Catégories Non classé Méta Connexion Flux des publications Flux des commentaires Site de WordPress-FR
+
+=== conditions-generales-dachat.html
+TITLE: CONDITIONS GENERALES D’ACHAT | Stena
+META: VALIDITE DES BONS DE COMMANDE 1.1. Les commandes rédigées sur papier à en-tête de STENA (bon de commande) sont émises par son service Achats. 1.2. Toute commande passée verbalement, par téléphone, fax, lettre ou courrier électronique doit être confirmée par un bon de commande régulier qui constitue seul l’engagement d’achat de STENA. Faute d’un bon
+CANON: https://www.stena.fr/conditions-generales-dachat/
+HEADINGS: [('h1', 'CONDITIONS GENERALES D’ACHAT')]
+IMG: 2 noalt=0
+WORDS: 1472
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/conditions-generales-dachat\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextIt']
+TEXT: VALIDITE DES BONS DE COMMANDE 1.1. Les commandes rédigées sur papier à en-tête de STENA (bon de commande) sont émises par son service Achats. 1.2. Toute commande passée verbalement, par téléphone, fax, lettre ou courrier électronique doit être confirmée par un bon de commande régulier qui constitue seul l’engagement d’achat de STENA. Faute d’un bon de commande régulier, aucune demande de règlement ne pourra être prise en considération. ACCUSE DE RECEPTION DE LA COMMANDE 2.1. L’accusé de réception joint à la commande ou avenant est à retourner à STENA signé dans les huit jours ouvrables de la réception de la commande. Passé ce délai, la commande sera considérée comme acceptée dans tous ses termes et obligations par le FOURNISSEUR. 2.2. L’acceptation, expresse ou tacite, de la commande implique « ipso facto » l’acceptation des présentes conditions générales d’achat et de paiement, sans aucune exception ni réserve. Il ne pourra être invoqué tout autre usage ou précédent contraire, ni opposé toutes clauses pouvant figurer sur les conditions générales, catalogues, devis, factures, lettres ou autres papiers commerciaux du FOURNISSEUR, et notamment toute clause de réserve de propriété. Il ne peut être dérogé aux présentes conditions que par des conventions spéciales écrites expressément acceptées par STENA. DELAI 3.1. Sauf stipulations particulières, la ou les dates figurant sur les commandes s’entendent : Pour les livraisons : fournitures ou matériels rendus aux lieux fixés sur la commande. Pour les mises à disposition en magasin ou usine : fournitures ou matériels prêts pour recette ou dûment emballés prêts à l’expédition dans les conditions stipulées à la commande. 3.2. Les dates de livraison ou de mise à disposition doivent être rigoureusement respectées. Le cas de retard dû à la force majeure doit être justifié par écrit dès survenance de l’événement. 3.3. En cas de retard de livraison, le transfert des risques intervient à la date effective de livraison et le FOURNISSEUR paiera, sans qu’il soit besoin de mise en demeure préalable et sans préjudice des dispositions de l’article 10 et de tous dommages et intérêts, des pénalités dont le taux est fixé, sauf conditions particulières de la commande, à 2% du montant HT de la commande par jour calendaire de retard. Elles seront déduites du montant des factures du FOURNISSEUR. EMBALLAGE ET TRANSPORT 4.1. Sauf stipulations particulières, : Les livraisons aux lieux prévus à la commande s’entendent « franco de port et 
+
+=== conditions-generales-dentreprise-stena.html
+TITLE: CONDITIONS GENERALES D’ENTREPRISE– STENA | Stena
+META: GénéralitésLes présentes conditions générales sont applicables à tout contrat d’entreprise (les Prestations) passé entre STENA et un client (le Client). Elles prévalent, sauf accord formel, sur toutes conditions d’achat du Client. Toute offre émanant de STENA et tout contrat ou commande en résultant seront régis exclusivement par les présentes conditions générales et par les conditions
+CANON: https://www.stena.fr/conditions-generales-dentreprise-stena/
+HEADINGS: [('h1', 'CONDITIONS GENERALES D’ENTREPRISE– STENA')]
+IMG: 2 noalt=0
+WORDS: 1711
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/conditions-generales-dentreprise-stena\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.']
+TEXT: Généralités Les présentes conditions générales sont applicables à tout contrat d’entreprise (les Prestations) passé entre STENA et un client (le Client). Elles prévalent, sauf accord formel, sur toutes conditions d’achat du Client. Toute offre émanant de STENA et tout contrat ou commande en résultant seront régis exclusivement par les présentes conditions générales et par les conditions particulières expressément convenues entre STENA et le Client. Sauf disposition particulière, l’offre reste valable pendant 30 jours à compter de son envoi ou de sa remise au Client. Les seuls documents régissant l’accord des parties (le Contrat) sont par ordre de priorité décroissante : 1. l’offre de STENA et ses annexes pouvant comprendre notamment des conditions particulières et les présentes conditions générales 2. la commande du client ou le contrat signé avec le Client 3. l’accusé de réception de la commande par STENA s’il y a lieu. Conditions d’exécution Le Client devra, préalablement à l’exécution des Prestations, avoir obtenu toutes autorisations administratives, passé tous contrats avec des tiers, nécessaires pour l’exécution des Prestations. Il devra mettre à disposition de STENA les ouvrages et sites nécessaires et dans un état de conformité adéquat à l’exécution des Prestations. Il lui incombe de vérifier que les Prestations commandées correspondent en tous points à l’usage auquel il les destine ou qu’il s’est fixé. Le Client prend à sa charge et sous sa responsabilité les mesures nécessaires à la prévention d’accidents ou de maladie y compris les risques liés à la présence d’amiante et les facilités habituelles de chantier. La personne physique représentant le Client sur le site où sont exécutées les Prestations sera réputée, à défaut d’information préalable officielle contraire, avoir les pouvoirs nécessaires pour l’exécution du Contrat. Modification Les Prestations non prévues au Contrat et celles résultant d’une modification des lois, règlements, normes ou règles quelconques seront réglées sur la base de prix nouveaux et de conditions à convenir en commun. STENA sera en droit, à défaut d’ordre écrit ou d’accord sur les prix et conditions, de suspendre ou de refuser l’exécution des prestations. Le Client, dûment informé par STENA, ne pourra refuser de payer lesdites prestations dès lors qu’il ne se sera pas opposé préalablement à leur réalisation. Délais Les délais d’exécution seront prolongés en cas de force majeure, en cas de modification, en cas de retard
+
+=== contact-et-devis.html
+TITLE: Contact et devis | Stena
+META: Nous contacter Où nous trouverSTENA ZA rue de la Pommeraie 44780 Missillac Tél.: 02 40 88 42 19 Fax. : 02 40 8 42 39
+CANON: https://www.stena.fr/contact-et-devis/
+HEADINGS: [('h1', 'Contact et devis')]
+IMG: 2 noalt=0
+WORDS: 46
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/contact-et-devis\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@type']
+TEXT: Nous contacter NOM* PRENOM* SOCIETE* EMAIL* MOTIF DU CONTACT Demande d'information Demande de devis CDC Tirage de câbles Pose et raccordement MESSAGE Où nous trouver STENA ZA rue de la Pommeraie 44780 Missillac Tél.: 02 40 88 42 19 Fax. : 02 40 8 42 39
+
+=== demarrage-du-chantier-climespace-galeries-lafayette.html
+TITLE: Démarrage du chantier CLIMESPACE Galeries Lafayette | Stena
+META: Démarrage du chantier CLIMESPACE Galeries Lafayette - Janvier 2016Travaux pour la société CLEMESSY pour le nouvel aménagement d’une centrale de production de froid dans les sous-sols du bâtiment. Prestation de pose de chemin de câble et tirage de câble.
+CANON: https://www.stena.fr/demarrage-du-chantier-climespace-galeries-lafayette/
+HEADINGS: [('h1', 'Démarrage du chantier CLIMESPACE Galeries Lafayette'), ('h2', 'Laisser un commentaire Annuler la réponse'), ('h2', 'Navigation de l’article'), ('h2', 'Articles récents'), ('h2', 'Commentaires récents'), ('h2', 'Archives'), ('h2', 'Catégories'), ('h2', 'Méta')]
+IMG: 4 noalt=1
+WORDS: 116
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"Article","@id":"https:\\/\\/www.stena.fr\\/demarrage-du-chantier-climespace-galeries-lafayette\\/#article","name":"D\\u00e9marrage du chantier CLIMESPACE Galeries Lafayette | Stena","headline":"D\\u00e9marrage du chantier CLIMESPACE Galeries Lafay']
+TEXT: Démarrage du chantier CLIMESPACE Galeries Lafayette – Janvier 2016 Travaux pour la société CLEMESSY pour le nouvel aménagement d’une centrale de production de froid dans les sous-sols du bâtiment. Prestation de pose de chemin de câble et tirage de câble. Laisser un commentaire Annuler la réponse Vous devez vous connecter pour publier un commentaire. Recherche pour : Recherche Articles récents Travaux sur éoliennes – 62000 Buire le sec Caserne Oudinot – Commercy Démarrage du chantier CLIMESPACE Galeries Lafayette Formation au raccordement HT du personnel STENA Démarrage Travaux Roland Garros Commentaires récents Archives novembre 2017 novembre 2016 janvier 2016 décembre 2015 novembre 2015 Catégories Non classé Méta Connexion Flux des publications Flux des commentaires Site de WordPress-FR
+
+=== demarrage-travaux-roland-garros.html
+TITLE: Démarrage Travaux Roland Garros | Stena
+META: Démarrage Travaux Roland Garros - Novembre 2015 Travaux pour la société SFEE au sein de Roland Garros dans le cadre de la rénovation du bâtiment TV : réalisation de chemin de câble, tirage de câble, pose et raccordement d’équipements.
+CANON: https://www.stena.fr/demarrage-travaux-roland-garros/
+HEADINGS: [('h1', 'Démarrage Travaux Roland Garros'), ('h2', 'Laisser un commentaire Annuler la réponse'), ('h2', 'Navigation de l’article'), ('h2', 'Articles récents'), ('h2', 'Commentaires récents'), ('h2', 'Archives'), ('h2', 'Catégories'), ('h2', 'Méta')]
+IMG: 4 noalt=1
+WORDS: 115
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"Article","@id":"https:\\/\\/www.stena.fr\\/demarrage-travaux-roland-garros\\/#article","name":"D\\u00e9marrage Travaux Roland Garros | Stena","headline":"D\\u00e9marrage Travaux Roland Garros","author":{"@id":"https:\\/\\/www.stena.fr\\/author\\/admin']
+TEXT: Démarrage Travaux Roland Garros – Novembre 2015 Travaux pour la société SFEE au sein de Roland Garros dans le cadre de la rénovation du bâtiment TV : réalisation de chemin de câble, tirage de câble, pose et raccordement d’équipements. Laisser un commentaire Annuler la réponse Vous devez vous connecter pour publier un commentaire. Recherche pour : Recherche Articles récents Travaux sur éoliennes – 62000 Buire le sec Caserne Oudinot – Commercy Démarrage du chantier CLIMESPACE Galeries Lafayette Formation au raccordement HT du personnel STENA Démarrage Travaux Roland Garros Commentaires récents Archives novembre 2017 novembre 2016 janvier 2016 décembre 2015 novembre 2015 Catégories Non classé Méta Connexion Flux des publications Flux des commentaires Site de WordPress-FR
+
+=== documentation.html
+TITLE: Documentation | Stena
+META: Plaquette stena (Full HD)Attestation Qualif Elec My ProcurementAttestation légale
+CANON: https://www.stena.fr/documentation/
+HEADINGS: [('h1', 'Documentation')]
+IMG: 6 noalt=0
+WORDS: 11
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/documentation\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@type":"']
+TEXT: Plaquette stena (Full HD) Attestation Qualif Elec My Procurement Attestation légale
+
+=== formation-au-raccordement-ht-du-personnel-stena.html
+TITLE: Formation au raccordement HT du personnel STENA | Stena
+META: Formation - Décembre 2015 Formation au raccordement HT du personnel STENA.
+CANON: https://www.stena.fr/formation-au-raccordement-ht-du-personnel-stena/
+HEADINGS: [('h1', 'Formation au raccordement HT du personnel STENA'), ('h2', 'Laisser un commentaire Annuler la réponse'), ('h2', 'Navigation de l’article'), ('h2', 'Articles récents'), ('h2', 'Commentaires récents'), ('h2', 'Archives'), ('h2', 'Catégories'), ('h2', 'Méta')]
+IMG: 4 noalt=1
+WORDS: 87
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"Article","@id":"https:\\/\\/www.stena.fr\\/formation-au-raccordement-ht-du-personnel-stena\\/#article","name":"Formation au raccordement HT du personnel STENA | Stena","headline":"Formation au raccordement HT du personnel STENA","author":{"@id":']
+TEXT: Formation – Décembre 2015 Formation au raccordement HT du personnel STENA. Laisser un commentaire Annuler la réponse Vous devez vous connecter pour publier un commentaire. Recherche pour : Recherche Articles récents Travaux sur éoliennes – 62000 Buire le sec Caserne Oudinot – Commercy Démarrage du chantier CLIMESPACE Galeries Lafayette Formation au raccordement HT du personnel STENA Démarrage Travaux Roland Garros Commentaires récents Archives novembre 2017 novembre 2016 janvier 2016 décembre 2015 novembre 2015 Catégories Non classé Méta Connexion Flux des publications Flux des commentaires Site de WordPress-FR
+
+=== fouquets-paris-75.html
+TITLE: Hôtel Fouquet’s Paris (75) | Stena
+META: Prestation de câblage et pose d'équipements pour le nouveau corner de vente de la ligne de parfums "Fouquet's" dans le hall de l’hôtel du renom le Fouquet's (75).Travaux réalisés pour la sociète LC CONCEPT.
+CANON: https://www.stena.fr/fouquets-paris-75/
+HEADINGS: [('h1', 'Hôtel  Fouquet’s Paris (75)')]
+IMG: 4 noalt=2
+WORDS: 37
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/fouquets-paris-75\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@typ']
+TEXT: Prestation de câblage et pose d’équipements pour le nouveau corner de vente de la ligne de parfums « Fouquet’s » dans le hall de l’hôtel du renom le Fouquet’s (75). Travaux réalisés pour la sociète LC CONCEPT.
+
+=== gymnase-fogel-st-nazaire-44.html
+TITLE: Gymnase Fogel St Nazaire (44) | Stena
+META: Réalisation d'un clef en main pour la société Fauché Automation.Installation électrique complète courant fort et courant faible dans le gymnase Fogel à Saint Nazaire (44).
+CANON: https://www.stena.fr/gymnase-fogel-st-nazaire-44/
+HEADINGS: [('h1', 'Gymnase Fogel  St Nazaire (44)')]
+IMG: 6 noalt=4
+WORDS: 26
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/gymnase-fogel-st-nazaire-44\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextIt']
+TEXT: Réalisation d’un clef en main pour la société Fauché Automation. Installation électrique complète courant fort et courant faible dans le gymnase Fogel à Saint Nazaire (44).
+
+=== ieg-a-edf-cordemais-44.html
+TITLE: Centrale EDF Cordemais (44) | Stena
+META: Réalisation de tirage de cable petite et grosse section sur la tranche 5 IEG à EDF Cordemais (44) pour la société CLEMESSY.Chantier similaire au projet Q600 au Havre.
+CANON: https://www.stena.fr/ieg-a-edf-cordemais-44/
+HEADINGS: [('h1', 'Centrale EDF Cordemais (44)')]
+IMG: 4 noalt=2
+WORDS: 29
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/ieg-a-edf-cordemais-44\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{']
+TEXT: Réalisation de tirage de cable petite et grosse section sur la tranche 5 IEG à EDF Cordemais (44) pour la société CLEMESSY. Chantier similaire au projet Q600 au Havre.
+
+=== juret-dun-ephad-mauron-56.html
+TITLE: EHPAD Mauron (56) | Stena
+META: Réalisation pour la société SPIE / Juret d'un EPHAD sur la commune de Mauron (56).Pose de chemin de câbleDistribution principale et secondairePose d'équipementsRaccordement d'armoires électriques.
+CANON: https://www.stena.fr/juret-dun-ephad-mauron-56/
+HEADINGS: [('h1', 'EHPAD Mauron (56)')]
+IMG: 4 noalt=2
+WORDS: 29
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/juret-dun-ephad-mauron-56\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem']
+TEXT: Réalisation pour la société SPIE / Juret d’un EPHAD sur la commune de Mauron (56). Pose de chemin de câble Distribution principale et secondaire Pose d’équipements Raccordement d’armoires électriques.
+
+=== les-chiffres.html
+TITLE: LES CHIFFRES | Stena
+META: 
+CANON: https://www.stena.fr/les-chiffres/
+HEADINGS: [('h1', 'LES CHIFFRES')]
+IMG: 2 noalt=0
+WORDS: 0
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/les-chiffres\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@type":"L']
+TEXT: 
+
+=== mentions-legales.html
+TITLE: Mentions légales | Stena
+META: Propriétaire du site Internet : Monsieur Pascal LEBRETON RUE DE LA POMMERAIE 44780 MISSILLAC Tél. : 02 40 88 42 19 Fax : 02 40 88 42 39 Editeur du site Internet Nexus Création : 3, rue Sétubal 60000 Beauvais www.nexus-creation.com Signes distinctifs : Le nom de domaine stena.fr appartient à Pascal LEBRETON. Hébergement du site : OVH SAS
+CANON: https://www.stena.fr/mentions-legales/
+HEADINGS: [('h1', 'Mentions légales')]
+IMG: 2 noalt=0
+WORDS: 161
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/mentions-legales\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@type']
+TEXT: Propriétaire du site Internet : Monsieur Pascal LEBRETON RUE DE LA POMMERAIE 44780 MISSILLAC Tél. : 02 40 88 42 19 Fax : 02 40 88 42 39 Editeur du site Internet Nexus Création : 3, rue Sétubal 60000 Beauvais www.nexus-creation.com Signes distinctifs : Le nom de domaine stena.fr appartient à Pascal LEBRETON. Hébergement du site : OVH SAS au capital de 10 059 500 € RCS Lille Métropole 424 761 419 00045 Code APE 6202A N° TVA : FR 22 424 761 419 Siège social : 2 rue Kellermann – 59100 Roubaix – France. Directeur de la publication : Octave KLABA Important : Les droits de propriété intellectuelle afférent au site stena.fr appartiennent à Monsieur Pascal LEBRETON. Toute utilisation, reproduction, diffusion, commercialisation, modification de toute ou partie du site, sans l’autorisation de Monsieur Pascal LEBRETON est prohibée et pourra entraînée des actions et poursuites judiciaires telles que notamment prévues par le code de la propriété intellectuelle et/ou le code civil.
+
+=== nos-realisations.html
+TITLE: Nos réalisations | Stena
+META: Bâteau Marion Dufresne Dunkerque (59)Bâteau Yersin Concarneau (29) Centrale EDF Cordemais (44) EHPAD Mauron (56)Gymnase Fogel St Nazaire (44)Hôtel Fouquet’s Paris (75) Pavillon 1924 Linas Monthlery (94) Site de Synutra Carhaix (29) STEP Carré de réunion St Cyr l’école (78)Zoo de Vincennes Vincennes (75)
+CANON: https://www.stena.fr/nos-realisations/
+HEADINGS: [('h1', 'Nos réalisations')]
+IMG: 12 noalt=0
+WORDS: 48
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/nos-realisations\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@type']
+TEXT: Bâteau Marion Dufresne Dunkerque (59) Bâteau Yersin Concarneau (29) Centrale EDF Cordemais (44) EHPAD Mauron (56) Gymnase Fogel St Nazaire (44) Hôtel Fouquet’s Paris (75) Pavillon 1924 Linas Monthlery (94) Site de Synutra Carhaix (29) STEP Carré de réunion St Cyr l’école (78) Zoo de Vincennes Vincennes (75)
+
+=== pavillon-1924-au-circuit-de-lina-montlheri-94.html
+TITLE: Pavillon 1924 Linas Monthlery (94) | Stena
+META: Réalisation d'un clef en main le "Pavillon 1924" au circuit de Linas Montlhery (94) pour la société FEE :Distribution principale et secondaire,Pose d'équipementsPose et raccordement d'armoire
+CANON: https://www.stena.fr/pavillon-1924-au-circuit-de-lina-montlheri-94/
+HEADINGS: [('h1', 'Pavillon 1924  Linas Monthlery (94)')]
+IMG: 4 noalt=2
+WORDS: 31
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/pavillon-1924-au-circuit-de-lina-montlheri-94\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www']
+TEXT: Réalisation d’un clef en main le « Pavillon 1924 » au circuit de Linas Montlhery (94) pour la société FEE : Distribution principale et secondaire, Pose d’équipements Pose et raccordement d’armoire
+
+=== pose-de-chemin-de-cables.html
+TITLE: Pose de chemin de câbles | Stena
+META: Grâce à une équipe d’électriciens «serruriers» très expérimentés nous réalisons à partir de vos plans, la préfabrication des supports, boulonnés ou soudés, destinés à tous types de parois : béton, acier, bois, terrasse. Nous posons tous les chemins de câbles : «cablofil», acier ou polyester par soudure ou boulonnage. Nous posons également les échelles à câbles et dalles autoportées, en respectant
+CANON: https://www.stena.fr/pose-de-chemin-de-cables/
+HEADINGS: [('h1', 'Pose de chemin de câbles')]
+IMG: 11 noalt=3
+WORDS: 153
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/pose-de-chemin-de-cables\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem"']
+TEXT: Grâce à une équipe d’électriciens «serruriers» très expérimentés nous réalisons à partir de vos plans, la préfabrication des supports, boulonnés ou soudés, destinés à tous types de parois : béton, acier, bois, terrasse. Nous posons tous les chemins de câbles : «cablofil», acier ou polyester par soudure ou boulonnage. Nous posons également les échelles à câbles et dalles autoportées, en respectant la règle L/5. Notre équipe est formée pour intervenir dans presque tous les sites (y compris poste EDF haute tension, zone amiantée et sites «SEVESO»). Nos compagnons sont qualifiés pour le montage d’échafaudage, la conduite des nacelles de toutes natures pour des interventions à 28 mètres de hauteur maxi. Enfin, nous apportons le plus grand soin à la pose des chemins de câbles afin de garantir un tirage de câbles de qualité. Nous pouvons ainsi intervenir à vos côtés dans les milieux tertiaires, industriels, navals, hospitaliers, agroalimentaires, commerciaux, amiantés et sites Seveso.
+
+=== pose-et-raccordement.html
+TITLE: Pose et raccordement | Stena
+META: Les équipes de STENA sont très expérimentées pour la pose et le raccordement de tous les équipements électriques. Elles interviennent selon vos plans et schémas.Dans tous les secteurs, nous posons les équipements électriques et les raccordons :Equipements «basiques» : prises, luminaires, détecteurs…Equipements de gestion de l’éclairage : DALI, KNX, RVE…Equipements de systèmes de sécurité : détection incendie, détection optique
+CANON: https://www.stena.fr/pose-et-raccordement/
+HEADINGS: [('h1', 'Pose et raccordement')]
+IMG: 11 noalt=3
+WORDS: 198
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/pose-et-raccordement\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@']
+TEXT: Les équipes de STENA sont très expérimentées pour la pose et le raccordement de tous les équipements électriques. Elles interviennent selon vos plans et schémas. Dans tous les secteurs, nous posons les équipements électriques et les raccordons : Equipements «basiques» : prises, luminaires, détecteurs… Equipements de gestion de l’éclairage : DALI, KNX, RVE… Equipements de systèmes de sécurité : détection incendie, détection optique de fumée, modules déportés, trappes de désenfumage… Equipements en milieu hospitalier : gaine tête de lit, appel malade, voyant signalisation et bloc porte. Equipements VDI avec recettage, contrôle d’accès, et système de guidage à la place de parking. Raccordement d’armoires, postes et cellules. Nous sommes aussi spécialisés dans le raccordement des sections allant jusqu’à 630 mm² en cuivre ou aluminium (y compris tête HT). Nous disposons de deux presses de sertissage, 12 tonnes et 20 tonnes ainsi que des jeux de matrices nécessaires à une réalisation respectant les règles de l’art (y compris serrage à la clé dynamométrique, application de vernis). Enfin, conformément à la réglementation, nos équipements sont étalonnés périodiquement par un organisme tiers. Nous pouvons ainsi intervenir à vos côtés dans les milieux tertiaires, industriels, navals, hospitaliers, agroalimentaires, commerciaux, amiantés et sites Seveso.
+
+=== presentation.html
+TITLE: Présentation | Stena
+META: Depuis sa création en 2005, STENA est dédiée uniquement à la sous-traitance en installation électrique auprès d’installateurs majeurs, régionaux, nationaux et européens. L’équipe de STENA a construit une offre performante et professionnelle qui constitue une excellente alternative à la réalisation en interne de vos chantiers d’installation électrique. Nos différents métiers : pose de chemins de câbles, tirage
+CANON: https://www.stena.fr/presentation/
+HEADINGS: [('h1', 'Présentation')]
+IMG: 9 noalt=0
+WORDS: 153
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/presentation\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@type":"L']
+TEXT: Depuis sa création en 2005, STENA est dédiée uniquement à la sous-traitance en installation électrique auprès d’installateurs majeurs, régionaux, nationaux et européens. L’équipe de STENA a construit une offre performante et professionnelle qui constitue une excellente alternative à la réalisation en interne de vos chantiers d’installation électrique. Nos différents métiers : pose de chemins de câbles, tirage de câbles et raccordement, font l’objet de formations permanentes du personnel et de nombreux investissements. STENA s’est aussi massivement investie dans une politique axée sur la Sécurité et la Qualité. Depuis Août 2015, l’entreprise est certifiée «QUALIFELEC». Cette démarche globale d’amélioration permanente garantit à nos clients une fiabilité, une productivité et une qualité optimales. Enfin, notre engagement est aussi de réduire les risques de nos clients et des maîtres d’ouvrage. En effet, tous les compagnons de Stena sont soumis au droit du travail français. L’entreprise n’a jamais recours à de la main d’œuvre détachée de l’UE.
+
+=== ressources-humaines-et-materielles.html
+TITLE: Ressources humaines et matérielles | Stena
+META: QUALIFICATIONSHabilitation électrique16 Caces 3B16 Travaux en hauteur, harnais6 SST7 SEI niveau 14 SEI niveau 24Amiante sous-section 45Pontier élingueur3Montage, démontage d'échafaudage2Atelier 300 m²18 véhiculesSertisseuses jusqu’à 630²Pinces RJ45Pinces à emboutsPinces IsolecPerforateursMeuleusesVisseusesCloueusesPostes de souduresPistolet sur percheChaufferettes8 aiguilles de tirage jusqu’à 320 m5 verrins jusqu’à 12 tTreuil 3 t2 cabestans 1,7 tChandellesDérouleusesPiedsGaletsÉchafaudagesNacelles tous typesChariots élévateursCompresseurTraceur couleur AO
+CANON: https://www.stena.fr/ressources-humaines-et-materielles/
+HEADINGS: [('h1', 'Ressources humaines et matérielles')]
+IMG: 7 noalt=0
+WORDS: 92
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/ressources-humaines-et-materielles\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr",']
+TEXT: QUALIFICATIONS Habilitation électrique 16 Caces 3B 16 Travaux en hauteur, harnais 6 SST 7 SEI niveau 1 4 SEI niveau 2 4 Amiante sous-section 4 5 Pontier élingueur 3 Montage, démontage d’échafaudage 2 Atelier 300 m² 18 véhicules Sertisseuses jusqu’à 630² Pinces RJ45 Pinces à embouts Pinces Isolec Perforateurs Meuleuses Visseuses Cloueuses Postes de soudures Pistolet sur perche Chaufferettes 8 aiguilles de tirage jusqu’à 320 m 5 verrins jusqu’à 12 t Treuil 3 t 2 cabestans 1,7 t Chandelles Dérouleuses Pieds Galets Échafaudages Nacelles tous types Chariots élévateurs Compresseur Traceur couleur AO
+
+=== site-de-synutra-carhaix-29.html
+TITLE: Site de Synutra Carhaix (29) | Stena
+META: Prestation de tirage de câble courant fort et courant faible sur le site de Synutra à Carhaix (29).Travaux pour la société OET.
+CANON: https://www.stena.fr/site-de-synutra-carhaix-29/
+HEADINGS: [('h1', 'Site de Synutra Carhaix (29)')]
+IMG: 4 noalt=2
+WORDS: 23
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/site-de-synutra-carhaix-29\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextIte']
+TEXT: Prestation de tirage de câble courant fort et courant faible sur le site de Synutra à Carhaix (29). Travaux pour la société OET.
+
+=== texte-accueil.html
+TITLE: Texte accueil | Stena
+META: Le professionnel du tirage de câbles, chemin de câbles, pose et raccordement Stena est une société dédiée exclusivement à la sous-traitance auprès des grands installateurs électriques. Depuis 2005, Stena réalise des chantiers dans les domaines industriel, naval, tertiaire, centre hospitalier, agroalimentaire, locaux agencés, site SEVESO et en zone amiantée.
+CANON: https://www.stena.fr/texte-accueil/
+HEADINGS: [('h1', 'Texte accueil'), ('h1', 'Le professionnel du tirage de câbles, chemin de câbles, pose et raccordement')]
+IMG: 2 noalt=0
+WORDS: 49
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/texte-accueil\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@type":"']
+TEXT: Le professionnel du tirage de câbles, chemin de câbles, pose et raccordement Stena est une société dédiée exclusivement à la sous-traitance auprès des grands installateurs électriques. Depuis 2005, Stena réalise des chantiers dans les domaines industriel, naval, tertiaire, centre hospitalier, agroalimentaire, locaux agencés, site SEVESO et en zone amiantée.
+
+=== tirage-de-cables.html
+TITLE: Tirage de câbles | Stena
+META: Cœur de métier historique de l’entreprise, nos équipes expérimentées et motivées interviennent pour tous types de tirage de câbles et dans tous les contextes (sauf aérien) :Sur chemin de câble, échelle à câbles, dalle marine, à plat ou à champ : Les câbles sont attachés à distance régulière par des colliers de serrage fournis par nos soins (selon
+CANON: https://www.stena.fr/tirage-de-cables/
+HEADINGS: [('h1', 'Tirage de câbles')]
+IMG: 11 noalt=3
+WORDS: 192
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/tirage-de-cables\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@type']
+TEXT: Cœur de métier historique de l’entreprise, nos équipes expérimentées et motivées interviennent pour tous types de tirage de câbles et dans tous les contextes (sauf aérien) : Sur chemin de câble, échelle à câbles, dalle marine, à plat ou à champ : Les câbles sont attachés à distance régulière par des colliers de serrage fournis par nos soins (selon contrat), tout en respectant la pose en trèfles pour les câbles de forte puissance. En fourreaux, avec pré aiguillage ou sans, à l’aide d’aiguille en fibre ou d’un compresseur pneumatique avec furet. Pour le tirage de grosses sections nous disposons d’un porte touret 2 tonnes, de 2 cabestans thermiques, d’un treuil 3.5 tonnes ainsi que de tout l’équipement nécessaire à la protection des personnes et de l’environnement. Notre équipe est formée pour intervenir dans presque tous les sites (y compris poste EDF haute tension, zone amiantée et sites «SEVESO»). Nos compagnons sont qualifiés pour le montage d’échafaudage, la conduite des nacelles de toutes natures pour des interventions à 28 mètres de hauteur maxi. Nous pouvons ainsi intervenir à vos côtés dans les milieux tertiaires, industriels, navals, hospitaliers, agroalimentaires, commerciaux, amiantés et sites Seveso.
+
+=== travaux-sur-eoliennes-62000-buire-le-sec.html
+TITLE: Travaux sur éoliennes – 62000 Buire le sec | Stena
+META: Travaux sur éoliennes - 62000 Buire le sec Travaux de raccordement pour la société Techinter. Raccordement grosse section partie BT au pied de l'éolienne.
+CANON: https://www.stena.fr/travaux-sur-eoliennes-62000-buire-le-sec/
+HEADINGS: [('h1', 'Travaux sur éoliennes – 62000 Buire le sec'), ('h2', 'Laisser un commentaire Annuler la réponse'), ('h2', 'Navigation de l’article'), ('h2', 'Articles récents'), ('h2', 'Commentaires récents'), ('h2', 'Archives'), ('h2', 'Catégories'), ('h2', 'Méta')]
+IMG: 4 noalt=1
+WORDS: 100
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"Article","@id":"https:\\/\\/www.stena.fr\\/travaux-sur-eoliennes-62000-buire-le-sec\\/#article","name":"Travaux sur \\u00e9oliennes \\u2013 62000 Buire le sec | Stena","headline":"Travaux sur \\u00e9oliennes &#8211; 62000 Buire le sec","author":{"@']
+TEXT: Travaux sur éoliennes – 62000 Buire le sec Travaux de raccordement pour la société Techinter. Raccordement grosse section partie BT au pied de l’éolienne. Laisser un commentaire Annuler la réponse Vous devez vous connecter pour publier un commentaire. Recherche pour : Recherche Articles récents Travaux sur éoliennes – 62000 Buire le sec Caserne Oudinot – Commercy Démarrage du chantier CLIMESPACE Galeries Lafayette Formation au raccordement HT du personnel STENA Démarrage Travaux Roland Garros Commentaires récents Archives novembre 2017 novembre 2016 janvier 2016 décembre 2015 novembre 2015 Catégories Non classé Méta Connexion Flux des publications Flux des commentaires Site de WordPress-FR
+
+=== yersin-concarneau-29.html
+TITLE: Bâteau Yersin Concarneau (29) | Stena
+META: Réhabilitation des locaux vie sur le Yersin au port de Concarneau ( 29 ) :Tirage de câblePose d'équipementsRaccordement d'armoire et gestion d'éclairageTravaux pour la société LC Concept.
+CANON: https://www.stena.fr/yersin-concarneau-29/
+HEADINGS: [('h1', 'Bâteau Yersin  Concarneau (29)')]
+IMG: 3 noalt=1
+WORDS: 31
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/yersin-concarneau-29\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","nextItem":{"@']
+TEXT: Réhabilitation des locaux vie sur le Yersin au port de Concarneau ( 29 ) : Tirage de câble Pose d’équipements Raccordement d’armoire et gestion d’éclairage Travaux pour la société LC Concept.
+
+=== zone-process-la-step-carre-de-reunion-78.html
+TITLE: STEP Carré de réunion St Cyr l’école (78) | Stena
+META: Réalisation de tirage de câble,Pose de Cdc PVCRaccordement de grosses sectionsCâblage de raccordement de zone process à la STEP Carré de Réunion (78) Travaux pour la société SPIE/Juret.
+CANON: https://www.stena.fr/zone-process-la-step-carre-de-reunion-78/
+HEADINGS: [('h1', 'STEP Carré de réunion St Cyr l’école (78)')]
+IMG: 6 noalt=4
+WORDS: 31
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/zone-process-la-step-carre-de-reunion-78\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.sten']
+TEXT: Réalisation de tirage de câble, Pose de Cdc PVC Raccordement de grosses sections Câblage de raccordement de zone process à la STEP Carré de Réunion (78) Travaux pour la société SPIE/Juret.
+
+=== zoo-de-vincennes-vincennes-75.html
+TITLE: Zoo de Vincennes Vincennes (75) | Stena
+META: Réalisation et câblage des CTA pour la serre tropicale dans le zoo de Vincennes ( 75 ).Travaux pour la société FEE.
+CANON: https://www.stena.fr/zoo-de-vincennes-vincennes-75/
+HEADINGS: [('h1', 'Zoo de Vincennes Vincennes (75)')]
+IMG: 6 noalt=4
+WORDS: 22
+LD: ['\n\t\t\t{"@context":"https:\\/\\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\\/\\/www.stena.fr\\/zoo-de-vincennes-vincennes-75\\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\\/\\/www.stena.fr#listItem","position":1,"name":"Accueil","item":"https:\\/\\/www.stena.fr","next']
+TEXT: Réalisation et câblage des CTA pour la serre tropicale dans le zoo de Vincennes ( 75 ). Travaux pour la société FEE.
+
