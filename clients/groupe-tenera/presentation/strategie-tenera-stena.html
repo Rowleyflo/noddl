@@ -1,0 +1,464 @@
+<title>Stratégie Tenera &amp; Stena</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout : colonne de lecture unique, sections séparées par une « gaine » de câble colorée ; Tenera = indigo, Stena = cuivre */
+:root {
+  --bg: #F4F5F7;
+  --surface: #FFFFFF;
+  --ink: #14171C;
+  --muted: #586070;
+  --line: #D9DDE4;
+  --tenera: #3A3EB0;
+  --tenera-soft: #E7E8FA;
+  --stena: #A9551F;
+  --stena-soft: #F8E9DE;
+  --ok: #2B7A4B;
+  --warn: #9A6410;
+  --bad: #B0362D;
+  --c-brown: #7A4A26; --c-black: #1E2126; --c-grey: #8C9199; --c-blue: #2F64B8; --c-green: #3E9A45; --c-yellow: #E3C22B;
+  --f-display: "Archivo", "Arial Narrow", system-ui, sans-serif;
+  --f-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0F1216; --surface: #171B21; --ink: #E7EAEF; --muted: #9AA2B0; --line: #2A3039;
+    --tenera: #A3A6F5; --tenera-soft: #23254A; --stena: #E79A63; --stena-soft: #3A2516;
+    --ok: #71C493; --warn: #E3B35C; --bad: #EE8077; --c-black: #4A4F57;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0F1216; --surface: #171B21; --ink: #E7EAEF; --muted: #9AA2B0; --line: #2A3039;
+  --tenera: #A3A6F5; --tenera-soft: #23254A; --stena: #E79A63; --stena-soft: #3A2516;
+  --ok: #71C493; --warn: #E3B35C; --bad: #EE8077; --c-black: #4A4F57;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink);
+  font: 400 1rem/1.6 var(--f-body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 4rem;
+}
+.wrap { max-width: 980px; margin: 0 auto; }
+h1, h2, h3 { font-family: var(--f-display); text-wrap: balance; line-height: 1.12; margin: 0; }
+h1 { font-size: clamp(2.2rem, 6vw, 3.6rem); font-weight: 800; font-stretch: 80%; letter-spacing: -0.01em; }
+h2 { font-size: clamp(1.6rem, 3.6vw, 2.2rem); font-weight: 750; font-stretch: 85%; }
+h3 { font-size: 1.15rem; font-weight: 700; font-stretch: 95%; }
+p { margin: 0; }
+.lede { font-size: 1.15rem; color: var(--muted); max-width: 62ch; }
+.prose { max-width: 66ch; color: var(--muted); }
+code, .mono { font-family: var(--f-mono); font-size: 0.88em; }
+a { color: var(--tenera); }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--tenera); outline-offset: 2px; }
+
+/* Bande de câble : les couleurs de conducteurs NF C 15-100 */
+.cable { display: flex; height: 8px; border-radius: 4px; overflow: hidden; }
+.cable span { flex: 1; }
+.cable .br { background: var(--c-brown); } .cable .bk { background: var(--c-black); } .cable .gr { background: var(--c-grey); }
+.cable .bl { background: var(--c-blue); }
+.cable .gy { background: repeating-linear-gradient(90deg, var(--c-green) 0 14px, var(--c-yellow) 14px 28px); }
+
+/* Repère de section façon manchon de marquage */
+.marker {
+  display: inline-flex; align-items: center; gap: .5rem;
+  font: 500 .74rem/1 var(--f-mono); letter-spacing: .08em; text-transform: uppercase;
+  color: var(--muted); border: 1px solid var(--line); background: var(--surface);
+  padding: .4rem .6rem; border-radius: 3px;
+}
+.marker i { width: 10px; height: 10px; border-radius: 2px; background: var(--c-blue); display: inline-block; }
+
+header.hero { padding-block: 3.5rem 2.5rem; display: grid; gap: 1.4rem; }
+.byline { font: 500 .85rem/1.4 var(--f-mono); color: var(--muted); display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; }
+.thesis { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; margin-top: .6rem; }
+.q { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1.1rem 1.2rem; display: grid; gap: .4rem; min-width: 0; }
+.q .who { font: 600 .78rem/1 var(--f-mono); letter-spacing: .06em; text-transform: uppercase; }
+.q.t { border-top: 4px solid var(--tenera); } .q.t .who { color: var(--tenera); }
+.q.s { border-top: 4px solid var(--stena); } .q.s .who { color: var(--stena); }
+.q p.big { font-family: var(--f-display); font-stretch: 90%; font-weight: 650; font-size: 1.2rem; line-height: 1.3; }
+
+nav.toc { display: flex; flex-wrap: wrap; gap: .4rem; padding-block: .6rem 0; }
+nav.toc a { font: 500 .85rem/1 var(--f-body); color: var(--ink); text-decoration: none; padding: .5rem .7rem; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); }
+nav.toc a:hover { border-color: var(--tenera); }
+
+section { padding-block: 3.2rem 0; display: grid; gap: 1.4rem; }
+section > .cable { margin-bottom: .6rem; opacity: .9; }
+.head { display: grid; gap: .7rem; }
+
+/* Constat */
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+.stat { background: var(--surface); padding: 1rem 1.1rem; display: grid; gap: .25rem; align-content: start; min-width: 0; }
+.stat b { font: 750 1.9rem/1 var(--f-display); font-stretch: 80%; font-variant-numeric: tabular-nums; }
+.stat span { color: var(--muted); font-size: .92rem; }
+.stat.bad b { color: var(--bad); } .stat.ok b { color: var(--ok); } .stat.warn b { color: var(--warn); }
+
+.callout { border-left: 3px solid var(--stena); background: var(--stena-soft); padding: 1rem 1.2rem; border-radius: 0 6px 6px 0; max-width: 72ch; }
+.callout.t { border-left-color: var(--tenera); background: var(--tenera-soft); }
+
+/* Architecture */
+.arch { display: grid; gap: 1rem; }
+.node { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1.1rem 1.2rem; display: grid; gap: .5rem; min-width: 0; }
+.node .dom { font: 500 .82rem/1 var(--f-mono); color: var(--muted); }
+.node.t { border-color: var(--tenera); box-shadow: inset 0 4px 0 var(--tenera); }
+.node.s { box-shadow: inset 0 4px 0 var(--stena); }
+.node.l { box-shadow: inset 0 4px 0 var(--c-grey); }
+.node ul { margin: 0; padding-left: 1.1rem; color: var(--muted); font-size: .95rem; }
+.trunk { height: 28px; position: relative; }
+.trunk::before { content: ""; position: absolute; left: 50%; top: 0; bottom: 0; border-left: 2px dashed var(--line); }
+.kids { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+.tag { display: inline-block; font: 600 .7rem/1 var(--f-mono); letter-spacing: .05em; text-transform: uppercase; padding: .3rem .45rem; border-radius: 3px; background: var(--bg); color: var(--muted); border: 1px solid var(--line); }
+
+table { width: 100%; border-collapse: collapse; font-size: .93rem; }
+.tbl { overflow-x: auto; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); }
+th, td { text-align: left; padding: .7rem .9rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font: 600 .75rem/1.2 var(--f-mono); letter-spacing: .05em; text-transform: uppercase; color: var(--muted); background: var(--bg); }
+tr:last-child td { border-bottom: 0; }
+td .mono { white-space: nowrap; }
+.dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: .4rem; vertical-align: middle; }
+.dot.t { background: var(--tenera); } .dot.s { background: var(--stena); } .dot.l { background: var(--c-grey); }
+
+/* Sélecteur de site */
+.switch { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); padding: 3px; gap: 3px; flex-wrap: wrap; }
+.switch button { font: 600 .9rem/1 var(--f-body); border: 0; background: transparent; color: var(--muted); padding: .6rem 1rem; border-radius: 4px; cursor: pointer; }
+.switch button[aria-pressed="true"][data-site="tenera"] { background: var(--tenera); color: var(--surface); }
+.switch button[aria-pressed="true"][data-site="stena"] { background: var(--stena); color: var(--surface); }
+
+.kw { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; }
+.kwcard { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1rem 1.1rem; display: grid; gap: .6rem; align-content: start; min-width: 0; }
+.kwcard .page { font: 500 .8rem/1 var(--f-mono); color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: .35rem; }
+.chip { font-size: .85rem; padding: .3rem .55rem; border-radius: 3px; border: 1px solid var(--line); background: var(--bg); }
+.site-tenera .chip { border-color: color-mix(in srgb, var(--tenera) 35%, var(--line)); }
+.site-stena .chip { border-color: color-mix(in srgb, var(--stena) 35%, var(--line)); }
+
+.tree { font-family: var(--f-mono); font-size: .88rem; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1rem 1.1rem; overflow-x: auto; }
+.tree ul { list-style: none; margin: 0; padding-left: 1.2rem; border-left: 1px solid var(--line); }
+.tree > ul { padding-left: 0; border-left: 0; }
+.tree li { padding: .28rem 0; white-space: nowrap; }
+.tree li .lbl { font-family: var(--f-body); color: var(--muted); margin-left: .5rem; }
+.st { font: 600 .68rem/1 var(--f-mono); padding: .2rem .35rem; border-radius: 3px; margin-left: .45rem; text-transform: uppercase; letter-spacing: .04em; }
+.st.new { background: var(--tenera-soft); color: var(--tenera); }
+.st.keep { background: color-mix(in srgb, var(--ok) 15%, transparent); color: var(--ok); }
+.st.redo { background: var(--stena-soft); color: var(--stena); }
+
+/* GEO */
+.identity { display: grid; gap: 1rem; }
+blockquote { margin: 0; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1.1rem 1.3rem; font-size: 1.02rem; display: grid; gap: .5rem; }
+blockquote .who { font: 600 .75rem/1 var(--f-mono); letter-spacing: .06em; text-transform: uppercase; }
+blockquote.t .who { color: var(--tenera); } blockquote.s .who { color: var(--stena); }
+.homonyms { display: flex; flex-wrap: wrap; gap: .4rem; }
+.homonyms span { font-size: .85rem; padding: .3rem .55rem; border-radius: 3px; background: color-mix(in srgb, var(--bad) 10%, transparent); color: var(--bad); text-decoration: line-through; text-decoration-thickness: 1px; }
+
+.levers { display: grid; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); gap: 1rem; }
+.lever { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1.1rem 1.2rem; display: grid; gap: .6rem; align-content: start; min-width: 0; }
+.lever.strong { border-color: var(--tenera); }
+.lever ul { margin: 0; padding-left: 1.1rem; color: var(--muted); font-size: .94rem; display: grid; gap: .3rem; }
+.lever .weight { font: 600 .72rem/1 var(--f-mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.lever.strong .weight { color: var(--tenera); }
+.example { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+.example > div { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1rem 1.1rem; display: grid; gap: .4rem; min-width: 0; }
+.example .verdict { font: 600 .72rem/1 var(--f-mono); letter-spacing: .06em; text-transform: uppercase; }
+.example .no .verdict { color: var(--bad); } .example .yes .verdict { color: var(--ok); }
+
+/* Feuille de route */
+.road { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; counter-reset: step; }
+.phase { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1.1rem 1.2rem; display: grid; gap: .6rem; align-content: start; min-width: 0; }
+.phase .when { font: 600 .78rem/1 var(--f-mono); color: var(--muted); letter-spacing: .04em; }
+.phase ul { margin: 0; padding-left: 1.1rem; color: var(--muted); font-size: .94rem; display: grid; gap: .3rem; }
+
+.prompts { display: grid; gap: .5rem; counter-reset: p; padding: 0; margin: 0; list-style: none; }
+.prompts li { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: .7rem 1rem; display: flex; gap: .8rem; align-items: baseline; }
+.prompts li::before { counter-increment: p; content: counter(p); font: 600 .8rem/1 var(--f-mono); color: var(--muted); min-width: 1.2rem; }
+
+.decide { display: grid; gap: .7rem; }
+.decide div { display: grid; grid-template-columns: auto 1fr; gap: .9rem; align-items: start; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: .9rem 1.1rem; }
+.decide .flag { font: 600 .7rem/1 var(--f-mono); padding: .32rem .45rem; border-radius: 3px; background: color-mix(in srgb, var(--warn) 15%, transparent); color: var(--warn); text-transform: uppercase; letter-spacing: .05em; white-space: nowrap; }
+.decide p { color: var(--muted); }
+.decide p b { color: var(--ink); }
+
+footer { margin-top: 3.5rem; display: grid; gap: 1rem; color: var(--muted); font-size: .9rem; }
+
+@media (max-width: 640px) {
+  .kids, .example { grid-template-columns: 1fr; }
+  .trunk { height: 18px; }
+  header.hero { padding-block: 2.2rem 1.6rem; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .switch button { transition: background .15s, color .15s; }
+}
+</style>
+
+<div class="wrap">
+
+<header class="hero">
+  <div class="byline"><span>noddl · stratégie digitale</span><span>Groupe Tenera</span><span>Octobre 2026</span></div>
+  <h1>Tenera et Stena&nbsp;: deux sites, deux questions, une seule entité à faire reconnaître</h1>
+  <p class="lede">La stratégie SEO et GEO du site mère Tenera, à créer, et du site de la filiale Stena, à refondre. Chaque site répond à une question différente, et les deux se renforcent sans jamais se faire concurrence.</p>
+  <div class="cable" aria-hidden="true"><span class="br"></span><span class="bk"></span><span class="gr"></span><span class="bl"></span><span class="gy"></span></div>
+  <div class="thesis">
+    <div class="q t"><span class="who">Tenera · holding</span><p class="big">« Qui est derrière ces entreprises, et ce groupe est-il assez solide pour mon projet&nbsp;? »</p><p class="prose">Pour les acheteurs de grands comptes, les banques, les dirigeants qui veulent céder et les candidats.</p></div>
+    <div class="q s"><span class="who">Stena · filiale</span><p class="big">« Qui peut tirer mes câbles, poser mes chemins de câbles et raccorder mes armoires, sur ce type de site&nbsp;? »</p><p class="prose">Pour les chargés d'affaires des grands installateurs et des chantiers navals.</p></div>
+  </div>
+  <nav class="toc" aria-label="Sommaire">
+    <a href="#constat">Le constat</a><a href="#architecture">Architecture</a><a href="#requetes">Requêtes</a><a href="#arborescence">Arborescences</a><a href="#geo">GEO</a><a href="#migration">Migration</a><a href="#feuille-de-route">Feuille de route</a><a href="#decisions">Décisions</a>
+  </nav>
+</header>
+
+<section id="constat">
+  <div class="cable" aria-hidden="true"><span class="br"></span><span class="bk"></span><span class="gr"></span><span class="bl"></span><span class="gy"></span></div>
+  <div class="head">
+    <span class="marker"><i style="background:var(--stena)"></i>Audit stena.fr · 30/10/2026</span>
+    <h2>Un savoir-faire précis, un site qui ne le montre plus</h2>
+    <p class="prose">Les 31 URL du site et la plaquette de 2015 ont été relevées. Le fond est solide&nbsp;: sections, hauteurs, zones à risques, références prestigieuses. La forme a dix ans.</p>
+  </div>
+  <div class="stats">
+    <div class="stat bad"><b>0</b><span>balise viewport&nbsp;: le site ne s'adapte pas aux mobiles, alors que Google indexe en version mobile</span></div>
+    <div class="stat bad"><b>2017</b><span>dernière publication. Un acheteur qui voit « Actualités 2016 » croit l'entreprise en sommeil</span></div>
+    <div class="stat warn"><b>198</b><span>mots sur la page la plus longue. Les fiches chantier en font 22 à 52</span></div>
+    <div class="stat warn"><b>21 / 27</b><span>images sans texte alternatif sur l'accueil, dont tous les logos clients</span></div>
+    <div class="stat bad"><b>2016</b><span>fin de validité de l'attestation Qualifelec encore en téléchargement</span></div>
+    <div class="stat ok"><b>22</b><span>chantiers réutilisables, dont CHU de Nantes et de Caen, EDF Cordemais, raffinerie de Donges</span></div>
+  </div>
+  <div class="callout">
+    <p><b>Ce qu'il faut préserver&nbsp;:</b> un domaine ancien et des URL de métier propres (<code>/tirage-de-cables/</code>, <code>/pose-de-chemin-de-cables/</code>, <code>/pose-et-raccordement/</code>). On les garde telles quelles. Les arguments différenciants (100&nbsp;% sous-traitance, aucun travail détaché, amiante SS4, Seveso, ATEX, sertissage jusqu'à 630&nbsp;mm²) sont enterrés dans des pages secondaires&nbsp;: ils remontent en accueil.</p>
+  </div>
+</section>
+
+<section id="architecture">
+  <div class="cable" aria-hidden="true"><span class="br"></span><span class="bk"></span><span class="gr"></span><span class="bl"></span><span class="gy"></span></div>
+  <div class="head">
+    <span class="marker"><i style="background:var(--tenera)"></i>Architecture multi-sites</span>
+    <h2>Un site par entité, chacun sur son domaine</h2>
+    <p class="prose">stena.fr n'est pas fondu dans un sous-dossier de Tenera&nbsp;: on perdrait son ancienneté, et Stena est la marque que connaissent les chargés d'affaires. Le groupe se lit à travers des liens et des données structurées réciproques.</p>
+  </div>
+  <div class="arch">
+    <div class="node t">
+      <span class="dom">tenera.fr · domaine à confirmer</span>
+      <h3>Tenera, la vitrine du groupe</h3>
+      <ul><li>Rassure les grands comptes et les banques</li><li>Fait venir les prochains rachats</li><li>Porte la marque employeur et les actualités</li><li>Ne vise aucune requête métier</li></ul>
+    </div>
+    <div class="trunk" aria-hidden="true"></div>
+    <div class="kids">
+      <div class="node s">
+        <span class="dom">stena.fr · refonte</span>
+        <h3>Stena, électricité industrielle et navale</h3>
+        <ul><li>Vend ses trois métiers</li><li>Prouve par les chantiers</li><li>Capte le recrutement</li></ul>
+      </div>
+      <div class="node l">
+        <span class="dom">site LC Concept · seconde passe</span>
+        <h3>LC Concept, éclairage architectural</h3>
+        <ul><li>Navires et lieux de prestige</li><li>Déjà donneur d'ordre de Stena (Marion Dufresne, Yersin, Fouquet's)</li></ul>
+      </div>
+    </div>
+  </div>
+  <div class="tbl">
+    <table>
+      <thead><tr><th>Lien</th><th>Où</th><th>Pourquoi</th></tr></thead>
+      <tbody>
+        <tr><td><span class="dot t"></span>Tenera → <span class="dot s"></span>Stena</td><td>Carte filiale, page <code>/nos-entreprises/stena/</code>, références</td><td>Envoie les visiteurs vers les pages métier, avec des ancres descriptives</td></tr>
+        <tr><td><span class="dot s"></span>Stena → <span class="dot t"></span>Tenera</td><td>Pied de page « Une entreprise du groupe Tenera », page présentation</td><td>Rattache la filiale au groupe pour les moteurs comme pour les acheteurs</td></tr>
+        <tr><td><span class="dot s"></span>Stena ↔ <span class="dot l"></span>LC Concept</td><td>Fiches chantier communes, page secteur naval</td><td>Rend visible l'offre « électricité + éclairage d'un même navire »</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="callout t"><p><b>Règle anti-doublon&nbsp;:</b> la page Stena du site Tenera fait 300 à 400 mots écrits pour Tenera. Une référence présente sur les deux sites n'a qu'une fiche complète, chez Stena&nbsp;; Tenera en affiche un résumé de deux lignes avec un lien.</p></div>
+</section>
+
+<section id="requetes">
+  <div class="cable" aria-hidden="true"><span class="br"></span><span class="bk"></span><span class="gr"></span><span class="bl"></span><span class="gy"></span></div>
+  <div class="head">
+    <span class="marker"><i></i>Répartition des requêtes</span>
+    <h2>Chaque requête a un seul propriétaire</h2>
+    <p class="prose">Ce sont des hypothèses de travail sur des niches B2B à faible volume. Elles seront validées avec un outil de mots-clés et la Search Console de stena.fr.</p>
+  </div>
+  <div class="switch" role="group" aria-label="Choisir le site">
+    <button type="button" id="kw-tenera" data-site="tenera" aria-pressed="true">Tenera</button>
+    <button type="button" id="kw-stena" data-site="stena" aria-pressed="false">Stena</button>
+  </div>
+  <div class="kw site-tenera" data-panel="tenera">
+    <div class="kwcard"><h3>Marque</h3><span class="page">/</span><div class="chips"><span class="chip">groupe tenera</span><span class="chip">tenera stena</span><span class="chip">tenera lc concept</span></div></div>
+    <div class="kwcard"><h3>Solidité, grands comptes</h3><span class="page">/le-groupe/ · /savoir-faire/</span><div class="chips"><span class="chip">groupe électricité industrielle et navale</span><span class="chip">électricité et éclairage navire</span><span class="chip">groupe sous-traitance électrique Grand Ouest</span></div></div>
+    <div class="kwcard"><h3>Cédants</h3><span class="page">/rejoindre-le-groupe/</span><div class="chips"><span class="chip">vendre son entreprise d'électricité</span><span class="chip">transmission PME électricité</span><span class="chip">repreneur entreprise électrique</span></div></div>
+    <div class="kwcard"><h3>Emploi</h3><span class="page">/carrieres/</span><div class="chips"><span class="chip">tenera recrutement</span><span class="chip">groupe tenera emploi</span></div></div>
+  </div>
+  <div class="kw site-stena" data-panel="stena" hidden>
+    <div class="kwcard"><h3>Tirage</h3><span class="page">/tirage-de-cables/</span><div class="chips"><span class="chip">tirage de câbles</span><span class="chip">sous-traitant tirage de câbles</span><span class="chip">tirage câble grosse section</span><span class="chip">tirage en fourreau</span></div></div>
+    <div class="kwcard"><h3>Supports</h3><span class="page">/pose-de-chemin-de-cables/</span><div class="chips"><span class="chip">pose de chemin de câbles</span><span class="chip">pose échelle à câbles</span><span class="chip">préfabrication supports</span></div></div>
+    <div class="kwcard"><h3>Raccordement</h3><span class="page">/pose-et-raccordement/</span><div class="chips"><span class="chip">raccordement armoire électrique</span><span class="chip">sertissage 630 mm²</span><span class="chip">raccordement cellule HT</span></div></div>
+    <div class="kwcard"><h3>Positionnement</h3><span class="page">/</span><div class="chips"><span class="chip">sous-traitance électricité</span><span class="chip">sous-traitant électricité industrielle</span><span class="chip">sous-traitant CFO CFA</span></div></div>
+    <div class="kwcard"><h3>Secteurs</h3><span class="page">/secteurs/…</span><div class="chips"><span class="chip">électricité navale</span><span class="chip">électricien zone amiantée SS4</span><span class="chip">travaux électriques Seveso</span><span class="chip">électricité ATEX</span><span class="chip">électricité CHU</span></div></div>
+    <div class="kwcard"><h3>Emploi</h3><span class="page">/recrutement/</span><div class="chips"><span class="chip">emploi électricien Saint-Nazaire</span><span class="chip">offre tireur de câbles</span><span class="chip">électricien industriel Loire-Atlantique</span></div></div>
+  </div>
+  <div class="callout"><p><b>Pas de pages « ville » en masse pour Stena.</b> Les clients se comptent en dizaines&nbsp;: ce serait du contenu mince. La géographie passe par les fiches chantier localisées et une zone d'intervention écrite en toutes lettres. Le recrutement est probablement le plus gros volume de recherche du groupe&nbsp;: il a ses propres pages, balisées pour Google Jobs.</p></div>
+</section>
+
+<section id="arborescence">
+  <div class="cable" aria-hidden="true"><span class="br"></span><span class="bk"></span><span class="gr"></span><span class="bl"></span><span class="gy"></span></div>
+  <div class="head">
+    <span class="marker"><i></i>Arborescences</span>
+    <h2>Ce qui se crée, ce qui se garde, ce qui se refond</h2>
+  </div>
+  <div class="switch" role="group" aria-label="Choisir le site">
+    <button type="button" id="tree-tenera" data-site="tenera" aria-pressed="true">Tenera</button>
+    <button type="button" id="tree-stena" data-site="stena" aria-pressed="false">Stena</button>
+  </div>
+  <div class="tree" data-panel="tenera">
+    <ul>
+      <li>/ <span class="st new">nouveau</span><span class="lbl">Accueil : entités, chiffres consolidés, filiales</span></li>
+      <li>/le-groupe/ <span class="st new">nouveau</span><span class="lbl">Vision, dirigeants, encadré « en bref »</span></li>
+      <li>/nos-entreprises/ <span class="st new">nouveau</span><span class="lbl">Hub, prêt pour les prochains rachats</span>
+        <ul><li>/stena/ <span class="st new">nouveau</span></li><li>/lc-concept/ <span class="st new">nouveau</span></li></ul>
+      </li>
+      <li>/savoir-faire/ <span class="st new">nouveau</span><span class="lbl">Naval, industrie et énergie, tertiaire et santé</span></li>
+      <li>/references/ <span class="st new">nouveau</span><span class="lbl">Sélection, liens vers les fiches des filiales</span></li>
+      <li>/rejoindre-le-groupe/ <span class="st new">nouveau</span><span class="lbl">Dirigeants qui préparent leur transmission</span></li>
+      <li>/carrieres/ <span class="st new">nouveau</span><span class="lbl">Marque employeur, offres chez les filiales</span></li>
+      <li>/actualites/ <span class="st new">nouveau</span><span class="lbl">Blog IA, 1 article par mois relu par le groupe</span></li>
+      <li>/contact/ <span class="st new">nouveau</span></li>
+    </ul>
+  </div>
+  <div class="tree" data-panel="stena" hidden>
+    <ul>
+      <li>/ <span class="st redo">refonte</span><span class="lbl">Sous-traitant, chiffres, arguments, chantiers datés</span></li>
+      <li>/tirage-de-cables/ <span class="st keep">URL gardée</span></li>
+      <li>/pose-de-chemin-de-cables/ <span class="st keep">URL gardée</span></li>
+      <li>/pose-et-raccordement/ <span class="st keep">URL gardée</span></li>
+      <li>/secteurs/ <span class="st new">nouveau</span>
+        <ul><li>/naval/ <span class="st new">nouveau</span><span class="lbl">Après collecte de chantiers récents</span></li><li>/industrie-energie/ <span class="st new">nouveau</span></li><li>/sante/ <span class="st new">nouveau</span></li><li>/tertiaire/ <span class="st new">nouveau</span></li><li>/sites-sensibles/ <span class="st new">nouveau</span><span class="lbl">La page la plus différenciante</span></li></ul>
+      </li>
+      <li>/nos-realisations/ <span class="st keep">URL gardée</span><span class="lbl">Portfolio filtrable, 250 à 500 mots par fiche</span>
+        <ul><li>/&lt;chantier&gt;/ <span class="st redo">301</span><span class="lbl">14 anciennes fiches et actualités rangées ici</span></li></ul>
+      </li>
+      <li>/presentation/ <span class="st keep">URL gardée</span><span class="lbl">Encadré « en bref », groupe Tenera</span></li>
+      <li>/moyens-et-qualifications/ <span class="st redo">301</span><span class="lbl">Ex-ressources humaines et matérielles</span></li>
+      <li>/recrutement/ <span class="st new">nouveau</span><span class="lbl">Offres balisées pour Google Jobs</span></li>
+      <li>/contact-et-devis/ <span class="st keep">URL gardée</span><span class="lbl">Envoi de plans et de CCTP</span></li>
+      <li>/documentation/ <span class="st keep">URL gardée</span><span class="lbl">Attestations à jour</span></li>
+    </ul>
+  </div>
+</section>
+
+<section id="geo">
+  <div class="cable" aria-hidden="true"><span class="br"></span><span class="bk"></span><span class="gr"></span><span class="bl"></span><span class="gy"></span></div>
+  <div class="head">
+    <span class="marker"><i style="background:var(--tenera)"></i>GEO · visibilité dans les IA</span>
+    <h2>Être cité par ChatGPT, Perplexity ou Copilot, c'est d'abord être identifié sans ambiguïté</h2>
+    <p class="prose">Une IA cite une entreprise quand elle peut la reconnaître et recouper ce qu'elle lit à plusieurs endroits. Les deux noms ont des homonymes forts&nbsp;:</p>
+  </div>
+  <div class="homonyms" aria-label="Homonymes à écarter">
+    <span>Stena Line</span><span>Stena AB</span><span>Stena Recycling</span><span>Tenera Environmental</span><span>Tenera (Berlin)</span><span>Tenergie</span>
+  </div>
+  <div class="identity">
+    <p class="prose">La réponse&nbsp;: une phrase d'identité fixe par entité, recopiée mot pour mot sur le site, dans les données structurées, sur LinkedIn, Google Business Profile, Qualifelec et les annuaires. Ne jamais écrire « Stena » seul dans un titre.</p>
+    <blockquote class="t"><span class="who">Tenera</span>Tenera est un groupe français qui réunit des entreprises spécialisées de l'électricité et de la lumière&nbsp;: Stena (électricité industrielle et navale, depuis 2005) et LC Concept (éclairage architectural, depuis 2007).</blockquote>
+    <blockquote class="s"><span class="who">Stena</span>Stena est une entreprise de Loire-Atlantique, spécialisée depuis 2005 dans la sous-traitance en électricité pour les grands installateurs&nbsp;: pose de chemins de câbles, tirage de câbles, pose et raccordement d'équipements. Stena fait partie du groupe Tenera.</blockquote>
+  </div>
+  <div class="levers">
+    <div class="lever">
+      <span class="weight">Sur les sites</span>
+      <h3>Des faits citables</h3>
+      <ul><li>Une idée par phrase, avec un chiffre, un nom ou une norme</li><li>Chiffres et clients en texte, jamais seulement en image ou en PDF</li><li>Une FAQ par page métier et secteur</li><li>Tableaux de moyens et de qualifications datés</li></ul>
+    </div>
+    <div class="lever">
+      <span class="weight">Technique</span>
+      <h3>Lisible par les robots</h3>
+      <ul><li>Robots IA explicitement autorisés dans <code>robots.txt</code></li><li>Bing Webmaster Tools et IndexNow (Copilot s'appuie sur Bing)</li><li>Graphe <code>Organization</code> : Tenera <code>subOrganization</code> → Stena, Stena <code>parentOrganization</code> → Tenera</li><li><code>JobPosting</code> sur chaque offre</li></ul>
+    </div>
+    <div class="lever strong">
+      <span class="weight">Hors site · levier le plus fort</span>
+      <h3>Exister ailleurs</h3>
+      <ul><li>Communiqué de lancement du groupe, puis un à chaque rachat</li><li>Pages LinkedIn reliées entre elles</li><li>Google Business Profile de Stena</li><li>Annuaire Qualifelec, Neopolia, annuaires B2B, avec les mêmes coordonnées</li></ul>
+    </div>
+  </div>
+  <div class="example">
+    <div class="no"><span class="verdict">Ne se cite pas</span><p>« Nous disposons de moyens importants et d'équipes expérimentées. »</p></div>
+    <div class="yes"><span class="verdict">Se cite seul</span><p>« Stena sertit des câbles jusqu'à 630&nbsp;mm², en cuivre ou en aluminium, avec des presses de 12 et 20&nbsp;tonnes. »</p></div>
+  </div>
+</section>
+
+<section id="migration">
+  <div class="cable" aria-hidden="true"><span class="br"></span><span class="bk"></span><span class="gr"></span><span class="bl"></span><span class="gy"></span></div>
+  <div class="head">
+    <span class="marker"><i style="background:var(--stena)"></i>Migration stena.fr</span>
+    <h2>31 URL, chacune avec sa destination, avant toute bascule</h2>
+    <p class="prose">11 pages gardent leur URL. Les autres sont redirigées en 301 vers la page la plus proche en contenu, jamais vers l'accueil par défaut. Extrait&nbsp;:</p>
+  </div>
+  <div class="tbl">
+    <table>
+      <thead><tr><th>URL actuelle</th><th>Destination</th><th>Note</th></tr></thead>
+      <tbody>
+        <tr><td><span class="mono">/ressources-humaines-et-materielles/</span></td><td><span class="mono">/moyens-et-qualifications/</span></td><td>Contenu repris et mis à jour</td></tr>
+        <tr><td><span class="mono">/bateau-marion-dufrene-dunkerque-59/</span></td><td><span class="mono">/nos-realisations/navire-marion-dufresne-dunkerque/</span></td><td>Slug corrigé</td></tr>
+        <tr><td><span class="mono">/juret-dun-ephad-mauron-56/</span></td><td><span class="mono">/nos-realisations/ehpad-mauron/</span></td><td>« EPHAD » corrigé</td></tr>
+        <tr><td><span class="mono">/demarrage-travaux-roland-garros/</span></td><td><span class="mono">/nos-realisations/roland-garros-batiment-tv-paris/</span></td><td>Actualité devenue fiche chantier</td></tr>
+        <tr><td><span class="mono">/les-chiffres/</span></td><td><span class="mono">/presentation/</span></td><td>Page vide</td></tr>
+        <tr><td><span class="mono">/caroussel/</span></td><td><span class="mono">/nos-realisations/</span></td><td>Bloc technique WordPress</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section id="feuille-de-route">
+  <div class="cable" aria-hidden="true"><span class="br"></span><span class="bk"></span><span class="gr"></span><span class="bl"></span><span class="gy"></span></div>
+  <div class="head">
+    <span class="marker"><i></i>Feuille de route</span>
+    <h2>Le socle d'abord, les filiales ensuite</h2>
+  </div>
+  <div class="road">
+    <div class="phase"><span class="when">Maintenant</span><h3>Préparer</h3><ul><li>Trancher le nom et le domaine</li><li>Récupérer la Search Console de stena.fr, ou la créer</li><li>Collecter chantiers récents, chiffres et qualifications</li><li>Tester les IA pour avoir un point zéro</li></ul></div>
+    <div class="phase"><span class="when">Phase 1</span><h3>Lancer Tenera</h3><ul><li>Identité, site, données structurées</li><li>Pages LinkedIn reliées</li><li>Communiqué de lancement</li><li>Premier article du blog</li></ul></div>
+    <div class="phase"><span class="when">Phase 2</span><h3>Basculer Stena</h3><ul><li>Plan de redirections appliqué</li><li>22 fiches chantier réécrites, priorité aux 8 plus fortes</li><li>Google Business Profile et Qualifelec à jour</li><li>Sitemaps Google, Bing, IndexNow</li></ul></div>
+    <div class="phase"><span class="when">Chaque mois</span><h3>Faire vivre</h3><ul><li>Une fiche chantier Stena</li><li>Un article Tenera</li><li>Suivi Search Console</li><li>Les 8 questions posées aux IA</li></ul></div>
+  </div>
+  <div class="head"><h3>Les questions posées chaque mois aux IA</h3><p class="prose">On note si Stena ou Tenera apparaît, avec quelle description et quelle source, et sans confusion avec Stena Line.</p></div>
+  <ol class="prompts">
+    <li>Quelle entreprise peut sous-traiter du tirage de câbles en Loire-Atlantique&nbsp;?</li>
+    <li>Sous-traitant électricité pour chantier naval à Saint-Nazaire&nbsp;?</li>
+    <li>Entreprise d'électricité habilitée amiante sous-section 4 dans l'Ouest&nbsp;?</li>
+    <li>Qui est Stena à Missillac&nbsp;?</li>
+    <li>Qu'est-ce que le groupe Tenera&nbsp;?</li>
+    <li>Quelles entreprises font partie du groupe Tenera&nbsp;?</li>
+    <li>Je veux vendre mon entreprise d'électricité dans les Pays de la Loire, quels repreneurs&nbsp;?</li>
+    <li>Sous-traitant pour raccordement de câbles de 630&nbsp;mm²&nbsp;?</li>
+  </ol>
+</section>
+
+<section id="decisions">
+  <div class="cable" aria-hidden="true"><span class="br"></span><span class="bk"></span><span class="gr"></span><span class="bl"></span><span class="gy"></span></div>
+  <div class="head">
+    <span class="marker"><i style="background:var(--warn)"></i>À trancher avec le client</span>
+    <h2>Quatre décisions qui conditionnent tout le reste</h2>
+  </div>
+  <div class="decide">
+    <div><span class="flag">Nom</span><p><b>« Tenera » ou « Ténerra »&nbsp;?</b> Deux graphies font deux entités pour les moteurs et les IA. Le nom choisi doit être le même partout&nbsp;: Kbis, domaine, LinkedIn, communiqués.</p></div>
+    <div><span class="flag">Domaine</span><p><b>Quel domaine pour Tenera&nbsp;?</b> tenera.com est pris par une société américaine. Un .fr est recommandé&nbsp;: activité et acheteurs sont en France.</p></div>
+    <div><span class="flag">Adresse</span><p><b>Où est Stena aujourd'hui&nbsp;?</b> Le site indique Missillac, le répertoire Sirene mentionne un établissement fermé à Chaumes-en-Retz. Une adresse incohérente brouille le SEO local et les réponses des IA.</p></div>
+    <div><span class="flag">Contenus</span><p><b>Quels chantiers depuis 2017, et quels clients peut-on nommer&nbsp;?</b> Rien de récent n'est en ligne. Sans chantier naval récent, la page secteur naval ne sort pas.</p></div>
+  </div>
+</section>
+
+<footer>
+  <div class="cable" aria-hidden="true"><span class="br"></span><span class="bk"></span><span class="gr"></span><span class="bl"></span><span class="gy"></span></div>
+  <p>Requêtes visées&nbsp;: hypothèses de travail, aucun volume mesuré. Données légales à confirmer sur un Kbis récent. Le détail page par page (balises, plans, maillage, données structurées) est dans le dossier de stratégie noddl.</p>
+</footer>
+
+</div>
+
+<script>
+document.querySelectorAll('.switch').forEach(function (group) {
+  var section = group.closest('section');
+  group.addEventListener('click', function (e) {
+    var btn = e.target.closest('button[data-site]');
+    if (!btn) return;
+    var site = btn.dataset.site;
+    group.querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', String(b === btn)); });
+    section.querySelectorAll('[data-panel]').forEach(function (p) { p.hidden = p.dataset.panel !== site; });
+  });
+});
+</script>
